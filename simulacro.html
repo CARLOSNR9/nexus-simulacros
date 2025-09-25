@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nexus - Simulacro</title>
+    <link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+
+    <div class="container">
+        <div class="card simulacro-card">
+            <div id="quizHeader" class="quiz-header">
+                <h2 id="quizTitle"></h2>
+                <div class="header-info">
+                    <span id="timer">Tiempo: 00:00</span>
+                    <span id="questionCounter">Pregunta: 0/50</span>
+                </div>
+            </div>
+            
+            <div id="quizContainer" class="quiz-container">
+                <div class="question-box">
+                    <p id="questionText"></p>
+                    <div id="optionsContainer" class="options-container">
+                        </div>
+                </div>
+
+                <div id="navigationButtons" class="navigation-buttons">
+                    <button id="nextButton" class="next-button" style="display: none;">Siguiente Pregunta</button>
+                    <button id="endButton" class="end-button" style="display: none;">Finalizar Simulacro</button>
+                </div>
+            </div>
+
+            <div id="feedbackContainer" class="feedback-container" style="display: none;">
+                <p id="feedbackTitle"></p>
+                <p id="feedbackText"></p>
+                <button id="feedbackNextButton" class="next-button">Siguiente Pregunta</button>
+            </div>
+            
+            <div id="resultsContainer" class="results-container" style="display: none;">
+                <h3 class="results-title">Resultados del Simulacro</h3>
+                <p id="finalScore"></p>
+                <p id="finalTime"></p>
+                <a href="temas.html" class="back-to-topics-link">Volver a los temas</a>
+            </div>
+
+        </div>
+    </div>
+
+    <script src="assets/js/main.js"></script>
+</body>
+</html>

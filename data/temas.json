@@ -1,0 +1,183 @@
+[
+    {
+        "id": "shock",
+        "title": "Enfoque inicial del paciente con shock",
+        "description": "50 preguntas con 4 opciones de respuesta. Calificación de 0 a 100.",
+        "dataFile": "data/shock.json"
+    },
+    {
+        "id": "tunel-del-carpo",
+        "title": "Síndrome del túnel del carpo: diagnóstico y tratamiento",
+        "description": "50 preguntas con 4 opciones de respuesta. Calificación de 0 a 100.",
+        "dataFile": "data/tunel-del-carpo.json",
+        "locked": true
+    },
+    {
+        "id": "anestesia-regional",
+        "title": "Anestesia regional para médicos generales",
+        "description": "50 preguntas con 4 opciones de respuesta. Calificación de 0 a 100.",
+        "dataFile": "data/anestesia-regional.json",
+        "locked": true
+    },
+    {
+        "id": "revisiones-metaanalisis",
+        "title": "Revisiones sistemáticas y metaanálisis",
+        "description": "50 preguntas con 4 opciones de respuesta. Calificación de 0 a 100.",
+        "dataFile": "data/revisiones-metaanalisis.json",
+        "locked": true
+    },
+    {
+        "id": "liquidos-pediatria",
+        "title": "Uso de líquidos en situaciones especiales (pediatría)",
+        "description": "50 preguntas con 4 opciones de respuesta. Calificación de 0 a 100.",
+        "dataFile": "data/liquidos-pediatria.json",
+        "locked": true
+    },
+    {
+        "id": "diabetes-embarazo",
+        "title": "Enfoque de la paciente obstétrica con diabetes",
+        "description": "50 preguntas con 4 opciones de respuesta. Calificación de 0 a 100.",
+        "dataFile": "data/diabetes-embarazo.json",
+        "locked": true
+    },
+    {
+        "id": "falla-cardiaca",
+        "title": "Enfoque del paciente con falla cardíaca",
+        "description": "50 preguntas con 4 opciones de respuesta. Calificación de 0 a 100.",
+        "dataFile": "data/falla-cardiaca.json",
+        "locked": true
+    },
+    {
+        "id": "ojo-rojo",
+        "title": "Enfoque del paciente que consulta por ojo rojo",
+        "description": "50 preguntas con 4 opciones de respuesta. Calificación de 0 a 100.",
+        "dataFile": "data/ojo-rojo.json",
+        "locked": true
+    },
+    {
+        "id": "delirio-uci",
+        "title": "Enfoque del paciente con delirio en cuidados intensivos",
+        "description": "50 preguntas con 4 opciones de respuesta. Calificación de 0 a 100.",
+        "dataFile": "data/delirio-uci.json",
+        "locked": true
+    },
+    {
+        "id": "acv-isquemico",
+        "title": "Enfoque del paciente con accidente cerebrovascular isquémico (ACV)",
+        "description": "50 preguntas con 4 opciones de respuesta. Calificación de 0 a 100.",
+        "dataFile": "data/acv-isquemico.json",
+        "locked": true
+    },
+    {
+        "id": "oncologia-generalidades",
+        "title": "Contextualización y generalidades del cáncer y la patología",
+        "description": "50 preguntas con 4 opciones de respuesta. Calificación de 0 a 100.",
+        "dataFile": "data/oncologia-generalidades.json",
+        "locked": true
+    },
+    {
+        "id": "tumor-piel",
+        "title": "Enfoque diagnóstico del paciente con tumor en la piel",
+        "description": "50 preguntas con 4 opciones de respuesta. Calificación de 0 a 100.",
+        "dataFile": "data/tumor-piel.json",
+        "locked": true
+    },
+    {
+        "id": "hernias",
+        "title": "Enfoque de las hernias de pared abdominal",
+        "description": "50 preguntas con 4 opciones de respuesta. Calificación de 0 a 100.",
+        "dataFile": "data/hernias.json",
+        "locked": true
+    },
+    {
+        "id": "preeclampsia",
+        "title": "Enfoque de la paciente con preeclampsia",
+        "description": "50 preguntas con 4 opciones de respuesta. Calificación de 0 a 100.",
+        "dataFile": "data/preeclampsia.json",
+        "locked": true
+    },
+    {
+        "id": "enfermedad-diverticular",
+        "title": "Enfoque del paciente con enfermedad diverticular",
+        "description": "50 preguntas con 4 opciones de respuesta. Calificación de 0 a 100.",
+        "dataFile": "data/enfermedad-diverticular.json",
+        "locked": true
+    },
+    {
+        "id": "infeccion-tb",
+        "title": "Actualización en el abordaje y manejo de la infección por TB",
+        "description": "50 preguntas con 4 opciones de respuesta. Calificación de 0 a 100.",
+        "dataFile": "data/infeccion-tb.json",
+        "locked": true
+    },
+    {
+        "id": "uroanalisis",
+        "title": "Diagnóstico de patologías renales basado en el uroanálisis",
+        "description": "50 preguntas con 4 opciones de respuesta. Calificación de 0 a 100.",
+        "dataFile": "data/uroanalisis.json",
+        "locked": true
+    },
+    {
+        "id": "manejo-opioides",
+        "title": "Manejo de opioides en el primer nivel de atención",
+        "description": "50 preguntas con 4 opciones de respuesta. Calificación de 0 a 100.",
+        "dataFile": "data/manejo-opioides.json",
+        "locked": true
+    },
+    {
+        "id": "enfermedad-articular",
+        "title": "Enfoque del paciente con enfermedad articular",
+        "description": "50 preguntas con 4 opciones de respuesta. Calificación de 0 a 100.",
+        "dataFile": "data/enfermedad-articular.json",
+        "locked": true
+    },
+    {
+        "id": "prevencion-enfermedades",
+        "title": "Prevención de las enfermedades no transmisibles",
+        "description": "50 preguntas con 4 opciones de respuesta. Calificación de 0 a 100.",
+        "dataFile": "data/prevencion-enfermedades.json",
+        "locked": true
+    },
+    {
+        "id": "tromboembolia-pulmonar",
+        "title": "Tromboembolia pulmonar aguda: análisis radiológico",
+        "description": "50 preguntas con 4 opciones de respuesta. Calificación de 0 a 100.",
+        "dataFile": "data/tromboembolia-pulmonar.json",
+        "locked": true
+    },
+    {
+        "id": "eritema",
+        "title": "Enfoque del paciente con eritema y descamación",
+        "description": "50 preguntas con 4 opciones de respuesta. Calificación de 0 a 100.",
+        "dataFile": "data/eritema.json",
+        "locked": true
+    },
+    {
+        "id": "toxicidad-oncologia",
+        "title": "Manejo de la toxicidad de las nuevas terapias oncológicas",
+        "description": "50 preguntas con 4 opciones de respuesta. Calificación de 0 a 100.",
+        "dataFile": "data/toxicidad-oncologia.json",
+        "locked": true
+    },
+    {
+        "id": "terapia-hormonal",
+        "title": "Indicaciones de terapia hormonal en la menopausia",
+        "description": "50 preguntas con 4 opciones de respuesta. Calificación de 0 a 100.",
+        "dataFile": "data/terapia-hormonal.json",
+        "locked": true
+    },
+    {
+        "id": "hipertension",
+        "title": "Enfoque de la presión arterial elevada y la hipertensión",
+        "description": "50 preguntas con 4 opciones de respuesta. Calificación de 0 a 100.",
+        "dataFile": "data/hipertension.json",
+        "locked": true
+    },
+    {
+        "id": "falla-renal-aguda",
+        "title": "Falla renal aguda",
+        "description": "50 preguntas con 4 opciones de respuesta. Calificación de 0 a 100.",
+        "dataFile": "data/falla-renal-aguda.json",
+        "locked": true
+    }
+]

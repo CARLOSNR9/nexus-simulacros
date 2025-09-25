@@ -1,0 +1,810 @@
+[
+    {
+        "question": "Según el documento, ¿cuál es el signo cardinal del shock circulatorio que, al ajustarse en pacientes hipertensos conocidos, se define por una disminución significativa de su valor habitual?",
+        "options": [
+            { "text": "Hipotensión con presión sistólica < 100 mmHg.", "isCorrect": false },
+            { "text": "Hipotensión con presión sistólica < 90 mmHg.", "isCorrect": true },
+            { "text": "Hipotensión con presión media < 70 mmHg.", "isCorrect": false },
+            { "text": "Presión venosa central elevada.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! El signo cardinal es la hipotensión, definida por una presión sistólica < 90 mmHg o una presión media < 65 mmHg, ajustándose para hipertensos conocidos con una disminución de ≥30 mmHg de su sistólica habitual.",
+            "incorrect": "Incorrecto. La respuesta correcta es la hipotensión con presión sistólica < 90 mmHg o presión media < 65 mmHg. Para pacientes hipertensos, se considera una disminución de ≥30 mmHg de su sistólica habitual. Este es el signo clave para el diagnóstico de shock circulatorio."
+        }
+    },
+    {
+        "question": "Un paciente llega a urgencias con shock. El médico usa una ecocardiografía para evaluar el corazón. ¿Cuál de los siguientes no es un parámetro que se evalúe comúnmente con este método para determinar el perfil hemodinámico en el shock?",
+        "options": [
+            { "text": "Presión de llenado ventricular.", "isCorrect": false },
+            { "text": "Función cardíaca y fracción de eyección.", "isCorrect": false },
+            { "text": "Integridad estructural de válvulas y septos.", "isCorrect": false },
+            { "text": "Volumen sanguíneo total.", "isCorrect": true }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! La ecocardiografía es el método de referencia para evaluar las presiones de llenado, la función cardíaca y la integridad estructural, pero no cuantifica el volumen sanguíneo total.",
+            "incorrect": "Incorrecto. La ecocardiografía es el método de referencia para evaluar las presiones de llenado, la función cardíaca, y la integridad estructural del corazón, como válvulas y septos. Sin embargo, no cuantifica el volumen sanguíneo total. Para esto, se usan parámetros como la PVC o la variación del volumen sistólico."
+        }
+    },
+    {
+        "question": "Un paciente con shock presenta la piel fría, moteada y con un llenado capilar lento. Según el documento, ¿a qué órgano principal se asocian estos signos de hipoperfusión?",
+        "options": [
+            { "text": "Cerebro.", "isCorrect": false },
+            { "text": "Riñón.", "isCorrect": false },
+            { "text": "Piel.", "isCorrect": true },
+            { "text": "Corazón.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! Los signos clínicos de hipoperfusión en la piel son: fría, moteada, con llenado capilar lento.",
+            "incorrect": "Incorrecto. Los signos de hipoperfusión en la piel son la piel fría, moteada y con llenado capilar lento. Los signos renales serían la diuresis reducida y los cerebrales, la alteración del estado mental."
+        }
+    },
+    {
+        "question": "En un paciente con shock, ¿cuál de los siguientes biomarcadores es fundamental y se correlaciona con la gravedad clínica y el pronóstico, indicando un metabolismo anaeróbico celular?",
+        "options": [
+            { "text": "Creatinina.", "isCorrect": false },
+            { "text": "Presión arterial media.", "isCorrect": false },
+            { "text": "Ácido láctico.", "isCorrect": true },
+            { "text": "Troponina.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! El ácido láctico es el biomarcador fundamental. Un valor mayor de 2 meq/ltro indica hipoperfusión secundaria al metabolismo anaeróbico y se correlaciona con la gravedad clínica y el pronóstico.",
+            "incorrect": "Incorrecto. El ácido láctico (lactato) es el biomarcador clave. Los valores mayores de 2 meq/ltro indican hipoperfusión secundaria al metabolismo anaeróbico celular, y su monitoreo es esencial para evaluar la efectividad de las intervenciones."
+        }
+    },
+    {
+        "question": "Según la clasificación fisiopatológica clásica, ¿cuál tipo de shock se caracteriza por un gasto cardíaco aumentado, resistencia vascular sistémica baja y presiones de llenado normales o disminuidas?",
+        "options": [
+            { "text": "Cardiogénico.", "isCorrect": false },
+            { "text": "Hipovolémico.", "isCorrect": false },
+            { "text": "Séptico (distributivo).", "isCorrect": true },
+            { "text": "Obstructivo.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! El shock séptico, que es el más frecuente, se caracteriza por un gasto cardíaco aumentado y una resistencia vascular sistémica baja, debido a la vasodilatación.",
+            "incorrect": "Incorrecto. El shock séptico (distributivo) es el que presenta un perfil hiperdinámico, con gasto cardíaco elevado y una resistencia vascular sistémica baja, a diferencia del resto, que son hipodinámicos."
+        }
+    },
+    {
+        "question": "Un paciente con shock presenta presiones de llenado elevadas y un gasto cardíaco bajo. ¿Qué tipo de shock es más probable?",
+        "options": [
+            { "text": "Hipovolémico.", "isCorrect": false },
+            { "text": "Séptico.", "isCorrect": false },
+            { "text": "Cardiogénico.", "isCorrect": true },
+            { "text": "Obstructivo.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! El shock cardiogénico se caracteriza por presiones de llenado elevadas y bajo gasto cardíaco. Es la segunda causa más frecuente de shock.",
+            "incorrect": "Incorrecto. El perfil hemodinámico de presiones de llenado elevadas y bajo gasto cardíaco es característico del shock cardiogénico, que se debe a una falla en la bomba cardíaca."
+        }
+    },
+    {
+        "question": "¿Cuál de los siguientes no forma parte de los cuatro tipos de shock según la clasificación clásica?",
+        "options": [
+            { "text": "Shock séptico.", "isCorrect": false },
+            { "text": "Shock neurogénico.", "isCorrect": true },
+            { "text": "Shock hipovolémico.", "isCorrect": false },
+            { "text": "Shock obstructivo.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! El shock neurogénico es un subtipo de shock distributivo, pero no es una de las cuatro categorías clásicas principales, que son: séptico, cardiogénico, hipovolémico y obstructivo.",
+            "incorrect": "Incorrecto. El shock neurogénico es una forma de shock distributivo, pero las cuatro categorías clásicas son: séptico, cardiogénico, hipovolémico y obstructivo. El shock neurogénico no es una de las categorías principales de la clasificación clásica."
+        }
+    },
+    {
+        "question": "El documento menciona que la ecocardiografía es el método de referencia para evaluar: I. Presiones de llenado. II. Función cardíaca. III. Integridad estructural del corazón. ¿Cuáles son correctas?",
+        "options": [
+            { "text": "Solo I y II.", "isCorrect": false },
+            { "text": "Solo II y III.", "isCorrect": false },
+            { "text": "Solo I.", "isCorrect": false },
+            { "text": "I, II y III.", "isCorrect": true }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! La ecocardiografía es el método de referencia para evaluar los tres aspectos: presiones de llenado, función cardíaca e integridad estructural del corazón.",
+            "incorrect": "Incorrecto. La ecocardiografía es el método de referencia para evaluar las presiones de llenado, la función cardíaca, y la integridad estructural (válvulas, septos, etc.), por lo tanto, las tres afirmaciones son correctas."
+        }
+    },
+    {
+        "question": "En el monitoreo del shock, ¿qué indica un valor de lactato mayor a 2 meq/ltro?",
+        "options": [
+            { "text": "Un buen pronóstico del paciente.", "isCorrect": false },
+            { "text": "Hipoperfusión secundaria a metabolismo anaeróbico.", "isCorrect": true },
+            { "text": "Una perfusión tisular adecuada.", "isCorrect": false },
+            { "text": "Hiperperfusión sistémica.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! Un valor de lactato > 2 meq/ltro es un indicador clave de hipoperfusión, que resulta del metabolismo anaeróbico celular, y se asocia directamente con la gravedad clínica.",
+            "incorrect": "Incorrecto. Un valor de lactato > 2 meq/ltro es un marcador de hipoperfusión. Este aumento es un indicador de que las células están pasando a un metabolismo anaeróbico debido a la falta de oxígeno, lo que se correlaciona con la gravedad del shock."
+        }
+    },
+    {
+        "question": "Para evaluar la función cardíaca en pacientes con shock, el ultrasonido (POCUS) mide la integral Velocidad-Tiempo Transaórtico (TVI) en la región:",
+        "options": [
+            { "text": "Subvalvular aórtica.", "isCorrect": true },
+            { "text": "Anillo mitral.", "isCorrect": false },
+            { "text": "Aurícula izquierda.", "isCorrect": false },
+            { "text": "Ventrículo derecho.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! El TVI (Integral Velocidad-Tiempo Transaórtico) se mide en la región subvalvular aórtica para evaluar el volumen sistólico y la función cardíaca.",
+            "incorrect": "Incorrecto. La medición de la TVI para evaluar el volumen sistólico se realiza específicamente en la región subvalvular aórtica, ya que el flujo sanguíneo que pasa por esta región representa el gasto cardíaco. Es una medida indirecta para poder valorar el gasto cardíaco."
+        }
+    },
+    {
+        "question": "En el contexto de shock, un valor $E/E'$ menor de 8 predice:",
+        "options": [
+            { "text": "Una baja presión de llenado del ventrículo izquierdo.", "isCorrect": true },
+            { "text": "Una alta presión de llenado del ventrículo izquierdo.", "isCorrect": false },
+            { "text": "Una baja presión de llenado del ventrículo derecho.", "isCorrect": false },
+            { "text": "Una alta presión de llenado del ventrículo derecho.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! Un valor de $E/E'$ menor de 8 es un predictor de una baja presión de llenado del ventrículo izquierdo.",
+            "incorrect": "Incorrecto. El valor $E/E'$ es un parámetro ecocardiográfico utilizado para estimar las presiones de llenado del ventrículo izquierdo. Un valor menor de 8 indica una baja presión de llenado, mientras que un valor mayor de 15 indica una presión alta."
+        }
+    },
+    {
+        "question": "De los siguientes, ¿cuál es el tipo de shock menos frecuente según la epidemiología presentada en el documento?",
+        "options": [
+            { "text": "Cardiogénico.", "isCorrect": false },
+            { "text": "Hipovolémico.", "isCorrect": false },
+            { "text": "Séptico.", "isCorrect": false },
+            { "text": "Los datos no están disponibles.", "isCorrect": true }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! El documento no especifica el porcentaje del shock obstructivo, sin embargo, menciona el shock séptico (67%), el shock cardiogénico (17%) y el hipovolémico (16%).",
+            "incorrect": "Incorrecto. El documento no proporciona la incidencia del shock obstructivo, aunque sí menciona que el shock séptico es el principal y proporciona los porcentajes de incidencia del shock cardiogénico y el hipovolémico. Sin embargo, no proporciona los datos para el shock obstructivo."
+        }
+    },
+    {
+        "question": "El documento menciona que todos los tipos de shock pueden agruparse en dos categorías principales. ¿Cuáles son?",
+        "options": [
+            { "text": "Shock hiperdinámico y shock cardiogénico.", "isCorrect": false },
+            { "text": "Shock hipodinámico y shock hiperdinámico.", "isCorrect": true },
+            { "text": "Shock obstructivo y shock distributivo.", "isCorrect": false },
+            { "text": "Shock séptico y shock no séptico.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! Todos los tipos de shock se pueden agrupar en dos grandes categorías según su perfil hemodinámico: shock hipodinámico y shock hiperdinámico.",
+            "incorrect": "Incorrecto. La clasificación de los tipos de shock según su perfil hemodinámico los agrupa en shock hipodinámico (que incluye el cardiogénico, hipovolémico y obstructivo) y shock hiperdinámico (que incluye la sepsis, shock anafiláctico, intoxicaciones y shock medular)."
+        }
+    },
+    {
+        "question": "En el manejo inicial del shock, el uso del ultrasonido a pie de cama (POCUS) permite valorar de manera rápida y precisa:",
+        "options": [
+            { "text": "La presión de llenado y la resistencia vascular periférica.", "isCorrect": false },
+            { "text": "La función cardíaca y la presión de llenado.", "isCorrect": false },
+            { "text": "La resistencia vascular periférica y la función cardíaca.", "isCorrect": false },
+            { "text": "La presión de llenado, la función cardíaca y la resistencia vascular periférica.", "isCorrect": true }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! El POCUS es una herramienta valiosa que permite valorar de manera rápida y precisa la presión de llenado, la función cardíaca y la resistencia vascular periférica, ayudando a seleccionar la terapia inicial más adecuada.",
+            "incorrect": "Incorrecto. El ultrasonido a pie de cama (POCUS) permite valorar las tres variables: la presión de llenado, la función cardíaca y la resistencia vascular periférica. Esto permite al médico seleccionar de manera oportuna la terapia inicial más indicada."
+        }
+    },
+    {
+        "question": "¿Cuál es la principal limitación de las mediciones dinámicas como la variación de la presión de pulso (PPV) para evaluar la respuesta a fluidos?",
+        "options": [
+            { "text": "Requieren el uso de biomarcadores invasivos.", "isCorrect": false },
+            { "text": "Solo se pueden interpretar en pacientes bajo ventilación mecánica controlada, sedados y sin esfuerzo respiratorio espontáneo.", "isCorrect": true },
+            { "text": "Son mediciones estáticas que no reflejan la volemia en tiempo real.", "isCorrect": false },
+            { "text": "No tienen correlación clínica con el gasto cardíaco.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! La principal limitación de la PPV y el SVV es que su interpretación solo es fiable en pacientes que están sedados, sin esfuerzo respiratorio y bajo ventilación mecánica controlada, una situación que no siempre se encuentra en el paciente crítico.",
+            "incorrect": "Incorrecto. La principal limitación de la variación de la presión de pulso (PPV) y la variación del volumen sistólico (SVV) es que solo se pueden interpretar de manera confiable en pacientes que están sedados, sin respiración espontánea y bajo ventilación mecánica controlada. Si el paciente realiza esfuerzos respiratorios, las mediciones no son confiables."
+        }
+    },
+    {
+        "question": "En el shock cardiogénico, el documento indica que la ecocardiografía es el método de referencia. ¿Qué evaluación se podría realizar en este caso?",
+        "options": [
+            { "text": "Función cardíaca.", "isCorrect": true },
+            { "text": "Presiones de llenado.", "isCorrect": false },
+            { "text": "Integridad estructural del corazón.", "isCorrect": false },
+            { "text": "Las tres opciones son correctas.", "isCorrect": true }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! En el shock cardiogénico, la ecocardiografía es el método de referencia para evaluar las presiones de llenado, la función cardíaca y la integridad estructural del corazón. Por lo tanto, las tres opciones son correctas.",
+            "incorrect": "Incorrecto. La ecocardiografía permite la evaluación de las tres opciones. Se considera el método de referencia para evaluar la función cardíaca, las presiones de llenado y la integridad estructural del corazón en el shock cardiogénico."
+        }
+    },
+    {
+        "question": "¿Cuál de los siguientes es un signo clínico de hipoperfusión cerebral?",
+        "options": [
+            { "text": "Piel fría.", "isCorrect": false },
+            { "text": "Diuresis reducida.", "isCorrect": false },
+            { "text": "Alteración del estado mental.", "isCorrect": true },
+            { "text": "Taquicardia.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! Las alteraciones del estado mental, como la confusión y la somnolencia, son signos clínicos de hipoperfusión cerebral en el shock.",
+            "incorrect": "Incorrecto. La alteración del estado mental, que puede manifestarse como confusión o somnolencia, es un signo de hipoperfusión a nivel cerebral. La piel fría y la diuresis reducida son signos de hipoperfusión en la piel y el riñón, respectivamente."
+        }
+    },
+    {
+        "question": "El shock se define como la incapacidad del sistema circulatorio para entregar de manera adecuada a las células:",
+        "options": [
+            { "text": "Agua y electrolitos.", "isCorrect": false },
+            { "text": "Nutrientes y oxígeno.", "isCorrect": true },
+            { "text": "Glucosa y dióxido de carbono.", "isCorrect": false },
+            { "text": "Hormonas y proteínas.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! El shock circulatorio se define como la incapacidad del sistema circulatorio para entregar nutrientes y oxígeno de manera adecuada a las células.",
+            "incorrect": "Incorrecto. La definición de shock circulatorio se basa en la incapacidad del sistema para suministrar oxígeno y nutrientes de manera adecuada a los tejidos, lo que conduce a una disfunción orgánica generalizada."
+        }
+    },
+    {
+        "question": "En el shock séptico, ¿qué se recomienda como tratamiento inicial?",
+        "options": [
+            { "text": "Iniciar antibióticos, realizar hemocultivos y buscar un foco de infección.", "isCorrect": true },
+            { "text": "Evaluar biomarcadores cardíacos y realizar ecocardiografía.", "isCorrect": false },
+            { "text": "Identificar pérdidas hemorrágicas o deshidratación severa.", "isCorrect": false },
+            { "text": "Cuantificar Dímero D y realizar una angiografía por tomografía.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! En el shock séptico, la prioridad es buscar el foco de infección, realizar hemocultivos e iniciar la antibióticoterapia dirigida en la primera hora, junto con la reanimación con líquidos y vasopresores.",
+            "incorrect": "Incorrecto. En el shock séptico, la principal causa es una infección. Por lo tanto, el manejo inicial incluye la búsqueda del foco, la obtención de hemocultivos e iniciar el tratamiento con antibióticos lo más pronto posible para frenar la infección."
+        }
+    },
+    {
+        "question": "En el shock hipovolémico, se deben valorar variables como las presiones de llenado, la presión de pulso y la resistencia vascular periférica. ¿Qué herramientas pueden usarse para esta valoración?",
+        "options": [
+            { "text": "Catéter de arteria pulmonar o POCUS.", "isCorrect": false },
+            { "text": "Catéter venoso central o monitoreo hemodinámico mínimamente invasivo.", "isCorrect": false },
+            { "text": "Ultrasonido (POCUS) o catéter venoso central.", "isCorrect": false },
+            { "text": "Todas las opciones son correctas.", "isCorrect": true }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! Las herramientas para evaluar estas variables incluyen el ultrasonido, el catéter venoso central, el monitoreo mínimamente invasivo y el catéter de arteria pulmonar en casos que requieran precisión avanzada.",
+            "incorrect": "Incorrecto. El documento establece que para valorar estas variables, se pueden usar todas las opciones, incluyendo el ultrasonido, el catéter venoso central y el monitoreo hemodinámico mínimamente invasivo. En casos avanzados, se puede usar el catéter de arteria pulmonar."
+        }
+    },
+
+    {
+        "question": "Un hombre de 65 años llega a la sala de emergencias con dificultad para respirar severa, hipotensión (PA 70/40 mmHg) y un ritmo de galope. Su piel está pálida y sudorosa, pero con un llenado capilar rápido. ¿Cuál es el tipo de shock más probable y la principal razón de su presentación clínica?",
+        "options": [
+            { "text": "Shock séptico; causado por una infección sistémica.", "isCorrect": false },
+            { "text": "Shock hipovolémico; causado por una pérdida masiva de fluidos.", "isCorrect": false },
+            { "text": "Shock cardiogénico; causado por una falla en la bomba cardíaca.", "isCorrect": true },
+            { "text": "Shock obstructivo; causado por un neumotórax a tensión.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! La presentación clínica con hipotensión, dificultad para respirar, y un ritmo de galope (S3) en un paciente de 65 años sugiere una falla de bomba, lo que es característico del shock cardiogénico. La piel pálida y la sudoración son signos de un intento de compensación del sistema nervioso simpático, que son consistentes con este tipo de shock.",
+            "incorrect": "Incorrecto. Los signos y síntomas del paciente, como la hipotensión, dificultad respiratoria, y el ritmo de galope, son altamente sugestivos de shock cardiogénico, el cual es causado por una falla en la capacidad del corazón para bombear sangre, en este caso, probablemente debido a un infarto agudo de miocardio."
+        }
+    },
+    {
+        "question": "Un paciente de 40 años, con antecedentes de diabetes, es traído por su familia. El paciente está confuso, con la piel fría, y su tiempo de llenado capilar es de 4 segundos. La presión arterial es de 85/50 mmHg y el pulso 120 lpm. ¿Qué es lo primero que se debe hacer para evaluar la efectividad de la reanimación inicial?",
+        "options": [
+            { "text": "Evaluar la presión venosa central.", "isCorrect": false },
+            { "text": "Medir el gasto cardíaco con un catéter de arteria pulmonar.", "isCorrect": false },
+            { "text": "Administrar un bolo de 10 mL/kg de cristaloides.", "isCorrect": false },
+            { "text": "Disminuir los niveles de lactato y mejorar las cifras de presión arterial.", "isCorrect": true }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! Según el documento, la valoración de la respuesta a la terapia se debe realizar a través de signos clínicos como la mejoría de las cifras de presión arterial y la reducción de los niveles de lactato, que actúan como indicadores subrogados de un aumento en el gasto cardíaco.",
+            "incorrect": "Incorrecto. La respuesta correcta es la disminución de los niveles de lactato y mejorar las cifras de presión arterial. El documento menciona que estos son indicadores subrogados de un aumento en el gasto cardíaco, siendo la forma práctica de valorar la respuesta a la terapia inicial."
+        }
+    },
+    {
+        "question": "Una mujer de 72 años es admitida con un cuadro de neumonía. Después de 24 horas, su estado empeora: está letárgica, su presión arterial es de 80/50 mmHg, y su gasto cardíaco es alto. Su resistencia vascular periférica está muy baja. ¿Qué tipo de shock presenta la paciente y por qué?",
+        "options": [
+            { "text": "Shock obstructivo, por una posible embolia pulmonar.", "isCorrect": false },
+            { "text": "Shock hipovolémico, por la deshidratación de la neumonía.", "isCorrect": false },
+            { "text": "Shock séptico, por la infección y la vasodilatación sistémica.", "isCorrect": true },
+            { "text": "Shock cardiogénico, por una falla en el corazón secundario a la infección.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! El shock séptico es la principal causa de shock, y se caracteriza por una resistencia vascular sistémica baja (vasodilatación) y un gasto cardíaco alto. Los síntomas de la paciente, como el empeoramiento del cuadro de neumonía y el estado de letargo, son consistentes con un cuadro de sepsis que ha evolucionado a shock.",
+            "incorrect": "Incorrecto. La paciente presenta un cuadro de neumonía, y su estado empeora con un perfil hemodinámico de gasto cardíaco alto y resistencia vascular periférica baja. Esta combinación es característica del shock séptico, que es la forma más común de shock distributivo."
+        }
+    },
+    {
+        "question": "Un joven de 25 años llega al servicio de urgencias después de un accidente de motocicleta con una fractura abierta de fémur. Está pálido, taquicárdico y su presión arterial es de 90/60 mmHg. El examen físico revela una diuresis escasa. El biomarcador que te orienta a la severidad clínica en este caso es:",
+        "options": [
+            { "text": "Glucosa.", "isCorrect": false },
+            { "text": "Niveles de hemoglobina y hematocrito.", "isCorrect": false },
+            { "text": "Ácido láctico.", "isCorrect": true },
+            { "text": "Creatinina.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! El ácido láctico (lactato) es un biomarcador fundamental que se correlaciona con la gravedad clínica y el pronóstico del paciente. Un valor mayor de 2 meq/ltro indica hipoperfusión secundaria al metabolismo anaeróbico celular. La hipotensión, taquicardia y diuresis escasa en el contexto de un trauma con hemorragia son signos de shock hipovolémico severo.",
+            "incorrect": "Incorrecto. Aunque los niveles de hemoglobina y hematocrito serán útiles para confirmar la hemorragia, el ácido láctico es un marcador más sensible y correlaciona con la gravedad del shock. Un valor superior a 2 meq/ltro indica que el paciente tiene una hipoperfusión tisular, sin importar la causa, y su monitoreo permite evaluar la efectividad de la reanimación."
+        }
+    },
+    {
+        "question": "Un paciente presenta un cuadro de neumotórax a tensión. El médico sospecha un shock obstructivo. ¿Cuál es el perfil hemodinámico que se esperaría encontrar?",
+        "options": [
+            { "text": "Presiones de llenado bajas, vasoconstricción periférica y gasto cardíaco normal.", "isCorrect": false },
+            { "text": "Gasto cardíaco aumentado, resistencia vascular sistémica baja y presiones de llenado normales.", "isCorrect": false },
+            { "text": "Presiones de llenado elevadas y gasto cardíaco bajo.", "isCorrect": true },
+            { "text": "Gasto cardíaco normal, presiones de llenado elevadas y vasodilatación periférica.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! El shock obstructivo, causado por un neumotórax a tensión, se caracteriza por presiones de llenado altas y bajo gasto cardíaco. Esto se debe a la compresión que impide el llenado adecuado del corazón.",
+            "incorrect": "Incorrecto. El shock obstructivo, como el causado por un neumotórax a tensión o un taponamiento cardíaco, se caracteriza por presiones de llenado altas y bajo gasto cardíaco. La presión sobre las cámaras cardíacas o los grandes vasos impide el retorno venoso y el llenado adecuado del corazón, lo que disminuye el gasto cardíaco."
+        }
+    },
+    {
+        "question": "En un paciente con signos de hipoperfusión, se utiliza una ecocardiografía a pie de cama. Se observa que el área final diastólica del ventrículo derecho (RVEDA) es mayor que la del ventrículo izquierdo (LVEDA). Además, hay movimiento paradójico del septum. ¿Qué sugiere este hallazgo?",
+        "options": [
+            { "text": "Un shock hipovolémico.", "isCorrect": false },
+            { "text": "Un cor pulmonale agudo.", "isCorrect": true },
+            { "text": "Una falla ventricular izquierda.", "isCorrect": false },
+            { "text": "Un shock cardiogénico.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! El documento menciona que una relación RVEDA/LVEDA mayor de 1, junto con movimiento paradójico del septum, sugiere un cor pulmonale agudo, que es un tipo de shock obstructivo causado por un aumento en la postcarga del ventrículo derecho, como en una tromboembolia pulmonar.",
+            "incorrect": "Incorrecto. El hallazgo de un RVEDA/LVEDA mayor a 1 con movimiento paradójico del septum es un signo específico de sobrecarga aguda del ventrículo derecho, lo que sugiere un cor pulmonale agudo, una de las causas de shock obstructivo."
+        }
+    },
+    {
+        "question": "Se está reanimando a un paciente con shock hipovolémico. ¿Cuál de los siguientes no es un parámetro que se usa para evaluar la respuesta a la terapia?",
+        "options": [
+            { "text": "Mejoría de las cifras de presión arterial.", "isCorrect": false },
+            { "text": "Reducción del tiempo de llenado capilar.", "isCorrect": true },
+            { "text": "Aumento de la saturación venosa mixta.", "isCorrect": false },
+            { "text": "Aumento de la frecuencia respiratoria.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! La reducción del tiempo de llenado capilar es un signo de mejoría. El documento no menciona que el aumento de la frecuencia respiratoria sea un indicador de respuesta a la terapia, sino que la mejoría de las cifras de presión arterial, la reducción del tiempo de llenado capilar, la disminución de los niveles de lactato y el aumento de la saturación venosa mixta son parámetros que actúan como indicadores de un aumento en el gasto cardíaco.",
+            "incorrect": "Incorrecto. La reducción del tiempo de llenado capilar es un signo de mejoría en la reanimación. El documento no menciona que el aumento de la frecuencia respiratoria sea un indicador de respuesta a la terapia, sino que es una de las variaciones del requerimiento hídrico. Los indicadores mencionados son: mejoría de la presión arterial, reducción del llenado capilar y disminución del lactato."
+        }
+    },
+    {
+        "question": "Un paciente con shock presenta alteraciones del estado mental. El médico considera la hipoperfusión cerebral como causa. ¿Qué otro signo clínico podría estar presente si la hipoperfusión también afecta al riñón?",
+        "options": [
+            { "text": "Piel moteada.", "isCorrect": false },
+            { "text": "Taquicardia.", "isCorrect": false },
+            { "text": "Diuresis reducida.", "isCorrect": true },
+            { "text": "Gasto cardíaco aumentado.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! La diuresis reducida, con una producción de orina menor a 0.5 cc/kg/hora, es un signo de hipoperfusión renal.",
+            "incorrect": "Incorrecto. La diuresis reducida, definida como una producción de orina menor a 0.5 cc/kg/hora, es un signo de hipoperfusión renal. La piel moteada y la taquicardia son signos de hipoperfusión en otros órganos."
+        }
+    },
+    {
+        "question": "Un paciente de 55 años, conocido por tener un infarto de miocardio, llega a urgencias con hipotensión. ¿Qué biomarcadores cardíacos deben evaluarse de forma seriada para confirmar el diagnóstico de shock cardiogénico?",
+        "options": [
+            { "text": "Ácido láctico y creatinina.", "isCorrect": false },
+            { "text": "Dímero D y biomarcadores de sepsis.", "isCorrect": false },
+            { "text": "PNP y PNB.", "isCorrect": true },
+            { "text": "Troponina T y I.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! El documento menciona que en el shock cardiogénico se deben evaluar biomarcadores cardíacos seriados (PNP, PNB) y realizar una ecocardiografía para el diagnóstico. Las troponinas son un marcador de daño miocárdico, pero los péptidos natriuréticos son los que se usan para la confirmación de la falla cardíaca en el contexto de shock.",
+            "incorrect": "Incorrecto. El documento especifica que en el shock cardiogénico se deben evaluar los biomarcadores cardíacos seriados, como el péptido natriurético auricular (PNP) y el péptido natriurético cerebral (PNB). Estos péptidos se elevan en respuesta al aumento de la presión en las cámaras cardíacas, lo que es característico del shock cardiogénico."
+        }
+    },
+    {
+        "question": "Un paciente con shock cardiogénico es admitido. La ecocardiografía muestra presiones de llenado elevadas. El siguiente paso en la intervención terapéutica para mejorar la perfusión debe considerar:",
+        "options": [
+            { "text": "Administración de grandes volúmenes de líquidos.", "isCorrect": false },
+            { "text": "Inicio de vasopresores o inotrópicos.", "isCorrect": true },
+            { "text": "Drenaje de hemorragias internas.", "isCorrect": false },
+            { "text": "Antibioterapia dirigida de forma inmediata.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! En un shock con presiones de llenado elevadas, la administración de líquidos puede empeorar la situación. La intervención debe enfocarse en el uso de inotrópicos para mejorar la contractilidad y vasopresores para mantener la presión de perfusión.",
+            "incorrect": "Incorrecto. La presencia de presiones de llenado elevadas en el shock cardiogénico sugiere un corazón con sobrecarga de volumen. Por lo tanto, la administración de más líquidos sería perjudicial. En este caso, la intervención terapéutica debe centrarse en el uso de inotrópicos para mejorar la función cardíaca y vasopresores para mantener la presión arterial."
+        }
+    },
+    {
+        "question": "El documento menciona que el shock séptico es el principal representante del shock distributivo. ¿Cuál es su principal característica hemodinámica?",
+        "options": [
+            { "text": "Bajo gasto cardíaco y alta resistencia vascular.", "isCorrect": false },
+            { "text": "Alto gasto cardíaco y baja resistencia vascular.", "isCorrect": true },
+            { "text": "Bajo gasto cardíaco y baja resistencia vascular.", "isCorrect": false },
+            { "text": "Alto gasto cardíaco y alta resistencia vascular.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! El shock distributivo (séptico) se caracteriza por un alto gasto cardíaco y una baja resistencia vascular periférica. Este perfil se debe a la vasodilatación sistémica masiva causada por la respuesta inflamatoria a la infección.",
+            "incorrect": "Incorrecto. La característica distintiva del shock distributivo, como la sepsis, es un estado hiperdinámico. El gasto cardíaco aumenta para compensar la vasodilatación masiva, lo que provoca una baja resistencia vascular sistémica."
+        }
+    },
+    {
+        "question": "Un paciente llega con sospecha de shock, ¿qué tipo de monitoreo se debe enfocar en tres aspectos fundamentales: identificar el tipo de shock, seleccionar la terapia y evaluar la respuesta al tratamiento?",
+        "options": [
+            { "text": "Monitoreo del paciente en estado de shock.", "isCorrect": true },
+            { "text": "Monitoreo de precarga y respuesta a líquidos.", "isCorrect": false },
+            { "text": "Monitoreo de la función y el gasto cardíaco.", "isCorrect": false },
+            { "text": "Monitoreo de la microcirculación.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! El monitoreo del paciente en estado de shock se enfoca en estos tres aspectos para guiar la reanimación de manera integral.",
+            "incorrect": "Incorrecto. El monitoreo del paciente en estado de shock es el que se enfoca en estos tres aspectos: identificar el tipo de shock, seleccionar la terapia requerida y evaluar la respuesta al tratamiento."
+        }
+    },
+    {
+        "question": "Un paciente con sospecha de tromboembolismo pulmonar tiene signos de shock. El documento menciona que tanto el ultrasonido como el catéter de arteria pulmonar son útiles para apoyar el diagnóstico y guiar el manejo clínico. Este paciente presenta un shock de tipo:",
+        "options": [
+            { "text": "Hipovolémico.", "isCorrect": false },
+            { "text": "Séptico.", "isCorrect": false },
+            { "text": "Cardiogénico.", "isCorrect": false },
+            { "text": "Obstructivo.", "isCorrect": true }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! La tromboembolia pulmonar es una causa de shock obstructivo, ya que el coágulo obstruye el flujo sanguíneo de la arteria pulmonar, lo que impide que el corazón bombee sangre a los pulmones y disminuye el gasto cardíaco.",
+            "incorrect": "Incorrecto. La tromboembolia pulmonar es una causa de shock obstructivo. Se produce cuando un coágulo en los pulmones obstruye el flujo sanguíneo, lo que impide que el corazón bombee sangre a los pulmones y disminuye el gasto cardíaco."
+        }
+    },
+    {
+        "question": "En el enfoque inicial del paciente con shock, ¿cuál de los siguientes no se considera un signo subrogado de un aumento en el gasto cardíaco?",
+        "options": [
+            { "text": "Mejoría de las cifras de presión arterial.", "isCorrect": false },
+            { "text": "Reducción del tiempo de llenado capilar.", "isCorrect": false },
+            { "text": "Aumento de la saturación venosa mixta.", "isCorrect": false },
+            { "text": "Aumento de la frecuencia cardíaca.", "isCorrect": true }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! El documento menciona que la mejoría de las cifras de presión arterial, la reducción del tiempo de llenado capilar y el aumento de la saturación venosa mixta son signos subrogados de un aumento en el gasto cardíaco. El aumento de la frecuencia cardíaca no es un signo subrogado.",
+            "incorrect": "Incorrecto. La mejoría de las cifras de presión arterial, la reducción del tiempo de llenado capilar y el aumento de la saturación venosa mixta son signos subrogados de un aumento en el gasto cardíaco. El aumento de la frecuencia cardíaca no es un signo subrogado."
+        }
+    },
+    {
+        "question": "El shock cardiogénico ocurre en el 6-9% de los infartos agudos de miocardio. ¿Cuál es la mortalidad aproximada de este tipo de shock?",
+        "options": [
+            { "text": "Supera el 50%.", "isCorrect": false },
+            { "text": "Aproximadamente el 59%.", "isCorrect": true },
+            { "text": "Aproximadamente el 80%.", "isCorrect": false },
+            { "text": "Aproximadamente el 16%.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! La mortalidad aproximada del shock cardiogénico en el contexto de un infarto agudo de miocardio es del 59%.",
+            "incorrect": "Incorrecto. La mortalidad del shock cardiogénico en el contexto de un infarto agudo de miocardio es del 59%. Es importante tener en cuenta que el shock séptico supera el 50% de mortalidad y puede alcanzar hasta el 80% en algunas series."
+        }
+    },
+    {
+        "question": "Un médico utiliza el ultrasonido a pie de cama (POCUS) para evaluar la función cardíaca en un paciente con shock. Se utiliza la relación E/A. ¿Qué evalúa esta relación?",
+        "options": [
+            { "text": "El flujo transmitral.", "isCorrect": true },
+            { "text": "El gasto cardíaco.", "isCorrect": false },
+            { "text": "La resistencia vascular sistémica.", "isCorrect": false },
+            { "text": "La presión venosa central.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! La relación E/A se utiliza para evaluar el flujo transmitral, que es un indicador de la presión de llenado del ventrículo izquierdo. El flujo pico inicial temprano (onda E) y el flujo tardío diastólico (onda A) permiten calcular la relación E/A.",
+            "incorrect": "Incorrecto. La relación E/A evalúa el flujo transmitral, que es un indicador de la presión de llenado del ventrículo izquierdo."
+        }
+    },
+    {
+        "question": "En el monitoreo de la microcirculación, ¿qué indica un valor aumentado de CO₂ tisular en comparación con el CO₂ arterial?",
+        "options": [
+            { "text": "Un aumento del flujo sanguíneo local.", "isCorrect": false },
+            { "text": "Una disminución del flujo sanguíneo local.", "isCorrect": true },
+            { "text": "Una perfusión tisular adecuada.", "isCorrect": false },
+            { "text": "Un aumento de la producción de CO₂.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! Un valor aumentado de CO₂ tisular en comparación con el CO₂ arterial indica una disminución del flujo sanguíneo local, lo que sugiere una perfusión inadecuada en la microcirculación. La diferencia entre el CO₂ tisular y el CO₂ arterial se conoce como gradiente de PCO₂ o gap de PCO₂.",
+            "incorrect": "Incorrecto. Un valor aumentado de CO₂ tisular en comparación con el CO₂ arterial sugiere una disminución del flujo sanguíneo local, lo que se debe a una perfusión inadecuada en la microcirculación."
+        }
+    },
+    {
+        "question": "Un paciente en shock se encuentra bajo ventilación mecánica controlada, sedado y sin esfuerzo respiratorio espontáneo. ¿Qué mediciones dinámicas son útiles para evaluar su respuesta a líquidos en este escenario?",
+        "options": [
+            { "text": "Variación de la presión de pulso (PPV) y la variación del volumen sistólico (SVV).", "isCorrect": true },
+            { "text": "Presión venosa central (PVC).", "isCorrect": false },
+            { "text": "Catéter de arteria pulmonar.", "isCorrect": false },
+            { "text": "Flujo aórtico mediante ultrasonido.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! La variación de la presión de pulso (PPV) y la variación del volumen sistólico (SVV) son mediciones dinámicas que solo son útiles en pacientes sedados, bajo ventilación mecánica controlada y sin esfuerzo respiratorio espontáneo.",
+            "incorrect": "Incorrecto. La variación de la presión de pulso (PPV) y la variación del volumen sistólico (SVV) son mediciones dinámicas que se utilizan para evaluar la respuesta a líquidos en pacientes sedados, bajo ventilación mecánica controlada y sin esfuerzo respiratorio espontáneo."
+        }
+    },
+    {
+        "question": "Se reanima a un paciente con shock. Se observa una mejoría del 10 al 15% respecto a las mediciones hemodinámicas previas. ¿Qué significa este hallazgo?",
+        "options": [
+            { "text": "Una respuesta positiva a la intervención.", "isCorrect": true },
+            { "text": "Una respuesta negativa a la intervención.", "isCorrect": false },
+            { "text": "El paciente se está deteriorando.", "isCorrect": false },
+            { "text": "No se puede determinar la respuesta a la intervención.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! El documento menciona que se espera, como respuesta positiva a la intervención, una mejoría del 10 al 15% respecto a las mediciones hemodinámicas previas.",
+            "incorrect": "Incorrecto. Una mejoría del 10 al 15% respecto a las mediciones hemodinámicas previas se considera una respuesta positiva a la intervención."
+        }
+    },
+    {
+        "question": "En la evaluación de la saturación tisular de oxígeno (StO₂), el 'Rate de reoxigenación (ReOx)' es un indicador de:",
+        "options": [
+            { "text": "La tasa metabólica local.", "isCorrect": false },
+            { "text": "La capacidad de recuperación de la microcirculación tras una isquemia transitoria.", "isCorrect": true },
+            { "text": "La distribución del flujo sanguíneo local.", "isCorrect": false },
+            { "text": "El déficit en el suministro de nutrientes a nivel celular.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! El 'Rate de reoxigenación (ReOx)' es un indicador de la capacidad de recuperación de la microcirculación tras una isquemia transitoria.",
+            "incorrect": "Incorrecto. El 'Rate de reoxigenación (ReOx)' es un indicador de la capacidad de recuperación de la microcirculación tras una isquemia transitoria."
+        }
+    },
+    {
+        "question": "En el shock, la microcirculación se encuentra alterada. ¿Cuál de los siguientes no es un indicador de la calidad del flujo sanguíneo en la microcirculación?",
+        "options": [
+            { "text": "Índice de flujo microcirculatorio.", "isCorrect": false },
+            { "text": "Densidad vascular.", "isCorrect": false },
+            { "text": "Proporción de vasos perfundidos.", "isCorrect": false },
+            { "text": "Índice de flujo cardíaco.", "isCorrect": true }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! El índice de flujo cardíaco es una medida de la macrocirculación, no de la microcirculación. Los otros tres indicadores (densidad vascular, proporción de vasos perfundidos e índice de flujo microcirculatorio) se utilizan para evaluar la calidad del flujo sanguíneo en la microcirculación.",
+            "incorrect": "Incorrecto. El índice de flujo cardíaco es una medida de la macrocirculación, no de la microcirculación. La densidad vascular, la proporción de vasos perfundidos y el índice de flujo microcirculatorio son indicadores de la calidad del flujo sanguíneo en la microcirculación."
+        }
+    },
+
+    {
+        "question": "Una mujer de 80 años con antecedentes de hipertensión crónica llega al servicio de urgencias con una presión arterial de 100/60 mmHg. El médico residente se preocupa porque ha disminuido 40 mmHg de su sistólica habitual. La paciente está confusa y tiene oliguria. ¿Qué signo cardinal de shock está presente?",
+        "options": [
+            { "text": "Hipotensión con presión sistólica < 90 mmHg.", "isCorrect": false },
+            { "text": "Hipotensión con presión sistólica ajustada, con una disminución ≥30 mmHg de su sistólica habitual.", "isCorrect": true },
+            { "text": "Presión arterial media < 65 mmHg.", "isCorrect": false },
+            { "text": "Presión de pulso estrecha.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! El documento menciona que el signo cardinal de shock es la hipotensión, ajustando para hipertensos conocidos (disminución ≥30 mmHg de su sistólica habitual).",
+            "incorrect": "Incorrecto. La respuesta es la hipotensión ajustada. Aunque su presión sistólica es de 100 mmHg, el documento especifica que para pacientes hipertensos, una caída de 30 mmHg o más de su valor habitual es un signo cardinal de shock. La confusión y la oliguria también son signos de hipoperfusión en órganos vitales."
+        }
+    },
+    {
+        "question": "Un paciente de 60 años con fibrilación auricular (ritmo no sinusal) llega con shock. El médico de urgencias intenta utilizar la variación de la presión de pulso (PPV) para guiar la fluidoterapia, pero nota que los resultados son inconsistentes. ¿Cuál es la razón más probable de esta imprecisión?",
+        "options": [
+            { "text": "La PPV solo es útil en shock hipovolémico.", "isCorrect": false },
+            { "text": "El paciente no está bajo ventilación mecánica controlada.", "isCorrect": false },
+            { "text": "La PPV no es un parámetro volumétrico confiable.", "isCorrect": false },
+            { "text": "La PPV no es confiable en pacientes con ritmo no sinusal.", "isCorrect": true }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! El documento establece que la PPV y otras mediciones dinámicas tienen limitaciones, ya que para su adecuada interpretación el paciente debe mantener un ritmo sinusal. Un ritmo no sinusal como la fibrilación auricular afecta la precisión de estas mediciones.",
+            "incorrect": "Incorrecto. La respuesta correcta es que la PPV no es confiable en pacientes con ritmo no sinusal. El documento menciona que para una interpretación adecuada, el paciente debe estar sedado, bajo ventilación mecánica controlada y mantener un ritmo sinusal."
+        }
+    },
+    {
+        "question": "Un paciente con shock séptico es admitido en UCI. El médico considera el uso de un catéter de arteria pulmonar para un monitoreo detallado. ¿Qué mediciones específicas puede proporcionar este dispositivo?",
+        "options": [
+            { "text": "Presión arterial media y presión de pulso.", "isCorrect": false },
+            { "text": "Volumen diastólico final global e índice de función cardíaca.", "isCorrect": false },
+            { "text": "Gasto cardíaco, presión en arteria pulmonar y saturación venosa mixta.", "isCorrect": true },
+            { "text": "Evaluación del flujo transmitral y la velocidad diastólica del anillo mitral (E/E').", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! El catéter de arteria pulmonar ha sido una herramienta tradicional para evaluar la precarga derecha e izquierda, el gasto cardíaco, la presión en la arteria pulmonar, la poscarga y la saturación venosa mixta.",
+            "incorrect": "Incorrecto. El catéter de arteria pulmonar es útil para obtener mediciones invasivas como el gasto cardíaco, la presión en la arteria pulmonar y la saturación venosa mixta. Otros métodos como la ecocardiografía y los dispositivos de termodilución transpulmonar miden otras variables."
+        }
+    },
+    {
+        "question": "Un paciente con shock hipodinámico no responde a la fluidoterapia inicial. El médico de urgencias sospecha que la causa subyacente es un tromboembolismo pulmonar. ¿Qué biomarcador es útil para apoyar el diagnóstico, aunque el test con mayor sensibilidad y especificidad para este caso es otro?",
+        "options": [
+            { "text": "Ácido láctico.", "isCorrect": false },
+            { "text": "Dimero D.", "isCorrect": true },
+            { "text": "Troponina.", "isCorrect": false },
+            { "text": "PNB (péptido natriurético cerebral).", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! El Dímero D es útil para apoyar el diagnóstico de tromboembolismo pulmonar. Sin embargo, el documento aclara que la angiografía por tomografía de arterias pulmonares es el test con mayor sensibilidad y especificidad.",
+            "incorrect": "Incorrecto. El Dímero D se utiliza para apoyar el diagnóstico de tromboembolismo pulmonar. Los otros biomarcadores son útiles para el diagnóstico de shock de otras etiologías. La angiografía por tomografía de arterias pulmonares es el test de mayor sensibilidad y especificidad en este caso."
+        }
+    },
+    {
+        "question": "Un paciente con shock cardiogénico presenta una falla en la bomba cardíaca. ¿Cuál es el perfil hemodinámico que se esperaría encontrar?",
+        "options": [
+            { "text": "Gasto cardíaco bajo, presiones de llenado altas y resistencia vascular sistémica aumentada.", "isCorrect": true },
+            { "text": "Gasto cardíaco alto, presiones de llenado bajas y resistencia vascular sistémica aumentada.", "isCorrect": false },
+            { "text": "Gasto cardíaco alto, presiones de llenado altas y resistencia vascular sistémica disminuida.", "isCorrect": false },
+            { "text": "Gasto cardíaco bajo, presiones de llenado bajas y resistencia vascular sistémica disminuida.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! En el shock cardiogénico, la falla de la bomba cardíaca provoca un bajo gasto cardíaco. Para compensar, el cuerpo aumenta la resistencia vascular periférica, lo que provoca vasoconstricción. Las presiones de llenado aumentan debido a que la sangre no puede ser expulsada del corazón.",
+            "incorrect": "Incorrecto. La respuesta correcta es gasto cardíaco bajo, presiones de llenado altas y resistencia vascular sistémica aumentada. El corazón no puede bombear sangre de manera efectiva, por lo que el gasto cardíaco disminuye. La sangre se acumula en las cámaras cardíacas, lo que aumenta las presiones de llenado. El cuerpo intenta compensar la caída de la presión arterial aumentando la resistencia vascular sistémica a través de la vasoconstricción."
+        }
+    },
+    {
+        "question": "Un paciente con shock presenta alteraciones en la microcirculación. ¿Qué tipo de técnica de microvideoscopía permite evaluar la heterogeneidad microvascular y clasificarla en densidad vascular y proporción de vasos perfundidos?",
+        "options": [
+            { "text": "Imágenes de polarización espectral ortogonal e imágenes de campo oscuro.", "isCorrect": true },
+            { "text": "Ultrasonido a pie de cama (POCUS).", "isCorrect": false },
+            { "text": "Catéter de arteria pulmonar.", "isCorrect": false },
+            { "text": "Pletismografía.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! Las técnicas de microvideoscopía, como las imágenes de polarización espectral ortogonal y las imágenes de campo oscuro, permiten evaluar la red microvascular en superficies de epitelio delgado y analizar la heterogeneidad microvascular.",
+            "incorrect": "Incorrecto. Las imágenes de polarización espectral ortogonal y las imágenes de campo oscuro son técnicas de microvideoscopía que permiten evaluar la heterogeneidad microvascular y clasificarla en densidad vascular y proporción de vasos perfundidos."
+        }
+    },
+    {
+        "question": "En un paciente con sospecha de shock, la evaluación de la saturación venosa mixta (SvO2) es un parámetro útil. ¿Qué indica un valor bajo de SvO2?",
+        "options": [
+            { "text": "Que los tejidos están extrayendo más oxígeno de la sangre.", "isCorrect": true },
+            { "text": "Una perfusión tisular adecuada.", "isCorrect": false },
+            { "text": "Un exceso de suministro de oxígeno.", "isCorrect": false },
+            { "text": "Un alto gasto cardíaco.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! Un valor bajo de SvO2 indica que los tejidos están extrayendo más oxígeno de la sangre debido a que el suministro de oxígeno es insuficiente. Esto es un signo de hipoperfusión tisular, que es una de las principales características del shock.",
+            "incorrect": "Incorrecto. La saturación venosa mixta (SvO2) mide la cantidad de oxígeno que regresa al corazón. Un valor bajo indica que los tejidos están extrayendo más oxígeno de la sangre para satisfacer sus necesidades metabólicas, lo que es un signo de hipoperfusión."
+        }
+    },
+    {
+        "question": "Un paciente de 22 años llega a urgencias con una presión arterial de 70/40 mmHg y un tiempo de llenado capilar de 5 segundos. La piel está pálida y fría. Se sospecha shock hipovolémico por una hemorragia oculta. ¿Cuál de las siguientes es una medida inicial para valorar si el paciente requiere la administración de líquidos?",
+        "options": [
+            { "text": "Presión venosa central (PVC) como medida estática de volemia.", "isCorrect": true },
+            { "text": "Medición de la variación de la presión de pulso (PPV).", "isCorrect": false },
+            { "text": "Levantamiento pasivo de las extremidades inferiores.", "isCorrect": true },
+            { "text": "Ambas (PVC y levantamiento de extremidades) son correctas. Las dos son medidas estáticas de volemia.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! El documento menciona que la presión venosa central es una medida tradicional para valorar la volemia, y el levantamiento pasivo de las extremidades inferiores es una medida dinámica para evaluar la respuesta a fluidos.",
+            "incorrect": "Incorrecto. La respuesta correcta es el levantamiento pasivo de las extremidades inferiores. Aunque la PVC es una medida de volemia, tiene importantes limitaciones. El levantamiento de las extremidades inferiores es una prueba dinámica que se utiliza para evaluar si el paciente responde a la administración de líquidos, elevando el gasto cardíaco."
+        }
+    },
+    {
+        "question": "Un paciente con shock séptico presenta un perfil hemodinámico hiperdinámico. El médico decide iniciar un vasopresor para mantener una presión arterial adecuada. ¿Qué vasopresor es de primera línea en este caso?",
+        "options": [
+            { "text": "Dopamina.", "isCorrect": false },
+            { "text": "Noradrenalina.", "isCorrect": true },
+            { "text": "Adrenalina.", "isCorrect": false },
+            { "text": "Vasopresina.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! La noradrenalina es el vasopresor de primera línea en el shock séptico. En el shock séptico, la vasodilatación es la principal causa de la hipotensión, por lo que la noradrenalina, que es un potente vasoconstrictor, es el medicamento de elección.",
+            "incorrect": "Incorrecto. La respuesta correcta es la noradrenalina. En el shock séptico, la noradrenalina es el vasopresor de primera línea, ya que es un potente vasoconstrictor y aumenta la presión arterial de manera efectiva. La dopamina, la adrenalina y la vasopresina se utilizan en casos de shock refractario o en situaciones específicas."
+        }
+    },
+    {
+        "question": "En el monitoreo avanzado, la termodilución transpulmonar mide el gasto cardíaco tras la inyección de un bolo de agua fría. ¿Qué otra medición intermitente importante ofrece este dispositivo?",
+        "options": [
+            { "text": "Volumen diastólico final global y agua pulmonar extravascular.", "isCorrect": true },
+            { "text": "Variación de la presión de pulso y variación del volumen sistólico.", "isCorrect": false },
+            { "text": "Gasto cardíaco y saturación venosa mixta.", "isCorrect": false },
+            { "text": "Resistencia vascular sistémica y presión venosa central.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! Los dispositivos de termodilución transpulmonar, además de medir el gasto cardíaco, ofrecen mediciones importantes como el volumen diastólico final global (un marcador de precarga) y el agua pulmonar extravascular (una medición del edema pulmonar).",
+            "incorrect": "Incorrecto. La respuesta correcta es el volumen diastólico final global y el agua pulmonar extravascular. Estos dispositivos ofrecen mediciones intermitentes que son útiles para el manejo de pacientes en estado crítico, como el volumen diastólico final global, que es un marcador de la precarga y el agua pulmonar extravascular, que es una medición cuantitativa del edema pulmonar."
+        }
+    },
+    {
+        "question": "Un paciente con shock cardiogénico está bajo monitoreo. El médico sospecha sobrecarga de volumen. ¿Qué signo clínico le orienta a esta sospecha?",
+        "options": [
+            { "text": "Disminución de la presión arterial.", "isCorrect": false },
+            { "text": "Disminución del pulso.", "isCorrect": false },
+            { "text": "Aumento del llenado capilar.", "isCorrect": false },
+            { "text": "Estertores pulmonares.", "isCorrect": true }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! Los estertores pulmonares indican sobrecarga de volumen. Otros signos clínicos de sobrecarga de volumen son la hepatomegalia, la distensión venosa yugular y el ritmo de galope. Estos signos deben alertar al equipo clínico para evitar la descompensación cardiovascular.",
+            "incorrect": "Incorrecto. La respuesta correcta es los estertores pulmonares. En el shock cardiogénico, la sobrecarga de volumen puede conducir a edema pulmonar. Otros signos clínicos de sobrecarga de volumen son la hepatomegalia, la distensión venosa yugular, el ritmo de galope y la cardiomegalia en la radiografía de tórax."
+        }
+    },
+    {
+        "question": "Un paciente con shock obstructivo presenta un taponamiento cardíaco. ¿Cuál es el tratamiento definitivo en este caso?",
+        "options": [
+            { "text": "Administración de líquidos y vasopresores.", "isCorrect": false },
+            { "text": "Pericardiocentesis.", "isCorrect": true },
+            { "text": "Embolectomía quirúrgica.", "isCorrect": false },
+            { "text": "Toracocentesis con aguja.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! El taponamiento cardíaco es una causa de shock obstructivo, y el tratamiento definitivo es la pericardiocentesis, que consiste en drenar el líquido del saco pericárdico para liberar la presión sobre el corazón.",
+            "incorrect": "Incorrecto. La pericardiocentesis es el tratamiento definitivo para el taponamiento cardíaco. Este procedimiento consiste en drenar el líquido del saco pericárdico para liberar la presión sobre el corazón."
+        }
+    },
+    {
+        "question": "En el enfoque del paciente con shock, el documento subraya la importancia de un abordaje sistemático y dinámico para mejorar la supervivencia y reducir las complicaciones. ¿Cuál es la finalidad de este abordaje?",
+        "options": [
+            { "text": "Seleccionar la estrategia terapéutica más adecuada, evaluar la respuesta al tratamiento y optimizar los resultados clínicos.", "isCorrect": true },
+            { "text": "Administrar antibióticos de forma empírica.", "isCorrect": false },
+            { "text": "Utilizar biomarcadores para el diagnóstico, sin tener en cuenta la evaluación clínica detallada.", "isCorrect": false },
+            { "text": "Manejar solo la causa desencadenante del shock.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! El documento concluye que un abordaje sistemático y dinámico, que combine la evaluación clínica detallada con el uso de herramientas tecnológicas, es esencial para seleccionar la estrategia terapéutica más adecuada, evaluar la respuesta al tratamiento y optimizar los resultados clínicos.",
+            "incorrect": "Incorrecto. La respuesta correcta es seleccionar la estrategia terapéutica más adecuada, evaluar la respuesta al tratamiento y optimizar los resultados clínicos. El documento concluye que un abordaje sistemático y dinámico es esencial para mejorar la supervivencia y reducir las complicaciones."
+        }
+    },
+    {
+        "question": "Un paciente con shock presenta la piel fría, moteada, y con un tiempo de llenado capilar de 4 segundos. ¿Qué signo de hipoperfusión tisular se manifiesta a través de estos hallazgos?",
+        "options": [
+            { "text": "Oliguria.", "isCorrect": false },
+            { "text": "Taquicardia.", "isCorrect": false },
+            { "text": "Alteración del estado mental.", "isCorrect": false },
+            { "text": "Oliguria y alteración del estado mental.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! El documento menciona que la piel fría, moteada, y con un tiempo de llenado capilar de 4 segundos son signos de hipoperfusión tisular. Los otros signos corresponden a hipoperfusión en otros órganos.",
+            "incorrect": "Incorrecto. La respuesta correcta es la piel fría, moteada, y con un tiempo de llenado capilar de 4 segundos. El documento menciona que estos son signos de hipoperfusión tisular. Los otros signos corresponden a hipoperfusión en otros órganos."
+        }
+    },
+    {
+        "question": "Un paciente con shock cardiogénico presenta una relación RVEDA/LVEDA entre 0.6 y 1. ¿Qué indica este hallazgo?",
+        "options": [
+            { "text": "Una dilatación moderada del ventrículo derecho.", "isCorrect": true },
+            { "text": "Un cor pulmonale agudo.", "isCorrect": false },
+            { "text": "Una dilatación grave del ventrículo derecho.", "isCorrect": false },
+            { "text": "Una función ventricular izquierda preservada.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! El documento menciona que una relación RVEDA/LVEDA entre 0.6 y 1 sugiere dilatación moderada del ventrículo derecho.",
+            "incorrect": "Incorrecto. Una relación RVEDA/LVEDA entre 0.6 y 1 sugiere una dilatación moderada del ventrículo derecho. Una relación mayor de 1 sugiere un cor pulmonale agudo."
+        }
+    },
+    {
+        "question": "Un paciente con shock presenta un gasto cardíaco bajo y presiones de llenado bajas. ¿Qué tipo de shock es más probable?",
+        "options": [
+            { "text": "Shock séptico.", "isCorrect": false },
+            { "text": "Shock cardiogénico.", "isCorrect": false },
+            { "text": "Shock hipovolémico.", "isCorrect": true },
+            { "text": "Shock obstructivo.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! El shock hipovolémico se caracteriza por presiones de llenado bajas y gasto cardíaco bajo, lo que se debe a la pérdida de volumen intravascular.",
+            "incorrect": "Incorrecto. El shock hipovolémico se caracteriza por presiones de llenado bajas y gasto cardíaco bajo, lo que se debe a la pérdida de volumen intravascular. El shock séptico presenta un gasto cardíaco alto y presiones de llenado normales o disminuidas. El shock cardiogénico presenta un gasto cardíaco bajo y presiones de llenado altas. El shock obstructivo presenta un gasto cardíaco bajo y presiones de llenado altas."
+        }
+    },
+    {
+        "question": "Un paciente con shock está bajo monitoreo. El médico sospecha un déficit en el suministro de nutrientes a nivel celular. ¿Qué hallazgo le orienta a esta sospecha?",
+        "options": [
+            { "text": "Un gradiente de CO₂ mayor a 6 mmHg.", "isCorrect": true },
+            { "text": "Una presión de pulso amplia.", "isCorrect": false },
+            { "text": "Una presión venosa central baja.", "isCorrect": false },
+            { "text": "Un nivel de lactato bajo.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! El documento menciona que un gradiente de CO₂ (gap de CO₂) mayor a 6 mmHg sugiere un déficit significativo en el suministro de nutrientes a nivel celular. La diferencia entre el CO₂ tisular y el CO₂ arterial se correlaciona con la perfusión capilar, por lo que un gradiente alto indica una perfusión inadecuada.",
+            "incorrect": "Incorrecto. La respuesta correcta es un gradiente de CO₂ mayor a 6 mmHg. Un gradiente de CO₂ alto indica que el suministro de nutrientes a nivel celular es inadecuado. Un nivel de lactato bajo es un signo de perfusión adecuada."
+        }
+    },
+    {
+        "question": "Un paciente con shock llega a urgencias. El médico residente decide utilizar un monitoreo hemodinámico mínimamente invasivo para evaluar el estado de volemia. ¿Qué técnica podría usar?",
+        "options": [
+            { "text": "Monitoreo por dilución de litio.", "isCorrect": true },
+            { "text": "Doppler esofágico.", "isCorrect": true },
+            { "text": "Bioreactancia.", "isCorrect": true },
+            { "text": "Todas las opciones son correctas.", "isCorrect": true }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! El documento menciona que existen otros métodos menos estandarizados para el monitoreo hemodinámico, como el monitoreo por dilución de litio, el Doppler esofágico y la bioreactancia.",
+            "incorrect": "Incorrecto. Las tres opciones son correctas. El documento menciona que existen otros métodos menos estandarizados para el monitoreo hemodinámico, como el monitoreo por dilución de litio, el Doppler esofágico y la bioreactancia."
+        }
+    },
+    {
+        "question": "Un paciente de 70 años con antecedentes de hipertensión crónica y aterosclerosis llega al servicio de urgencias con hipotensión (PA 85/50 mmHg) y signos de hipoperfusión. El ecocardiograma muestra una fracción de eyección del ventrículo izquierdo (FEVI) del 35%. ¿Cuál es la causa más probable de su shock?",
+        "options": [
+            { "text": "Shock séptico.", "isCorrect": false },
+            { "text": "Shock hipovolémico.", "isCorrect": false },
+            { "text": "Shock cardiogénico.", "isCorrect": true },
+            { "text": "Shock obstructivo.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! La fracción de eyección del ventrículo izquierdo (FEVI) del 35% es un indicador de una función reducida, lo que sugiere que la causa del shock es una falla en la bomba cardíaca. El shock cardiogénico se define como la incapacidad del corazón para mantener un gasto cardíaco adecuado para perfundir los órganos.",
+            "incorrect": "Incorrecto. La respuesta correcta es el shock cardiogénico. La fracción de eyección del ventrículo izquierdo (FEVI) del 35% es un indicador de una función reducida, lo que sugiere que la causa del shock es una falla en la bomba cardíaca."
+        }
+    },
+    {
+        "question": "Un paciente con shock presenta una diuresis reducida. ¿Qué órgano principal se está viendo afectado por la hipoperfusión?",
+        "options": [
+            { "text": "Cerebro.", "isCorrect": false },
+            { "text": "Riñón.", "isCorrect": true },
+            { "text": "Piel.", "isCorrect": false },
+            { "text": "Corazón.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! La diuresis reducida (oliguria) es un signo de hipoperfusión renal. El riñón es muy sensible a la hipoperfusión, y la disminución de la diuresis es un signo de shock.",
+            "incorrect": "Incorrecto. La diuresis reducida, que se define como una producción de orina menor a 0.5 cc/kg/hora, es un signo de hipoperfusión renal. La piel fría y la alteración del estado mental son signos de hipoperfusión en la piel y el cerebro, respectivamente."
+        }
+    },
+    {
+        "question": "Un paciente de 60 años con antecedentes de insuficiencia cardíaca es traído al servicio de urgencias por disnea severa e hipotensión. El médico residente, basándose en la historia clínica y el examen físico, sospecha un shock cardiogénico. ¿Cuál de los siguientes no es un hallazgo clínico que se esperaría encontrar?",
+        "options": [
+            { "text": "Ritmo de galope.", "isCorrect": false },
+            { "text": "Distensión venosa yugular.", "isCorrect": false },
+            { "text": "Estertores pulmonares.", "isCorrect": false },
+            { "text": "Piel fría y seca.", "isCorrect": true }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! En el shock cardiogénico, la piel suele estar fría y húmeda (sudorosa) debido a la vasoconstricción periférica y la activación del sistema nervioso simpático, no seca. Los otros hallazgos son signos de sobrecarga de volumen y congestión pulmonar, que son característicos del shock cardiogénico.",
+            "incorrect": "Incorrecto. La respuesta correcta es la piel fría y seca. La piel en el shock cardiogénico suele estar fría y húmeda debido a la vasoconstricción periférica y la activación del sistema nervioso simpático, que es una respuesta compensatoria. Los otros hallazgos son signos de sobrecarga de volumen y congestión pulmonar, que son característicos del shock cardiogénico."
+        }
+    }
+]

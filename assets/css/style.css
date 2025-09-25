@@ -1,0 +1,365 @@
+/* Estilos generales */
+body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+    background-color: #f0f2f5;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    margin: 0;
+    color: #333;
+    padding: 20px;
+    box-sizing: border-box;
+}
+
+/* Contenedor principal para centrar el contenido */
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+/* Estilo de la tarjeta de acceso */
+.card {
+    background-color: #fff;
+    padding: 40px 30px;
+    border-radius: 12px;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    width: 100%;
+    max-width: 900px;
+    box-sizing: border-box;
+}
+
+/* Estilos del logo */
+.logo {
+    width: 120px;
+    height: auto;
+    margin-bottom: 1rem;
+}
+
+/* Estilo del subtítulo */
+.subtitle {
+    font-size: 1.1rem;
+    color: #666;
+    margin-top: 0;
+    margin-bottom: 2rem;
+}
+
+/* Estilos del formulario de contraseña */
+.password-form {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+.password-form input {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    font-size: 1rem;
+    box-sizing: border-box;
+    transition: border-color 0.3s;
+}
+
+.password-form input:focus {
+    outline: none;
+    border-color: #007bff;
+}
+
+.password-form button {
+    padding: 12px;
+    border: none;
+    border-radius: 8px;
+    background-color: #007bff;
+    color: #fff;
+    font-size: 1.1rem;
+    cursor: pointer;
+    transition: background-color 0.3s, transform 0.1s;
+}
+
+.password-form button:hover {
+    background-color: #0056b3;
+}
+
+.password-form button:active {
+    transform: scale(0.99);
+}
+
+/* Mensaje de error */
+.error-message {
+    color: #dc3545;
+    margin-top: 15px;
+    visibility: hidden;
+    opacity: 0;
+    transition: opacity 0.3s;
+}
+
+.error-message.visible {
+    visibility: visible;
+    opacity: 1;
+}
+
+/* Estilos para la página de temas */
+.topic-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 20px;
+    width: 100%;
+    margin-top: 40px;
+}
+
+.topic-button {
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 12px;
+    background-color: #f8f9fa;
+    color: #333;
+    font-size: 1rem;
+    font-weight: bold;
+    cursor: pointer;
+    transition: background-color 0.3s, transform 0.1s, border-color 0.3s, box-shadow 0.3s;
+    text-align: center;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.05);
+    text-decoration: none; /* Asegura que el texto no tenga subrayado */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.topic-button strong {
+    font-size: 1.1rem;
+    margin-bottom: 5px;
+}
+
+.topic-button small {
+    font-size: 0.9rem;
+    color: #666;
+    line-height: 1.4;
+}
+
+.topic-button:hover {
+    background-color: #e2e6ea;
+    border-color: #007bff;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+.topic-button:active {
+    transform: scale(0.98);
+}
+
+/* Estilos para temas bloqueados */
+.topic-button.locked {
+    position: relative;
+    opacity: 0.6;
+    cursor: not-allowed;
+    background-color: #f0f0f0;
+}
+
+.topic-button.locked:hover {
+    background-color: #f0f0f0;
+    border-color: #ccc;
+    box-shadow: none;
+}
+
+.lock-icon {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 2rem;
+}
+
+/* Estilos para el enlace de cerrar sesión */
+.logout-link {
+    margin-top: 30px;
+    display: inline-block;
+    color: #dc3545;
+    text-decoration: none;
+    font-weight: bold;
+    transition: color 0.3s;
+}
+
+.logout-link:hover {
+    color: #c82333;
+    text-decoration: underline;
+}
+
+/* Estilos del simulacro */
+.simulacro-card {
+    text-align: left;
+}
+
+.quiz-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    border-bottom: 1px solid #eee;
+    padding-bottom: 15px;
+    margin-bottom: 20px;
+}
+
+.quiz-header h2 {
+    font-size: 1.5rem;
+    margin: 0;
+    color: #007bff;
+}
+
+.header-info {
+    display: flex;
+    gap: 20px;
+    font-weight: bold;
+    color: #555;
+    font-size: 0.9rem;
+}
+
+.question-box {
+    margin-bottom: 20px;
+}
+
+#questionText {
+    font-size: 1.2rem;
+    font-weight: 500;
+    color: #444;
+    margin-bottom: 20px;
+    line-height: 1.5;
+}
+
+.options-container {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.option-button {
+    padding: 15px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    text-align: left;
+    background-color: #fff;
+    cursor: pointer;
+    transition: background-color 0.2s, border-color 0.2s, color 0.2s;
+}
+
+.option-button:hover {
+    background-color: #f0f2f5;
+}
+
+.option-button.correct {
+    background-color: #e6f7ec;
+    border-color: #28a745;
+    color: #28a745;
+}
+
+.option-button.incorrect {
+    background-color: #fdedf0;
+    border-color: #dc3545;
+    color: #dc3545;
+}
+
+.feedback-container {
+    margin-top: 20px;
+    padding: 20px;
+    border-radius: 8px;
+    background-color: #f8f9fa;
+}
+
+#feedbackTitle {
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+#feedbackText {
+    font-size: 1rem;
+    line-height: 1.6;
+}
+
+.navigation-buttons {
+    display: flex;
+    justify-content: flex-end;
+    margin-top: 20px;
+}
+
+.next-button, .end-button {
+    padding: 10px 20px;
+    border: none;
+    border-radius: 8px;
+    background-color: #007bff;
+    color: #fff;
+    font-size: 1rem;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.end-button {
+    background-color: #6c757d;
+}
+
+.next-button:hover {
+    background-color: #0056b3;
+}
+
+.end-button:hover {
+    background-color: #5a6268;
+}
+
+.results-container {
+    text-align: center;
+    padding: 20px;
+}
+
+.results-title {
+    font-size: 1.8rem;
+    color: #007bff;
+    margin-bottom: 10px;
+}
+
+#finalScore, #finalTime {
+    font-size: 1.2rem;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+.back-to-topics-link {
+    margin-top: 20px;
+    display: inline-block;
+    color: #007bff;
+    text-decoration: none;
+    font-weight: bold;
+    transition: color 0.3s;
+}
+
+.back-to-topics-link:hover {
+    color: #0056b3;
+    text-decoration: underline;
+}
+
+/* Media Queries para dispositivos pequeños (móviles) */
+@media (max-width: 500px) {
+    .card {
+        padding: 30px 20px;
+        margin: 0;
+    }
+    .logo {
+        width: 100px;
+    }
+    .subtitle {
+        font-size: 1rem;
+    }
+    .topic-grid {
+        grid-template-columns: 1fr;
+    }
+    .quiz-header {
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 10px;
+    }
+    .header-info {
+        flex-direction: column;
+        gap: 5px;
+    }
+}
