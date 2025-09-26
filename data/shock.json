@@ -703,19 +703,7 @@
             "incorrect": "Incorrecto. La respuesta correcta es seleccionar la estrategia terapéutica más adecuada, evaluar la respuesta al tratamiento y optimizar los resultados clínicos. El documento concluye que un abordaje sistemático y dinámico es esencial para mejorar la supervivencia y reducir las complicaciones."
         }
     },
-    {
-        "question": "Un paciente con shock presenta la piel fría, moteada, y con un tiempo de llenado capilar de 4 segundos. ¿Qué signo de hipoperfusión tisular se manifiesta a través de estos hallazgos?",
-        "options": [
-            { "text": "Oliguria.", "isCorrect": false },
-            { "text": "Taquicardia.", "isCorrect": false },
-            { "text": "Alteración del estado mental.", "isCorrect": false },
-            { "text": "Oliguria y alteración del estado mental.", "isCorrect": false }
-        ],
-        "feedback": {
-            "correct": "¡Correcto! El documento menciona que la piel fría, moteada, y con un tiempo de llenado capilar de 4 segundos son signos de hipoperfusión tisular. Los otros signos corresponden a hipoperfusión en otros órganos.",
-            "incorrect": "Incorrecto. La respuesta correcta es la piel fría, moteada, y con un tiempo de llenado capilar de 4 segundos. El documento menciona que estos son signos de hipoperfusión tisular. Los otros signos corresponden a hipoperfusión en otros órganos."
-        }
-    },
+  
     {
         "question": "Un paciente con shock cardiogénico presenta una relación RVEDA/LVEDA entre 0.6 y 1. ¿Qué indica este hallazgo?",
         "options": [

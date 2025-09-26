@@ -47,7 +47,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
                     if (topic.locked) {
                         button.classList.add('locked');
-                        buttonContent += `<span class="lock-icon">&#128274;</span>`; // Icono de candado
+                        buttonContent += `<span class="lock-icon">&#128274;</span>`;
                     }
 
                     button.innerHTML = buttonContent;
@@ -68,6 +68,13 @@ document.addEventListener('DOMContentLoaded', () => {
         };
 
         fetchTopics();
+        
+        if (logoutLink) {
+            logoutLink.addEventListener('click', (event) => {
+                event.preventDefault();
+                window.location.href = 'index.html';
+            });
+        }
 
     } else if (currentPage === 'simulacro.html') {
         // Lógica del simulacro
@@ -77,7 +84,6 @@ document.addEventListener('DOMContentLoaded', () => {
         let timerInterval;
         let startTime;
 
-        // Elementos del DOM
         const quizTitle = document.getElementById('quizTitle');
         const timerElement = document.getElementById('timer');
         const questionCounterElement = document.getElementById('questionCounter');
@@ -120,7 +126,6 @@ document.addEventListener('DOMContentLoaded', () => {
             questionTextElement.textContent = currentQuestion.question;
             optionsContainer.innerHTML = '';
             
-            // Mezclamos las opciones para que no siempre salgan en el mismo orden
             const shuffledOptions = shuffleArray([...currentQuestion.options]);
             
             shuffledOptions.forEach(option => {
@@ -138,7 +143,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
         const handleAnswer = (isCorrect, button) => {
             const allOptions = optionsContainer.querySelectorAll('.option-button');
-            allOptions.forEach(btn => btn.disabled = true); // Deshabilita los botones
+            allOptions.forEach(btn => btn.disabled = true);
 
             if (isCorrect) {
                 score++;
@@ -147,15 +152,17 @@ document.addEventListener('DOMContentLoaded', () => {
                 feedbackTextElement.textContent = questions[currentQuestionIndex].feedback.correct;
             } else {
                 button.classList.add('incorrect');
-                // Buscamos y marcamos la respuesta correcta para mostrarla
-                const correctOption = Array.from(allOptions).find(btn => btn.textContent === questions[currentQuestionIndex].options.find(opt => opt.isCorrect).text);
-                correctOption.classList.add('correct');
+                const correctAnswerText = questions[currentQuestionIndex].options.find(opt => opt.isCorrect).text;
+                const correctOptionButton = Array.from(allOptions).find(btn => btn.textContent === correctAnswerText);
+                
+                if (correctOptionButton) {
+                    correctOptionButton.classList.add('correct');
+                }
                 
                 feedbackTitleElement.textContent = 'Respuesta Incorrecta';
                 feedbackTextElement.textContent = questions[currentQuestionIndex].feedback.incorrect;
             }
 
-            // Mostramos el feedback y el botón para continuar
             quizContainer.style.display = 'none';
             feedbackContainer.style.display = 'block';
         };
@@ -205,7 +212,6 @@ document.addEventListener('DOMContentLoaded', () => {
                 
                 const fullQuestionBank = await dataFileResponse.json();
                 
-                // Tomamos 50 preguntas aleatorias del banco de datos
                 questions = shuffleArray(fullQuestionBank).slice(0, 50);
 
                 if (questions.length === 0) {
@@ -220,7 +226,6 @@ document.addEventListener('DOMContentLoaded', () => {
             }
         };
 
-        // Extraemos el tema de la URL y cargamos el quiz
         const urlParams = new URLSearchParams(window.location.search);
         const temaId = urlParams.get('temaId');
         if (temaId) {
