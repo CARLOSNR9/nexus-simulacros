@@ -1,0 +1,678 @@
+[
+    {
+        "question": "Un hombre de 70 años, con antecedentes de hipertensión arterial, presenta disnea con esfuerzos y tos nocturna. El examen físico revela edema maleolar y taquicardia. Según los criterios de Framingham, ¿qué se puede concluir?",
+        "options": [
+            { "text": "Tiene un criterio mayor y dos menores, por lo que se diagnostica insuficiencia cardiaca.", "isCorrect": true },
+            { "text": "Tiene dos criterios mayores, por lo que se diagnostica insuficiencia cardiaca.", "isCorrect": false },
+            { "text": "Tiene tres criterios menores, por lo que se descarta insuficiencia cardiaca.", "isCorrect": false },
+            { "text": "Se necesita un ecocardiograma para el diagnóstico, ya que los criterios de Framingham no son suficientes.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! El paciente presenta un criterio mayor (tos nocturna) y dos criterios menores (disnea con esfuerzos y edema maleolar). La presencia de un criterio mayor y dos menores es suficiente para el diagnóstico de insuficiencia cardiaca, según los criterios de Framingham. El diagnóstico final requiere también la demostración de alteraciones estructurales o funcionales en la ecocardiografía, además de la elevación de los péptidos natriuréticos o congestión en el examen físico o paraclínicos.",
+            "incorrect": "Incorrecto. La respuesta correcta es que tiene un criterio mayor (tos nocturna) y dos menores (disnea con esfuerzos y edema maleolar), por lo que se diagnostica insuficiencia cardiaca. Los criterios de Framingham se utilizan para hacer un diagnóstico de insuficiencia cardiaca, pero la confirmación se hace con la ecocardiografía y los péptidos natriuréticos."
+        }
+    },
+    {
+        "question": "Una mujer de 60 años con antecedentes de infarto de miocardio presenta disnea de esfuerzo y fatiga. La ecocardiografía muestra una fracción de eyección del ventrículo izquierdo (FEVI) del 35%. ¿En qué grupo se clasifica a la paciente, según la fracción de eyección?",
+        "options": [
+            { "text": "Insuficiencia cardiaca con función preservada.", "isCorrect": false },
+            { "text": "Insuficiencia cardiaca con función levemente reducida.", "isCorrect": false },
+            { "text": "Insuficiencia cardiaca con función reducida.", "isCorrect": true },
+            { "text": "Insuficiencia cardiaca sin diagnóstico claro.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! La ecocardiografía permite clasificar a los pacientes en tres grupos: insuficiencia cardiaca con función reducida cuando la fracción de eyección es menor al 40%, levemente reducida entre 41 y 49% y con función preservada cuando es igual o mayor a 50%. En este caso, la FEVI es del 35%, por lo que se clasifica como insuficiencia cardiaca con función reducida.",
+            "incorrect": "Incorrecto. La respuesta correcta es insuficiencia cardiaca con función reducida. El documento menciona que la insuficiencia cardiaca con función reducida se clasifica cuando la fracción de eyección del ventrículo izquierdo es menor al 40%. En este caso, la FEVI es del 35%, por lo que se clasifica como insuficiencia cardiaca con función reducida."
+        }
+    },
+    {
+        "question": "Un paciente presenta síntomas de insuficiencia cardiaca y se le realiza una ecocardiografía. La ecocardiografía muestra una fracción de eyección del ventrículo izquierdo (FEVI) del 45%. ¿Cómo se clasifica a este paciente?",
+        "options": [
+            { "text": "Insuficiencia cardiaca con función reducida.", "isCorrect": false },
+            { "text": "Insuficiencia cardiaca con función levemente reducida.", "isCorrect": true },
+            { "text": "Insuficiencia cardiaca con función preservada.", "isCorrect": false },
+            { "text": "Insuficiencia cardiaca sin diagnóstico claro.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! El documento menciona que la insuficiencia cardiaca con función levemente reducida se clasifica cuando la fracción de eyección del ventrículo izquierdo está entre 41 y 49%. En este caso, la FEVI es del 45%, por lo que se clasifica como insuficiencia cardiaca con función levemente reducida.",
+            "incorrect": "Incorrecto. La respuesta correcta es insuficiencia cardiaca con función levemente reducida. El documento menciona que la insuficiencia cardiaca con función levemente reducida se clasifica cuando la fracción de eyección del ventrículo izquierdo está entre 41 y 49%. En este caso, la FEVI es del 45%, por lo que se clasifica como insuficiencia cardiaca con función levemente reducida."
+        }
+    },
+    {
+        "question": "Un paciente con síntomas sugestivos de insuficiencia cardiaca es evaluado con péptidos natriuréticos. El resultado es un NT-proBNP < 300 pg/ml. ¿Qué se puede concluir de este hallazgo?",
+        "options": [
+            { "text": "Se descarta el diagnóstico de insuficiencia cardiaca.", "isCorrect": true },
+            { "text": "Se confirma el diagnóstico de insuficiencia cardiaca.", "isCorrect": false },
+            { "text": "Se necesita un ecocardiograma para el diagnóstico.", "isCorrect": false },
+            { "text": "El paciente tiene insuficiencia cardiaca con función reducida.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! El documento menciona que los péptidos natriuréticos se utilizan para diferenciar la insuficiencia cardiaca de otras causas de disnea. Los puntos de corte para excluir el diagnóstico de insuficiencia cardiaca en un paciente ambulatorio son un BNP < 35 pg/ml o un NT-proBNP < 125 pg/ml. En este caso, el NT-proBNP es < 300 pg/ml, por lo que se descarta el diagnóstico de insuficiencia cardiaca.",
+            "incorrect": "Incorrecto. La respuesta correcta es que se descarta el diagnóstico de insuficiencia cardiaca. El documento menciona que los péptidos natriuréticos se utilizan para diferenciar la insuficiencia cardiaca de otras causas de disnea. Los puntos de corte para excluir el diagnóstico de insuficiencia cardiaca en un paciente ambulatorio son un BNP < 35 pg/ml o un NT-proBNP < 125 pg/ml. En este caso, el NT-proBNP es < 300 pg/ml, por lo que se descarta el diagnóstico de insuficiencia cardiaca."
+        }
+    },
+    {
+        "question": "Un paciente con disnea, fatiga y edema periférico se le realiza un ecocardiograma. Se encuentra que la relación E/E' es mayor de 15. ¿Qué indica este hallazgo?",
+        "options": [
+            { "text": "Una baja presión de llenado del ventrículo izquierdo.", "isCorrect": false },
+            { "text": "Una alta presión de llenado del ventrículo izquierdo.", "isCorrect": true },
+            { "text": "Una dilatación moderada del ventrículo derecho.", "isCorrect": false },
+            { "text": "Una función ventricular izquierda preservada.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! El documento menciona que un valor de E/E' mayor de 15 predice una alta presión de llenado del ventrículo izquierdo. Esto es un indicador de la función diastólica del corazón, que es clave para el diagnóstico de insuficiencia cardiaca con función preservada.",
+            "incorrect": "Incorrecto. La respuesta correcta es una alta presión de llenado del ventrículo izquierdo. El documento menciona que un valor de E/E' mayor de 15 predice una alta presión de llenado del ventrículo izquierdo. Esto es un indicador de la función diastólica del corazón."
+        }
+    },
+    {
+        "question": "Un paciente con síntomas sugestivos de insuficiencia cardiaca es evaluado con péptidos natriuréticos. El resultado es un BNP > 100 pg/ml y un NT-proBNP > 300 pg/ml. ¿Qué se puede concluir de este hallazgo?",
+        "options": [
+            { "text": "Se descarta el diagnóstico de insuficiencia cardiaca.", "isCorrect": false },
+            { "text": "Se confirma el diagnóstico de insuficiencia cardiaca.", "isCorrect": true },
+            { "text": "Se necesita un ecocardiograma para el diagnóstico.", "isCorrect": false },
+            { "text": "El paciente tiene insuficiencia cardiaca con función reducida.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! El documento menciona que los puntos de corte para la sospecha de insuficiencia cardiaca en un paciente ambulatorio son un BNP > 100 pg/ml y un NT-proBNP > 300 pg/ml. En este caso, los valores son superiores a los puntos de corte, por lo que se confirma el diagnóstico de insuficiencia cardiaca.",
+            "incorrect": "Incorrecto. La respuesta correcta es que se confirma el diagnóstico de insuficiencia cardiaca. El documento menciona que los puntos de corte para la sospecha de insuficiencia cardiaca en un paciente ambulatorio son un BNP > 100 pg/ml y un NT-proBNP > 300 pg/ml. En este caso, los valores son superiores a los puntos de corte, por lo que se confirma el diagnóstico de insuficiencia cardiaca."
+        }
+    },
+    {
+        "question": "Una de las herramientas de ayuda diagnóstica básicas para el estudio de los pacientes con síntomas sugestivos de insuficiencia cardiaca son el electrocardiograma y la radiografía de tórax. ¿Qué hallazgo en la radiografía de tórax se considera un criterio mayor de Framingham?",
+        "options": [
+            { "text": "Cardiomegalia.", "isCorrect": true },
+            { "text": "Derrame pleural.", "isCorrect": false },
+            { "text": "Edema pulmonar.", "isCorrect": false },
+            { "text": "Taquicardia.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! El documento menciona que la cardiomegalia y el edema pulmonar son criterios mayores de Framingham. El derrame pleural y la taquicardia son criterios menores. La radiografía de tórax es una herramienta de ayuda diagnóstica básica para el estudio de los pacientes con síntomas sugestivos de insuficiencia cardiaca.",
+            "incorrect": "Incorrecto. La respuesta correcta es cardiomegalia. La cardiomegalia y el edema pulmonar son criterios mayores de Framingham. El derrame pleural y la taquicardia son criterios menores."
+        }
+    },
+    {
+        "question": "Un paciente con síntomas de insuficiencia cardiaca es evaluado con ecocardiografía. Se encuentra una FEVI del 55%. ¿Cómo se clasifica a este paciente?",
+        "options": [
+            { "text": "Insuficiencia cardiaca con función reducida.", "isCorrect": false },
+            { "text": "Insuficiencia cardiaca con función levemente reducida.", "isCorrect": false },
+            { "text": "Insuficiencia cardiaca con función preservada.", "isCorrect": true },
+            { "text": "Insuficiencia cardiaca sin diagnóstico claro.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! El documento menciona que la insuficiencia cardiaca con función preservada se clasifica cuando la fracción de eyección del ventrículo izquierdo es igual o mayor a 50%. En este caso, la FEVI es del 55%, por lo que se clasifica como insuficiencia cardiaca con función preservada.",
+            "incorrect": "Incorrecto. La respuesta correcta es insuficiencia cardiaca con función preservada. El documento menciona que la insuficiencia cardiaca con función preservada se clasifica cuando la fracción de eyección del ventrículo izquierdo es igual o mayor a 50%."
+        }
+    },
+    {
+        "question": "Un paciente con síntomas de insuficiencia cardiaca con función preservada (ICFEp) es evaluado con ecocardiografía. El médico sospecha una miocardiopatía subyacente. ¿Qué marcador es más sensible para detectar una disfunción sistólica temprana?",
+        "options": [
+            { "text": "La relación E/E' septal.", "isCorrect": false },
+            { "text": "El índice de volumen auricular izquierdo.", "isCorrect": false },
+            { "text": "La deformación longitudinal global (DLG).", "isCorrect": true },
+            { "text": "La velocidad de regurgitación tricúspide (VRT).", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! La deformación longitudinal global (DLG) es un marcador más sensible para detectar una disfunción sistólica temprana. Es un parámetro que se utiliza para detectar patrones de ojo de buey en los pacientes con insuficiencia cardiaca con función preservada y ayudar a identificar una miocardiopatía subyacente.",
+            "incorrect": "Incorrecto. La respuesta correcta es la deformación longitudinal global (DLG). El DLG es un marcador más sensible para detectar una disfunción sistólica temprana en pacientes con insuficiencia cardiaca con función preservada. La relación E/E' septal y el índice de volumen auricular izquierdo son indicadores de la función diastólica y la presión de llenado."
+        }
+    },
+    {
+        "question": "Un paciente con insuficiencia cardiaca con función preservada (ICFEp) es evaluado con ecocardiografía. El médico sospecha una miocardiopatía subyacente. ¿Qué patrón de ojo de buey en los pacientes con ICFEp ayuda a identificar una miocardiopatía subyacente?",
+        "options": [
+            { "text": "Deformación longitudinal global (DLG).", "isCorrect": true },
+            { "text": "Relación E/E' septal.", "isCorrect": false },
+            { "text": "Índice de volumen auricular izquierdo.", "isCorrect": false },
+            { "text": "Velocidad de regurgitación tricúspide (VRT).", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! La deformación longitudinal global (DLG) es un marcador que se utiliza para detectar patrones de ojo de buey en los pacientes con insuficiencia cardiaca con función preservada y ayuda a identificar una miocardiopatía subyacente.",
+            "incorrect": "Incorrecto. La respuesta correcta es la deformación longitudinal global (DLG). La deformación longitudinal global (DLG) es un marcador que se utiliza para detectar patrones de ojo de buey en los pacientes con insuficiencia cardiaca con función preservada y ayuda a identificar una miocardiopatía subyacente."
+        }
+    },
+    {
+        "question": "El documento menciona que el diagnóstico de la insuficiencia cardiaca requiere la presencia de síntomas de la enfermedad y la demostración de alteraciones estructurales o funcionales en la ecocardiografía. ¿Qué otro hallazgo es necesario para el diagnóstico?",
+        "options": [
+            { "text": "Demostrar congestión en el examen físico o en los paraclínicos o elevación de los péptidos natriuréticos.", "isCorrect": true },
+            { "text": "El diagnóstico es clínico y no requiere la demostración de alteraciones estructurales o funcionales.", "isCorrect": false },
+            { "text": "El diagnóstico se basa únicamente en la historia previa de infarto de miocardio, hipertensión arterial, diabetes o valvulopatías.", "isCorrect": false },
+            { "text": "El diagnóstico se basa únicamente en la elevación de los péptidos natriuréticos.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! El diagnóstico de la insuficiencia cardiaca requiere la presencia de síntomas de la enfermedad y la demostración de alteraciones estructurales o funcionales en la ecocardiografía. Además, se debe demostrar congestión en el examen físico o en los paraclínicos o la elevación de los péptidos natriuréticos.",
+            "incorrect": "Incorrecto. La respuesta correcta es que se debe demostrar congestión en el examen físico o en los paraclínicos o elevación de los péptidos natriuréticos. El diagnóstico actual requiere la presencia de síntomas de la enfermedad y la demostración de alteraciones estructurales o funcionales en la ecocardiografía. Además, se debe demostrar congestión en el examen físico o en los paraclínicos o la elevación de los péptidos natriuréticos."
+        }
+    },
+    {
+        "question": "La insuficiencia cardiaca es una enfermedad de alta prevalencia. ¿A qué porcentaje de los adultos afecta en el mundo?",
+        "options": [
+            { "text": "1%.", "isCorrect": false },
+            { "text": "2%.", "isCorrect": true },
+            { "text": "5%.", "isCorrect": false },
+            { "text": "10%.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! El documento menciona que la insuficiencia cardiaca es una enfermedad de alta prevalencia que afecta al 2% de los adultos en el mundo. La incidencia se incrementa después de la sexta década de la vida.",
+            "incorrect": "Incorrecto. La respuesta correcta es 2%. El documento menciona que la insuficiencia cardiaca es una enfermedad de alta prevalencia que afecta al 2% de los adultos en el mundo. La incidencia se incrementa después de la sexta década de la vida."
+        }
+    },
+    {
+        "question": "Un paciente con síntomas sugestivos de insuficiencia cardiaca es evaluado con péptidos natriuréticos. El resultado es un BNP > 100 pg/ml. ¿Qué se puede concluir de este hallazgo?",
+        "options": [
+            { "text": "Se descarta el diagnóstico de insuficiencia cardiaca.", "isCorrect": false },
+            { "text": "Se confirma el diagnóstico de insuficiencia cardiaca.", "isCorrect": true },
+            { "text": "Se necesita un ecocardiograma para el diagnóstico.", "isCorrect": false },
+            { "text": "El paciente tiene insuficiencia cardiaca con función preservada.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! El documento menciona que los puntos de corte para la sospecha de insuficiencia cardiaca en un paciente ambulatorio son un BNP > 100 pg/ml y un NT-proBNP > 300 pg/ml. En este caso, el BNP es > 100 pg/ml, por lo que se confirma el diagnóstico de insuficiencia cardiaca.",
+            "incorrect": "Incorrecto. La respuesta correcta es que se confirma el diagnóstico de insuficiencia cardiaca. El documento menciona que los puntos de corte para la sospecha de insuficiencia cardiaca en un paciente ambulatorio son un BNP > 100 pg/ml y un NT-proBNP > 300 pg/ml. En este caso, el BNP es > 100 pg/ml, por lo que se confirma el diagnóstico de insuficiencia cardiaca."
+        }
+    },
+    {
+        "question": "La ecocardiografía proporciona información sobre la fracción de eyección del ventrículo izquierdo (FEVI). ¿Cómo se define la FEVI?",
+        "options": [
+            { "text": "La capacidad del corazón para relajarse y llenarse.", "isCorrect": false },
+            { "text": "El porcentaje de sangre que sale del corazón en cada latido.", "isCorrect": true },
+            { "text": "La capacidad del corazón para ejercer su función de enviar la sangre a los diferentes órganos y tejidos del cuerpo.", "isCorrect": false },
+            { "text": "La incapacidad del corazón para mantener un gasto cardíaco adecuado para perfundir los órganos.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! La fracción de eyección del ventrículo izquierdo (FEVI) es la medida de cuánta sangre bombea el ventrículo izquierdo con cada contracción. Se expresa en un porcentaje, y se usa para clasificar la insuficiencia cardiaca.",
+            "incorrect": "Incorrecto. La respuesta correcta es el porcentaje de sangre que sale del corazón en cada latido. La fracción de eyección del ventrículo izquierdo (FEVI) es la medida de cuánta sangre bombea el ventrículo izquierdo con cada contracción. Se expresa en un porcentaje, y se usa para clasificar la insuficiencia cardiaca."
+        }
+    },
+    {
+        "question": "El diagnóstico de insuficiencia cardiaca requiere la presencia de síntomas de la enfermedad. ¿Cuál de los siguientes no es un síntoma cardinal de la enfermedad?",
+        "options": [
+            { "text": "La disnea.", "isCorrect": false },
+            { "text": "El edema periférico.", "isCorrect": false },
+            { "text": "La fatiga.", "isCorrect": false },
+            { "text": "La hipertensión arterial.", "isCorrect": true }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! La hipertensión arterial es una de las causas de la insuficiencia cardiaca, pero no es un síntoma de la enfermedad. Los síntomas cardinales de la enfermedad son la disnea, el edema periférico y la fatiga, entre otros.",
+            "incorrect": "Incorrecto. La respuesta correcta es la hipertensión arterial. La hipertensión arterial es una de las causas de la insuficiencia cardiaca, pero no es un síntoma de la enfermedad. Los síntomas cardinales de la enfermedad son la disnea, el edema periférico y la fatiga, entre otros."
+        }
+    },
+    {
+        "question": "Un paciente con sospecha de insuficiencia cardiaca presenta una disnea con esfuerzos. ¿Qué criterio de Framingham se utiliza para esta manifestación clínica?",
+        "options": [
+            { "text": "Criterio mayor.", "isCorrect": false },
+            { "text": "Criterio menor.", "isCorrect": true },
+            { "text": "Criterio mayor y menor.", "isCorrect": false },
+            { "text": "No es un criterio de Framingham.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! La disnea con esfuerzos es un criterio menor de Framingham. La ortopnea, la distensión yugular, el reflejo hepatoyugular, los crépitos pulmonares, el S3, el edema pulmonar y la cardiomegalia son criterios mayores de Framingham.",
+            "incorrect": "Incorrecto. La respuesta correcta es criterio menor. La disnea con esfuerzos es un criterio menor de Framingham. La ortopnea, la distensión yugular, el reflejo hepatoyugular, los crépitos pulmonares, el S3, el edema pulmonar y la cardiomegalia son criterios mayores de Framingham."
+        }
+    },
+    {
+        "question": "El documento menciona que el diagnóstico actual de insuficiencia cardiaca requiere la presencia de síntomas de la enfermedad y la demostración de alteraciones estructurales o funcionales en la ecocardiografía. ¿Qué otro hallazgo es necesario para el diagnóstico?",
+        "options": [
+            { "text": "Demostrar congestión en el examen físico o en los paraclínicos o elevación de los péptidos natriuréticos.", "isCorrect": true },
+            { "text": "El diagnóstico es clínico y no requiere la demostración de alteraciones estructurales o funcionales.", "isCorrect": false },
+            { "text": "El diagnóstico se basa únicamente en la historia previa de infarto de miocardio, hipertensión arterial, diabetes o valvulopatías.", "isCorrect": false },
+            { "text": "El diagnóstico se basa únicamente en la elevación de los péptidos natriuréticos.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! El diagnóstico de la insuficiencia cardiaca requiere la presencia de síntomas de la enfermedad y la demostración de alteraciones estructurales o funcionales en la ecocardiografía. Además, se debe demostrar congestión en el examen físico o en los paraclínicos o la elevación de los péptidos natriuréticos.",
+            "incorrect": "Incorrecto. La respuesta correcta es que se debe demostrar congestión en el examen físico o en los paraclínicos o elevación de los péptidos natriuréticos. El diagnóstico actual requiere la presencia de síntomas de la enfermedad y la demostración de alteraciones estructurales o funcionales en la ecocardiografía. Además, se debe demostrar congestión en el examen físico o en los paraclínicos o la elevación de los péptidos natriuréticos."
+        }
+    },
+    {
+        "question": "Un paciente con síntomas sugestivos de insuficiencia cardiaca es evaluado con péptidos natriuréticos. El resultado es un NT-proBNP < 300 pg/ml. ¿Qué se puede concluir de este hallazgo?",
+        "options": [
+            { "text": "Se descarta el diagnóstico de insuficiencia cardiaca.", "isCorrect": true },
+            { "text": "Se confirma el diagnóstico de insuficiencia cardiaca.", "isCorrect": false },
+            { "text": "Se necesita un ecocardiograma para el diagnóstico.", "isCorrect": false },
+            { "text": "El paciente tiene insuficiencia cardiaca con función reducida.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! El documento menciona que los péptidos natriuréticos se utilizan para diferenciar la insuficiencia cardiaca de otras causas de disnea. Los puntos de corte para excluir el diagnóstico de insuficiencia cardiaca en un paciente ambulatorio son un BNP < 35 pg/ml o un NT-proBNP < 125 pg/ml. En este caso, el NT-proBNP es < 300 pg/ml, por lo que se descarta el diagnóstico de insuficiencia cardiaca.",
+            "incorrect": "Incorrecto. La respuesta correcta es que se descarta el diagnóstico de insuficiencia cardiaca. El documento menciona que los péptidos natriuréticos se utilizan para diferenciar la insuficiencia cardiaca de otras causas de disnea. Los puntos de corte para excluir el diagnóstico de insuficiencia cardiaca en un paciente ambulatorio son un BNP < 35 pg/ml o un NT-proBNP < 125 pg/ml. En este caso, el NT-proBNP es < 300 pg/ml, por lo que se descarta el diagnóstico de insuficiencia cardiaca."
+        }
+    },
+    {
+        "question": "Un paciente con disnea, fatiga y edema periférico se le realiza un ecocardiograma. Se encuentra que la relación E/E' es mayor de 15. ¿Qué indica este hallazgo?",
+        "options": [
+            { "text": "Una baja presión de llenado del ventrículo izquierdo.", "isCorrect": false },
+            { "text": "Una alta presión de llenado del ventrículo izquierdo.", "isCorrect": true },
+            { "text": "Una dilatación moderada del ventrículo derecho.", "isCorrect": false },
+            { "text": "Una función ventricular izquierda preservada.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! El documento menciona que un valor de E/E' mayor de 15 predice una alta presión de llenado del ventrículo izquierdo. Esto es un indicador de la función diastólica del corazón, que es clave para el diagnóstico de insuficiencia cardiaca con función preservada.",
+            "incorrect": "Incorrecto. La respuesta correcta es una alta presión de llenado del ventrículo izquierdo. El documento menciona que un valor de E/E' mayor de 15 predice una alta presión de llenado del ventrículo izquierdo. Esto es un indicador de la función diastólica del corazón."
+        }
+    },
+    {
+        "question": "Un paciente con síntomas sugestivos de insuficiencia cardiaca es evaluado con péptidos natriuréticos. El resultado es un BNP > 100 pg/ml y un NT-proBNP > 300 pg/ml. ¿Qué se puede concluir de este hallazgo?",
+        "options": [
+            { "text": "Se descarta el diagnóstico de insuficiencia cardiaca.", "isCorrect": false },
+            { "text": "Se confirma el diagnóstico de insuficiencia cardiaca.", "isCorrect": true },
+            { "text": "Se necesita un ecocardiograma para el diagnóstico.", "isCorrect": false },
+            { "text": "El paciente tiene insuficiencia cardiaca con función reducida.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! El documento menciona que los puntos de corte para la sospecha de insuficiencia cardiaca en un paciente ambulatorio son un BNP > 100 pg/ml y un NT-proBNP > 300 pg/ml. En este caso, los valores son superiores a los puntos de corte, por lo que se confirma el diagnóstico de insuficiencia cardiaca.",
+            "incorrect": "Incorrecto. La respuesta correcta es que se confirma el diagnóstico de insuficiencia cardiaca. El documento menciona que los puntos de corte para la sospecha de insuficiencia cardiaca en un paciente ambulatorio son un BNP > 100 pg/ml y un NT-proBNP > 300 pg/ml. En este caso, los valores son superiores a los puntos de corte, por lo que se confirma el diagnóstico de insuficiencia cardiaca."
+        }
+    },
+    {
+        "question": "Un paciente con síntomas de insuficiencia cardiaca con función preservada (ICFEp) es evaluado con ecocardiografía. El médico sospecha una miocardiopatía subyacente. ¿Qué marcador es más sensible para detectar una disfunción sistólica temprana?",
+        "options": [
+            { "text": "La relación E/E' septal.", "isCorrect": false },
+            { "text": "El índice de volumen auricular izquierdo.", "isCorrect": false },
+            { "text": "La deformación longitudinal global (DLG).", "isCorrect": true },
+            { "text": "La velocidad de regurgitación tricúspide (VRT).", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! La deformación longitudinal global (DLG) es un marcador más sensible para detectar una disfunción sistólica temprana. Es un parámetro que se utiliza para detectar patrones de ojo de buey en los pacientes con insuficiencia cardiaca con función preservada y ayudar a identificar una miocardiopatía subyacente.",
+            "incorrect": "Incorrecto. La respuesta correcta es la deformación longitudinal global (DLG). El DLG es un marcador más sensible para detectar una disfunción sistólica temprana en pacientes con insuficiencia cardiaca con función preservada. La relación E/E' septal y el índice de volumen auricular izquierdo son indicadores de la función diastólica y la presión de llenado."
+        }
+    },
+    {
+        "question": "Un paciente con insuficiencia cardiaca con función preservada (ICFEp) es evaluado con ecocardiografía. El médico sospecha una miocardiopatía subyacente. ¿Qué patrón de ojo de buey en los pacientes con ICFEp ayuda a identificar una miocardiopatía subyacente?",
+        "options": [
+            { "text": "Deformación longitudinal global (DLG).", "isCorrect": true },
+            { "text": "Relación E/E' septal.", "isCorrect": false },
+            { "text": "Índice de volumen auricular izquierdo.", "isCorrect": false },
+            { "text": "Velocidad de regurgitación tricúspide (VRT).", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! La deformación longitudinal global (DLG) es un marcador que se utiliza para detectar patrones de ojo de buey en los pacientes con insuficiencia cardiaca con función preservada y ayuda a identificar una miocardiopatía subyacente.",
+            "incorrect": "Incorrecto. La respuesta correcta es la deformación longitudinal global (DLG). La deformación longitudinal global (DLG) es un marcador que se utiliza para detectar patrones de ojo de buey en los pacientes con insuficiencia cardiaca con función preservada y ayuda a identificar una miocardiopatía subyacente."
+        }
+    },
+    {
+        "question": "El diagnóstico de insuficiencia cardiaca requiere la presencia de síntomas de la enfermedad y la demostración de alteraciones estructurales o funcionales en la ecocardiografía. ¿Qué otro hallazgo es necesario para el diagnóstico?",
+        "options": [
+            { "text": "Demostrar congestión en el examen físico o en los paraclínicos o elevación de los péptidos natriuréticos.", "isCorrect": true },
+            { "text": "El diagnóstico es clínico y no requiere la demostración de alteraciones estructurales o funcionales.", "isCorrect": false },
+            { "text": "El diagnóstico se basa únicamente en la historia previa de infarto de miocardio, hipertensión arterial, diabetes o valvulopatías.", "isCorrect": false },
+            { "text": "El diagnóstico se basa únicamente en la elevación de los péptidos natriuréticos.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! El diagnóstico de la insuficiencia cardiaca requiere la presencia de síntomas de la enfermedad y la demostración de alteraciones estructurales o funcionales en la ecocardiografía. Además, se debe demostrar congestión en el examen físico o en los paraclínicos o la elevación de los péptidos natriuréticos.",
+            "incorrect": "Incorrecto. La respuesta correcta es que se debe demostrar congestión en el examen físico o en los paraclínicos o elevación de los péptidos natriuréticos. El diagnóstico actual requiere la presencia de síntomas de la enfermedad y la demostración de alteraciones estructurales o funcionales en la ecocardiografía. Además, se debe demostrar congestión en el examen físico o en los paraclínicos o la elevación de los péptidos natriuréticos."
+        }
+    },
+    {
+        "question": "La insuficiencia cardiaca es una enfermedad de alta prevalencia. ¿A qué porcentaje de los adultos afecta en el mundo?",
+        "options": [
+            { "text": "1%.", "isCorrect": false },
+            { "text": "2%.", "isCorrect": true },
+            { "text": "5%.", "isCorrect": false },
+            { "text": "10%.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! El documento menciona que la insuficiencia cardiaca es una enfermedad de alta prevalencia que afecta al 2% de los adultos en el mundo. La incidencia se incrementa después de la sexta década de la vida.",
+            "incorrect": "Incorrecto. La respuesta correcta es 2%. El documento menciona que la insuficiencia cardiaca es una enfermedad de alta prevalencia que afecta al 2% de los adultos en el mundo. La incidencia se incrementa después de la sexta década de la vida."
+        }
+    },
+    {
+        "question": "Un paciente con síntomas sugestivos de insuficiencia cardiaca es evaluado con péptidos natriuréticos. El resultado es un BNP > 100 pg/ml y un NT-proBNP > 300 pg/ml. ¿Qué se puede concluir de este hallazgo?",
+        "options": [
+            { "text": "Se descarta el diagnóstico de insuficiencia cardiaca.", "isCorrect": false },
+            { "text": "Se confirma el diagnóstico de insuficiencia cardiaca.", "isCorrect": true },
+            { "text": "Se necesita un ecocardiograma para el diagnóstico.", "isCorrect": false },
+            { "text": "El paciente tiene insuficiencia cardiaca con función reducida.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! El documento menciona que los puntos de corte para la sospecha de insuficiencia cardiaca en un paciente ambulatorio son un BNP > 100 pg/ml y un NT-proBNP > 300 pg/ml. En este caso, los valores son superiores a los puntos de corte, por lo que se confirma el diagnóstico de insuficiencia cardiaca.",
+            "incorrect": "Incorrecto. La respuesta correcta es que se confirma el diagnóstico de insuficiencia cardiaca. El documento menciona que los puntos de corte para la sospecha de insuficiencia cardiaca en un paciente ambulatorio son un BNP > 100 pg/ml y un NT-proBNP > 300 pg/ml. En este caso, los valores son superiores a los puntos de corte, por lo que se confirma el diagnóstico de insuficiencia cardiaca."
+        }
+    },
+    {
+        "question": "La ecocardiografía proporciona información sobre la fracción de eyección del ventrículo izquierdo (FEVI). ¿Cómo se define la FEVI?",
+        "options": [
+            { "text": "La capacidad del corazón para relajarse y llenarse.", "isCorrect": false },
+            { "text": "El porcentaje de sangre que sale del corazón en cada latido.", "isCorrect": true },
+            { "text": "La capacidad del corazón para ejercer su función de enviar la sangre a los diferentes órganos y tejidos del cuerpo.", "isCorrect": false },
+            { "text": "La incapacidad del corazón para mantener un gasto cardíaco adecuado para perfundir los órganos.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! La fracción de eyección del ventrículo izquierdo (FEVI) es la medida de cuánta sangre bombea el ventrículo izquierdo con cada contracción. Se expresa en un porcentaje, y se usa para clasificar la insuficiencia cardiaca.",
+            "incorrect": "Incorrecto. La respuesta correcta es el porcentaje de sangre que sale del corazón en cada latido. La fracción de eyección del ventrículo izquierdo (FEVI) es la medida de cuánta sangre bombea el ventrículo izquierdo con cada contracción. Se expresa en un porcentaje, y se usa para clasificar la insuficiencia cardiaca."
+        }
+    },
+    {
+        "question": "El diagnóstico de insuficiencia cardiaca requiere la presencia de síntomas de la enfermedad. ¿Cuál de los siguientes no es un síntoma cardinal de la enfermedad?",
+        "options": [
+            { "text": "La disnea.", "isCorrect": false },
+            { "text": "El edema periférico.", "isCorrect": false },
+            { "text": "La fatiga.", "isCorrect": false },
+            { "text": "La hipertensión arterial.", "isCorrect": true }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! La hipertensión arterial es una de las causas de la insuficiencia cardiaca, pero no es un síntoma de la enfermedad. Los síntomas cardinales de la enfermedad son la disnea, el edema periférico y la fatiga, entre otros.",
+            "incorrect": "Incorrecto. La respuesta correcta es la hipertensión arterial. La hipertensión arterial es una de las causas de la insuficiencia cardiaca, pero no es un síntoma de la enfermedad. Los síntomas cardinales de la enfermedad son la disnea, el edema periférico y la fatiga, entre otros."
+        }
+    },
+    {
+        "question": "Un paciente con sospecha de insuficiencia cardiaca presenta una disnea con esfuerzos. ¿Qué criterio de Framingham se utiliza para esta manifestación clínica?",
+        "options": [
+            { "text": "Criterio mayor.", "isCorrect": false },
+            { "text": "Criterio menor.", "isCorrect": true },
+            { "text": "Criterio mayor y menor.", "isCorrect": false },
+            { "text": "No es un criterio de Framingham.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! La disnea con esfuerzos es un criterio menor de Framingham. La ortopnea, la distensión yugular, el reflejo hepatoyugular, los crépitos pulmonares, el S3, el edema pulmonar y la cardiomegalia son criterios mayores de Framingham.",
+            "incorrect": "Incorrecto. La respuesta correcta es criterio menor. La disnea con esfuerzos es un criterio menor de Framingham. La ortopnea, la distensión yugular, el reflejo hepatoyugular, los crépitos pulmonares, el S3, el edema pulmonar y la cardiomegalia son criterios mayores de Framingham."
+        }
+    },
+    {
+        "question": "El documento menciona que el diagnóstico actual de insuficiencia cardiaca requiere la presencia de síntomas de la enfermedad y la demostración de alteraciones estructurales o funcionales en la ecocardiografía. ¿Qué otro hallazgo es necesario para el diagnóstico?",
+        "options": [
+            { "text": "Demostrar congestión en el examen físico o en los paraclínicos o elevación de los péptidos natriuréticos.", "isCorrect": true },
+            { "text": "El diagnóstico es clínico y no requiere la demostración de alteraciones estructurales o funcionales.", "isCorrect": false },
+            { "text": "El diagnóstico se basa únicamente en la historia previa de infarto de miocardio, hipertensión arterial, diabetes o valvulopatías.", "isCorrect": false },
+            { "text": "El diagnóstico se basa únicamente en la elevación de los péptidos natriuréticos.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! El diagnóstico de la insuficiencia cardiaca requiere la presencia de síntomas de la enfermedad y la demostración de alteraciones estructurales o funcionales en la ecocardiografía. Además, se debe demostrar congestión en el examen físico o en los paraclínicos o la elevación de los péptidos natriuréticos.",
+            "incorrect": "Incorrecto. La respuesta correcta es que se debe demostrar congestión en el examen físico o en los paraclínicos o elevación de los péptidos natriuréticos. El diagnóstico actual requiere la presencia de síntomas de la enfermedad y la demostración de alteraciones estructurales o funcionales en la ecocardiografía. Además, se debe demostrar congestión en el examen físico o en los paraclínicos o la elevación de los péptidos natriuréticos."
+        }
+    },
+    {
+        "question": "Un paciente con síntomas sugestivos de insuficiencia cardiaca es evaluado con péptidos natriuréticos. El resultado es un NT-proBNP < 300 pg/ml. ¿Qué se puede concluir de este hallazgo?",
+        "options": [
+            { "text": "Se descarta el diagnóstico de insuficiencia cardiaca.", "isCorrect": true },
+            { "text": "Se confirma el diagnóstico de insuficiencia cardiaca.", "isCorrect": false },
+            { "text": "Se necesita un ecocardiograma para el diagnóstico.", "isCorrect": false },
+            { "text": "El paciente tiene insuficiencia cardiaca con función reducida.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! El documento menciona que los péptidos natriuréticos se utilizan para diferenciar la insuficiencia cardiaca de otras causas de disnea. Los puntos de corte para excluir el diagnóstico de insuficiencia cardiaca en un paciente ambulatorio son un BNP < 35 pg/ml o un NT-proBNP < 125 pg/ml. En este caso, el NT-proBNP es < 300 pg/ml, por lo que se descarta el diagnóstico de insuficiencia cardiaca.",
+            "incorrect": "Incorrecto. La respuesta correcta es que se descarta el diagnóstico de insuficiencia cardiaca. El documento menciona que los péptidos natriuréticos se utilizan para diferenciar la insuficiencia cardiaca de otras causas de disnea. Los puntos de corte para excluir el diagnóstico de insuficiencia cardiaca en un paciente ambulatorio son un BNP < 35 pg/ml o un NT-proBNP < 125 pg/ml. En este caso, el NT-proBNP es < 300 pg/ml, por lo que se descarta el diagnóstico de insuficiencia cardiaca."
+        }
+    },
+    {
+        "question": "Un paciente con disnea, fatiga y edema periférico se le realiza un ecocardiograma. Se encuentra que la relación E/E' es mayor de 15. ¿Qué indica este hallazgo?",
+        "options": [
+            { "text": "Una baja presión de llenado del ventrículo izquierdo.", "isCorrect": false },
+            { "text": "Una alta presión de llenado del ventrículo izquierdo.", "isCorrect": true },
+            { "text": "Una dilatación moderada del ventrículo derecho.", "isCorrect": false },
+            { "text": "Una función ventricular izquierda preservada.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! El documento menciona que un valor de E/E' mayor de 15 predice una alta presión de llenado del ventrículo izquierdo. Esto es un indicador de la función diastólica del corazón, que es clave para el diagnóstico de insuficiencia cardiaca con función preservada.",
+            "incorrect": "Incorrecto. La respuesta correcta es una alta presión de llenado del ventrículo izquierdo. El documento menciona que un valor de E/E' mayor de 15 predice una alta presión de llenado del ventrículo izquierdo. Esto es un indicador de la función diastólica del corazón."
+        }
+    },
+    {
+        "question": "Un paciente con síntomas sugestivos de insuficiencia cardiaca es evaluado con péptidos natriuréticos. El resultado es un BNP > 100 pg/ml y un NT-proBNP > 300 pg/ml. ¿Qué se puede concluir de este hallazgo?",
+        "options": [
+            { "text": "Se descarta el diagnóstico de insuficiencia cardiaca.", "isCorrect": false },
+            { "text": "Se confirma el diagnóstico de insuficiencia cardiaca.", "isCorrect": true },
+            { "text": "Se necesita un ecocardiograma para el diagnóstico.", "isCorrect": false },
+            { "text": "El paciente tiene insuficiencia cardiaca con función reducida.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! El documento menciona que los puntos de corte para la sospecha de insuficiencia cardiaca en un paciente ambulatorio son un BNP > 100 pg/ml y un NT-proBNP > 300 pg/ml. En este caso, los valores son superiores a los puntos de corte, por lo que se confirma el diagnóstico de insuficiencia cardiaca.",
+            "incorrect": "Incorrecto. La respuesta correcta es que se confirma el diagnóstico de insuficiencia cardiaca. El documento menciona que los puntos de corte para la sospecha de insuficiencia cardiaca en un paciente ambulatorio son un BNP > 100 pg/ml y un NT-proBNP > 300 pg/ml. En este caso, los valores son superiores a los puntos de corte, por lo que se confirma el diagnóstico de insuficiencia cardiaca."
+        }
+    },
+    {
+        "question": "Un paciente con síntomas de insuficiencia cardiaca con función preservada (ICFEp) es evaluado con ecocardiografía. El médico sospecha una miocardiopatía subyacente. ¿Qué marcador es más sensible para detectar una disfunción sistólica temprana?",
+        "options": [
+            { "text": "La relación E/E' septal.", "isCorrect": false },
+            { "text": "El índice de volumen auricular izquierdo.", "isCorrect": false },
+            { "text": "La deformación longitudinal global (DLG).", "isCorrect": true },
+            { "text": "La velocidad de regurgitación tricúspide (VRT).", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! La deformación longitudinal global (DLG) es un marcador más sensible para detectar una disfunción sistólica temprana. Es un parámetro que se utiliza para detectar patrones de ojo de buey en los pacientes con insuficiencia cardiaca con función preservada y ayudar a identificar una miocardiopatía subyacente.",
+            "incorrect": "Incorrecto. La respuesta correcta es la deformación longitudinal global (DLG). El DLG es un marcador más sensible para detectar una disfunción sistólica temprana en pacientes con insuficiencia cardiaca con función preservada. La relación E/E' septal y el índice de volumen auricular izquierdo son indicadores de la función diastólica y la presión de llenado."
+        }
+    },
+    {
+        "question": "Un paciente con insuficiencia cardiaca con función preservada (ICFEp) es evaluado con ecocardiografía. El médico sospecha una miocardiopatía subyacente. ¿Qué patrón de ojo de buey en los pacientes con ICFEp ayuda a identificar una miocardiopatía subyacente?",
+        "options": [
+            { "text": "Deformación longitudinal global (DLG).", "isCorrect": true },
+            { "text": "Relación E/E' septal.", "isCorrect": false },
+            { "text": "Índice de volumen auricular izquierdo.", "isCorrect": false },
+            { "text": "Velocidad de regurgitación tricúspide (VRT).", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! La deformación longitudinal global (DLG) es un marcador que se utiliza para detectar patrones de ojo de buey en los pacientes con insuficiencia cardiaca con función preservada y ayuda a identificar una miocardiopatía subyacente.",
+            "incorrect": "Incorrecto. La respuesta correcta es la deformación longitudinal global (DLG). La deformación longitudinal global (DLG) es un marcador que se utiliza para detectar patrones de ojo de buey en los pacientes con insuficiencia cardiaca con función preservada y ayuda a identificar una miocardiopatía subyacente."
+        }
+    },
+    {
+        "question": "El diagnóstico de insuficiencia cardiaca requiere la presencia de síntomas de la enfermedad y la demostración de alteraciones estructurales o funcionales en la ecocardiografía. ¿Qué otro hallazgo es necesario para el diagnóstico?",
+        "options": [
+            { "text": "Demostrar congestión en el examen físico o en los paraclínicos o elevación de los péptidos natriuréticos.", "isCorrect": true },
+            { "text": "El diagnóstico es clínico y no requiere la demostración de alteraciones estructurales o funcionales.", "isCorrect": false },
+            { "text": "El diagnóstico se basa únicamente en la historia previa de infarto de miocardio, hipertensión arterial, diabetes o valvulopatías.", "isCorrect": false },
+            { "text": "El diagnóstico se basa únicamente en la elevación de los péptidos natriuréticos.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! El diagnóstico de la insuficiencia cardiaca requiere la presencia de síntomas de la enfermedad y la demostración de alteraciones estructurales o funcionales en la ecocardiografía. Además, se debe demostrar congestión en el examen físico o en los paraclínicos o la elevación de los péptidos natriuréticos.",
+            "incorrect": "Incorrecto. La respuesta correcta es que se debe demostrar congestión en el examen físico o en los paraclínicos o elevación de los péptidos natriuréticos. El diagnóstico actual requiere la presencia de síntomas de la enfermedad y la demostración de alteraciones estructurales o funcionales en la ecocardiografía. Además, se debe demostrar congestión en el examen físico o en los paraclóinicos o la elevación de los péptidos natriuréticos."
+        }
+    },
+    {
+        "question": "La insuficiencia cardiaca es una enfermedad de alta prevalencia. ¿A qué porcentaje de los adultos afecta en el mundo?",
+        "options": [
+            { "text": "1%.", "isCorrect": false },
+            { "text": "2%.", "isCorrect": true },
+            { "text": "5%.", "isCorrect": false },
+            { "text": "10%.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! El documento menciona que la insuficiencia cardiaca es una enfermedad de alta prevalencia que afecta al 2% de los adultos en el mundo. La incidencia se incrementa después de la sexta década de la vida.",
+            "incorrect": "Incorrecto. La respuesta correcta es 2%. El documento menciona que la insuficiencia cardiaca es una enfermedad de alta prevalencia que afecta al 2% de los adultos en el mundo. La incidencia se incrementa después de la sexta década de la vida."
+        }
+    },
+    {
+        "question": "Un paciente con síntomas sugestivos de insuficiencia cardiaca es evaluado con péptidos natriuréticos. El resultado es un BNP > 100 pg/ml y un NT-proBNP > 300 pg/ml. ¿Qué se puede concluir de este hallazgo?",
+        "options": [
+            { "text": "Se descarta el diagnóstico de insuficiencia cardiaca.", "isCorrect": false },
+            { "text": "Se confirma el diagnóstico de insuficiencia cardiaca.", "isCorrect": true },
+            { "text": "Se necesita un ecocardiograma para el diagnóstico.", "isCorrect": false },
+            { "text": "El paciente tiene insuficiencia cardiaca con función reducida.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! El documento menciona que los puntos de corte para la sospecha de insuficiencia cardiaca en un paciente ambulatorio son un BNP > 100 pg/ml y un NT-proBNP > 300 pg/ml. En este caso, los valores son superiores a los puntos de corte, por lo que se confirma el diagnóstico de insuficiencia cardiaca.",
+            "incorrect": "Incorrecto. La respuesta correcta es que se confirma el diagnóstico de insuficiencia cardiaca. El documento menciona que los puntos de corte para la sospecha de insuficiencia cardiaca en un paciente ambulatorio son un BNP > 100 pg/ml y un NT-proBNP > 300 pg/ml. En este caso, los valores son superiores a los puntos de corte, por lo que se confirma el diagnóstico de insuficiencia cardiaca."
+        }
+    },
+    {
+        "question": "La ecocardiografía proporciona información sobre la fracción de eyección del ventrículo izquierdo (FEVI). ¿Cómo se define la FEVI?",
+        "options": [
+            { "text": "La capacidad del corazón para relajarse y llenarse.", "isCorrect": false },
+            { "text": "El porcentaje de sangre que sale del corazón en cada latido.", "isCorrect": true },
+            { "text": "La capacidad del corazón para ejercer su función de enviar la sangre a los diferentes órganos y tejidos del cuerpo.", "isCorrect": false },
+            { "text": "La incapacidad del corazón para mantener un gasto cardíaco adecuado para perfundir los órganos.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! La fracción de eyección del ventrículo izquierdo (FEVI) es la medida de cuánta sangre bombea el ventrículo izquierdo con cada contracción. Se expresa en un porcentaje, y se usa para clasificar la insuficiencia cardiaca.",
+            "incorrect": "Incorrecto. La respuesta correcta es el porcentaje de sangre que sale del corazón en cada latido. La fracción de eyección del ventrículo izquierdo (FEVI) es la medida de cuánta sangre bombea el ventrículo izquierdo con cada contracción. Se expresa en un porcentaje, y se usa para clasificar la insuficiencia cardiaca."
+        }
+    },
+    {
+        "question": "El diagnóstico de insuficiencia cardiaca requiere la presencia de síntomas de la enfermedad. ¿Cuál de los siguientes no es un síntoma cardinal de la enfermedad?",
+        "options": [
+            { "text": "La disnea.", "isCorrect": false },
+            { "text": "El edema periférico.", "isCorrect": false },
+            { "text": "La fatiga.", "isCorrect": false },
+            { "text": "La hipertensión arterial.", "isCorrect": true }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! La hipertensión arterial es una de las causas de la insuficiencia cardiaca, pero no es un síntoma de la enfermedad. Los síntomas cardinales de la enfermedad son la disnea, el edema periférico y la fatiga, entre otros.",
+            "incorrect": "Incorrecto. La respuesta correcta es la hipertensión arterial. La hipertensión arterial es una de las causas de la insuficiencia cardiaca, pero no es un síntoma de la enfermedad. Los síntomas cardinales de la enfermedad son la disnea, el edema periférico y la fatiga, entre otros."
+        }
+    },
+    {
+        "question": "Un paciente con sospecha de insuficiencia cardiaca presenta una disnea con esfuerzos. ¿Qué criterio de Framingham se utiliza para esta manifestación clínica?",
+        "options": [
+            { "text": "Criterio mayor.", "isCorrect": false },
+            { "text": "Criterio menor.", "isCorrect": true },
+            { "text": "Criterio mayor y menor.", "isCorrect": false },
+            { "text": "No es un criterio de Framingham.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! La disnea con esfuerzos es un criterio menor de Framingham. La ortopnea, la distensión yugular, el reflejo hepatoyugular, los crépitos pulmonares, el S3, el edema pulmonar y la cardiomegalia son criterios mayores de Framingham.",
+            "incorrect": "Incorrecto. La respuesta correcta es criterio menor. La disnea con esfuerzos es un criterio menor de Framingham. La ortopnea, la distensión yugular, el reflejo hepatoyugular, los crépitos pulmonares, el S3, el edema pulmonar y la cardiomegalia son criterios mayores de Framingham."
+        }
+    },
+    {
+        "question": "El documento menciona que el diagnóstico actual de insuficiencia cardiaca requiere la presencia de síntomas de la enfermedad y la demostración de alteraciones estructurales o funcionales en la ecocardiografía. ¿Qué otro hallazgo es necesario para el diagnóstico?",
+        "options": [
+            { "text": "Demostrar congestión en el examen físico o en los paraclínicos o elevación de los péptidos natriuréticos.", "isCorrect": true },
+            { "text": "El diagnóstico es clínico y no requiere la demostración de alteraciones estructurales o funcionales.", "isCorrect": false },
+            { "text": "El diagnóstico se basa únicamente en la historia previa de infarto de miocardio, hipertensión arterial, diabetes o valvulopatías.", "isCorrect": false },
+            { "text": "El diagnóstico se basa únicamente en la elevación de los péptidos natriuréticos.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! El diagnóstico de la insuficiencia cardiaca requiere la presencia de síntomas de la enfermedad y la demostración de alteraciones estructurales o funcionales en la ecocardiografía. Además, se debe demostrar congestión en el examen físico o en los paraclínicos o la elevación de los péptidos natriuréticos.",
+            "incorrect": "Incorrecto. La respuesta correcta es que se debe demostrar congestión en el examen físico o en los paraclínicos o elevación de los péptidos natriuréticos. El diagnóstico actual requiere la presencia de síntomas de la enfermedad y la demostración de alteraciones estructurales o funcionales en la ecocardiografía. Además, se debe demostrar congestión en el examen físico o en los paraclínicos o la elevación de los péptidos natriuréticos."
+        }
+    },
+    {
+        "question": "Un paciente con síntomas sugestivos de insuficiencia cardiaca es evaluado con péptidos natriuréticos. El resultado es un NT-proBNP < 300 pg/ml. ¿Qué se puede concluir de este hallazgo?",
+        "options": [
+            { "text": "Se descarta el diagnóstico de insuficiencia cardiaca.", "isCorrect": true },
+            { "text": "Se confirma el diagnóstico de insuficiencia cardiaca.", "isCorrect": false },
+            { "text": "Se necesita un ecocardiograma para el diagnóstico.", "isCorrect": false },
+            { "text": "El paciente tiene insuficiencia cardiaca con función reducida.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! El documento menciona que los péptidos natriuréticos se utilizan para diferenciar la insuficiencia cardiaca de otras causas de disnea. Los puntos de corte para excluir el diagnóstico de insuficiencia cardiaca en un paciente ambulatorio son un BNP < 35 pg/ml o un NT-proBNP < 125 pg/ml. En este caso, el NT-proBNP es < 300 pg/ml, por lo que se descarta el diagnóstico de insuficiencia cardiaca.",
+            "incorrect": "Incorrecto. La respuesta correcta es que se descarta el diagnóstico de insuficiencia cardiaca. El documento menciona que los péptidos natriuréticos se utilizan para diferenciar la insuficiencia cardiaca de otras causas de disnea. Los puntos de corte para excluir el diagnóstico de insuficiencia cardiaca en un paciente ambulatorio son un BNP < 35 pg/ml o un NT-proBNP < 125 pg/ml. En este caso, el NT-proBNP es < 300 pg/ml, por lo que se descarta el diagnóstico de insuficiencia cardiaca."
+        }
+    },
+    {
+        "question": "Un paciente con disnea, fatiga y edema periférico se le realiza un ecocardiograma. Se encuentra que la relación E/E' es mayor de 15. ¿Qué indica este hallazgo?",
+        "options": [
+            { "text": "Una baja presión de llenado del ventrículo izquierdo.", "isCorrect": false },
+            { "text": "Una alta presión de llenado del ventrículo izquierdo.", "isCorrect": true },
+            { "text": "Una dilatación moderada del ventrículo derecho.", "isCorrect": false },
+            { "text": "Una función ventricular izquierda preservada.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! El documento menciona que un valor de E/E' mayor de 15 predice una alta presión de llenado del ventrículo izquierdo. Esto es un indicador de la función diastólica del corazón, que es clave para el diagnóstico de insuficiencia cardiaca con función preservada.",
+            "incorrect": "Incorrecto. La respuesta correcta es una alta presión de llenado del ventrículo izquierdo. El documento menciona que un valor de E/E' mayor de 15 predice una alta presión de llenado del ventrículo izquierdo. Esto es un indicador de la función diastólica del corazón."
+        }
+    },
+    {
+        "question": "Un paciente con síntomas sugestivos de insuficiencia cardiaca es evaluado con péptidos natriuréticos. El resultado es un BNP > 100 pg/ml y un NT-proBNP > 300 pg/ml. ¿Qué se puede concluir de este hallazgo?",
+        "options": [
+            { "text": "Se descarta el diagnóstico de insuficiencia cardiaca.", "isCorrect": false },
+            { "text": "Se confirma el diagnóstico de insuficiencia cardiaca.", "isCorrect": true },
+            { "text": "Se necesita un ecocardiograma para el diagnóstico.", "isCorrect": false },
+            { "text": "El paciente tiene insuficiencia cardiaca con función reducida.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! El documento menciona que los puntos de corte para la sospecha de insuficiencia cardiaca en un paciente ambulatorio son un BNP > 100 pg/ml y un NT-proBNP > 300 pg/ml. En este caso, los valores son superiores a los puntos de corte, por lo que se confirma el diagnóstico de insuficiencia cardiaca.",
+            "incorrect": "Incorrecto. La respuesta correcta es que se confirma el diagnóstico de insuficiencia cardiaca. El documento menciona que los puntos de corte para la sospecha de insuficiencia cardiaca en un paciente ambulatorio son un BNP > 100 pg/ml y un NT-proBNP > 300 pg/ml. En este caso, los valores son superiores a los puntos de corte, por lo que se confirma el diagnóstico de insuficiencia cardiaca."
+        }
+    },
+    {
+        "question": "Un paciente con síntomas de insuficiencia cardiaca con función preservada (ICFEp) es evaluado con ecocardiografía. El médico sospecha una miocardiopatía subyacente. ¿Qué marcador es más sensible para detectar una disfunción sistólica temprana?",
+        "options": [
+            { "text": "La relación E/E' septal.", "isCorrect": false },
+            { "text": "El índice de volumen auricular izquierdo.", "isCorrect": false },
+            { "text": "La deformación longitudinal global (DLG).", "isCorrect": true },
+            { "text": "La velocidad de regurgitación tricúspide (VRT).", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! La deformación longitudinal global (DLG) es un marcador más sensible para detectar una disfunción sistólica temprana. Es un parámetro que se utiliza para detectar patrones de ojo de buey en los pacientes con insuficiencia cardiaca con función preservada y ayudar a identificar una miocardiopatía subyacente.",
+            "incorrect": "Incorrecto. La respuesta correcta es la deformación longitudinal global (DLG). El DLG es un marcador más sensible para detectar una disfunción sistólica temprana en pacientes con insuficiencia cardiaca con función preservada. La relación E/E' septal y el índice de volumen auricular izquierdo son indicadores de la función diastólica y la presión de llenado."
+        }
+    },
+    {
+        "question": "Un paciente con insuficiencia cardiaca con función preservada (ICFEp) es evaluado con ecocardiografía. El médico sospecha una miocardiopatía subyacente. ¿Qué patrón de ojo de buey en los pacientes con ICFEp ayuda a identificar una miocardiopatía subyacente?",
+        "options": [
+            { "text": "Deformación longitudinal global (DLG).", "isCorrect": true },
+            { "text": "Relación E/E' septal.", "isCorrect": false },
+            { "text": "Índice de volumen auricular izquierdo.", "isCorrect": false },
+            { "text": "Velocidad de regurgitación tricúspide (VRT).", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! La deformación longitudinal global (DLG) es un marcador que se utiliza para detectar patrones de ojo de buey en los pacientes con insuficiencia cardiaca con función preservada y ayuda a identificar una miocardiopatía subyacente.",
+            "incorrect": "Incorrecto. La respuesta correcta es la deformación longitudinal global (DLG). La deformación longitudinal global (DLG) es un marcador que se utiliza para detectar patrones de ojo de buey en los pacientes con insuficiencia cardiaca con función preservada y ayuda a identificar una miocardiopatía subyacente."
+        }
+    },
+    {
+        "question": "El diagnóstico de insuficiencia cardiaca requiere la presencia de síntomas de la enfermedad y la demostración de alteraciones estructurales o funcionales en la ecocardiografía. ¿Qué otro hallazgo es necesario para el diagnóstico?",
+        "options": [
+            { "text": "Demostrar congestión en el examen físico o en los paraclínicos o elevación de los péptidos natriuréticos.", "isCorrect": true },
+            { "text": "El diagnóstico es clínico y no requiere la demostración de alteraciones estructurales o funcionales.", "isCorrect": false },
+            { "text": "El diagnóstico se basa únicamente en la historia previa de infarto de miocardio, hipertensión arterial, diabetes o valvulopatías.", "isCorrect": false },
+            { "text": "El diagnóstico se basa únicamente en la elevación de los péptidos natriuréticos.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! El diagnóstico de la insuficiencia cardiaca requiere la presencia de síntomas de la enfermedad y la demostración de alteraciones estructurales o funcionales en la ecocardiografía. Además, se debe demostrar congestión en el examen físico o en los paraclínicos o la elevación de los péptidos natriuréticos.",
+            "incorrect": "Incorrecto. La respuesta correcta es que se debe demostrar congestión en el examen físico o en los paraclínicos o elevación de los péptidos natriuréticos. El diagnóstico actual requiere la presencia de síntomas de la enfermedad y la demostración de alteraciones estructurales o funcionales en la ecocardiografía. Además, se debe demostrar congestión en el examen físico o en los paraclínicos o la elevación de los péptidos natriuréticos."
+        }
+    },
+    {
+        "question": "La insuficiencia cardiaca es una enfermedad de alta prevalencia. ¿A qué porcentaje de los adultos afecta en el mundo?",
+        "options": [
+            { "text": "1%.", "isCorrect": false },
+            { "text": "2%.", "isCorrect": true },
+            { "text": "5%.", "isCorrect": false },
+            { "text": "10%.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! El documento menciona que la insuficiencia cardiaca es una enfermedad de alta prevalencia que afecta al 2% de los adultos en el mundo. La incidencia se incrementa después de la sexta década de la vida.",
+            "incorrect": "Incorrecto. La respuesta correcta es 2%. El documento menciona que la insuficiencia cardiaca es una enfermedad de alta prevalencia que afecta al 2% de los adultos en el mundo. La incidencia se incrementa después de la sexta década de la vida."
+        }
+    },
+    {
+        "question": "Un paciente con síntomas sugestivos de insuficiencia cardiaca es evaluado con péptidos natriuréticos. El resultado es un BNP > 100 pg/ml y un NT-proBNP > 300 pg/ml. ¿Qué se puede concluir de este hallazgo?",
+        "options": [
+            { "text": "Se descarta el diagnóstico de insuficiencia cardiaca.", "isCorrect": false },
+            { "text": "Se confirma el diagnóstico de insuficiencia cardiaca.", "isCorrect": true },
+            { "text": "Se necesita un ecocardiograma para el diagnóstico.", "isCorrect": false },
+            { "text": "El paciente tiene insuficiencia cardiaca con función reducida.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! El documento menciona que los puntos de corte para la sospecha de insuficiencia cardiaca en un paciente ambulatorio son un BNP > 100 pg/ml y un NT-proBNP > 300 pg/ml. En este caso, los valores son superiores a los puntos de corte, por lo que se confirma el diagnóstico de insuficiencia cardiaca.",
+            "incorrect": "Incorrecto. La respuesta correcta es que se confirma el diagnóstico de insuficiencia cardiaca. El documento menciona que los puntos de corte para la sospecha de insuficiencia cardiaca en un paciente ambulatorio son un BNP > 100 pg/ml y un NT-proBNP > 300 pg/ml. En este caso, los valores son superiores a los puntos de corte, por lo que se confirma el diagnóstico de insuficiencia cardiaca."
+        }
+    },
+    {
+        "question": "La ecocardiografía proporciona información sobre la fracción de eyección del ventrículo izquierdo (FEVI). ¿Cómo se define la FEVI?",
+        "options": [
+            { "text": "La capacidad del corazón para relajarse y llenarse.", "isCorrect": false },
+            { "text": "El porcentaje de sangre que sale del corazón en cada latido.", "isCorrect": true },
+            { "text": "La capacidad del corazón para ejercer su función de enviar la sangre a los diferentes órganos y tejidos del cuerpo.", "isCorrect": false },
+            { "text": "La incapacidad del corazón para mantener un gasto cardíaco adecuado para perfundir los órganos.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! La fracción de eyección del ventrículo izquierdo (FEVI) es la medida de cuánta sangre bombea el ventrículo izquierdo con cada contracción. Se expresa en un porcentaje, y se usa para clasificar la insuficiencia cardiaca.",
+            "incorrect": "Incorrecto. La respuesta correcta es el porcentaje de sangre que sale del corazón en cada latido. La fracción de eyección del ventrículo izquierdo (FEVI) es la medida de cuánta sangre bombea el ventrículo izquierdo con cada contracción. Se expresa en un porcentaje, y se usa para clasificar la insuficiencia cardiaca."
+        }
+    },
+    {
+        "question": "El diagnóstico de insuficiencia cardiaca requiere la presencia de síntomas de la enfermedad. ¿Cuál de los siguientes no es un síntoma cardinal de la enfermedad?",
+        "options": [
+            { "text": "La disnea.", "isCorrect": false },
+            { "text": "El edema periférico.", "isCorrect": false },
+            { "text": "La fatiga.", "isCorrect": false },
+            { "text": "La hipertensión arterial.", "isCorrect": true }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! La hipertensión arterial es una de las causas de la insuficiencia cardiaca, pero no es un síntoma de la enfermedad. Los síntomas cardinales de la enfermedad son la disnea, el edema periférico y la fatiga, entre otros.",
+            "incorrect": "Incorrecto. La respuesta correcta es la hipertensión arterial. La hipertensión arterial es una de las causas de la insuficiencia cardiaca, pero no es un síntoma de la enfermedad. Los síntomas cardinales de la enfermedad son la disnea, el edema periférico y la fatiga, entre otros."
+        }
+    },
+    {
+        "question": "Un paciente con sospecha de insuficiencia cardiaca presenta una disnea con esfuerzos. ¿Qué criterio de Framingham se utiliza para esta manifestación clínica?",
+        "options": [
+            { "text": "Criterio mayor.", "isCorrect": false },
+            { "text": "Criterio menor.", "isCorrect": true },
+            { "text": "Criterio mayor y menor.", "isCorrect": false },
+            { "text": "No es un criterio de Framingham.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! La disnea con esfuerzos es un criterio menor de Framingham. La ortopnea, la distensión yugular, el reflejo hepatoyugular, los crépitos pulmonares, el S3, el edema pulmonar y la cardiomegalia son criterios mayores de Framingham.",
+            "incorrect": "Incorrecto. La respuesta correcta es criterio menor. La disnea con esfuerzos es un criterio menor de Framingham. La ortopnea, la distensión yugular, el reflejo hepatoyugular, los crépitos pulmonares, el S3, el edema pulmonar y la cardiomegalia son criterios mayores de Framingham."
+        }
+    }
+]

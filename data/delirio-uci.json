@@ -1,0 +1,561 @@
+[
+    {
+        "question": "Según el documento, ¿cuál de las siguientes afirmaciones sobre la incidencia del delirio en la UCI es correcta?",
+        "options": [
+            { "text": "Su incidencia es alta, entre 4% y 55%, según las unidades y los estudios.", "isCorrect": false },
+            { "text": "Su incidencia es de 1% a 16%, dependiendo de la población estudiada.", "isCorrect": false },
+            { "text": "Su incidencia es alta, entre 4% y 55%, y los pacientes de más edad tienen mayor incidencia a pesar de su menor supervivencia.", "isCorrect": true },
+            { "text": "Su incidencia es de 1% a 16%, y los pacientes de más edad tienen menor incidencia a pesar de su mayor supervivencia.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! El documento menciona que la incidencia del delirio en la UCI es alta, entre el 4% y el 55%. Los pacientes de más edad tienen mayor incidencia a pesar de su menor supervivencia.",
+            "incorrect": "Incorrecto. La respuesta correcta es que la incidencia es alta, entre 4% y 55%, y los pacientes de más edad tienen mayor incidencia a pesar de su menor supervivencia."
+        }
+    },
+    {
+        "question": "El delirio es un trastorno de la conciencia que se caracteriza por alteraciones en la atención/vigilancia (dominio cognitivo), en el curso del pensamiento y la actividad motora. ¿Cuál de los siguientes no es un síntoma de delirio?",
+        "options": [
+            { "text": "Desorientación.", "isCorrect": false },
+            { "text": "Alteraciones del ritmo circadiano (sueño-vigilia).", "isCorrect": false },
+            { "text": "Alucinaciones y delusiones.", "isCorrect": false },
+            { "text": "Síntomas que se presentan durante el día y desaparecen por la noche.", "isCorrect": true }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! El documento menciona que el delirio se presenta con alteraciones del ritmo circadiano (sueño-vigilia), por lo que los síntomas se presentan durante el día y no desaparecen por la noche.",
+            "incorrect": "Incorrecto. La respuesta correcta es que los síntomas se presentan durante el día y no desaparecen por la noche. El delirio es un trastorno de la conciencia que se presenta con alteraciones del ritmo circadiano (sueño-vigilia), por lo que los síntomas se presentan durante el día y la noche."
+        }
+    },
+    {
+        "question": "En el diagnóstico diferencial del delirio, la demencia se diferencia por:",
+        "options": [
+            { "text": "La demencia es un trastorno agudo y progresivo, mientras que el delirio es una enfermedad crónica y progresiva.", "isCorrect": false },
+            { "text": "El delirio es un trastorno agudo o subagudo de la conciencia, mientras que la demencia es una enfermedad crónica y progresiva.", "isCorrect": true },
+            { "text": "El delirio es una enfermedad crónica y progresiva, mientras que la demencia es un trastorno agudo o subagudo de la conciencia.", "isCorrect": false },
+            { "text": "El delirio es un trastorno agudo o subagudo de la conciencia, y la demencia es una enfermedad crónica y progresiva, sin alteraciones de la memoria o el lenguaje.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! El documento menciona que la demencia se diferencia del delirio porque este último es un trastorno agudo o subagudo de la conciencia, mientras que la demencia es una enfermedad crónica y progresiva en la que se alteran una o más funciones mentales específicas, como la memoria, el lenguaje o la función ejecutiva.",
+            "incorrect": "Incorrecto. La respuesta correcta es que el delirio es un trastorno agudo o subagudo de la conciencia, mientras que la demencia es una enfermedad crónica y progresiva. El delirio es un trastorno agudo o subagudo de la conciencia, mientras que la demencia es una enfermedad crónica y progresiva en la que se alteran una o más funciones mentales específicas."
+        }
+    },
+    {
+        "question": "En el manejo terapéutico del delirio en la UCI, ¿cuál de los siguientes es el primer paso?",
+        "options": [
+            { "text": "Administrar haloperidol para controlar la agitación.", "isCorrect": false },
+            { "text": "Administrar benzodiacepinas para controlar la agitación.", "isCorrect": false },
+            { "text": "Realizar la resolución de la causa subyacente.", "isCorrect": true },
+            { "text": "Iniciar el enfoque farmacológico.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! En cuanto al tratamiento, el primer paso es la resolución de la causa subyacente. El enfoque de tratamiento para la resolución del delirio debe ser una combinación de la resolución del problema causal y el tratamiento de los síntomas.",
+            "incorrect": "Incorrecto. La respuesta correcta es realizar la resolución de la causa subyacente. El enfoque terapéutico del delirio en la UCI se basa en el enfoque ABCDEF (en inglés), que incluye medidas preventivas y terapéuticas. El primer paso es identificar y tratar la causa subyacente."
+        }
+    },
+    {
+        "question": "Un paciente con delirio presenta agitación grave. El médico decide iniciar el enfoque farmacológico. ¿Cuál de los siguientes es el medicamento de primera línea en este caso?",
+        "options": [
+            { "text": "Haloperidol.", "isCorrect": true },
+            { "text": "Benzodiacepinas.", "isCorrect": false },
+            { "text": "Dexmedetomidina.", "isCorrect": false },
+            { "text": "Clonidina.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! El haloperidol es el medicamento de primera línea en el tratamiento del delirio hiperactivo. El documento menciona que la mayoría de los expertos coinciden en que el tratamiento de primera línea del delirio es el haloperidol, ya que los pacientes hipoactivos no se benefician de dicho tratamiento. La dosis inicial de haloperidol puede ser de 0.5-1 mg, según las características del paciente.",
+            "incorrect": "Incorrecto. La respuesta correcta es el haloperidol. El documento menciona que el haloperidol es el medicamento de primera línea en el tratamiento del delirio hiperactivo, ya que la mayoría de los expertos coinciden en que es el medicamento de elección. Las benzodiacepinas no están indicadas para el tratamiento del delirio, excepto en casos de delirium tremens."
+        }
+    },
+    {
+        "question": "En el manejo farmacológico del delirio, ¿cuál es el principal riesgo de las benzodiacepinas?",
+        "options": [
+            { "text": "Aumento del riesgo de complicaciones.", "isCorrect": false },
+            { "text": "Aumento del riesgo de delirio.", "isCorrect": false },
+            { "text": "Efectos negativos sobre la cognición a corto y largo plazo y aumentan el riesgo de complicaciones, como las respiratorias que son frecuentes en la UCI.", "isCorrect": true },
+            { "text": "Todas las opciones son correctas.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! Las benzodiacepinas no están indicadas para el tratamiento del delirio, excepto en casos de delirium tremens. Tienen efectos negativos sobre la cognición a corto y largo plazo y aumentan el riesgo de complicaciones, como las respiratorias que son frecuentes en la UCI.",
+            "incorrect": "Incorrecto. La respuesta correcta es que tienen efectos negativos sobre la cognición a corto y largo plazo y aumentan el riesgo de complicaciones, como las respiratorias que son frecuentes en la UCI. Por esta razón, las benzodiacepinas no están indicadas para el tratamiento del delirio, excepto en casos de delirium tremens."
+        }
+    },
+    {
+        "question": "Un paciente con delirio está siendo evaluado con la herramienta CAM-ICU (Confusion Assessment Method for the ICU). ¿Qué significa un resultado positivo?",
+        "options": [
+            { "text": "El paciente tiene delirio.", "isCorrect": true },
+            { "text": "El paciente no tiene delirio.", "isCorrect": false },
+            { "text": "El paciente tiene demencia.", "isCorrect": false },
+            { "text": "El paciente está estupefacto o en coma.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! El CAM-ICU es una herramienta de cribado que ayuda a diagnosticar el delirio en pacientes críticos. Un resultado positivo significa que el paciente tiene delirio.",
+            "incorrect": "Incorrecto. La respuesta correcta es que el paciente tiene delirio. El CAM-ICU es una herramienta de cribado que se utiliza para diagnosticar el delirio en pacientes críticos. Un resultado positivo significa que el paciente tiene delirio."
+        }
+    },
+    {
+        "question": "Un paciente con delirio hipoactivo es evaluado. ¿Qué se esperaría encontrar en este paciente?",
+        "options": [
+            { "text": "Agitación grave, agresividad y alucinaciones.", "isCorrect": false },
+            { "text": "Letargo, apatía, lentitud y desorientación.", "isCorrect": true },
+            { "text": "Confusión, desorientación y alucinaciones.", "isCorrect": false },
+            { "text": "Confusión, desorientación y lentitud.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! El delirio hipoactivo es el tipo más común de delirio en la UCI. Se caracteriza por letargo, apatía, lentitud y desorientación. A menudo pasa desapercibido, por lo que es importante estar alerta a los signos clínicos. El delirio hiperactivo se caracteriza por agitación grave, agresividad y alucinaciones.",
+            "incorrect": "Incorrecto. La respuesta correcta es letargo, apatía, lentitud y desorientación. El delirio hipoactivo es el tipo más común de delirio en la UCI. Se caracteriza por letargo, apatía, lentitud y desorientación."
+        }
+    },
+    {
+        "question": "En el diagnóstico del delirio, la herramienta CAM-ICU evalúa cuatro características principales. ¿Cuál de las siguientes no es una de ellas?",
+        "options": [
+            { "text": "Cambio agudo en el estado mental o curso fluctuante.", "isCorrect": false },
+            { "text": "Falta de atención.", "isCorrect": false },
+            { "text": "Pensamiento desorganizado.", "isCorrect": false },
+            { "text": "Alteraciones en el ritmo circadiano (sueño-vigilia).", "isCorrect": true }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! El CAM-ICU evalúa el cambio agudo en el estado mental o curso fluctuante, la falta de atención, el pensamiento desorganizado y el nivel de conciencia alterado. El delirio es un trastorno de la conciencia que se presenta con alteraciones del ritmo circadiano (sueño-vigilia), pero no es una de las características que se evalúan con el CAM-ICU.",
+            "incorrect": "Incorrecto. La respuesta correcta es alteraciones en el ritmo circadiano (sueño-vigilia). El CAM-ICU evalúa el cambio agudo en el estado mental o curso fluctuante, la falta de atención, el pensamiento desorganizado y el nivel de conciencia alterado."
+        }
+    },
+    {
+        "question": "El documento menciona que el delirio es un trastorno de la conciencia que puede tener varias causas. ¿Cuál de las siguientes no es una de las causas que se esperaría encontrar en un paciente con delirio?",
+        "options": [
+            { "text": "Infecciones.", "isCorrect": false },
+            { "text": "Síndrome de abstinencia a drogas.", "isCorrect": false },
+            { "text": "Trastornos metabólicos.", "isCorrect": false },
+            { "text": "Trastornos psiquiátricos preexistentes.", "isCorrect": true }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! El delirio se diferencia de los trastornos psiquiátricos preexistentes, como la demencia o la depresión. La demencia es una enfermedad crónica y progresiva, mientras que el delirio es un trastorno agudo o subagudo de la conciencia. El delirio es un trastorno de la conciencia que puede tener varias causas, como infecciones, síndrome de abstinencia a drogas, trastornos metabólicos y alteraciones del ritmo circadiano (sueño-vigilia).",
+            "incorrect": "Incorrecto. La respuesta correcta es trastornos psiquiátricos preexistentes. El delirio se diferencia de los trastornos psiquiátricos preexistentes, como la demencia o la depresión. El delirio es un trastorno de la conciencia que puede tener varias causas, como infecciones, síndrome de abstinencia a drogas, trastornos metabólicos y alteraciones del ritmo circadiano (sueño-vigilia)."
+        }
+    },
+    {
+        "question": "En el manejo no farmacológico del delirio, ¿cuál de los siguientes no es una medida de prevención?",
+        "options": [
+            { "text": "Monitoreo del paciente.", "isCorrect": false },
+            { "text": "Realizar la evaluación de la función respiratoria.", "isCorrect": false },
+            { "text": "Proporcionar al paciente un reloj y un calendario para mantener la orientación.", "isCorrect": true },
+            { "text": "Proporcionar al paciente un ambiente tranquilo, con un buen ciclo de luz y oscuridad.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! La respuesta correcta es que la evaluación de la función respiratoria no es una medida de prevención del delirio, sino una medida de soporte ventilatorio que se utiliza en pacientes con insuficiencia respiratoria. El monitoreo del paciente, el ambiente tranquilo y el ciclo de luz y oscuridad son medidas de prevención del delirio.",
+            "incorrect": "Incorrecto. La respuesta correcta es que la evaluación de la función respiratoria no es una medida de prevención del delirio. El monitoreo del paciente, el ambiente tranquilo y el ciclo de luz y oscuridad son medidas de prevención del delirio."
+        }
+    },
+    {
+        "question": "En el manejo del delirio, el documento menciona que el haloperidol y otros antipsicóticos pueden ayudar a recuperar el balance entre dopamina y acetilcolina. ¿Cuál es el principal riesgo del haloperidol?",
+        "options": [
+            { "text": "Aumento de la sedación.", "isCorrect": false },
+            { "text": "Aumento del riesgo de complicaciones respiratorias.", "isCorrect": false },
+            { "text": "Prolongación del intervalo QT o torsades de pointes.", "isCorrect": true },
+            { "text": "Hiponatremia.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! El haloperidol tiene el riesgo de prolongar el intervalo QT o torsades de pointes. Por esta razón, se debe realizar un electrocardiograma (ECG) antes de iniciar el tratamiento con haloperidol y se debe monitorear el ECG durante el tratamiento.",
+            "incorrect": "Incorrecto. La respuesta correcta es prolongación del intervalo QT o torsades de pointes. El haloperidol tiene el riesgo de prolongar el intervalo QT o torsades de pointes. Por esta razón, se debe realizar un electrocardiograma (ECG) antes de iniciar el tratamiento con haloperidol y se debe monitorear el ECG durante el tratamiento."
+        }
+    },
+    {
+        "question": "En el manejo no farmacológico del delirio, se recomienda mantener un ambiente de estimulación apropiado. ¿Cuál de las siguientes medidas es una medida de prevención?",
+        "options": [
+            { "text": "Mantener al paciente en ayuno para evitar la aspiración.", "isCorrect": false },
+            { "text": "Reducir el ruido y la luz durante la noche para mantener un ciclo de sueño-vigilia.", "isCorrect": true },
+            { "text": "Usar contenciones físicas para evitar que el paciente se agite.", "isCorrect": false },
+            { "text": "Restringir la visita de los familiares para evitar la sobreestimulación.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! Reducir el ruido y la luz durante la noche para mantener un ciclo de sueño-vigilia es una de las medidas de prevención del delirio. El documento menciona que se debe mantener un ambiente de estimulación apropiado para el paciente.",
+            "incorrect": "Incorrecto. La respuesta correcta es reducir el ruido y la luz durante la noche para mantener un ciclo de sueño-vigilia. Esta es una medida de prevención del delirio que se basa en la terapia no farmacológica. La contención física y la restricción de la visita de los familiares no son medidas de prevención del delirio."
+        }
+    },
+    {
+        "question": "En el enfoque terapéutico del delirio en la UCI, el documento menciona que el haloperidol es el medicamento de primera línea en el delirio hiperactivo. ¿Cuál es el medicamento de elección en el delirio hipoactivo?",
+        "options": [
+            { "text": "Haloperidol.", "isCorrect": true },
+            { "text": "Benzodiacepinas.", "isCorrect": false },
+            { "text": "Dexmedetomidina.", "isCorrect": false },
+            { "text": "Clonidina.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! El haloperidol y otros antipsicóticos, como la olanzapina, la quetiapina, la risperidona, la clozapina y la dexmedetomidina, se utilizan para el tratamiento del delirio hiperactivo, pero no para el delirio hipoactivo. El documento menciona que la mayoría de los expertos coinciden en que el tratamiento de primera línea del delirio es el haloperidol, pero los pacientes hipoactivos no se benefician de dicho tratamiento. La respuesta correcta es haloperidol.",
+            "incorrect": "Incorrecto. La respuesta correcta es haloperidol. El haloperidol es el medicamento de primera línea en el delirio hiperactivo, pero los pacientes hipoactivos no se benefician de dicho tratamiento."
+        }
+    },
+    {
+        "question": "En el manejo farmacológico del delirio, ¿cuál de los siguientes medicamentos se utiliza para 'ahorrar' sedación y analgesia, y reduce la gravedad y duración del delirio?",
+        "options": [
+            { "text": "Haloperidol.", "isCorrect": false },
+            { "text": "Benzodiacepinas.", "isCorrect": false },
+            { "text": "Dexmedetomidina.", "isCorrect": true },
+            { "text": "Clonidina.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! La dexmedetomidina es un fármaco 'ahorrador' de sedación y analgesia. El documento menciona que la dexmedetomidina y la clonidina son fármacos que se utilizan para el manejo del delirio. La dexmedetomidina reduce la gravedad y duración del delirio, mientras que la clonidina se utiliza para el manejo de los síntomas de abstinencia.",
+            "incorrect": "Incorrecto. La respuesta correcta es la dexmedetomidina. La dexmedetomidina es un fármaco 'ahorrador' de sedación y analgesia que reduce la gravedad y duración del delirio, mientras que la clonidina se utiliza para el manejo de los síntomas de abstinencia."
+        }
+    },
+    {
+        "question": "Un paciente con delirio está siendo evaluado por el equipo clínico. ¿Qué se espera encontrar en la exploración física que podría indicar la presencia de un delirio?",
+        "options": [
+            { "text": "Rigidez, hiperreflexia y mioclonías.", "isCorrect": true },
+            { "text": "Atrofia muscular.", "isCorrect": false },
+            { "text": "Bradicardia.", "isCorrect": false },
+            { "text": "Hipotonía.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! La exploración física puede revelar rigidez, hiperreflexia y mioclonías, que son signos de delirio. Estos signos son más comunes en pacientes con delirio hiperactivo. El delirio también puede manifestarse como letargo, apatía, lentitud y desorientación.",
+            "incorrect": "Incorrecto. La respuesta correcta es rigidez, hiperreflexia y mioclonías. La exploración física puede revelar estos signos, que son signos de delirio. El delirio también puede manifestarse como letargo, apatía, lentitud y desorientación."
+        }
+    },
+    {
+        "question": "En el manejo no farmacológico del delirio, se recomienda mantener un ambiente de estimulación apropiado. ¿Cuál de las siguientes medidas no es una medida de prevención?",
+        "options": [
+            { "text": "Mantener al paciente en ayuno para evitar la aspiración.", "isCorrect": true },
+            { "text": "Reducir el ruido y la luz durante la noche para mantener un ciclo de sueño-vigilia.", "isCorrect": false },
+            { "text": "Usar contenciones físicas para evitar que el paciente se agite.", "isCorrect": false },
+            { "text": "Restringir la visita de los familiares para evitar la sobreestimulación.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! La respuesta correcta es mantener al paciente en ayuno. Esta es una medida de prevención del delirio que se basa en la terapia no farmacológica. La restricción de la visita de los familiares y la contención física no son medidas de prevención del delirio. El documento menciona que el uso de la contención física es un factor de riesgo para el delirio.",
+            "incorrect": "Incorrecto. La respuesta correcta es mantener al paciente en ayuno para evitar la aspiración. La restricción de la visita de los familiares y la contención física no son medidas de prevención del delirio. El documento menciona que el uso de la contención física es un factor de riesgo para el delirio."
+        }
+    },
+    {
+        "question": "El documento menciona que el delirio es un trastorno de la conciencia que se puede clasificar en tres subtipos motores. ¿Cuál de las siguientes no es un subtipo motor del delirio?",
+        "options": [
+            { "text": "Hipoactivo.", "isCorrect": false },
+            { "text": "Hiperactivo.", "isCorrect": false },
+            { "text": "Mixto.", "isCorrect": false },
+            { "text": "Agitado.", "isCorrect": true }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! Los subtipos motores del delirio son: hipoactivo, hiperactivo y mixto. El delirio agitado se considera una manifestación del delirio hiperactivo.",
+            "incorrect": "Incorrecto. La respuesta correcta es agitado. Los subtipos motores del delirio son: hipoactivo, hiperactivo y mixto. El delirio agitado se considera una manifestación del delirio hiperactivo."
+        }
+    },
+    {
+        "question": "En el manejo terapéutico del delirio, el documento menciona que la dexmedetomidina y la clonidina son fármacos que se utilizan para el manejo del delirio. ¿Cuál de los siguientes es el mecanismo de acción de la dexmedetomidina?",
+        "options": [
+            { "text": "Aumento de la liberación de dopamina.", "isCorrect": false },
+            { "text": "Aumento de la liberación de noradrenalina.", "isCorrect": false },
+            { "text": "Antagonista de los receptores alfa-2 adrenérgicos.", "isCorrect": false },
+            { "text": "Agonista de los receptores alfa-2 adrenérgicos.", "isCorrect": true }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! La dexmedetomidina es un agonista de los receptores alfa-2 adrenérgicos. El documento menciona que la dexmedetomidina y la clonidina son agonistas de los receptores alfa-2 adrenérgicos que se utilizan para el manejo del delirio.",
+            "incorrect": "Incorrecto. La respuesta correcta es agonista de los receptores alfa-2 adrenérgicos. La dexmedetomidina es un agonista de los receptores alfa-2 adrenérgicos que se utiliza para el manejo del delirio."
+        }
+    },
+    {
+        "question": "En el manejo del delirio, el documento menciona que el haloperidol y otros antipsicóticos, como la olanzapina, la quetiapina, la risperidona y la clozapina, se utilizan para el tratamiento del delirio hiperactivo. ¿Cuál de los siguientes es el mecanismo de acción del haloperidol?",
+        "options": [
+            { "text": "Antagonista de los receptores de dopamina.", "isCorrect": true },
+            { "text": "Agonista de los receptores de dopamina.", "isCorrect": false },
+            { "text": "Antagonista de los receptores de serotonina.", "isCorrect": false },
+            { "text": "Agonista de los receptores de serotonina.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! El haloperidol es un antagonista de los receptores de dopamina. El documento menciona que el haloperidol y otros antipsicóticos, como la olanzapina, la quetiapina, la risperidona y la clozapina, se utilizan para el tratamiento del delirio hiperactivo. El haloperidol y otros antipsicóticos ayudan a recuperar el balance entre dopamina y acetilcolina.",
+            "incorrect": "Incorrecto. La respuesta correcta es antagonista de los receptores de dopamina. El haloperidol es un antagonista de los receptores de dopamina que se utiliza para el tratamiento del delirio hiperactivo. El haloperidol y otros antipsicóticos ayudan a recuperar el balance entre dopamina y acetilcolina."
+        }
+    },
+    {
+        "question": "En el manejo del delirio, el documento menciona que la clozapina tiene un importante efecto anticolinérgico, lo que la hace útil en pacientes con delirio. ¿Cuál de los siguientes no es un efecto anticolinérgico?",
+        "options": [
+            { "text": "Sequedad de boca.", "isCorrect": false },
+            { "text": "Visión borrosa.", "isCorrect": false },
+            { "text": "Estreñimiento.", "isCorrect": false },
+            { "text": "Bradicardia.", "isCorrect": true }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! La bradicardia no es un efecto anticolinérgico. Los efectos anticolinérgicos son: sequedad de boca, visión borrosa, estreñimiento, retención urinaria y taquicardia. La clozapina tiene un importante efecto anticolinérgico, lo que la hace útil en pacientes con delirio.",
+            "incorrect": "Incorrecto. La respuesta correcta es bradicardia. Los efectos anticolinérgicos son: sequedad de boca, visión borrosa, estreñimiento, retención urinaria y taquicardia."
+        }
+    },
+    {
+        "question": "El documento menciona que el delirio es un trastorno de la conciencia que puede tener varias causas. ¿Cuál de las siguientes no es una de las causas que se esperaría encontrar en un paciente con delirio?",
+        "options": [
+            { "text": "Infecciones.", "isCorrect": false },
+            { "text": "Síndrome de abstinencia a drogas.", "isCorrect": false },
+            { "text": "Trastornos metabólicos.", "isCorrect": false },
+            { "text": "Trastornos psiquiátricos preexistentes.", "isCorrect": true }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! El delirio se diferencia de los trastornos psiquiátricos preexistentes, como la demencia o la depresión. La demencia es una enfermedad crónica y progresiva, mientras que el delirio es un trastorno agudo o subagudo de la conciencia. El delirio es un trastorno de la conciencia que puede tener varias causas, como infecciones, síndrome de abstinencia a drogas, trastornos metabólicos y alteraciones del ritmo circadiano (sueño-vigilia).",
+            "incorrect": "Incorrecto. La respuesta correcta es trastornos psiquiátricos preexistentes. El delirio se diferencia de los trastornos psiquiátricos preexistentes, como la demencia o la depresión. El delirio es un trastorno de la conciencia que puede tener varias causas, como infecciones, síndrome de abstinencia a drogas, trastornos metabólicos y alteraciones del ritmo circadiano (sueño-vigilia)."
+        }
+    },
+    {
+        "question": "En el manejo no farmacológico del delirio, se recomienda mantener un ambiente de estimulación apropiado. ¿Cuál de las siguientes medidas no es una medida de prevención?",
+        "options": [
+            { "text": "Mantener al paciente en ayuno para evitar la aspiración.", "isCorrect": true },
+            { "text": "Reducir el ruido y la luz durante la noche para mantener un ciclo de sueño-vigilia.", "isCorrect": false },
+            { "text": "Usar contenciones físicas para evitar que el paciente se agite.", "isCorrect": false },
+            { "text": "Restringir la visita de los familiares para evitar la sobreestimulación.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! La respuesta correcta es mantener al paciente en ayuno. Esta es una medida de prevención del delirio que se basa en la terapia no farmacológica. La restricción de la visita de los familiares y la contención física no son medidas de prevención del delirio. El documento menciona que el uso de la contención física es un factor de riesgo para el delirio.",
+            "incorrect": "Incorrecto. La respuesta correcta es mantener al paciente en ayuno para evitar la aspiración. La restricción de la visita de los familiares y la contención física no son medidas de prevención del delirio. El documento menciona que el uso de la contención física es un factor de riesgo para el delirio."
+        }
+    },
+    {
+        "question": "En el manejo del delirio, el documento menciona que el haloperidol y otros antipsicóticos pueden ayudar a recuperar el balance entre dopamina y acetilcolina. ¿Cuál es el principal riesgo del haloperidol?",
+        "options": [
+            { "text": "Aumento de la sedación.", "isCorrect": false },
+            { "text": "Aumento del riesgo de complicaciones respiratorias.", "isCorrect": false },
+            { "text": "Prolongación del intervalo QT o torsades de pointes.", "isCorrect": true },
+            { "text": "Hiponatremia.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! El haloperidol tiene el riesgo de prolongar el intervalo QT o torsades de pointes. Por esta razón, se debe realizar un electrocardiograma (ECG) antes de iniciar el tratamiento con haloperidol y se debe monitorear el ECG durante el tratamiento.",
+            "incorrect": "Incorrecto. La respuesta correcta es prolongación del intervalo QT o torsades de pointes. El haloperidol tiene el riesgo de prolongar el intervalo QT o torsades de pointes. Por esta razón, se debe realizar un electrocardiograma (ECG) antes de iniciar el tratamiento con haloperidol y se debe monitorear el ECG durante el tratamiento."
+        }
+    },
+    {
+        "question": "En el manejo no farmacológico del delirio, se recomienda mantener un ambiente de estimulación apropiado. ¿Cuál de las siguientes medidas es una medida de prevención?",
+        "options": [
+            { "text": "Mantener al paciente en ayuno para evitar la aspiración.", "isCorrect": false },
+            { "text": "Reducir el ruido y la luz durante la noche para mantener un ciclo de sueño-vigilia.", "isCorrect": true },
+            { "text": "Usar contenciones físicas para evitar que el paciente se agite.", "isCorrect": false },
+            { "text": "Restringir la visita de los familiares para evitar la sobreestimulación.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! Reducir el ruido y la luz durante la noche para mantener un ciclo de sueño-vigilia es una de las medidas de prevención del delirio. El documento menciona que se debe mantener un ambiente de estimulación apropiado para el paciente.",
+            "incorrect": "Incorrecto. La respuesta correcta es reducir el ruido y la luz durante la noche para mantener un ciclo de sueño-vigilia. Esta es una medida de prevención del delirio que se basa en la terapia no farmacológica. La contención física y la restricción de la visita de los familiares no son medidas de prevención del delirio."
+        }
+    },
+    {
+        "question": "En el enfoque terapéutico del delirio en la UCI, el documento menciona que el haloperidol es el medicamento de primera línea en el delirio hiperactivo. ¿Cuál es el medicamento de elección en el delirio hipoactivo?",
+        "options": [
+            { "text": "Haloperidol.", "isCorrect": true },
+            { "text": "Benzodiacepinas.", "isCorrect": false },
+            { "text": "Dexmedetomidina.", "isCorrect": false },
+            { "text": "Clonidina.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! El haloperidol y otros antipsicóticos, como la olanzapina, la quetiapina, la risperidona, la clozapina y la dexmedetomidina, se utilizan para el tratamiento del delirio hiperactivo, pero no para el delirio hipoactivo. El documento menciona que la mayoría de los expertos coinciden en que el tratamiento de primera línea del delirio es el haloperidol, pero los pacientes hipoactivos no se benefician de dicho tratamiento. La respuesta correcta es haloperidol.",
+            "incorrect": "Incorrecto. La respuesta correcta es haloperidol. El haloperidol es el medicamento de primera línea en el delirio hiperactivo, pero los pacientes hipoactivos no se benefician de dicho tratamiento."
+        }
+    },
+    {
+        "question": "En el manejo farmacológico del delirio, ¿cuál de los siguientes medicamentos se utiliza para 'ahorrar' sedación y analgesia, y reduce la gravedad y duración del delirio?",
+        "options": [
+            { "text": "Haloperidol.", "isCorrect": false },
+            { "text": "Benzodiacepinas.", "isCorrect": false },
+            { "text": "Dexmedetomidina.", "isCorrect": true },
+            { "text": "Clonidina.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! La dexmedetomidina es un fármaco 'ahorrador' de sedación y analgesia. El documento menciona que la dexmedetomidina y la clonidina son fármacos que se utilizan para el manejo del delirio. La dexmedetomidina reduce la gravedad y duración del delirio, mientras que la clonidina se utiliza para el manejo de los síntomas de abstinencia.",
+            "incorrect": "Incorrecto. La respuesta correcta es la dexmedetomidina. La dexmedetomidina es un fármaco 'ahorrador' de sedación y analgesia que reduce la gravedad y duración del delirio, mientras que la clonidina se utiliza para el manejo de los síntomas de abstinencia."
+        }
+    },
+    {
+        "question": "Un paciente con delirio está siendo evaluado por el equipo clínico. ¿Qué se espera encontrar en la exploración física que podría indicar la presencia de un delirio?",
+        "options": [
+            { "text": "Rigidez, hiperreflexia y mioclonías.", "isCorrect": true },
+            { "text": "Atrofia muscular.", "isCorrect": false },
+            { "text": "Bradicardia.", "isCorrect": false },
+            { "text": "Hipotonía.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! La exploración física puede revelar rigidez, hiperreflexia y mioclonías, que son signos de delirio. Estos signos son más comunes en pacientes con delirio hiperactivo. El delirio también puede manifestarse como letargo, apatía, lentitud y desorientación.",
+            "incorrect": "Incorrecto. La respuesta correcta es rigidez, hiperreflexia y mioclonías. La exploración física puede revelar estos signos, que son signos de delirio. El delirio también puede manifestarse como letargo, apatía, lentitud y desorientación."
+        }
+    },
+    {
+        "question": "En el manejo no farmacológico del delirio, se recomienda mantener un ambiente de estimulación apropiado. ¿Cuál de las siguientes medidas no es una medida de prevención?",
+        "options": [
+            { "text": "Mantener al paciente en ayuno para evitar la aspiración.", "isCorrect": true },
+            { "text": "Reducir el ruido y la luz durante la noche para mantener un ciclo de sueño-vigilia.", "isCorrect": false },
+            { "text": "Usar contenciones físicas para evitar que el paciente se agite.", "isCorrect": false },
+            { "text": "Restringir la visita de los familiares para evitar la sobreestimulación.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! La respuesta correcta es mantener al paciente en ayuno. Esta es una medida de prevención del delirio que se basa en la terapia no farmacológica. La restricción de la visita de los familiares y la contención física no son medidas de prevención del delirio. El documento menciona que el uso de la contención física es un factor de riesgo para el delirio.",
+            "incorrect": "Incorrecto. La respuesta correcta es mantener al paciente en ayuno para evitar la aspiración. La restricción de la visita de los familiares y la contención física no son medidas de prevención del delirio. El documento menciona que el uso de la contención física es un factor de riesgo para el delirio."
+        }
+    },
+    {
+        "question": "El documento menciona que el delirio es un trastorno de la conciencia que se puede clasificar en tres subtipos motores. ¿Cuál de las siguientes no es un subtipo motor del delirio?",
+        "options": [
+            { "text": "Hipoactivo.", "isCorrect": false },
+            { "text": "Hiperactivo.", "isCorrect": false },
+            { "text": "Mixto.", "isCorrect": false },
+            { "text": "Agitado.", "isCorrect": true }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! Los subtipos motores del delirio son: hipoactivo, hiperactivo y mixto. El delirio agitado se considera una manifestación del delirio hiperactivo.",
+            "incorrect": "Incorrecto. La respuesta correcta es agitado. Los subtipos motores del delirio son: hipoactivo, hiperactivo y mixto. El delirio agitado se considera una manifestación del delirio hiperactivo."
+        }
+    },
+    {
+        "question": "En el manejo terapéutico del delirio, el documento menciona que la dexmedetomidina y la clonidina son fármacos que se utilizan para el manejo del delirio. ¿Cuál de los siguientes es el mecanismo de acción de la dexmedetomidina?",
+        "options": [
+            { "text": "Aumento de la liberación de dopamina.", "isCorrect": false },
+            { "text": "Aumento de la liberación de noradrenalina.", "isCorrect": false },
+            { "text": "Antagonista de los receptores alfa-2 adrenérgicos.", "isCorrect": false },
+            { "text": "Agonista de los receptores alfa-2 adrenérgicos.", "isCorrect": true }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! La dexmedetomidina es un agonista de los receptores alfa-2 adrenérgicos. El documento menciona que la dexmedetomidina y la clonidina son agonistas de los receptores alfa-2 adrenérgicos que se utilizan para el manejo del delirio.",
+            "incorrect": "Incorrecto. La respuesta correcta es agonista de los receptores alfa-2 adrenérgicos. La dexmedetomidina es un agonista de los receptores alfa-2 adrenérgicos que se utiliza para el manejo del delirio."
+        }
+    },
+    {
+        "question": "En el manejo del delirio, el documento menciona que el haloperidol y otros antipsicóticos, como la olanzapina, la quetiapina, la risperidona y la clozapina, se utilizan para el tratamiento del delirio hiperactivo. ¿Cuál es el mecanismo de acción del haloperidol?",
+        "options": [
+            { "text": "Antagonista de los receptores de dopamina.", "isCorrect": true },
+            { "text": "Agonista de los receptores de dopamina.", "isCorrect": false },
+            { "text": "Antagonista de los receptores de serotonina.", "isCorrect": false },
+            { "text": "Agonista de los receptores de serotonina.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! El haloperidol es un antagonista de los receptores de dopamina. El documento menciona que el haloperidol y otros antipsicóticos, como la olanzapina, la quetiapina, la risperidona y la clozapina, se utilizan para el tratamiento del delirio hiperactivo. El haloperidol y otros antipsicóticos ayudan a recuperar el balance entre dopamina y acetilcolina.",
+            "incorrect": "Incorrecto. La respuesta correcta es antagonista de los receptores de dopamina. El haloperidol es un antagonista de los receptores de dopamina que se utiliza para el tratamiento del delirio hiperactivo. El haloperidol y otros antipsicóticos ayudan a recuperar el balance entre dopamina y acetilcolina."
+        }
+    },
+    {
+        "question": "En el manejo del delirio, el documento menciona que la clozapina tiene un importante efecto anticolinérgico, lo que la hace útil en pacientes con delirio. ¿Cuál de los siguientes no es un efecto anticolinérgico?",
+        "options": [
+            { "text": "Sequedad de boca.", "isCorrect": false },
+            { "text": "Visión borrosa.", "isCorrect": false },
+            { "text": "Estreñimiento.", "isCorrect": false },
+            { "text": "Bradicardia.", "isCorrect": true }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! La bradicardia no es un efecto anticolinérgico. Los efectos anticolinérgicos son: sequedad de boca, visión borrosa, estreñimiento, retención urinaria y taquicardia. La clozapina tiene un importante efecto anticolinérgico, lo que la hace útil en pacientes con delirio.",
+            "incorrect": "Incorrecto. La respuesta correcta es bradicardia. Los efectos anticolinérgicos son: sequedad de boca, visión borrosa, estreñimiento, retención urinaria y taquicardia."
+        }
+    },
+    {
+        "question": "El documento menciona que el delirio es un trastorno de la conciencia que puede tener varias causas. ¿Cuál de las siguientes no es una de las causas que se esperaría encontrar en un paciente con delirio?",
+        "options": [
+            { "text": "Infecciones.", "isCorrect": false },
+            { "text": "Síndrome de abstinencia a drogas.", "isCorrect": false },
+            { "text": "Trastornos metabólicos.", "isCorrect": false },
+            { "text": "Trastornos psiquiátricos preexistentes.", "isCorrect": true }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! El delirio se diferencia de los trastornos psiquiátricos preexistentes, como la demencia o la depresión. La demencia es una enfermedad crónica y progresiva, mientras que el delirio es un trastorno agudo o subagudo de la conciencia. El delirio es un trastorno de la conciencia que puede tener varias causas, como infecciones, síndrome de abstinencia a drogas, trastornos metabólicos y alteraciones del ritmo circadiano (sueño-vigilia).",
+            "incorrect": "Incorrecto. La respuesta correcta es trastornos psiquiátricos preexistentes. El delirio se diferencia de los trastornos psiquiátricos preexistentes, como la demencia o la depresión. El delirio es un trastorno de la conciencia que puede tener varias causas, como infecciones, síndrome de abstinencia a drogas, trastornos metabólicos y alteraciones del ritmo circadiano (sueño-vigilia)."
+        }
+    },
+    {
+        "question": "En el manejo no farmacológico del delirio, se recomienda mantener un ambiente de estimulación apropiado. ¿Cuál de las siguientes medidas no es una medida de prevención?",
+        "options": [
+            { "text": "Mantener al paciente en ayuno para evitar la aspiración.", "isCorrect": true },
+            { "text": "Reducir el ruido y la luz durante la noche para mantener un ciclo de sueño-vigilia.", "isCorrect": false },
+            { "text": "Usar contenciones físicas para evitar que el paciente se agite.", "isCorrect": false },
+            { "text": "Restringir la visita de los familiares para evitar la sobreestimulación.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! La respuesta correcta es mantener al paciente en ayuno. Esta es una medida de prevención del delirio que se basa en la terapia no farmacológica. La restricción de la visita de los familiares y la contención física no son medidas de prevención del delirio. El documento menciona que el uso de la contención física es un factor de riesgo para el delirio.",
+            "incorrect": "Incorrecto. La respuesta correcta es mantener al paciente en ayuno para evitar la aspiración. La restricción de la visita de los familiares y la contención física no son medidas de prevención del delirio. El documento menciona que el uso de la contención física es un factor de riesgo para el delirio."
+        }
+    },
+    {
+        "question": "En el manejo del delirio, el documento menciona que el haloperidol y otros antipsicóticos pueden ayudar a recuperar el balance entre dopamina y acetilcolina. ¿Cuál es el principal riesgo del haloperidol?",
+        "options": [
+            { "text": "Aumento de la sedación.", "isCorrect": false },
+            { "text": "Aumento del riesgo de complicaciones respiratorias.", "isCorrect": false },
+            { "text": "Prolongación del intervalo QT o torsades de pointes.", "isCorrect": true },
+            { "text": "Hiponatremia.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! El haloperidol tiene el riesgo de prolongar el intervalo QT o torsades de pointes. Por esta razón, se debe realizar un electrocardiograma (ECG) antes de iniciar el tratamiento con haloperidol y se debe monitorear el ECG durante el tratamiento.",
+            "incorrect": "Incorrecto. La respuesta correcta es prolongación del intervalo QT o torsades de pointes. El haloperidol tiene el riesgo de prolongar el intervalo QT o torsades de pointes. Por esta razón, se debe realizar un electrocardiograma (ECG) antes de iniciar el tratamiento con haloperidol y se debe monitorear el ECG durante el tratamiento."
+        }
+    },
+    {
+        "question": "En el manejo no farmacológico del delirio, se recomienda mantener un ambiente de estimulación apropiado. ¿Cuál de las siguientes medidas es una medida de prevención?",
+        "options": [
+            { "text": "Mantener al paciente en ayuno para evitar la aspiración.", "isCorrect": false },
+            { "text": "Reducir el ruido y la luz durante la noche para mantener un ciclo de sueño-vigilia.", "isCorrect": true },
+            { "text": "Usar contenciones físicas para evitar que el paciente se agite.", "isCorrect": false },
+            { "text": "Restringir la visita de los familiares para evitar la sobreestimulación.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! Reducir el ruido y la luz durante la noche para mantener un ciclo de sueño-vigilia es una de las medidas de prevención del delirio. El documento menciona que se debe mantener un ambiente de estimulación apropiado para el paciente.",
+            "incorrect": "Incorrecto. La respuesta correcta es reducir el ruido y la luz durante la noche para mantener un ciclo de sueño-vigilia. Esta es una medida de prevención del delirio que se basa en la terapia no farmacológica. La contención física y la restricción de la visita de los familiares no son medidas de prevención del delirio."
+        }
+    },
+    {
+        "question": "En el enfoque terapéutico del delirio en la UCI, el documento menciona que el haloperidol es el medicamento de primera línea en el delirio hiperactivo. ¿Cuál es el medicamento de elección en el delirio hipoactivo?",
+        "options": [
+            { "text": "Haloperidol.", "isCorrect": true },
+            { "text": "Benzodiacepinas.", "isCorrect": false },
+            { "text": "Dexmedetomidina.", "isCorrect": false },
+            { "text": "Clonidina.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! El haloperidol y otros antipsicóticos, como la olanzapina, la quetiapina, la risperidona, la clozapina y la dexmedetomidina, se utilizan para el tratamiento del delirio hiperactivo, pero no para el delirio hipoactivo. El documento menciona que la mayoría de los expertos coinciden en que el tratamiento de primera línea del delirio es el haloperidol, pero los pacientes hipoactivos no se benefician de dicho tratamiento. La respuesta correcta es haloperidol.",
+            "incorrect": "Incorrecto. La respuesta correcta es haloperidol. El haloperidol es el medicamento de primera línea en el delirio hiperactivo, pero los pacientes hipoactivos no se benefician de dicho tratamiento."
+        }
+    },
+    {
+        "question": "En el manejo farmacológico del delirio, ¿cuál de los siguientes medicamentos se utiliza para 'ahorrar' sedación y analgesia, y reduce la gravedad y duración del delirio?",
+        "options": [
+            { "text": "Haloperidol.", "isCorrect": false },
+            { "text": "Benzodiacepinas.", "isCorrect": false },
+            { "text": "Dexmedetomidina.", "isCorrect": true },
+            { "text": "Clonidina.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! La dexmedetomidina es un fármaco 'ahorrador' de sedación y analgesia. El documento menciona que la dexmedetomidina y la clonidina son fármacos que se utilizan para el manejo del delirio. La dexmedetomidina reduce la gravedad y duración del delirio, mientras que la clonidina se utiliza para el manejo de los síntomas de abstinencia.",
+            "incorrect": "Incorrecto. La respuesta correcta es la dexmedetomidina. La dexmedetomidina es un fármaco 'ahorrador' de sedación y analgesia que reduce la gravedad y duración del delirio, mientras que la clonidina se utiliza para el manejo de los síntomas de abstinencia."
+        }
+    },
+    {
+        "question": "Un paciente con delirio está siendo evaluado por el equipo clínico. ¿Qué se espera encontrar en la exploración física que podría indicar la presencia de un delirio?",
+        "options": [
+            { "text": "Rigidez, hiperreflexia y mioclonías.", "isCorrect": true },
+            { "text": "Atrofia muscular.", "isCorrect": false },
+            { "text": "Bradicardia.", "isCorrect": false },
+            { "text": "Hipotonía.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! La exploración física puede revelar rigidez, hiperreflexia y mioclonías, que son signos de delirio. Estos signos son más comunes en pacientes con delirio hiperactivo. El delirio también puede manifestarse como letargo, apatía, lentitud y desorientación.",
+            "incorrect": "Incorrecto. La respuesta correcta es rigidez, hiperreflexia y mioclonías. La exploración física puede revelar estos signos, que son signos de delirio. El delirio también puede manifestarse como letargo, apatía, lentitud y desorientación."
+        }
+    },
+    {
+        "question": "En el manejo no farmacológico del delirio, se recomienda mantener un ambiente de estimulación apropiado. ¿Cuál de las siguientes medidas no es una medida de prevención?",
+        "options": [
+            { "text": "Mantener al paciente en ayuno para evitar la aspiración.", "isCorrect": true },
+            { "text": "Reducir el ruido y la luz durante la noche para mantener un ciclo de sueño-vigilia.", "isCorrect": false },
+            { "text": "Usar contenciones físicas para evitar que el paciente se agite.", "isCorrect": false },
+            { "text": "Restringir la visita de los familiares para evitar la sobreestimulación.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! La respuesta correcta es mantener al paciente en ayuno. Esta es una medida de prevención del delirio que se basa en la terapia no farmacológica. La restricción de la visita de los familiares y la contención física no son medidas de prevención del delirio. El documento menciona que el uso de la contención física es un factor de riesgo para el delirio.",
+            "incorrect": "Incorrecto. La respuesta correcta es mantener al paciente en ayuno para evitar la aspiración. La restricción de la visita de los familiares y la contención física no son medidas de prevención del delirio. El documento menciona que el uso de la contención física es un factor de riesgo para el delirio."
+        }
+    },
+    {
+        "question": "El documento menciona que el delirio es un trastorno de la conciencia que se puede clasificar en tres subtipos motores. ¿Cuál de las siguientes no es un subtipo motor del delirio?",
+        "options": [
+            { "text": "Hipoactivo.", "isCorrect": false },
+            { "text": "Hiperactivo.", "isCorrect": false },
+            { "text": "Mixto.", "isCorrect": false },
+            { "text": "Agitado.", "isCorrect": true }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! Los subtipos motores del delirio son: hipoactivo, hiperactivo y mixto. El delirio agitado se considera una manifestación del delirio hiperactivo.",
+            "incorrect": "Incorrecto. La respuesta correcta es agitado. Los subtipos motores del delirio son: hipoactivo, hiperactivo y mixto. El delirio agitado se considera una manifestación del delirio hiperactivo."
+        }
+    },
+    {
+        "question": "En el manejo terapéutico del delirio, el documento menciona que la dexmedetomidina y la clonidina son fármacos que se utilizan para el manejo del delirio. ¿Cuál de los siguientes es el mecanismo de acción de la dexmedetomidina?",
+        "options": [
+            { "text": "Aumento de la liberación de dopamina.", "isCorrect": false },
+            { "text": "Aumento de la liberación de noradrenalina.", "isCorrect": false },
+            { "text": "Antagonista de los receptores alfa-2 adrenérgicos.", "isCorrect": false },
+            { "text": "Agonista de los receptores alfa-2 adrenérgicos.", "isCorrect": true }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! La dexmedetomidina es un agonista de los receptores alfa-2 adrenérgicos. El documento menciona que la dexmedetomidina y la clonidina son agonistas de los receptores alfa-2 adrenérgicos que se utilizan para el manejo del delirio.",
+            "incorrect": "Incorrecto. La respuesta correcta es agonista de los receptores alfa-2 adrenérgicos. La dexmedetomidina es un agonista de los receptores alfa-2 adrenérgicos que se utiliza para el manejo del delirio."
+        }
+    }
+]

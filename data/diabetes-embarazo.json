@@ -1,0 +1,483 @@
+[
+    {
+        "question": "Una mujer de 32 años, con sobrepeso (IMC > 25) y sin antecedentes familiares de diabetes, se presenta en su primera consulta prenatal. Según el enfoque de la ADA, ¿qué se recomienda en este caso?",
+        "options": [
+            { "text": "Realizar la prueba de tolerancia oral a la glucosa (PTOG) entre las semanas 24 y 28 de gestación.", "isCorrect": false },
+            { "text": "Realizar la PTOG antes de la semana 20 de gestación y, si es negativa, repetirla entre las semanas 24 y 28 de gestación.", "isCorrect": true },
+            { "text": "No necesita ser tamizada por bajo riesgo.", "isCorrect": false },
+            { "text": "Realizar la prueba de hemoglobina A1C y, si es > 6.5%, diagnosticar diabetes pregestacional.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! Según la ADA, las mujeres con sobrepeso (IMC > 25) son consideradas de alto riesgo. Por lo tanto, se recomienda realizar la PTOG antes de la semana 20 de gestación y, si es negativa, repetirla entre las semanas 24 y 28 de gestación.",
+            "incorrect": "Incorrecto. La respuesta correcta es realizar la PTOG antes de la semana 20 de gestación y, si es negativa, repetirla entre las semanas 24 y 28 de gestación. La ADA considera que las mujeres con sobrepeso (IMC > 25) tienen un riesgo alto para la diabetes gestacional."
+        }
+    },
+    {
+        "question": "Una paciente con diabetes mellitus gestacional (DMG) ha intentado el manejo nutricional y la actividad física por dos semanas, pero no ha logrado las metas del control metabólico. ¿Cuál es la terapia farmacológica de primera línea recomendada?",
+        "options": [
+            { "text": "Metformina.", "isCorrect": false },
+            { "text": "Glibenclamida.", "isCorrect": false },
+            { "text": "Insulina.", "isCorrect": true },
+            { "text": "Prednisona.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! El documento menciona que si el manejo nutricional y la actividad física no logran las metas del control metabólico, se recomienda el inicio de insulina, que es la primera línea de tratamiento farmacológico. La Metformina y la Glibenclamida aún no han sido aprobadas por la FDA para el uso en el embarazo.",
+            "incorrect": "Incorrecto. La respuesta correcta es la insulina. El documento menciona que si el manejo nutricional y la actividad física no logran las metas del control metabólico, se recomienda el inicio de insulina, que es la primera línea de tratamiento farmacológico."
+        }
+    },
+    {
+        "question": "En el embarazo, se presenta una resistencia a la insulina. ¿Cuál es el propósito de este mecanismo fisiológico?",
+        "options": [
+            { "text": "Asegurar que el feto tenga un suministro de energía y nutrientes, y facilitar el depósito de calorías en el tejido adiposo materno.", "isCorrect": true },
+            { "text": "Disminuir la hipoglucemia en ayunas.", "isCorrect": false },
+            { "text": "Aumentar la sensibilidad a la insulina en el primer trimestre.", "isCorrect": false },
+            { "text": "Aumentar la glicemia postprandial para el feto.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! La resistencia a la insulina es un estado diabetogénico que tiene como finalidad asegurar que el feto tenga todo el tiempo un suministro de energía y nutrientes, además de facilitar el depósito de calorías en el tejido adiposo materno.",
+            "incorrect": "Incorrecto. La respuesta correcta es asegurar que el feto tenga un suministro de energía y nutrientes, y facilitar el depósito de calorías en el tejido adiposo materno. La resistencia a la insulina tiene como finalidad asegurar el suministro de energía al feto."
+        }
+    },
+    {
+        "question": "Una mujer con diabetes mellitus pregestacional presenta una hemoglobina A1C de 9% en la primera consulta prenatal. ¿Qué malformación congénita es más probable que se presente en el feto?",
+        "options": [
+            { "text": "Anencefalia.", "isCorrect": false },
+            { "text": "Transposición de grandes vasos.", "isCorrect": true },
+            { "text": "Hidronefrosis.", "isCorrect": false },
+            { "text": "Agenesia sacra.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! El documento menciona que las malformaciones más comunes en el feto de una madre diabética mal controlada son las cardíacas, como la transposición de grandes vasos. Una hemoglobina A1C elevada durante el periodo de organogénesis se relaciona directamente con la posibilidad de malformaciones.",
+            "incorrect": "Incorrecto. La respuesta correcta es transposición de grandes vasos. El documento menciona que las malformaciones más comunes en el feto de una madre diabética mal controlada son las cardíacas, como la transposición de grandes vasos."
+        }
+    },
+    {
+        "question": "En el manejo de la paciente con diabetes mellitus gestacional (DMG), ¿cuál de los siguientes factores se ha demostrado que reduce la frecuencia de complicaciones perinatales en un 67%?",
+        "options": [
+            { "text": "Detección temprana y control prenatal adecuado.", "isCorrect": true },
+            { "text": "Uso de insulina desde la primera consulta prenatal.", "isCorrect": false },
+            { "text": "Uso de hipoglicemiantes orales.", "isCorrect": false },
+            { "text": "Parto por cesárea en la semana 38.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! Se ha conocido que realizar una detección temprana y un buen control prenatal, que debe constar de la vigilancia del control metabólico, del crecimiento fetal, manejo nutricional y uso de medicamentos cuando es necesario, reduce en un 67% la frecuencia de serias complicaciones y resultados perinatales adversos.",
+            "incorrect": "Incorrecto. La respuesta correcta es la detección temprana y un buen control prenatal. El documento menciona que estos factores reducen en un 67% la frecuencia de serias complicaciones y resultados perinatales adversos."
+        }
+    },
+    {
+        "question": "Una paciente con diabetes gestacional presenta una glicemia en ayunas de 98 mg/dl, una hora postprandial de 190 mg/dl y dos horas postprandial de 160 mg/dl. ¿Cuál de los siguientes valores es diagnóstico de diabetes gestacional?",
+        "options": [
+            { "text": "Glicemia en ayunas ≥ 92 mg/dl.", "isCorrect": true },
+            { "text": "Glicemia de 1 hora ≥ 180 mg/dl.", "isCorrect": true },
+            { "text": "Glicemia de 2 horas ≥ 153 mg/dl.", "isCorrect": true },
+            { "text": "Los tres valores son diagnósticos de diabetes gestacional.", "isCorrect": true }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! La respuesta correcta es que los tres valores son diagnósticos de diabetes gestacional. El documento menciona que se considera diagnóstica si un valor es igual o superior a los puntos de corte establecidos por la IADPSG: ayunas ≥ 92 mg/dl, 1 hora ≥ 180 mg/dl y 2 horas ≥ 153 mg/dl.",
+            "incorrect": "Incorrecto. La respuesta correcta es que los tres valores son diagnósticos de diabetes gestacional. El documento menciona que se considera diagnóstica si un valor es igual o superior a los puntos de corte establecidos por la IADPSG: ayunas ≥ 92 mg/dl, 1 hora ≥ 180 mg/dl y 2 horas ≥ 153 mg/dl."
+        }
+    },
+    {
+        "question": "Una paciente con diabetes gestacional se encuentra en el posparto. ¿Qué se recomienda en este periodo?",
+        "options": [
+            { "text": "Suspender la insulina y evaluar las glicemias en las 24 a 48 horas posparto para identificar aquellas (5%) que continúan siendo diabéticas.", "isCorrect": true },
+            { "text": "Continuar con el mismo esquema de insulina que venía recibiendo antes del parto.", "isCorrect": false },
+            { "text": "Continuar con el manejo nutricional y la actividad física y no se necesita hacer la prueba de tolerancia oral a la glucosa.", "isCorrect": false },
+            { "text": "Continuar con la lactancia materna, ya que la diabetes gestacional está asociada a una mayor prevalencia de lactancia materna.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! En el posparto, la resistencia a la insulina se resuelve en pocas horas. En las pacientes con diabetes gestacional, la insulina se suspende y se evalúan las glicemias en las 24 a 48 horas posparto para identificar aquellas (5%) que continúan siendo diabéticas.",
+            "incorrect": "Incorrecto. La respuesta correcta es suspender la insulina y evaluar las glicemias en las 24 a 48 horas posparto para identificar aquellas (5%) que continúan siendo diabéticas. La mayoría de las mujeres vuelve a la normoglucemia después del parto."
+        }
+    },
+    {
+        "question": "Una mujer con diabetes mellitus pregestacional tipo 1 o tipo 2 debe tener una evaluación clínica que enfatice varios aspectos. ¿Cuál de los siguientes no es un aspecto a evaluar en cada control prenatal?",
+        "options": [
+            { "text": "Seguimiento de la presión arterial y el IMC.", "isCorrect": false },
+            { "text": "Verificación del perfil metabólico: glicemia en ayunas y 1 hora postprandial.", "isCorrect": false },
+            { "text": "Evaluación de la hemoglobina A1C.", "isCorrect": false },
+            { "text": "Evaluación de la glucosa en sangre.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! El documento no menciona la evaluación de la hemoglobina A1C en cada control prenatal. El documento menciona que en cada control la evaluación clínica deberá enfatizar el seguimiento de la presión arterial y el IMC, y la verificación del perfil metabólico: glicemia en ayunas y 1 hora postprandial.",
+            "incorrect": "Incorrecto. La respuesta correcta es la evaluación de la glucosa en sangre. El documento no menciona la evaluación de la hemoglobina A1C en cada control prenatal, sino el seguimiento de la presión arterial y el IMC, y la verificación del perfil metabólico: glicemia en ayunas y 1 hora postprandial."
+        }
+    },
+    {
+        "question": "En el embarazo, el metabolismo de los hidratos de carbono se resume en tres puntos. ¿Cuál de los siguientes no es uno de ellos?",
+        "options": [
+            { "text": "Tendencia a la hipoglucemia y a la cetosis en ayunas.", "isCorrect": false },
+            { "text": "Tendencia a la hiperglicemia postprandial.", "isCorrect": false },
+            { "text": "Hiperinsulinemia e insulinoresistencia.", "isCorrect": false },
+            { "text": "Tendencia a la hiperglicemia y a la cetosis en ayunas.", "isCorrect": true }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! El metabolismo de los hidratos de carbono durante el embarazo se resume en: tendencia a la hipoglucemia y a la cetosis en ayunas, tendencia a la hiperglicemia postprandial e hiperinsulinemia e insulinoresistencia. No hay tendencia a la hiperglicemia en ayunas, sino todo lo contrario.",
+            "incorrect": "Incorrecto. La respuesta correcta es tendencia a la hiperglicemia y a la cetosis en ayunas. El metabolismo de los hidratos de carbono durante el embarazo se resume en: tendencia a la hipoglucemia y a la cetosis en ayunas, tendencia a la hiperglicemia postprandial e hiperinsulinemia e insulinoresistencia."
+        }
+    },
+    {
+        "question": "Una mujer de 35 años, multípara, con antecedentes de diabetes gestacional, presenta un índice de masa corporal (IMC) de 30. ¿Cuál de los siguientes factores de riesgo es el más agudo y aumenta el riesgo de desarrollar diabetes gestacional en un 33-50%?",
+        "options": [
+            { "text": "La edad materna (> 25 años).", "isCorrect": false },
+            { "text": "El exceso de peso previo al embarazo (IMC > 25).", "isCorrect": false },
+            { "text": "La historia personal de diabetes gestacional.", "isCorrect": true },
+            { "text": "La multiparidad (mayor o igual a 3 hijos previos).", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! La historia personal de diabetes gestacional es el predictor más agudo para la diabetes gestacional, aumentando el riesgo en un 33-50%. Si se suma un segundo factor, el riesgo aumenta aún más. En este caso, la paciente tiene otros factores de riesgo, como la edad, la multiparidad y la obesidad, lo que aumenta aún más el riesgo.",
+            "incorrect": "Incorrecto. La respuesta correcta es la historia personal de diabetes gestacional. El documento menciona que la historia personal de diabetes gestacional es el predictor más agudo para la diabetes gestacional, aumentando el riesgo en un 33-50%."
+        }
+    },
+    {
+        "question": "En el tratamiento farmacológico de la diabetes gestacional, ¿cuál de las siguientes insulinas es de acción rápida y se utiliza para tratar la glucosa postprandial?",
+        "options": [
+            { "text": "Insulina Glargina.", "isCorrect": false },
+            { "text": "Insulina NPH.", "isCorrect": false },
+            { "text": "Insulina lispro y aspart.", "isCorrect": true },
+            { "text": "Insulina regular.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! La insulina lispro y aspart son insulinas de acción rápida que reducen la tendencia a formar agregados, lo que permite un rápido inicio y una corta duración de acción, ideal para controlar el pico de glucosa postprandial. La insulina Glargina y NPH son insulinas de acción larga e intermedia, respectivamente, que se utilizan como insulina basal.",
+            "incorrect": "Incorrecto. La respuesta correcta es insulina lispro y aspart. La insulina lispro y aspart son insulinas de acción rápida que reducen la tendencia a formar agregados, lo que permite un rápido inicio y una corta duración de acción, ideal para controlar el pico de glucosa postprandial."
+        }
+    },
+    {
+        "question": "Una paciente con diabetes gestacional está siendo tratada con insulina. En el posparto, la resistencia a la insulina se resuelve en pocas horas. ¿Qué se debe hacer con la insulina?",
+        "options": [
+            { "text": "Mantener la infusión de insulina y dextrosa.", "isCorrect": false },
+            { "text": "Mantener el mismo esquema de insulina que venía recibiendo antes del parto.", "isCorrect": false },
+            { "text": "Suspender la insulina y evaluar las glicemias en las 24 a 48 horas posparto.", "isCorrect": true },
+            { "text": "Reanudar la insulina al mismo esquema que la paciente venía recibiendo antes del embarazo.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! En las pacientes con diabetes gestacional que venían recibiendo insulina, esta se suspende y se evalúan las glicemias en las 24 a 48 horas posparto para identificar aquellas (5%) que continúan siendo diabéticas.",
+            "incorrect": "Incorrecto. La respuesta correcta es suspender la insulina y evaluar las glicemias en las 24 a 48 horas posparto. En el posparto, la resistencia a la insulina se resuelve en pocas horas, por lo que la insulina se suspende."
+        }
+    },
+    {
+        "question": "Una mujer de 22 años, con un índice de masa corporal (IMC) de 24 y sin antecedentes familiares de diabetes, se presenta en su primera consulta prenatal. No tiene antecedentes personales de intolerancia a la glucosa y no pertenece a un grupo étnico de alto riesgo. ¿Qué se recomienda en este caso?",
+        "options": [
+            { "text": "Realizar la prueba de tolerancia oral a la glucosa (PTOG) antes de la semana 20 de gestación.", "isCorrect": false },
+            { "text": "Realizar la PTOG entre las semanas 24 y 28 de gestación.", "isCorrect": false },
+            { "text": "No necesita ser tamizada por bajo riesgo.", "isCorrect": true },
+            { "text": "Realizar la prueba de hemoglobina A1C y, si es > 6.5%, diagnosticar diabetes pregestacional.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! El documento menciona que las mujeres de bajo riesgo, que cumplen con todas las condiciones mencionadas, no necesitan ser tamizadas por costo-beneficio.",
+            "incorrect": "Incorrecto. La respuesta correcta es que no necesita ser tamizada por bajo riesgo. El documento menciona que las mujeres de bajo riesgo, que cumplen con todas las condiciones mencionadas, no necesitan ser tamizadas por costo-beneficio."
+        }
+    },
+    {
+        "question": "En el puerperio, una mujer con diabetes tipo 1 que venía recibiendo insulina antes del embarazo. ¿Qué se recomienda hacer con la insulina?",
+        "options": [
+            { "text": "Mantener la infusión de insulina y dextrosa hasta no asegurar una buena tolerancia a la vía oral.", "isCorrect": true },
+            { "text": "Suspender la insulina y evaluar las glicemias en las 24 a 48 horas posparto.", "isCorrect": false },
+            { "text": "Reanudar la insulina al mismo esquema que la paciente venía recibiendo antes del embarazo.", "isCorrect": false },
+            { "text": "Continuar con el manejo nutricional y la actividad física.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! En el puerperio, las pacientes con diabetes tipo 1 deben mantener la infusión de insulina y dextrosa hasta no asegurar una buena tolerancia a la vía oral. Una vez que la paciente tolere la vía oral, se reanudará la insulina al mismo esquema que la paciente venía recibiendo antes del embarazo.",
+            "incorrect": "Incorrecto. La respuesta correcta es mantener la infusión de insulina y dextrosa hasta no asegurar una buena tolerancia a la vía oral. El documento menciona que en las pacientes con diabetes tipo 1, se debe mantener la infusión de insulina y dextrosa hasta no asegurar una buena tolerancia a la vía oral."
+        }
+    },
+    {
+        "question": "En el manejo intraparto de una mujer con diabetes, se debe evitar la hiperglicemia materna. ¿Cuál es la razón principal?",
+        "options": [
+            { "text": "Para prevenir la hipoglucemia neonatal.", "isCorrect": true },
+            { "text": "Para prevenir la acidosis fetal.", "isCorrect": true },
+            { "text": "Para prevenir la hiperinsulinemia fetal.", "isCorrect": true },
+            { "text": "Todas las opciones son correctas.", "isCorrect": true }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! La hiperglicemia materna puede conducir a hiperinsulinemia fetal, acidosis fetal y posterior hipoglucemia neonatal. Por lo tanto, se debe evitar la hiperglicemia materna durante el trabajo de parto para prevenir estas complicaciones.",
+            "incorrect": "Incorrecto. La respuesta correcta es que todas las opciones son correctas. La hiperglicemia materna puede conducir a hiperinsulinemia fetal, acidosis fetal y posterior hipoglucemia neonatal. Por lo tanto, se debe evitar la hiperglicemia materna durante el trabajo de parto para prevenir estas complicaciones."
+        }
+    },
+    {
+        "question": "Una mujer embarazada presenta una glucosa plasmática venosa de 130 mg/dl una hora después de la ingesta oral de 50 gr de glucosa. ¿Qué se recomienda en este caso según la prueba tamiz (O'Sullivan)?",
+        "options": [
+            { "text": "Se considera normal y no necesita hacer la curva de tolerancia oral a la glucosa (CTOG).", "isCorrect": false },
+            { "text": "Se considera anormal y necesita hacer la curva de tolerancia oral a la glucosa (CTOG).", "isCorrect": true },
+            { "text": "Se considera normal y necesita hacer la prueba de hemoglobina A1C.", "isCorrect": false },
+            { "text": "Se considera anormal y necesita hacer la prueba de glucosa en ayunas.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! El documento menciona que un corte > 140 mg/dl es anormal y necesita hacer la curva de tolerancia oral a la glucosa (CTOG). El valor de 130 mg/dl está por debajo de este punto de corte, por lo que se considera normal y no necesita hacer la curva de tolerancia oral a la glucosa (CTOG).",
+            "incorrect": "Incorrecto. La respuesta correcta es que se considera normal y no necesita hacer la curva de tolerancia oral a la glucosa (CTOG). El documento menciona que un corte > 140 mg/dl es anormal y necesita hacer la curva de tolerancia oral a la glucosa (CTOG)."
+        }
+    },
+    {
+        "question": "Una mujer con un índice de masa corporal (IMC) de 30, presenta una glicemia en ayunas de 100 mg/dl. ¿Qué se recomienda en este caso para el manejo nutricional?",
+        "options": [
+            { "text": "Tres comidas y tres meriendas.", "isCorrect": false },
+            { "text": "Eliminar las meriendas.", "isCorrect": true },
+            { "text": "Tres comidas y no se necesitan meriendas.", "isCorrect": false },
+            { "text": "Eliminar las comidas.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! La mayoría de los programas sugieren tres comidas y tres meriendas, sin embargo, en mujeres con sobrepeso y obesos las meriendas son a menudo eliminadas. Lo ideal es que las pacientes obesas en el primer control prenatal o mejor aún si realizan una consulta preconcepcional realicen una visita nutricional.",
+            "incorrect": "Incorrecto. La respuesta correcta es eliminar las meriendas. La mayoría de los programas sugieren tres comidas y tres meriendas, sin embargo, en mujeres con sobrepeso y obesos las meriendas son a menudo eliminadas."
+        }
+    },
+    {
+        "question": "En el manejo de la paciente con diabetes, se ha demostrado que la insulina lispro y aspart (rápida acción) tienen ventajas sobre la insulina humana regular o cristalina (corta acción). ¿Cuál es la principal ventaja?",
+        "options": [
+            { "text": "Reducen el riesgo de hipoglucemia postprandial.", "isCorrect": false },
+            { "text": "Mejoran la glicemia postprandial y menor hipoglucemia nocturna.", "isCorrect": true },
+            { "text": "Tienen un inicio de acción más lento y una duración más larga.", "isCorrect": false },
+            { "text": "Tienen un inicio de acción más lento y una duración más corta.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! Las insulinas lispro y aspart tienen un rápido inicio y una corta duración de acción en comparación con la insulina humana. Han demostrado que mejoran la glicemia postprandial y menor hipoglucemia nocturna que la insulina humana.",
+            "incorrect": "Incorrecto. La respuesta correcta es mejoran la glicemia postprandial y menor hipoglucemia nocturna. Las insulinas lispro y aspart tienen un rápido inicio y una corta duración de acción en comparación con la insulina humana. Han demostrado que mejoran la glicemia postprandial y menor hipoglucemia nocturna que la insulina humana."
+        }
+    },
+    {
+        "question": "Una mujer con diabetes gestacional presenta un índice de masa corporal (IMC) de 30. ¿Cuál es la ganancia de peso total recomendada durante la gestación?",
+        "options": [
+            { "text": "12.5 a 18 kg.", "isCorrect": false },
+            { "text": "11.5 a 16 kg.", "isCorrect": false },
+            { "text": "7 a 11.5 kg.", "isCorrect": false },
+            { "text": "5 a 9 kg.", "isCorrect": true }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! El documento menciona que la ganancia de peso total recomendada para una mujer con un IMC pregestacional de 30 o más es de 5 a 9 kg.",
+            "incorrect": "Incorrecto. La respuesta correcta es de 5 a 9 kg. El documento menciona que la ganancia de peso total recomendada para una mujer con un IMC pregestacional de 30 o más es de 5 a 9 kg."
+        }
+    },
+    {
+        "question": "En el manejo intraparto de una mujer con diabetes, se debe evitar la hiperglicemia materna. ¿Cuál es el promedio de glicemia que se busca alcanzar?",
+        "options": [
+            { "text": "70 a 100 mg/dl.", "isCorrect": true },
+            { "text": "80 a 120 mg/dl.", "isCorrect": false },
+            { "text": "90 a 140 mg/dl.", "isCorrect": false },
+            { "text": "100 a 150 mg/dl.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! En el manejo intraparto de una mujer con diabetes, se busca alcanzar un promedio de glicemia de 70 a 100 mg/dl. El control glicémico se hace cada hora.",
+            "incorrect": "Incorrecto. La respuesta correcta es 70 a 100 mg/dl. En el manejo intraparto de una mujer con diabetes, se busca alcanzar un promedio de glicemia de 70 a 100 mg/dl. El control glicémico se hace cada hora."
+        }
+    },
+    {
+        "question": "Una mujer con diabetes tipo 1 que venía recibiendo insulina antes del embarazo. En el puerperio, ¿qué se debe hacer con la insulina?",
+        "options": [
+            { "text": "Mantener la infusión de insulina y dextrosa hasta no asegurar una buena tolerancia a la vía oral.", "isCorrect": true },
+            { "text": "Suspender la insulina y evaluar las glicemias en las 24 a 48 horas posparto.", "isCorrect": false },
+            { "text": "Reanudar la insulina al mismo esquema que la paciente venía recibiendo antes del embarazo.", "isCorrect": false },
+            { "text": "Continuar con el manejo nutricional y la actividad física.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! En el puerperio, las pacientes con diabetes tipo 1 deben mantener la infusión de insulina y dextrosa hasta no asegurar una buena tolerancia a la vía oral. Una vez que la paciente tolere la vía oral, se reanudará la insulina al mismo esquema que la paciente venía recibiendo antes del embarazo.",
+            "incorrect": "Incorrecto. La respuesta correcta es mantener la infusión de insulina y dextrosa hasta no asegurar una buena tolerancia a la vía oral. El documento menciona que en las pacientes con diabetes tipo 1, se debe mantener la infusión de insulina y dextrosa hasta no asegurar una buena tolerancia a la vía oral."
+        }
+    },
+    {
+        "question": "En el manejo de la paciente con diabetes, se ha demostrado que la insulina lispro y aspart (rápida acción) tienen ventajas sobre la insulina humana regular o cristalina (corta acción). ¿Cuál es la principal ventaja?",
+        "options": [
+            { "text": "Reducen el riesgo de hipoglucemia postprandial.", "isCorrect": false },
+            { "text": "Mejoran la glicemia postprandial y menor hipoglucemia nocturna.", "isCorrect": true },
+            { "text": "Tienen un inicio de acción más lento y una duración más larga.", "isCorrect": false },
+            { "text": "Tienen un inicio de acción más lento y una duración más corta.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! Las insulinas lispro y aspart tienen un rápido inicio y una corta duración de acción en comparación con la insulina humana. Han demostrado que mejoran la glicemia postprandial y menor hipoglucemia nocturna que la insulina humana.",
+            "incorrect": "Incorrecto. La respuesta correcta es mejoran la glicemia postprandial y menor hipoglucemia nocturna. Las insulinas lispro y aspart tienen un rápido inicio y una corta duración de acción en comparación con la insulina humana. Han demostrado que mejoran la glicemia postprandial y menor hipoglucemia nocturna que la insulina humana."
+        }
+    },
+    {
+        "question": "Una mujer con diabetes gestacional presenta un índice de masa corporal (IMC) de 30. ¿Cuál es la ganancia de peso total recomendada durante la gestación?",
+        "options": [
+            { "text": "12.5 a 18 kg.", "isCorrect": false },
+            { "text": "11.5 a 16 kg.", "isCorrect": false },
+            { "text": "7 a 11.5 kg.", "isCorrect": false },
+            { "text": "5 a 9 kg.", "isCorrect": true }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! El documento menciona que la ganancia de peso total recomendada para una mujer con un IMC pregestacional de 30 o más es de 5 a 9 kg.",
+            "incorrect": "Incorrecto. La respuesta correcta es de 5 a 9 kg. El documento menciona que la ganancia de peso total recomendada para una mujer con un IMC pregestacional de 30 o más es de 5 a 9 kg."
+        }
+    },
+    {
+        "question": "En el manejo intraparto de una mujer con diabetes, se debe evitar la hiperglicemia materna. ¿Cuál es el promedio de glicemia que se busca alcanzar?",
+        "options": [
+            { "text": "70 a 100 mg/dl.", "isCorrect": true },
+            { "text": "80 a 120 mg/dl.", "isCorrect": false },
+            { "text": "90 a 140 mg/dl.", "isCorrect": false },
+            { "text": "100 a 150 mg/dl.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! En el manejo intraparto de una mujer con diabetes, se busca alcanzar un promedio de glicemia de 70 a 100 mg/dl. El control glicémico se hace cada hora.",
+            "incorrect": "Incorrecto. La respuesta correcta es 70 a 100 mg/dl. En el manejo intraparto de una mujer con diabetes, se busca alcanzar un promedio de glicemia de 70 a 100 mg/dl. El control glicémico se hace cada hora."
+        }
+    },
+    {
+        "question": "Una mujer embarazada que presenta un 'macrosomia fetal', peso fetal ≥ P95 para la edad gestacional, presenta un riesgo de:",
+        "options": [
+            { "text": "Hipoglucemia, hiperbilirrubinemia, acidosis y muerte intrauterina.", "isCorrect": true },
+            { "text": "Parto distócico, daño del plexo braquial y fracturas claviculares.", "isCorrect": true },
+            { "text": "Parto intervenido, aumento de la tasa de cesárea y hemorragia posparto.", "isCorrect": true },
+            { "text": "Todas las opciones son correctas.", "isCorrect": true }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! Un 'macrosomia fetal' presenta un riesgo de hipoglucemia, hiperbilirrubinemia, acidosis y muerte intrauterina. También aumenta la frecuencia de parto distócico (distocia de hombros, daño del plexo braquial y fracturas claviculares), parto intervenido, aumento de la tasa de cesárea y hemorragia posparto. Por lo tanto, todas las opciones son correctas.",
+            "incorrect": "Incorrecto. La respuesta correcta es que todas las opciones son correctas. Un 'macrosomia fetal' presenta un riesgo de hipoglucemia, hiperbilirrubinemia, acidosis y muerte intrauterina. También aumenta la frecuencia de parto distócico (distocia de hombros, daño del plexo braquial y fracturas claviculares), parto intervenido, aumento de la tasa de cesárea y hemorragia posparto."
+        }
+    },
+    {
+        "question": "Una mujer embarazada presenta un 'macrosomia fetal', peso fetal ≥ P95 para la edad gestacional, presenta un riesgo de:",
+        "options": [
+            { "text": "Hipoglucemia, hiperbilirrubinemia, acidosis y muerte intrauterina.", "isCorrect": true },
+            { "text": "Parto distócico, daño del plexo braquial y fracturas claviculares.", "isCorrect": true },
+            { "text": "Parto intervenido, aumento de la tasa de cesárea y hemorragia posparto.", "isCorrect": true },
+            { "text": "Todas las opciones son correctas.", "isCorrect": true }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! Un 'macrosomia fetal' presenta un riesgo de hipoglucemia, hiperbilirrubinemia, acidosis y muerte intrauterina. También aumenta la frecuencia de parto distócico (distocia de hombros, daño del plexo braquial y fracturas claviculares), parto intervenido, aumento de la tasa de cesárea y hemorragia posparto. Por lo tanto, todas las opciones son correctas.",
+            "incorrect": "Incorrecto. La respuesta correcta es que todas las opciones son correctas. Un 'macrosomia fetal' presenta un riesgo de hipoglucemia, hiperbilirrubinemia, acidosis y muerte intrauterina. También aumenta la frecuencia de parto distócico (distocia de hombros, daño del plexo braquial y fracturas claviculares), parto intervenido, aumento de la tasa de cesárea y hemorragia posparto."
+        }
+    },
+    {
+        "question": "En el embarazo, la resistencia a la insulina es máxima en:",
+        "options": [
+            { "text": "El primer trimestre.", "isCorrect": false },
+            { "text": "El segundo trimestre.", "isCorrect": false },
+            { "text": "El tercer trimestre.", "isCorrect": true },
+            { "text": "La semana 20 de gestación.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! El documento menciona que en el tercer trimestre la insulinoresistencia es máxima, debida al crecimiento de la unidad feto-placentaria. En el primer trimestre los requerimientos de insulina no aumentan o disminuyen levemente. En el segundo trimestre inicia el aumento de las hormonas placentarias y las glicemias postprandiales son mantenidas en niveles normales a costa de hiperinsulinemia.",
+            "incorrect": "Incorrecto. La respuesta correcta es el tercer trimestre. En el tercer trimestre la insulinoresistencia es máxima, debida al crecimiento de la unidad feto-placentaria. En el primer trimestre los requerimientos de insulina no aumentan o disminuyen levemente."
+        }
+    },
+    {
+        "question": "Una mujer embarazada que presenta un 'macrosomia fetal', peso fetal ≥ P95 para la edad gestacional, presenta un riesgo de:",
+        "options": [
+            { "text": "Hipoglucemia, hiperbilirrubinemia, acidosis y muerte intrauterina.", "isCorrect": true },
+            { "text": "Parto distócico, daño del plexo braquial y fracturas claviculares.", "isCorrect": true },
+            { "text": "Parto intervenido, aumento de la tasa de cesárea y hemorragia posparto.", "isCorrect": true },
+            { "text": "Todas las opciones son correctas.", "isCorrect": true }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! Un 'macrosomia fetal' presenta un riesgo de hipoglucemia, hiperbilirrubinemia, acidosis y muerte intrauterina. También aumenta la frecuencia de parto distócico (distocia de hombros, daño del plexo braquial y fracturas claviculares), parto intervenido, aumento de la tasa de cesárea y hemorragia posparto. Por lo tanto, todas las opciones son correctas.",
+            "incorrect": "Incorrecto. La respuesta correcta es que todas las opciones son correctas. Un 'macrosomia fetal' presenta un riesgo de hipoglucemia, hiperbilirrubinemia, acidosis y muerte intrauterina. También aumenta la frecuencia de parto distócico (distocia de hombros, daño del plexo braquial y fracturas claviculares), parto intervenido, aumento de la tasa de cesárea y hemorragia posparto."
+        }
+    },
+    {
+        "question": "Una mujer embarazada que presenta un 'macrosomia fetal', peso fetal ≥ P95 para la edad gestacional, presenta un riesgo de:",
+        "options": [
+            { "text": "Hipoglucemia, hiperbilirrubinemia, acidosis y muerte intrauterina.", "isCorrect": true },
+            { "text": "Parto distócico, daño del plexo braquial y fracturas claviculares.", "isCorrect": true },
+            { "text": "Parto intervenido, aumento de la tasa de cesárea y hemorragia posparto.", "isCorrect": true },
+            { "text": "Todas las opciones son correctas.", "isCorrect": true }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! Un 'macrosomia fetal' presenta un riesgo de hipoglucemia, hiperbilirrubinemia, acidosis y muerte intrauterina. También aumenta la frecuencia de parto distócico (distocia de hombros, daño del plexo braquial y fracturas claviculares), parto intervenido, aumento de la tasa de cesárea y hemorragia posparto. Por lo tanto, todas las opciones son correctas.",
+            "incorrect": "Incorrecto. La respuesta correcta es que todas las opciones son correctas. Un 'macrosomia fetal' presenta un riesgo de hipoglucemia, hiperbilirrubinemia, acidosis y muerte intrauterina. También aumenta la frecuencia de parto distócico (distocia de hombros, daño del plexo braquial y fracturas claviculares), parto intervenido, aumento de la tasa de cesárea y hemorragia posparto."
+        }
+    },
+    {
+        "question": "En el puerperio, una mujer con diabetes gestacional que venía recibiendo insulina antes del parto. ¿Qué se recomienda hacer con la insulina?",
+        "options": [
+            { "text": "Mantener la infusión de insulina y dextrosa hasta no asegurar una buena tolerancia a la vía oral.", "isCorrect": false },
+            { "text": "Suspender la insulina y evaluar las glicemias en las 24 a 48 horas posparto para identificar aquellas (5%) que continúan siendo diabéticas.", "isCorrect": true },
+            { "text": "Reanudar la insulina al mismo esquema que la paciente venía recibiendo antes del embarazo.", "isCorrect": false },
+            { "text": "Continuar con el manejo nutricional y la actividad física.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! En las pacientes con diabetes gestacional que venían recibiendo insulina, esta se suspende y se evalúan las glicemias en las 24 a 48 horas posparto para identificar aquellas (5%) que continúan siendo diabéticas.",
+            "incorrect": "Incorrecto. La respuesta correcta es suspender la insulina y evaluar las glicemias en las 24 a 48 horas posparto. En el posparto, la resistencia a la insulina se resuelve en pocas horas, por lo que la insulina se suspende."
+        }
+    },
+    {
+        "question": "En el embarazo, la resistencia a la insulina es máxima en:",
+        "options": [
+            { "text": "El primer trimestre.", "isCorrect": false },
+            { "text": "El segundo trimestre.", "isCorrect": false },
+            { "text": "El tercer trimestre.", "isCorrect": true },
+            { "text": "La semana 20 de gestación.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! El documento menciona que en el tercer trimestre la insulinoresistencia es máxima, debida al crecimiento de la unidad feto-placentaria. En el primer trimestre los requerimientos de insulina no aumentan o disminuyen levemente. En el segundo trimestre inicia el aumento de las hormonas placentarias y las glicemias postprandiales son mantenidas en niveles normales a costa de hiperinsulinemia.",
+            "incorrect": "Incorrecto. La respuesta correcta es el tercer trimestre. En el tercer trimestre la insulinoresistencia es máxima, debida al crecimiento de la unidad feto-placentaria. En el primer trimestre los requerimientos de insulina no aumentan o disminuyen levemente."
+        }
+    },
+    {
+        "question": "En el embarazo, la resistencia a la insulina es máxima en:",
+        "options": [
+            { "text": "El primer trimestre.", "isCorrect": false },
+            { "text": "El segundo trimestre.", "isCorrect": false },
+            { "text": "El tercer trimestre.", "isCorrect": true },
+            { "text": "La semana 20 de gestación.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! El documento menciona que en el tercer trimestre la insulinoresistencia es máxima, debida al crecimiento de la unidad feto-placentaria. En el primer trimestre los requerimientos de insulina no aumentan o disminuyen levemente. En el segundo trimestre inicia el aumento de las hormonas placentarias y las glicemias postprandiales son mantenidas en niveles normales a costa de hiperinsulinemia.",
+            "incorrect": "Incorrecto. La respuesta correcta es el tercer trimestre. En el tercer trimestre la insulinoresistencia es máxima, debida al crecimiento de la unidad feto-placentaria. En el primer trimestre los requerimientos de insulina no aumentan o disminuyen levemente."
+        }
+    },
+    {
+        "question": "Una mujer embarazada que presenta un 'macrosomia fetal', peso fetal ≥ P95 para la edad gestacional, presenta un riesgo de:",
+        "options": [
+            { "text": "Hipoglucemia, hiperbilirrubinemia, acidosis y muerte intrauterina.", "isCorrect": true },
+            { "text": "Parto distócico, daño del plexo braquial y fracturas claviculares.", "isCorrect": true },
+            { "text": "Parto intervenido, aumento de la tasa de cesárea y hemorragia posparto.", "isCorrect": true },
+            { "text": "Todas las opciones son correctas.", "isCorrect": true }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! Un 'macrosomia fetal' presenta un riesgo de hipoglucemia, hiperbilirrubinemia, acidosis y muerte intrauterina. También aumenta la frecuencia de parto distócico (distocia de hombros, daño del plexo braquial y fracturas claviculares), parto intervenido, aumento de la tasa de cesárea y hemorragia posparto. Por lo tanto, todas las opciones son correctas.",
+            "incorrect": "Incorrecto. La respuesta correcta es que todas las opciones son correctas. Un 'macrosomia fetal' presenta un riesgo de hipoglucemia, hiperbilirrubinemia, acidosis y muerte intrauterina. También aumenta la frecuencia de parto distócico (distocia de hombros, daño del plexo braquial y fracturas claviculares), parto intervenido, aumento de la tasa de cesárea y hemorragia posparto."
+        }
+    },
+    {
+        "question": "Una mujer embarazada que presenta un 'macrosomia fetal', peso fetal ≥ P95 para la edad gestacional, presenta un riesgo de:",
+        "options": [
+            { "text": "Hipoglucemia, hiperbilirrubinemia, acidosis y muerte intrauterina.", "isCorrect": true },
+            { "text": "Parto distócico, daño del plexo braquial y fracturas claviculares.", "isCorrect": true },
+            { "text": "Parto intervenido, aumento de la tasa de cesárea y hemorragia posparto.", "isCorrect": true },
+            { "text": "Todas las opciones son correctas.", "isCorrect": true }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! Un 'macrosomia fetal' presenta un riesgo de hipoglucemia, hiperbilirrubinemia, acidosis y muerte intrauterina. También aumenta la frecuencia de parto distócico (distocia de hombros, daño del plexo braquial y fracturas claviculares), parto intervenido, aumento de la tasa de cesárea y hemorragia posparto. Por lo tanto, todas las opciones son correctas.",
+            "incorrect": "Incorrecto. La respuesta correcta es que todas las opciones son correctas. Un 'macrosomia fetal' presenta un riesgo de hipoglucemia, hiperbilirrubinemia, acidosis y muerte intrauterina. También aumenta la frecuencia de parto distócico (distocia de hombros, daño del plexo braquial y fracturas claviculares), parto intervenido, aumento de la tasa de cesárea y hemorragia posparto."
+        }
+    },
+    {
+        "question": "En el embarazo, la resistencia a la insulina es máxima en:",
+        "options": [
+            { "text": "El primer trimestre.", "isCorrect": false },
+            { "text": "El segundo trimestre.", "isCorrect": false },
+            { "text": "El tercer trimestre.", "isCorrect": true },
+            { "text": "La semana 20 de gestación.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! El documento menciona que en el tercer trimestre la insulinoresistencia es máxima, debida al crecimiento de la unidad feto-placentaria. En el primer trimestre los requerimientos de insulina no aumentan o disminuyen levemente. En el segundo trimestre inicia el aumento de las hormonas placentarias y las glicemias postprandiales son mantenidas en niveles normales a costa de hiperinsulinemia.",
+            "incorrect": "Incorrecto. La respuesta correcta es el tercer trimestre. En el tercer trimestre la insulinoresistencia es máxima, debida al crecimiento de la unidad feto-placentaria. En el primer trimestre los requerimientos de insulina no aumentan o disminuyen levemente."
+        }
+    },
+    {
+        "question": "En el embarazo, la resistencia a la insulina es máxima en:",
+        "options": [
+            { "text": "El primer trimestre.", "isCorrect": false },
+            { "text": "El segundo trimestre.", "isCorrect": false },
+            { "text": "El tercer trimestre.", "isCorrect": true },
+            { "text": "La semana 20 de gestación.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! El documento menciona que en el tercer trimestre la insulinoresistencia es máxima, debida al crecimiento de la unidad feto-placentaria. En el primer trimestre los requerimientos de insulina no aumentan o disminuyen levemente. En el segundo trimestre inicia el aumento de las hormonas placentarias y las glicemias postprandiales son mantenidas en niveles normales a costa de hiperinsulinemia.",
+            "incorrect": "Incorrecto. La respuesta correcta es el tercer trimestre. En el tercer trimestre la insulinoresistencia es máxima, debida al crecimiento de la unidad feto-placentaria. En el primer trimestre los requerimientos de insulina no aumentan o disminuyen levemente."
+        }
+    },
+    {
+        "question": "Una mujer embarazada que presenta un 'macrosomia fetal', peso fetal ≥ P95 para la edad gestacional, presenta un riesgo de:",
+        "options": [
+            { "text": "Hipoglucemia, hiperbilirrubinemia, acidosis y muerte intrauterina.", "isCorrect": true },
+            { "text": "Parto distócico, daño del plexo braquial y fracturas claviculares.", "isCorrect": true },
+            { "text": "Parto intervenido, aumento de la tasa de cesárea y hemorragia posparto.", "isCorrect": true },
+            { "text": "Todas las opciones son correctas.", "isCorrect": true }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! Un 'macrosomia fetal' presenta un riesgo de hipoglucemia, hiperbilirrubinemia, acidosis y muerte intrauterina. También aumenta la frecuencia de parto distócico (distocia de hombros, daño del plexo braquial y fracturas claviculares), parto intervenido, aumento de la tasa de cesárea y hemorragia posparto. Por lo tanto, todas las opciones son correctas.",
+            "incorrect": "Incorrecto. La respuesta correcta es que todas las opciones son correctas. Un 'macrosomia fetal' presenta un riesgo de hipoglucemia, hiperbilirrubinemia, acidosis y muerte intrauterina. También aumenta la frecuencia de parto distócico (distocia de hombros, daño del plexo braquial y fracturas claviculares), parto intervenido, aumento de la tasa de cesárea y hemorragia posparto."
+        }
+    }
+]

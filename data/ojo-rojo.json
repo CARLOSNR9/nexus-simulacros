@@ -1,0 +1,626 @@
+[
+    {
+        "question": "Un paciente llega a urgencias con ojo rojo, secreción serosa y prurito en ambos ojos. El médico sospecha una conjuntivitis viral. ¿Qué tipo de tratamiento se le debe dar?",
+        "options": [
+            { "text": "Tratamiento con antibióticos tópicos por 7 días.", "isCorrect": false },
+            { "text": "Tratamiento sintomático, ya que es autolimitada.", "isCorrect": true },
+            { "text": "Tratamiento con corticoides tópicos por 15 días.", "isCorrect": false },
+            { "text": "Tratamiento con antivirales tópicos por 10 días.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! El documento menciona que la conjuntivitis viral es autolimitada y el tratamiento es sintomático. No se recomienda el uso de antibióticos ni corticoides.",
+            "incorrect": "Incorrecto. La respuesta correcta es que el tratamiento es sintomático, ya que es autolimitada. El tratamiento con antibióticos tópicos se utiliza para la conjuntivitis bacteriana, y el tratamiento con corticoides tópicos se utiliza para la uveítis y la queratitis herpética."
+        }
+    },
+    {
+        "question": "Una mujer de 55 años, con antecedentes de diabetes y artritis reumatoidea, se presenta con ojo rojo y dolor ocular. El examen físico revela inyección ciliar y células en la cámara anterior. ¿Cuál es el diagnóstico más probable?",
+        "options": [
+            { "text": "Conjuntivitis viral.", "isCorrect": false },
+            { "text": "Glaucoma agudo de ángulo cerrado.", "isCorrect": false },
+            { "text": "Uveítis.", "isCorrect": true },
+            { "text": "Queratitis herpética.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! La uveítis se asocia con enfermedades autoinmunes y sistémicas, como la artritis reumatoidea. La clínica del paciente con ojo rojo asociado a dolor ocular, fotofobia y visión borrosa, y la presencia de inflamación de la cámara anterior (células y flare) es característica de la uveítis.",
+            "incorrect": "Incorrecto. La respuesta correcta es uveítis. La uveítis se asocia con enfermedades autoinmunes y sistémicas, como la artritis reumatoidea. La clínica del paciente con ojo rojo asociado a dolor ocular, fotofobia y visión borrosa, y la presencia de inflamación de la cámara anterior (células y flare) es característica de la uveítis."
+        }
+    },
+    {
+        "question": "Un paciente de 60 años con antecedentes de hipermetropía acude a urgencias con dolor ocular intenso, visión borrosa, cefalea y náuseas. Se observa un ojo rojo, midriasis media y una presión intraocular de 40 mmHg. ¿Cuál es el diagnóstico más probable?",
+        "options": [
+            { "text": "Conjuntivitis alérgica.", "isCorrect": false },
+            { "text": "Glaucoma agudo de ángulo cerrado.", "isCorrect": true },
+            { "text": "Uveítis.", "isCorrect": false },
+            { "text": "Queratitis bacteriana.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! El glaucoma agudo de ángulo cerrado se presenta como una emergencia oftalmológica. Los síntomas incluyen ojo rojo, dolor ocular intenso, visión borrosa, cefalea, náuseas y midriasis media. La medición de la presión intraocular (PIO) es el paso diagnóstico clave, ya que se eleva de forma súbita debido a la obstrucción del drenaje del humor acuoso.",
+            "incorrect": "Incorrecto. La respuesta correcta es glaucoma agudo de ángulo cerrado. El glaucoma agudo de ángulo cerrado se presenta como una emergencia oftalmológica. Los síntomas incluyen ojo rojo, dolor ocular intenso, visión borrosa, cefalea, náuseas y midriasis media. La medición de la presión intraocular (PIO) es el paso diagnóstico clave, ya que se eleva de forma súbita."
+        }
+    },
+    {
+        "question": "Un paciente de 25 años, usuario de lentes de contacto, acude a urgencias con ojo rojo, dolor, fotofobia y visión borrosa. Al realizar una tinción con fluoresceína, se observa una lesión corneal. ¿Cuál es el diagnóstico más probable y el tratamiento inicial recomendado?",
+        "options": [
+            { "text": "Conjuntivitis viral; tratamiento sintomático.", "isCorrect": false },
+            { "text": "Queratitis bacteriana; antibióticos tópicos (ciprofloxacina).", "isCorrect": true },
+            { "text": "Queratitis herpética; antivirales orales (aciclovir).", "isCorrect": false },
+            { "text": "Glaucoma agudo de ángulo cerrado; acetazolamida oral.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! La queratitis bacteriana es más común en usuarios de lentes de contacto. La tinción con fluoresceína es útil para descartar compromiso corneal. El tratamiento inicial es con antibióticos tópicos de amplio espectro, como la ciprofloxacina o la moxifloxacina.",
+            "incorrect": "Incorrecto. La respuesta correcta es queratitis bacteriana. La queratitis bacteriana es más común en usuarios de lentes de contacto. El tratamiento inicial es con antibióticos tópicos de amplio espectro, como la ciprofloxacina o la moxifloxacina. La tinción con fluoresceína es útil para descartar compromiso corneal."
+        }
+    },
+    {
+        "question": "Un paciente con ojo rojo presenta un cuadro de hemorragia subconjuntival. El examen físico revela una lesión roja brillante sobre la esclera y debajo de la conjuntiva, sin dolor ni alteración de la agudeza visual. ¿Cuál es el manejo recomendado?",
+        "options": [
+            { "text": "No requiere tratamiento específico y se resuelve de forma espontánea.", "isCorrect": true },
+            { "text": "Tratamiento con antiinflamatorios no esteroideos.", "isCorrect": false },
+            { "text": "Tratamiento con antibióticos tópicos.", "isCorrect": false },
+            { "text": "Remisión urgente a oftalmología.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! La hemorragia subconjuntival no requiere tratamiento específico y se resuelve de forma espontánea. Es una lesión roja brillante sobre la esclera y debajo de la conjuntiva, sin dolor ni alteración de la agudeza visual. Si está asociada a un trauma o barotrauma, se debe hacer una remisión a oftalmología para una valoración.",
+            "incorrect": "Incorrecto. La respuesta correcta es que no requiere tratamiento específico y se resuelve de forma espontánea. Es una lesión roja brillante sobre la esclera y debajo de la conjuntiva, sin dolor ni alteración de la agudeza visual. Si está asociada a un trauma o barotrauma, se debe hacer una remisión a oftalmología para una valoración."
+        }
+    },
+    {
+        "question": "Un paciente de 65 años, con antecedentes de hipertensión arterial, presenta una hemorragia subconjuntival espontánea. ¿Qué debe sospechar el médico?",
+        "options": [
+            { "text": "Un desgarro retinal.", "isCorrect": false },
+            { "text": "Una retinopatía diabética.", "isCorrect": false },
+            { "text": "Una ruptura de un vaso sanguíneo de la conjuntiva.", "isCorrect": true },
+            { "text": "Una uveítis.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! La hemorragia subconjuntival es una lesión de un vaso sanguíneo de la conjuntiva. Es más común en pacientes con antecedentes de hipertensión arterial, barotrauma, trauma o uso de medicamentos anticoagulantes. El manejo no requiere tratamiento específico y se resuelve de forma espontánea.",
+            "incorrect": "Incorrecto. La respuesta correcta es una ruptura de un vaso sanguíneo de la conjuntiva. La hemorragia subconjuntival es una lesión de un vaso sanguíneo de la conjuntiva. Es más común en pacientes con antecedentes de hipertensión arterial, barotrauma, trauma o uso de medicamentos anticoagulantes."
+        }
+    },
+    {
+        "question": "Un paciente con queratitis herpética presenta un cuadro de ojo rojo y dolor. El médico decide iniciar tratamiento con aciclovir oral. ¿Por cuánto tiempo debe mantenerse la dosis profiláctica para evitar la recurrencia viral?",
+        "options": [
+            { "text": "Por 5 días.", "isCorrect": false },
+            { "text": "Por 7 días.", "isCorrect": false },
+            { "text": "Por 10 días.", "isCorrect": false },
+            { "text": "Por más de 10 días, por la toxicidad epitelial.", "isCorrect": true }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! El documento menciona que si se usa aciclovir tópico, su uso no debe extenderse por más de 10 días por la toxicidad epitelial. El tratamiento es con aciclovir oral 400 mg (herpes simple) u 800 mg (herpes zoster) 5 veces al día por 7 a 10 días, según evolución y respuesta al tratamiento se indica manejo antiinflamatorio con esteroides posterior al control de la replicación viral y siempre manteniendo dosis profiláctica de aciclovir.",
+            "incorrect": "Incorrecto. La respuesta correcta es por más de 10 días. El documento menciona que si se usa aciclovir tópico, su uso no debe extenderse por más de 10 días por la toxicidad epitelial."
+        }
+    },
+    {
+        "question": "Un paciente de 40 años presenta un cuadro de conjuntivitis alérgica. ¿Qué hallazgos clínicos se esperarían?",
+        "options": [
+            { "text": "Compromiso bilateral, secreción serosa y prurito.", "isCorrect": true },
+            { "text": "Compromiso bilateral, secreción purulenta y prurito.", "isCorrect": false },
+            { "text": "Compromiso unilateral, secreción serosa y prurito.", "isCorrect": false },
+            { "text": "Compromiso unilateral, secreción purulenta y prurito.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! La conjuntivitis alérgica es una de las causas más comunes de ojo rojo. Se caracteriza por compromiso bilateral, secreción serosa, prurito, es autolimitada y el tratamiento es sintomático.",
+            "incorrect": "Incorrecto. La respuesta correcta es compromiso bilateral, secreción serosa y prurito. La conjuntivitis alérgica es una de las causas más comunes de ojo rojo. Se caracteriza por compromiso bilateral, secreción serosa, prurito, es autolimitada y el tratamiento es sintomático."
+        }
+    },
+    {
+        "question": "En el diagnóstico diferencial del ojo rojo, la queratitis se diferencia de la conjuntivitis por:",
+        "options": [
+            { "text": "El dolor y la visión borrosa.", "isCorrect": true },
+            { "text": "La inyección ciliar.", "isCorrect": false },
+            { "text": "La secreción purulenta.", "isCorrect": false },
+            { "text": "La ausencia de dolor y la visión borrosa.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! La queratitis se diferencia de la conjuntivitis por el dolor y la visión borrosa. La conjuntivitis se caracteriza por la ausencia de dolor y la visión borrosa. La inyección ciliar se presenta en la uveítis y la queratitis.",
+            "incorrect": "Incorrecto. La respuesta correcta es el dolor y la visión borrosa. La queratitis se diferencia de la conjuntivitis por el dolor y la visión borrosa. La conjuntivitis se caracteriza por la ausencia de dolor y la visión borrosa."
+        }
+    },
+    {
+        "question": "En el diagnóstico de glaucoma agudo de ángulo cerrado, ¿cuál de las siguientes pruebas diagnósticas es fundamental?",
+        "options": [
+            { "text": "Tinción con fluoresceína.", "isCorrect": false },
+            { "text": "Cultivo de secreción ocular.", "isCorrect": false },
+            { "text": "Medición de la presión intraocular (PIO).", "isCorrect": true },
+            { "text": "Exámenes serológicos.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! La medición de la presión intraocular (PIO) es el paso diagnóstico clave en el glaucoma agudo de ángulo cerrado, ya que se eleva de forma súbita. Se puede realizar por diferentes métodos, como la tonometría de aplanación de Goldman.",
+            "incorrect": "Incorrecto. La respuesta correcta es la medición de la presión intraocular (PIO). La medición de la presión intraocular (PIO) es el paso diagnóstico clave en el glaucoma agudo de ángulo cerrado, ya que se eleva de forma súbita."
+        }
+    },
+    {
+        "question": "En el manejo de glaucoma agudo de ángulo cerrado, ¿cuál de los siguientes medicamentos se utiliza para disminuir la producción de humor acuoso?",
+        "options": [
+            { "text": "Acetazolamida.", "isCorrect": true },
+            { "text": "Pilocarpina.", "isCorrect": false },
+            { "text": "Timolol.", "isCorrect": false },
+            { "text": "Manitol.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! La acetazolamida se utiliza para disminuir la producción de humor acuoso. La dosis es de 250 mg cada 8 horas o manitol 1 mg/kg/dosis. La pilocarpina y el timolol se utilizan para el tratamiento de mantenimiento.",
+            "incorrect": "Incorrecto. La respuesta correcta es la acetazolamida. La acetazolamida se utiliza para disminuir la producción de humor acuoso. La dosis es de 250 mg cada 8 horas o manitol 1 mg/kg/dosis."
+        }
+    },
+    {
+        "question": "En el glaucoma agudo de ángulo cerrado, ¿cuál de los siguientes medicamentos se utiliza para contraer la pupila y abrir el ángulo de drenaje?",
+        "options": [
+            { "text": "Acetazolamida.", "isCorrect": false },
+            { "text": "Pilocarpina.", "isCorrect": true },
+            { "text": "Timolol.", "isCorrect": false },
+            { "text": "Manitol.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! La pilocarpina es un agente miótico que se utiliza para contraer la pupila y abrir el ángulo de drenaje. La dosis es de una gota cada 6 a 8 horas, y el tratamiento se continúa hasta que la presión intraocular (PIO) se normalice.",
+            "incorrect": "Incorrecto. La respuesta correcta es pilocarpina. La pilocarpina es un agente miótico que se utiliza para contraer la pupila y abrir el ángulo de drenaje."
+        }
+    },
+    {
+        "question": "En el manejo de la uveítis, ¿cuál de los siguientes medicamentos se utiliza para tratar la inflamación?",
+        "options": [
+            { "text": "Antibióticos tópicos.", "isCorrect": false },
+            { "text": "Antivirales orales.", "isCorrect": false },
+            { "text": "Corticoides tópicos (prednisolona acetato 1%).", "isCorrect": true },
+            { "text": "Acetazolamida oral.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! La respuesta correcta es corticoides tópicos (prednisolona acetato 1%). El documento menciona que los corticoides tópicos se utilizan para tratar la inflamación de la úvea. La dosis es de una gota cada 2 horas y desmonte semanal.",
+            "incorrect": "Incorrecto. La respuesta correcta es corticoides tópicos (prednisolona acetato 1%). Los corticoides tópicos se utilizan para tratar la inflamación de la úvea en la uveítis."
+        }
+    },
+    {
+        "question": "Un paciente con conjuntivitis bacteriana presenta un cuadro de ojo rojo, secreción purulenta y compromiso bilateral. ¿Cuál es el tratamiento inicial recomendado?",
+        "options": [
+            { "text": "Tratamiento con antibióticos tópicos de amplio espectro (ciprofloxacina).", "isCorrect": true },
+            { "text": "Tratamiento sintomático, ya que es autolimitada.", "isCorrect": false },
+            { "text": "Tratamiento con corticoides tópicos.", "isCorrect": false },
+            { "text": "Tratamiento con antivirales tópicos.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! La conjuntivitis bacteriana es una de las causas más comunes de ojo rojo. El tratamiento inicial es con antibióticos tópicos de amplio espectro, como la ciprofloxacina o la moxifloxacina. El tratamiento se mantiene por 7 días.",
+            "incorrect": "Incorrecto. La respuesta correcta es tratamiento con antibióticos tópicos de amplio espectro (ciprofloxacina). El tratamiento inicial es con antibióticos tópicos de amplio espectro, como la ciprofloxacina o la moxifloxacina. El tratamiento se mantiene por 7 días."
+        }
+    },
+    {
+        "question": "Un paciente con queratitis herpética presenta un cuadro de ojo rojo y dolor. El médico decide iniciar tratamiento con aciclovir oral. ¿Cuál es el principal riesgo de usar este medicamento por más de 10 días?",
+        "options": [
+            { "text": "Toxicidad renal.", "isCorrect": false },
+            { "text": "Toxicidad hepática.", "isCorrect": false },
+            { "text": "Toxicidad epitelial.", "isCorrect": true },
+            { "text": "Toxicidad ocular.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! El documento menciona que si se usa aciclovir tópico, su uso no debe extenderse por más de 10 días por la toxicidad epitelial. El tratamiento es con aciclovir oral 400 mg (herpes simple) u 800 mg (herpes zoster) 5 veces al día por 7 a 10 días.",
+            "incorrect": "Incorrecto. La respuesta correcta es toxicidad epitelial. El documento menciona que si se usa aciclovir tópico, su uso no debe extenderse por más de 10 días por la toxicidad epitelial."
+        }
+    },
+    {
+        "question": "Un paciente de 60 años, con antecedentes de hipermetropía, se presenta con ojo rojo, dolor ocular intenso, visión borrosa, cefalea y náuseas. Se observa un ojo rojo, midriasis media y una presión intraocular de 40 mmHg. ¿Cuál es la fisiopatología de esta condición?",
+        "options": [
+            { "text": "Una inflamación de la úvea, que puede ser anterior, intermedia o posterior.", "isCorrect": false },
+            { "text": "Una respuesta inflamatoria que se presenta debido a diferentes noxas.", "isCorrect": false },
+            { "text": "Una elevación súbita de la presión intraocular debido a la obstrucción del drenaje del humor acuoso.", "isCorrect": true },
+            { "text": "Una lesión roja brillante sobre la esclera y debajo de la conjuntiva.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! La fisiopatología del glaucoma agudo de ángulo cerrado es una elevación súbita de la presión intraocular debido a la obstrucción del drenaje del humor acuoso. El glaucoma es una emergencia oftalmológica que se caracteriza por la elevación de la presión intraocular.",
+            "incorrect": "Incorrecto. La respuesta correcta es una elevación súbita de la presión intraocular debido a la obstrucción del drenaje del humor acuoso. La fisiopatología del glaucoma agudo de ángulo cerrado es una elevación súbita de la presión intraocular debido a la obstrucción del drenaje del humor acuoso."
+        }
+    },
+    {
+        "question": "En el diagnóstico diferencial del ojo rojo, la uveítis se diferencia de la conjuntivitis por:",
+        "options": [
+            { "text": "La inyección ciliar.", "isCorrect": false },
+            { "text": "La secreción serosa.", "isCorrect": false },
+            { "text": "La ausencia de dolor y la visión borrosa.", "isCorrect": false },
+            { "text": "El dolor y la visión borrosa.", "isCorrect": true }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! El documento menciona que la uveítis se diferencia de la conjuntivitis por el dolor y la visión borrosa. La conjuntivitis se caracteriza por la ausencia de dolor y la visión borrosa. La inyección ciliar se presenta en la uveítis y la queratitis.",
+            "incorrect": "Incorrecto. La respuesta correcta es el dolor y la visión borrosa. La uveítis se diferencia de la conjuntivitis por el dolor y la visión borrosa. La conjuntivitis se caracteriza por la ausencia de dolor y la visión borrosa."
+        }
+    },
+    {
+        "question": "En el diagnóstico de uveítis, ¿cuál de las siguientes pruebas diagnósticas es fundamental?",
+        "options": [
+            { "text": "Biomicroscopía.", "isCorrect": true },
+            { "text": "Tinción con fluoresceína.", "isCorrect": false },
+            { "text": "Cultivo de secreción ocular.", "isCorrect": false },
+            { "text": "Medición de la presión intraocular (PIO).", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! La biomicroscopía es una de las pruebas diagnósticas fundamentales en la uveítis, ya que permite evaluar la inflamación de la úvea. Los exámenes serológicos se utilizan para buscar enfermedades autoinmunes y sistémicas. La tinción con fluoresceína se utiliza para evaluar el compromiso de la córnea.",
+            "incorrect": "Incorrecto. La respuesta correcta es biomicroscopía. La biomicroscopía es una de las pruebas diagnósticas fundamentales en la uveítis, ya que permite evaluar la inflamación de la úvea."
+        }
+    },
+    {
+        "question": "En el manejo de la queratitis herpética, el documento recomienda el uso de aciclovir oral y el manejo antiinflamatorio con esteroides. ¿Cuál es el momento adecuado para iniciar el tratamiento con esteroides?",
+        "options": [
+            { "text": "De forma inmediata junto con los antivirales.", "isCorrect": false },
+            { "text": "Posterior al control de la replicación viral.", "isCorrect": true },
+            { "text": "Antes de iniciar los antivirales.", "isCorrect": false },
+            { "text": "No se recomienda el uso de esteroides.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! El documento menciona que el manejo antiinflamatorio con esteroides se indica posterior al control de la replicación viral y siempre manteniendo dosis profiláctica de aciclovir. Los esteroides no se deben usar de forma inmediata, ya que pueden empeorar la replicación viral.",
+            "incorrect": "Incorrecto. La respuesta correcta es posterior al control de la replicación viral. El documento menciona que el manejo antiinflamatorio con esteroides se indica posterior al control de la replicación viral y siempre manteniendo dosis profiláctica de aciclovir."
+        }
+    },
+    {
+        "question": "Un paciente con ojo rojo y secreción purulenta presenta un cuadro de conjuntivitis bacteriana. ¿Qué hallazgos clínicos se esperarían?",
+        "options": [
+            { "text": "Compromiso bilateral, secreción purulenta, y sin prurito.", "isCorrect": true },
+            { "text": "Compromiso bilateral, secreción serosa y prurito.", "isCorrect": false },
+            { "text": "Compromiso unilateral, secreción serosa y sin prurito.", "isCorrect": false },
+            { "text": "Compromiso unilateral, secreción purulenta y prurito.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! La conjuntivitis bacteriana se caracteriza por compromiso bilateral, secreción purulenta, y sin prurito. El tratamiento inicial es con antibióticos tópicos de amplio espectro, como la ciprofloxacina o la moxifloxacina.",
+            "incorrect": "Incorrecto. La respuesta correcta es compromiso bilateral, secreción purulenta, y sin prurito. La conjuntivitis bacteriana se caracteriza por compromiso bilateral, secreción purulenta, y sin prurito."
+        }
+    },
+    {
+        "question": "Un paciente con ojo rojo presenta un cuadro de conjuntivitis alérgica. ¿Qué hallazgos clínicos se esperarían?",
+        "options": [
+            { "text": "Compromiso bilateral, secreción serosa y prurito.", "isCorrect": true },
+            { "text": "Compromiso bilateral, secreción purulenta y prurito.", "isCorrect": false },
+            { "text": "Compromiso unilateral, secreción serosa y prurito.", "isCorrect": false },
+            { "text": "Compromiso unilateral, secreción purulenta y prurito.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! La conjuntivitis alérgica es una de las causas más comunes de ojo rojo. Se caracteriza por compromiso bilateral, secreción serosa, prurito, es autolimitada y el tratamiento es sintomático.",
+            "incorrect": "Incorrecto. La respuesta correcta es compromiso bilateral, secreción serosa y prurito. La conjuntivitis alérgica es una de las causas más comunes de ojo rojo. Se caracteriza por compromiso bilateral, secreción serosa, prurito, es autolimitada y el tratamiento es sintomático."
+        }
+    },
+    {
+        "question": "Un paciente con queratitis bacteriana presenta un cuadro de ojo rojo y dolor. El médico decide iniciar tratamiento con antibióticos tópicos de amplio espectro. ¿Cuál de los siguientes no es un antibiótico de amplio espectro que se utiliza para tratar la queratitis bacteriana?",
+        "options": [
+            { "text": "Ciprofloxacina.", "isCorrect": false },
+            { "text": "Moxifloxacina.", "isCorrect": false },
+            { "text": "Levofloxacina.", "isCorrect": false },
+            { "text": "Gentamicina.", "isCorrect": true }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! El documento menciona que los antibióticos tópicos que se utilizan para tratar la queratitis bacteriana son la ciprofloxacina, la moxifloxacina o la levofloxacina. La gentamicina no se menciona en el documento.",
+            "incorrect": "Incorrecto. La respuesta correcta es gentamicina. El documento menciona que los antibióticos tópicos que se utilizan para tratar la queratitis bacteriana son la ciprofloxacina, la moxifloxacina o la levofloxacina."
+        }
+    },
+    {
+        "question": "En el diagnóstico diferencial del ojo rojo, ¿qué patología se caracteriza por la ausencia de dolor, la visión borrosa y la inyección conjuntival?",
+        "options": [
+            { "text": "Conjuntivitis.", "isCorrect": true },
+            { "text": "Queratitis.", "isCorrect": false },
+            { "text": "Uveítis.", "isCorrect": false },
+            { "text": "Glaucoma agudo de ángulo cerrado.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! La conjuntivitis se caracteriza por la ausencia de dolor, la visión borrosa y la inyección conjuntival. La queratitis, la uveítis y el glaucoma agudo de ángulo cerrado se caracterizan por el dolor y la visión borrosa.",
+            "incorrect": "Incorrecto. La respuesta correcta es conjuntivitis. La conjuntivitis se caracteriza por la ausencia de dolor, la visión borrosa y la inyección conjuntival. La queratitis, la uveítis y el glaucoma agudo de ángulo cerrado se caracterizan por el dolor y la visión borrosa."
+        }
+    },
+    {
+        "question": "Un paciente con queratitis por herpes zoster presenta un cuadro de ojo rojo y dolor. El médico decide iniciar tratamiento con aciclovir oral. ¿Cuál es la dosis recomendada?",
+        "options": [
+            { "text": "400 mg 5 veces al día por 7 a 10 días.", "isCorrect": false },
+            { "text": "800 mg 5 veces al día por 7 a 10 días.", "isCorrect": true },
+            { "text": "400 mg 3 veces al día por 7 a 10 días.", "isCorrect": false },
+            { "text": "800 mg 3 veces al día por 7 a 10 días.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! El documento menciona que el tratamiento con aciclovir oral para la queratitis por herpes zoster es de 800 mg 5 veces al día por 7 a 10 días.",
+            "incorrect": "Incorrecto. La respuesta correcta es 800 mg 5 veces al día por 7 a 10 días. El documento menciona que el tratamiento con aciclovir oral para la queratitis por herpes zoster es de 800 mg 5 veces al día por 7 a 10 días."
+        }
+    },
+    {
+        "question": "En el diagnóstico diferencial del ojo rojo, ¿qué patología se caracteriza por la inyección ciliar?",
+        "options": [
+            { "text": "Conjuntivitis.", "isCorrect": false },
+            { "text": "Uveítis.", "isCorrect": true },
+            { "text": "Hemorragia subconjuntival.", "isCorrect": false },
+            { "text": "Queratitis.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! La inyección ciliar se presenta en la uveítis y la queratitis. La inyección conjuntival se presenta en la conjuntivitis. La hemorragia subconjuntival se caracteriza por una lesión roja brillante sobre la esclera y debajo de la conjuntiva.",
+            "incorrect": "Incorrecto. La respuesta correcta es uveítis. La inyección ciliar se presenta en la uveítis y la queratitis."
+        }
+    },
+    {
+        "question": "En el glaucoma agudo de ángulo cerrado, ¿cuál de los siguientes es un agente miótico que se utiliza para contraer la pupila y abrir el ángulo de drenaje?",
+        "options": [
+            { "text": "Acetazolamida.", "isCorrect": false },
+            { "text": "Pilocarpina.", "isCorrect": true },
+            { "text": "Timolol.", "isCorrect": false },
+            { "text": "Manitol.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! La pilocarpina es un agente miótico que se utiliza para contraer la pupila y abrir el ángulo de drenaje. La dosis es de una gota cada 6 a 8 horas, y el tratamiento se continúa hasta que la presión intraocular (PIO) se normalice.",
+            "incorrect": "Incorrecto. La respuesta correcta es pilocarpina. La pilocarpina es un agente miótico que se utiliza para contraer la pupila y abrir el ángulo de drenaje."
+        }
+    },
+    {
+        "question": "En el manejo de la uveítis, ¿cuál de los siguientes medicamentos se utiliza para tratar la inflamación?",
+        "options": [
+            { "text": "Antibióticos tópicos.", "isCorrect": false },
+            { "text": "Antivirales orales.", "isCorrect": false },
+            { "text": "Corticoides tópicos (prednisolona acetato 1%).", "isCorrect": true },
+            { "text": "Acetazolamida oral.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! La respuesta correcta es corticoides tópicos (prednisolona acetato 1%). El documento menciona que los corticoides tópicos se utilizan para tratar la inflamación de la úvea. La dosis es de una gota cada 2 horas y desmonte semanal.",
+            "incorrect": "Incorrecto. La respuesta correcta es corticoides tópicos (prednisolona acetato 1%). Los corticoides tópicos se utilizan para tratar la inflamación de la úvea en la uveítis."
+        }
+    },
+    {
+        "question": "En el diagnóstico de glaucoma agudo de ángulo cerrado, ¿cuál de las siguientes pruebas diagnósticas es fundamental?",
+        "options": [
+            { "text": "Tinción con fluoresceína.", "isCorrect": false },
+            { "text": "Cultivo de secreción ocular.", "isCorrect": false },
+            { "text": "Medición de la presión intraocular (PIO).", "isCorrect": true },
+            { "text": "Exámenes serológicos.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! La medición de la presión intraocular (PIO) es el paso diagnóstico clave en el glaucoma agudo de ángulo cerrado, ya que se eleva de forma súbita. Se puede realizar por diferentes métodos, como la tonometría de aplanación de Goldman.",
+            "incorrect": "Incorrecto. La respuesta correcta es la medición de la presión intraocular (PIO). La medición de la presión intraocular (PIO) es el paso diagnóstico clave en el glaucoma agudo de ángulo cerrado, ya que se eleva de forma súbita."
+        }
+    },
+    {
+        "question": "En el manejo de glaucoma agudo de ángulo cerrado, ¿cuál de los siguientes medicamentos se utiliza para disminuir la producción de humor acuoso?",
+        "options": [
+            { "text": "Acetazolamida.", "isCorrect": true },
+            { "text": "Pilocarpina.", "isCorrect": false },
+            { "text": "Timolol.", "isCorrect": false },
+            { "text": "Manitol.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! La acetazolamida se utiliza para disminuir la producción de humor acuoso. La dosis es de 250 mg cada 8 horas o manitol 1 mg/kg/dosis. La pilocarpina y el timolol se utilizan para el tratamiento de mantenimiento.",
+            "incorrect": "Incorrecto. La respuesta correcta es la acetazolamida. La acetazolamida se utiliza para disminuir la producción de humor acuoso. La dosis es de 250 mg cada 8 horas o manitol 1 mg/kg/dosis."
+        }
+    },
+    {
+        "question": "En el glaucoma agudo de ángulo cerrado, ¿cuál de los siguientes medicamentos se utiliza para contraer la pupila y abrir el ángulo de drenaje?",
+        "options": [
+            { "text": "Acetazolamida.", "isCorrect": false },
+            { "text": "Pilocarpina.", "isCorrect": true },
+            { "text": "Timolol.", "isCorrect": false },
+            { "text": "Manitol.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! La pilocarpina es un agente miótico que se utiliza para contraer la pupila y abrir el ángulo de drenaje. La dosis es de una gota cada 6 a 8 horas, y el tratamiento se continúa hasta que la presión intraocular (PIO) se normalice.",
+            "incorrect": "Incorrecto. La respuesta correcta es pilocarpina. La pilocarpina es un agente miótico que se utiliza para contraer la pupila y abrir el ángulo de drenaje."
+        }
+    },
+    {
+        "question": "En el manejo de la uveítis, ¿cuál de los siguientes medicamentos se utiliza para tratar la inflamación?",
+        "options": [
+            { "text": "Antibióticos tópicos.", "isCorrect": false },
+            { "text": "Antivirales orales.", "isCorrect": false },
+            { "text": "Corticoides tópicos (prednisolona acetato 1%).", "isCorrect": true },
+            { "text": "Acetazolamida oral.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! La respuesta correcta es corticoides tópicos (prednisolona acetato 1%). El documento menciona que los corticoides tópicos se utilizan para tratar la inflamación de la úvea. La dosis es de una gota cada 2 horas y desmonte semanal.",
+            "incorrect": "Incorrecto. La respuesta correcta es corticoides tópicos (prednisolona acetato 1%). Los corticoides tópicos se utilizan para tratar la inflamación de la úvea en la uveítis."
+        }
+    },
+    {
+        "question": "En el diagnóstico de uveítis, ¿cuál de las siguientes pruebas diagnósticas es fundamental?",
+        "options": [
+            { "text": "Biomicroscopía.", "isCorrect": true },
+            { "text": "Tinción con fluoresceína.", "isCorrect": false },
+            { "text": "Cultivo de secreción ocular.", "isCorrect": false },
+            { "text": "Medición de la presión intraocular (PIO).", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! La biomicroscopía es una de las pruebas diagnósticas fundamentales en la uveítis, ya que permite evaluar la inflamación de la úvea. Los exámenes serológicos se utilizan para buscar enfermedades autoinmunes y sistémicas. La tinción con fluoresceína se utiliza para evaluar el compromiso de la córnea.",
+            "incorrect": "Incorrecto. La respuesta correcta es biomicroscopía. La biomicroscopía es una de las pruebas diagnósticas fundamentales en la uveítis, ya que permite evaluar la inflamación de la úvea."
+        }
+    },
+    {
+        "question": "En el manejo de la queratitis herpética, el documento recomienda el uso de aciclovir oral y el manejo antiinflamatorio con esteroides. ¿Cuál es el momento adecuado para iniciar el tratamiento con esteroides?",
+        "options": [
+            { "text": "De forma inmediata junto con los antivirales.", "isCorrect": false },
+            { "text": "Posterior al control de la replicación viral.", "isCorrect": true },
+            { "text": "Antes de iniciar los antivirales.", "isCorrect": false },
+            { "text": "No se recomienda el uso de esteroides.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! El documento menciona que el manejo antiinflamatorio con esteroides se indica posterior al control de la replicación viral y siempre manteniendo dosis profiláctica de aciclovir. Los esteroides no se deben usar de forma inmediata, ya que pueden empeorar la replicación viral.",
+            "incorrect": "Incorrecto. La respuesta correcta es posterior al control de la replicación viral. El documento menciona que el manejo antiinflamatorio con esteroides se indica posterior al control de la replicación viral y siempre manteniendo dosis profiláctica de aciclovir."
+        }
+    },
+    {
+        "question": "Un paciente con ojo rojo y secreción purulenta presenta un cuadro de conjuntivitis bacteriana. ¿Qué hallazgos clínicos se esperarían?",
+        "options": [
+            { "text": "Compromiso bilateral, secreción purulenta, y sin prurito.", "isCorrect": true },
+            { "text": "Compromiso bilateral, secreción serosa y prurito.", "isCorrect": false },
+            { "text": "Compromiso unilateral, secreción serosa y sin prurito.", "isCorrect": false },
+            { "text": "Compromiso unilateral, secreción purulenta y prurito.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! La conjuntivitis bacteriana se caracteriza por compromiso bilateral, secreción purulenta, y sin prurito. El tratamiento inicial es con antibióticos tópicos de amplio espectro, como la ciprofloxacina o la moxifloxacina.",
+            "incorrect": "Incorrecto. La respuesta correcta es compromiso bilateral, secreción purulenta, y sin prurito. La conjuntivitis bacteriana se caracteriza por compromiso bilateral, secreción purulenta, y sin prurito."
+        }
+    },
+    {
+        "question": "Un paciente con ojo rojo presenta un cuadro de conjuntivitis alérgica. ¿Qué hallazgos clínicos se esperarían?",
+        "options": [
+            { "text": "Compromiso bilateral, secreción serosa y prurito.", "isCorrect": true },
+            { "text": "Compromiso bilateral, secreción purulenta y prurito.", "isCorrect": false },
+            { "text": "Compromiso unilateral, secreción serosa y prurito.", "isCorrect": false },
+            { "text": "Compromiso unilateral, secreción purulenta y prurito.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! La conjuntivitis alérgica es una de las causas más comunes de ojo rojo. Se caracteriza por compromiso bilateral, secreción serosa, prurito, es autolimitada y el tratamiento es sintomático.",
+            "incorrect": "Incorrecto. La respuesta correcta es compromiso bilateral, secreción serosa y prurito. La conjuntivitis alérgica es una de las causas más comunes de ojo rojo. Se caracteriza por compromiso bilateral, secreción serosa, prurito, es autolimitada y el tratamiento es sintomático."
+        }
+    },
+    {
+        "question": "Un paciente con queratitis bacteriana presenta un cuadro de ojo rojo y dolor. El médico decide iniciar tratamiento con antibióticos tópicos de amplio espectro. ¿Cuál de los siguientes no es un antibiótico de amplio espectro que se utiliza para tratar la queratitis bacteriana?",
+        "options": [
+            { "text": "Ciprofloxacina.", "isCorrect": false },
+            { "text": "Moxifloxacina.", "isCorrect": false },
+            { "text": "Levofloxacina.", "isCorrect": false },
+            { "text": "Gentamicina.", "isCorrect": true }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! El documento menciona que los antibióticos tópicos que se utilizan para tratar la queratitis bacteriana son la ciprofloxacina, la moxifloxacina o la levofloxacina. La gentamicina no se menciona en el documento.",
+            "incorrect": "Incorrecto. La respuesta correcta es gentamicina. El documento menciona que los antibióticos tópicos que se utilizan para tratar la queratitis bacteriana son la ciprofloxacina, la moxifloxacina o la levofloxacina."
+        }
+    },
+    {
+        "question": "En el diagnóstico diferencial del ojo rojo, ¿qué patología se caracteriza por la ausencia de dolor, la visión borrosa y la inyección conjuntival?",
+        "options": [
+            { "text": "Conjuntivitis.", "isCorrect": true },
+            { "text": "Queratitis.", "isCorrect": false },
+            { "text": "Uveítis.", "isCorrect": false },
+            { "text": "Glaucoma agudo de ángulo cerrado.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! La conjuntivitis se caracteriza por la ausencia de dolor, la visión borrosa y la inyección conjuntival. La queratitis, la uveítis y el glaucoma agudo de ángulo cerrado se caracterizan por el dolor y la visión borrosa.",
+            "incorrect": "Incorrecto. La respuesta correcta es conjuntivitis. La conjuntivitis se caracteriza por la ausencia de dolor, la visión borrosa y la inyección conjuntival. La queratitis, la uveítis y el glaucoma agudo de ángulo cerrado se caracterizan por el dolor y la visión borrosa."
+        }
+    },
+    {
+        "question": "Un paciente con queratitis por herpes zoster presenta un cuadro de ojo rojo y dolor. El médico decide iniciar tratamiento con aciclovir oral. ¿Cuál es la dosis recomendada?",
+        "options": [
+            { "text": "400 mg 5 veces al día por 7 a 10 días.", "isCorrect": false },
+            { "text": "800 mg 5 veces al día por 7 a 10 días.", "isCorrect": true },
+            { "text": "400 mg 3 veces al día por 7 a 10 días.", "isCorrect": false },
+            { "text": "800 mg 3 veces al día por 7 a 10 días.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! El documento menciona que el tratamiento con aciclovir oral para la queratitis por herpes zoster es de 800 mg 5 veces al día por 7 a 10 días.",
+            "incorrect": "Incorrecto. La respuesta correcta es 800 mg 5 veces al día por 7 a 10 días. El documento menciona que el tratamiento con aciclovir oral para la queratitis por herpes zoster es de 800 mg 5 veces al día por 7 a 10 días."
+        }
+    },
+    {
+        "question": "En el diagnóstico diferencial del ojo rojo, ¿qué patología se caracteriza por la inyección ciliar?",
+        "options": [
+            { "text": "Conjuntivitis.", "isCorrect": false },
+            { "text": "Uveítis.", "isCorrect": true },
+            { "text": "Hemorragia subconjuntival.", "isCorrect": false },
+            { "text": "Queratitis.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! La inyección ciliar se presenta en la uveítis y la queratitis. La inyección conjuntival se presenta en la conjuntivitis. La hemorragia subconjuntival se caracteriza por una lesión roja brillante sobre la esclera y debajo de la conjuntiva.",
+            "incorrect": "Incorrecto. La respuesta correcta es uveítis. La inyección ciliar se presenta en la uveítis y la queratitis."
+        }
+    },
+    {
+        "question": "En el glaucoma agudo de ángulo cerrado, ¿cuál de los siguientes es un agente miótico que se utiliza para contraer la pupila y abrir el ángulo de drenaje?",
+        "options": [
+            { "text": "Acetazolamida.", "isCorrect": false },
+            { "text": "Pilocarpina.", "isCorrect": true },
+            { "text": "Timolol.", "isCorrect": false },
+            { "text": "Manitol.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! La pilocarpina es un agente miótico que se utiliza para contraer la pupila y abrir el ángulo de drenaje. La dosis es de una gota cada 6 a 8 horas, y el tratamiento se continúa hasta que la presión intraocular (PIO) se normalice.",
+            "incorrect": "Incorrecto. La respuesta correcta es pilocarpina. La pilocarpina es un agente miótico que se utiliza para contraer la pupila y abrir el ángulo de drenaje."
+        }
+    },
+    {
+        "question": "En el manejo de la uveítis, ¿cuál de los siguientes medicamentos se utiliza para tratar la inflamación?",
+        "options": [
+            { "text": "Antibióticos tópicos.", "isCorrect": false },
+            { "text": "Antivirales orales.", "isCorrect": false },
+            { "text": "Corticoides tópicos (prednisolona acetato 1%).", "isCorrect": true },
+            { "text": "Acetazolamida oral.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! La respuesta correcta es corticoides tópicos (prednisolona acetato 1%). El documento menciona que los corticoides tópicos se utilizan para tratar la inflamación de la úvea. La dosis es de una gota cada 2 horas y desmonte semanal.",
+            "incorrect": "Incorrecto. La respuesta correcta es corticoides tópicos (prednisolona acetato 1%). Los corticoides tópicos se utilizan para tratar la inflamación de la úvea en la uveítis."
+        }
+    },
+    {
+        "question": "En el diagnóstico de uveítis, ¿cuál de las siguientes pruebas diagnósticas es fundamental?",
+        "options": [
+            { "text": "Biomicroscopía.", "isCorrect": true },
+            { "text": "Tinción con fluoresceína.", "isCorrect": false },
+            { "text": "Cultivo de secreción ocular.", "isCorrect": false },
+            { "text": "Medición de la presión intraocular (PIO).", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! La biomicroscopía es una de las pruebas diagnósticas fundamentales en la uveítis, ya que permite evaluar la inflamación de la úvea. Los exámenes serológicos se utilizan para buscar enfermedades autoinmunes y sistémicas. La tinción con fluoresceína se utiliza para evaluar el compromiso de la córnea.",
+            "incorrect": "Incorrecto. La respuesta correcta es biomicroscopía. La biomicroscopía es una de las pruebas diagnósticas fundamentales en la uveítis, ya que permite evaluar la inflamación de la úvea."
+        }
+    },
+    {
+        "question": "En el manejo de la queratitis herpética, el documento recomienda el uso de aciclovir oral y el manejo antiinflamatorio con esteroides. ¿Cuál es el momento adecuado para iniciar el tratamiento con esteroides?",
+        "options": [
+            { "text": "De forma inmediata junto con los antivirales.", "isCorrect": false },
+            { "text": "Posterior al control de la replicación viral.", "isCorrect": true },
+            { "text": "Antes de iniciar los antivirales.", "isCorrect": false },
+            { "text": "No se recomienda el uso de esteroides.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! El documento menciona que el manejo antiinflamatorio con esteroides se indica posterior al control de la replicación viral y siempre manteniendo dosis profiláctica de aciclovir. Los esteroides no se deben usar de forma inmediata, ya que pueden empeorar la replicación viral.",
+            "incorrect": "Incorrecto. La respuesta correcta es posterior al control de la replicación viral. El documento menciona que el manejo antiinflamatorio con esteroides se indica posterior al control de la replicación viral y siempre manteniendo dosis profiláctica de aciclovir."
+        }
+    },
+    {
+        "question": "Un paciente con ojo rojo y secreción purulenta presenta un cuadro de conjuntivitis bacteriana. ¿Qué hallazgos clínicos se esperarían?",
+        "options": [
+            { "text": "Compromiso bilateral, secreción purulenta, y sin prurito.", "isCorrect": true },
+            { "text": "Compromiso bilateral, secreción serosa y prurito.", "isCorrect": false },
+            { "text": "Compromiso unilateral, secreción serosa y sin prurito.", "isCorrect": false },
+            { "text": "Compromiso unilateral, secreción purulenta y prurito.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! La conjuntivitis bacteriana se caracteriza por compromiso bilateral, secreción purulenta, y sin prurito. El tratamiento inicial es con antibióticos tópicos de amplio espectro, como la ciprofloxacina o la moxifloxacina.",
+            "incorrect": "Incorrecto. La respuesta correcta es compromiso bilateral, secreción purulenta, y sin prurito. La conjuntivitis bacteriana se caracteriza por compromiso bilateral, secreción purulenta, y sin prurito."
+        }
+    },
+    {
+        "question": "Un paciente con ojo rojo presenta un cuadro de conjuntivitis alérgica. ¿Qué hallazgos clínicos se esperarían?",
+        "options": [
+            { "text": "Compromiso bilateral, secreción serosa y prurito.", "isCorrect": true },
+            { "text": "Compromiso bilateral, secreción purulenta y prurito.", "isCorrect": false },
+            { "text": "Compromiso unilateral, secreción serosa y prurito.", "isCorrect": false },
+            { "text": "Compromiso unilateral, secreción purulenta y prurito.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! La conjuntivitis alérgica es una de las causas más comunes de ojo rojo. Se caracteriza por compromiso bilateral, secreción serosa, prurito, es autolimitada y el tratamiento es sintomático.",
+            "incorrect": "Incorrecto. La respuesta correcta es compromiso bilateral, secreción serosa y prurito. La conjuntivitis alérgica es una de las causas más comunes de ojo rojo. Se caracteriza por compromiso bilateral, secreción serosa, prurito, es autolimitada y el tratamiento es sintomático."
+        }
+    },
+    {
+        "question": "Un paciente con queratitis bacteriana presenta un cuadro de ojo rojo y dolor. El médico decide iniciar tratamiento con antibióticos tópicos de amplio espectro. ¿Cuál de los siguientes no es un antibiótico de amplio espectro que se utiliza para tratar la queratitis bacteriana?",
+        "options": [
+            { "text": "Ciprofloxacina.", "isCorrect": false },
+            { "text": "Moxifloxacina.", "isCorrect": false },
+            { "text": "Levofloxacina.", "isCorrect": false },
+            { "text": "Gentamicina.", "isCorrect": true }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! El documento menciona que los antibióticos tópicos que se utilizan para tratar la queratitis bacteriana son la ciprofloxacina, la moxifloxacina o la levofloxacina. La gentamicina no se menciona en el documento.",
+            "incorrect": "Incorrecto. La respuesta correcta es gentamicina. El documento menciona que los antibióticos tópicos que se utilizan para tratar la queratitis bacteriana son la ciprofloxacina, la moxifloxacina o la levofloxacina."
+        }
+    },
+    {
+        "question": "En el diagnóstico diferencial del ojo rojo, ¿qué patología se caracteriza por la ausencia de dolor, la visión borrosa y la inyección conjuntival?",
+        "options": [
+            { "text": "Conjuntivitis.", "isCorrect": true },
+            { "text": "Queratitis.", "isCorrect": false },
+            { "text": "Uveítis.", "isCorrect": false },
+            { "text": "Glaucoma agudo de ángulo cerrado.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! La conjuntivitis se caracteriza por la ausencia de dolor, la visión borrosa y la inyección conjuntival. La queratitis, la uveítis y el glaucoma agudo de ángulo cerrado se caracterizan por el dolor y la visión borrosa.",
+            "incorrect": "Incorrecto. La respuesta correcta es conjuntivitis. La conjuntivitis se caracteriza por la ausencia de dolor, la visión borrosa y la inyección conjuntival. La queratitis, la uveítis y el glaucoma agudo de ángulo cerrado se caracterizan por el dolor y la visión borrosa."
+        }
+    },
+    {
+        "question": "Un paciente con queratitis por herpes zoster presenta un cuadro de ojo rojo y dolor. El médico decide iniciar tratamiento con aciclovir oral. ¿Cuál es la dosis recomendada?",
+        "options": [
+            { "text": "400 mg 5 veces al día por 7 a 10 días.", "isCorrect": false },
+            { "text": "800 mg 5 veces al día por 7 a 10 días.", "isCorrect": true },
+            { "text": "400 mg 3 veces al día por 7 a 10 días.", "isCorrect": false },
+            { "text": "800 mg 3 veces al día por 7 a 10 días.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! El documento menciona que el tratamiento con aciclovir oral para la queratitis por herpes zoster es de 800 mg 5 veces al día por 7 a 10 días.",
+            "incorrect": "Incorrecto. La respuesta correcta es 800 mg 5 veces al día por 7 a 10 días. El documento menciona que el tratamiento con aciclovir oral para la queratitis por herpes zoster es de 800 mg 5 veces al día por 7 a 10 días."
+        }
+    }
+]

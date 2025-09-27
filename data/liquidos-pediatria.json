@@ -1,0 +1,444 @@
+[
+  {
+    "question": "Un niño de 15 kg necesita líquidos de mantenimiento. Según la fórmula de Holiday y Segar, ¿cuál es el volumen total de líquidos que se le debe administrar en 24 horas?",
+    "options": [
+      { "text": "1000 mL.", "isCorrect": false },
+      { "text": "1250 mL.", "isCorrect": true },
+      { "text": "1500 mL.", "isCorrect": false },
+      { "text": "750 mL.", "isCorrect": false }
+    ],
+    "feedback": {
+      "correct": "¡Correcto! La fórmula para niños entre 11 y 20 kg es: 1000 mL + 50 mL por cada kg por encima de 10 kg. Para 15 kg, sería 1000 mL + (5 kg x 50 mL) = 1250 mL.",
+      "incorrect": "Incorrecto. La fórmula de Holliday y Segar para niños de 11 a 20 kg es: 1000 mL + 50 mL por cada kg por encima de 10 kg. Para un niño de 15 kg, el cálculo sería: 1000 mL + (15 - 10) * 50 mL = 1000 + 250 = 1250 mL."
+    }
+  },
+  {
+    "question": "Un paciente pediátrico necesita líquidos de mantenimiento. Según las guías de la American Academy of Pediatrics (AAP), ¿qué característica deben cumplir estos líquidos?",
+    "options": [
+      { "text": "Ser hipoosmolares para prevenir la deshidratación.", "isCorrect": false },
+      { "text": "Ser isotónicos, con una concentración de sodio similar a la del plasma.", "isCorrect": true },
+      { "text": "Contener potasio en grandes cantidades.", "isCorrect": false },
+      { "text": "Ser hiperosmolares para evitar la hipoglicemia.", "isCorrect": false }
+    ],
+    "feedback": {
+      "correct": "¡Correcto! La AAP recomienda líquidos de mantenimiento isotónicos, con una concentración de sodio similar a la del plasma (135-145 mEq/L) para prevenir la hiponatremia y otras complicaciones neurológicas.",
+      "incorrect": "Incorrecto. La AAP recomienda líquidos de mantenimiento isotónicos, con una concentración de sodio similar a la del plasma (135-145 mEq/L) para prevenir la hiponatremia y otras complicaciones neurológicas. Se deben evitar las soluciones hipoosmolares, ya que se asocian con hiponatremia y potenciales complicaciones neurológicas graves."
+    }
+  },
+  {
+    "question": "Un niño de 8 años con diarrea severa presenta signos de hipovolemia grave (llenado capilar > 3 segundos, letargo). ¿Cuál es la intervención de primera línea?",
+    "options": [
+      { "text": "Administrar un bolo de 10 mL/kg de solución salina al 0.9% en 60 minutos.", "isCorrect": false },
+      { "text": "Administrar un bolo de 20 mL/kg de solución salina al 0.9% rápidamente, repitiendo según la respuesta clínica.", "isCorrect": true },
+      { "text": "Iniciar terapia de rehidratación oral (TRO).", "isCorrect": false },
+      { "text": "Administrar un bolo de albúmina al 5% para una expansión de volumen más rápida.", "isCorrect": false }
+    ],
+    "feedback": {
+      "correct": "¡Correcto! En casos de hipovolemia grave, el tratamiento de primera línea es la fluidoterapia intravenosa rápida con 20 mL/kg de solución salina al 0.9%, repitiendo los bolos según la respuesta clínica. Si no es posible la vía IV, se deberá utilizar acceso intraóseo.",
+      "incorrect": "Incorrecto. En casos de hipovolemia grave, se debe iniciar fluidoterapia intravenosa rápida con 20 mL/kg de solución salina al 0.9%, repitiendo los bolos según la respuesta clínica. La TRO no es suficiente en este caso. El uso de coloides se reserva para situaciones específicas y no es de primera línea."
+    }
+  },
+  {
+    "question": "Una niña de 2 años con quemaduras en el 30% de la superficie corporal total (SCT) necesita reanimación hídrica. El médico decide usar la fórmula de Parkland modificada. ¿Qué volumen de líquido se debe administrar en las primeras 24 horas?",
+    "options": [
+      { "text": "4 mL/kg por cada 1% de SCT quemada, más los líquidos de mantenimiento.", "isCorrect": true },
+      { "text": "5000 mL/m² por cada 100% de SCT quemada, más 2000 mL/m² de mantenimiento.", "isCorrect": false },
+      { "text": "20 mL/kg de solución salina al 0.9% por cada 10% de SCT quemada.", "isCorrect": false },
+      { "text": "100 mL por cada 1% de SCT quemada, más 50 mL por cada kg por encima de 10 kg.", "isCorrect": false }
+    ],
+    "feedback": {
+      "correct": "¡Correcto! La fórmula de Parkland modificada para niños es: 4 mL/kg por cada 1% de SCT quemada (solo de espesor parcial y total), más los requerimientos normales de líquidos de mantenimiento en 24 horas. Para niños menores de 5 años, se recomienda incluir glucosa en los líquidos de mantenimiento.",
+      "incorrect": "Incorrecto. La fórmula de Parkland modificada para niños es: 4 mL/kg por cada 1% de SCT quemada, más los requerimientos normales de líquidos de mantenimiento en 24 horas. La fórmula de Galveston es: 5000 mL/m² por cada 100% de SCT quemada, más 2000 mL/m² de mantenimiento."
+    }
+  },
+  {
+    "question": "Un adolescente de 14 años con cetoacidosis diabética es admitido en la unidad de cuidados intensivos. Se estima que su déficit de agua corporal es del 8%. ¿Qué tipo de líquido se recomienda para la expansión inicial de volumen?",
+    "options": [
+      { "text": "Bolo de dextrosa al 5% en solución salina al 0.45%.", "isCorrect": false },
+      { "text": "Bolo intravenoso de 10-20 mL/kg de solución salina isotónica (NaCl al 0.9%) o Ringer lactato.", "isCorrect": true },
+      { "text": "Bolo de albúmina al 5%.", "isCorrect": false },
+      { "text": "Bolo de bicarbonato de sodio.", "isCorrect": false }
+    ],
+    "feedback": {
+      "correct": "¡Correcto! En cetoacidosis diabética, se recomienda administrar un bolo intravenoso de 10 a 20 mL/kg de solución salina isotónica (NaCl al 0.9%) o Ringer lactato, infundido durante 20 a 30 minutos. El objetivo es restaurar el volumen circulante efectivo y reponer las pérdidas de sodio y agua.",
+      "incorrect": "Incorrecto. La respuesta correcta es un bolo intravenoso de 10-20 mL/kg de solución salina isotónica (NaCl al 0.9%) o Ringer lactato. El objetivo es restaurar el volumen circulante efectivo, reponer las pérdidas de sodio y agua, y mejorar la perfusión renal para favorecer la depuración de glucosa y cetonas."
+    }
+  },
+  {
+    "question": "Un niño de 10 años sufre un traumatismo cerrado. El médico de urgencias sospecha un shock compensado. ¿Cuál es el tratamiento de primera línea para la reanimación con líquidos en este paciente?",
+    "options": [
+      { "text": "Transfusión de concentrado de hematíes (GRBC).", "isCorrect": false },
+      { "text": "Bolo de 20 mL/kg de solución salina al 0.9% o Ringer lactato, administrado en un lapso de 10 a 15 minutos.", "isCorrect": true },
+      { "text": "Bolo de 5 mL/kg de solución salina al 0.9% en 30 minutos.", "isCorrect": false },
+      { "text": "Administración de un bolo de albúmina al 5%.", "isCorrect": false }
+    ],
+    "feedback": {
+      "correct": "¡Correcto! En pacientes pediátricos con shock compensado secundario a traumatismo cerrado, se debe iniciar de forma inmediata la reanimación con un bolo de 20 mL/kg de solución salina al 0.9% o Ringer lactato, administrado en un lapso de 10 a 15 minutos.",
+      "incorrect": "Incorrecto. La respuesta correcta es un bolo de 20 mL/kg de solución salina al 0.9% o Ringer lactato, administrado en un lapso de 10 a 15 minutos. Si tras la administración de 40 a 60 mL/kg de cristaloides no se observa mejoría, se debe considerar la transfusión de concentrado de hematíes (GRBC)."
+    }
+  },
+  {
+    "question": "En un paciente pediátrico con shock, el manejo de líquidos debe ser cauteloso en ciertas comorbilidades. ¿En cuál de las siguientes condiciones la reanimación excesiva puede ser perjudicial?",
+    "options": [
+      { "text": "Shock hipovolémico.", "isCorrect": false },
+      { "text": "Shock cardiogénico.", "isCorrect": true },
+      { "text": "Cetoacidosis diabética.", "isCorrect": false },
+      { "text": "Hemorragia por trauma penetrante.", "isCorrect": false }
+    ],
+    "feedback": {
+      "correct": "¡Correcto! En el shock cardiogénico, la administración de líquidos debe ser lenta y en volúmenes pequeños (5-10 mL/kg) para evitar agravar la disfunción miocárdica e inducir edema pulmonar.",
+      "incorrect": "Incorrecto. La respuesta correcta es el shock cardiogénico. En estos pacientes, la administración de líquidos debe ser lenta y en volúmenes pequeños (5-10 mL/kg en ≥15 minutos) para evitar agravar la disfunción miocárdica e inducir edema pulmonar. En los otros escenarios, la reanimación con líquidos es una parte fundamental del tratamiento."
+    }
+  },
+  {
+    "question": "La fórmula de Holliday y Segar fue diseñada para estimar los requerimientos de líquidos de mantenimiento. ¿En qué premisa se basa esta fórmula?",
+    "options": [
+      { "text": "Por cada 100 kilocalorías de gasto energético se requieren 100 mL de agua, 3 mEq de sodio y 2 mEq de potasio.", "isCorrect": true },
+      { "text": "Por cada 1000 kilocalorías de gasto energético se requieren 1000 mL de agua, 5 mEq de sodio y 2 mEq de potasio.", "isCorrect": false },
+      { "text": "Por cada 10 kg de peso corporal se requieren 1000 mL de agua y 50 mEq de sodio.", "isCorrect": false },
+      { "text": "Por cada 1000 mL de agua se requieren 10 mEq de sodio y 5 mEq de potasio.", "isCorrect": false }
+    ],
+    "feedback": {
+      "correct": "¡Correcto! La fórmula se basa en la premisa de que por cada 100 kilocalorías de gasto energético se requieren 100 mL de agua, junto con 3 mEq de sodio y 2 mEq de potasio, en un intento por asemejar la composición electrolítica de la leche materna.",
+      "incorrect": "Incorrecto. La fórmula de Holliday y Segar se basa en la premisa de que por cada 100 kilocalorías de gasto energético se requieren 100 mL de agua, junto con 3 mEq de sodio y 2 mEq de potasio. Al pasar esta composición a 1000 mL de solución, se obtiene la composición clásica de líquidos de mantenimiento en pediatría: 5 mEq de sodio y 20 mEq de potasio por litro."
+    }
+  },
+  {
+    "question": "Un paciente pediátrico con shock cardiogénico presenta hepatomegalia, crepitaciones pulmonares y distensión venosa yugular. ¿Qué indican estos signos?",
+    "options": [
+      { "text": "Hipovolemia grave.", "isCorrect": false },
+      { "text": "Choque obstructivo.", "isCorrect": false },
+      { "text": "Sobrecarga de volumen.", "isCorrect": true },
+      { "text": "Shock hipovolémico compensado.", "isCorrect": false }
+    ],
+    "feedback": {
+      "correct": "¡Correcto! La aparición de signos como hepatomegalia, crepitaciones pulmonares o distensión venosa yugular puede indicar sobrecarga de volumen y debe alertar al equipo clínico para evitar la descompensación cardiovascular.",
+      "incorrect": "Incorrecto. La respuesta correcta es sobrecarga de volumen. La aparición de signos como hepatomegalia, crepitaciones pulmonares o distensión venosa yugular puede indicar sobrecarga de volumen y debe alertar al equipo clínico. En estos casos, la administración de líquidos debe ser cautelosa, con volúmenes menores y con una infusión más lenta."
+    }
+  },
+  {
+    "question": "El lactato de Ringer (RL) es la solución de elección en la mayoría de los centros especializados para la reanimación hídrica en quemaduras. ¿Cuál es la principal ventaja de usar esta solución?",
+    "options": [
+      { "text": "Permite una adecuada reanimación sin inducir acidosis metabólica hiperclorémica.", "isCorrect": true },
+      { "text": "Es una solución hiperosmolar que previene la hiponatremia.", "isCorrect": false },
+      { "text": "Es una solución coloide que retiene mayor volumen intravascular.", "isCorrect": false },
+      { "text": "Es una solución hipoosmolar que previene el edema.", "isCorrect": false }
+    ],
+    "feedback": {
+      "correct": "¡Correcto! El lactato de Ringer (RL) es la solución de elección en la mayoría de los centros especializados, ya que es una solución cristaloide isotónica balanceada que permite una adecuada reanimación sin inducir acidosis metabólica hiperclorémica.",
+      "incorrect": "Incorrecto. La respuesta correcta es que permite una adecuada reanimación sin inducir acidosis metabólica hiperclorémica. El lactato de Ringer (RL) es una solución cristaloide isotónica balanceada que se utiliza en la reanimación hídrica de pacientes quemados, ya que permite una adecuada reanimación sin inducir acidosis metabólica hiperclorémica."
+    }
+  },
+  {
+    "question": "Un paciente pediátrico con cetoacidosis diabética no ha recibido un diagnóstico reciente y su pH es < 7.1. ¿Cuál es el porcentaje de deshidratación que se estima para este paciente?",
+    "options": [
+      { "text": "6%.", "isCorrect": false },
+      { "text": "8%.", "isCorrect": true },
+      { "text": "10%.", "isCorrect": false },
+      { "text": "7%.", "isCorrect": false }
+    ],
+    "feedback": {
+      "correct": "¡Correcto! El documento menciona que el porcentaje de deshidratación en niños con diabetes de reciente diagnóstico, pH < 7.1 o nitrógeno ureico en sangre (BUN) > 20 mg/dL se estima en un 8%. En el resto de los pacientes pediátricos con cetoacidosis diabética, se considera una deshidratación del 6%.",
+      "incorrect": "Incorrecto. El documento menciona que el porcentaje de deshidratación en niños con diabetes de reciente diagnóstico, pH < 7.1 o nitrógeno ureico en sangre (BUN) > 20 mg/dL se estima en un 8%."
+    }
+  },
+  {
+    "question": "Un niño con quemaduras en el 30% de la superficie corporal total (SCT) necesita reanimación hídrica. La fórmula de Galveston recomienda administrar:",
+    "options": [
+      { "text": "4 mL/kg por cada 1% de SCT quemada, más los líquidos de mantenimiento.", "isCorrect": false },
+      { "text": "5000 mL/m² por cada 100% de SCT quemada, más 2000 mL/m² de mantenimiento al día.", "isCorrect": true },
+      { "text": "20 mL/kg de solución salina al 0.9% por cada 10% de SCT quemada.", "isCorrect": false },
+      { "text": "100 mL por cada 1% de SCT quemada, más 50 mL por cada kg por encima de 10 kg.", "isCorrect": false }
+    ],
+    "feedback": {
+      "correct": "¡Correcto! La fórmula de Galveston recomienda administrar 5000 mL/m² por cada 100% de SCT quemada, más 2000 mL/m² de mantenimiento al día. La fórmula de Parkland modificada para niños es: 4 mL/kg por cada 1% de SCT quemada, más los requerimientos normales de líquidos de mantenimiento en 24 horas.",
+      "incorrect": "Incorrecto. La fórmula de Galveston recomienda administrar 5000 mL/m² por cada 100% de SCT quemada, más 2000 mL/m² de mantenimiento al día. La fórmula de Parkland modificada para niños es: 4 mL/kg por cada 1% de SCT quemada, más los requerimientos normales de líquidos de mantenimiento en 24 horas."
+    }
+  },
+  {
+    "question": "En un paciente con trauma penetrante con hemorragia activa, se plantea el enfoque de hipotensión controlada. ¿Cuál es el objetivo principal de esta estrategia?",
+    "options": [
+      { "text": "Alcanzar una normotensión completa para mantener la perfusión cerebral.", "isCorrect": false },
+      { "text": "Ajustar la reanimación con líquidos para recuperar una perfusión mínima adecuada sin alcanzar una normotensión completa.", "isCorrect": true },
+      { "text": "Administrar grandes volúmenes de líquidos para compensar la pérdida sanguínea.", "isCorrect": false },
+      { "text": "Administrar vasopresores para mantener la presión arterial alta.", "isCorrect": false }
+    ],
+    "feedback": {
+      "correct": "¡Correcto! La hipotensión controlada consiste en ajustar la reanimación con líquidos para recuperar una perfusión mínima adecuada (preservación del pulso periférico) sin alcanzar una normotensión completa. Esto permite el espasmo de los vasos lesionados, la formación de trombos estables y la conservación del volumen sanguíneo.",
+      "incorrect": "Incorrecto. La respuesta correcta es ajustar la reanimación con líquidos para recuperar una perfusión mínima adecuada sin alcanzar una normotensión completa. Este enfoque es útil en pacientes con trauma penetrante con hemorragia activa, ya que una reanimación agresiva previa al control hemostático puede elevar la presión arterial, diluir los factores de coagulación, inducir hipotermia y agravar el sangrado, comprometiendo así el pronóstico del paciente."
+    }
+  },
+  {
+    "question": "En el manejo del shock en pacientes pediátricos, la terapia de rehidratación oral (TRO) es la primera opción para casos de:",
+    "options": [
+      { "text": "Hipovolemia grave.", "isCorrect": false },
+      { "text": "Hipovolemia moderada, si no hay signos de hipoperfusión.", "isCorrect": true },
+      { "text": "Shock cardiogénico.", "isCorrect": false },
+      { "text": "Shock séptico.", "isCorrect": false }
+    ],
+    "feedback": {
+      "correct": "¡Correcto! El documento menciona que en casos de hipovolemia leve o moderada, la terapia de rehidratación oral (TRO) puede ser suficiente, especialmente si no hay signos de hipoperfusión. La TRO consiste en la administración frecuente de pequeñas cantidades de líquido mediante una cuchara o jeringa.",
+      "incorrect": "Incorrecto. La respuesta correcta es hipovolemia moderada, si no hay signos de hipoperfusión. En casos de hipovolemia grave, el tratamiento de primera línea es la fluidoterapia intravenosa rápida con 20 mL/kg de solución salina al 0.9%, repitiendo los bolos según la respuesta clínica."
+    }
+  },
+  {
+    "question": "Un niño de 25 kg necesita líquidos de mantenimiento. Según la fórmula de Holliday y Segar, ¿cuál es el volumen total de líquidos que se le debe administrar en 24 horas?",
+    "options": [
+      { "text": "1500 mL.", "isCorrect": false },
+      { "text": "1600 mL.", "isCorrect": true },
+      { "text": "1700 mL.", "isCorrect": false },
+      { "text": "1800 mL.", "isCorrect": false }
+    ],
+    "feedback": {
+      "correct": "¡Correcto! La fórmula para niños mayores de 20 kg es: 1500 mL + 20 mL por cada kg por encima de 20 kg. Para 25 kg, sería 1500 mL + (5 kg x 20 mL) = 1600 mL.",
+      "incorrect": "Incorrecto. La fórmula de Holliday y Segar para niños mayores de 20 kg es: 1500 mL + 20 mL por cada kg por encima de 20 kg. Para un niño de 25 kg, el cálculo sería: 1500 mL + (25 - 20) * 20 mL = 1500 + 100 = 1600 mL."
+    }
+  },
+  {
+    "question": "En el manejo de líquidos en pacientes pediátricos, se debe evitar el uso de soluciones hipoosmolares. ¿Cuál es el principal riesgo de usar estas soluciones?",
+    "options": [
+      { "text": "Hiperglicemia.", "isCorrect": false },
+      { "text": "Hipocalcemia.", "isCorrect": false },
+      { "text": "Hiponatremia y potenciales complicaciones neurológicas graves.", "isCorrect": true },
+      { "text": "Hipernatremia y edema cerebral.", "isCorrect": false }
+    ],
+    "feedback": {
+      "correct": "¡Correcto! Se deben evitar las soluciones hipoosmolares, ya que se asocian con hiponatremia y potenciales complicaciones neurológicas graves. La AAP recomienda preferir soluciones isotónicas para prevenir estos riesgos.",
+      "incorrect": "Incorrecto. La respuesta correcta es hiponatremia y potenciales complicaciones neurológicas graves. Se deben evitar las soluciones hipoosmolares, ya que se asocian con hiponatremia y potenciales complicaciones neurológicas graves."
+    }
+  },
+  {
+    "question": "Un niño de 10 años sufre un trauma cerrado. Tras la administración de 60 mL/kg de cristaloides, no se observa mejoría clínica significativa. ¿Cuál es el siguiente paso a considerar?",
+    "options": [
+      { "text": "Continuar con la administración de cristaloides.", "isCorrect": false },
+      { "text": "Administrar un bolo de albúmina al 5%.", "isCorrect": false },
+      { "text": "Transfusión de concentrado de hematíes (GRBC) a razón de 10 mL/kg.", "isCorrect": true },
+      { "text": "Administrar un bolo de bicarbonato de sodio.", "isCorrect": false }
+    ],
+    "feedback": {
+      "correct": "¡Correcto! El documento menciona que si tras la administración de 40 a 60 mL/kg de cristaloides no se observa mejoría clínica significativa, debe considerarse la transfusión de concentrado de hematíes (GRBC) a razón de 10 mL/kg.",
+      "incorrect": "Incorrecto. La respuesta correcta es la transfusión de concentrado de hematíes (GRBC) a razón de 10 mL/kg. El documento menciona que si tras la administración de 40 a 60 mL/kg de cristaloides no se observa mejoría clínica significativa, se debe considerar la transfusión de GRBC."
+    }
+  },
+  {
+    "question": "El documento menciona que los pacientes pediátricos son especialmente susceptibles a la pérdida de líquidos. ¿Cuál es la principal razón?",
+    "options": [
+      { "text": "Su inmadurez fisiológica.", "isCorrect": false },
+      { "text": "El 60% de su peso corporal está compuesto por agua.", "isCorrect": true },
+      { "text": "Su incapacidad para compensar la pérdida de líquidos.", "isCorrect": false },
+      { "text": "Su baja tasa metabólica.", "isCorrect": false }
+    ],
+    "feedback": {
+      "correct": "¡Correcto! El documento menciona que los pacientes pediátricos son especialmente susceptibles a la pérdida de líquidos, debido a que al menos el 60% de su peso corporal está compuesto por agua. Además, su inmadurez fisiológica, aunque con mecanismos compensadores inicialmente eficaces, puede hacer que los signos clínicos de desequilibrio hídrico se manifiesten de forma más tardía o sean difíciles de identificar.",
+      "incorrect": "Incorrecto. La respuesta correcta es que el 60% de su peso corporal está compuesto por agua. Esto los hace más vulnerables a la pérdida de líquidos. La inmadurez fisiológica es un factor importante, pero el alto porcentaje de agua corporal es la principal razón de su susceptibilidad."
+    }
+  },
+  {
+    "question": "Un niño de 20 kg sufre un traumatismo cerrado con hemorragia activa. El médico residente, basándose en la regla general, sabe que la cantidad de cristaloides necesaria para alcanzar la estabilidad hemodinámica es aproximadamente:",
+    "options": [
+      { "text": "La mitad del volumen estimado de la pérdida sanguínea.", "isCorrect": false },
+      { "text": "Dos veces el volumen estimado de la pérdida sanguínea.", "isCorrect": false },
+      { "text": "Tres veces el volumen estimado de la pérdida sanguínea.", "isCorrect": true },
+      { "text": "La misma cantidad del volumen estimado de la pérdida sanguínea.", "isCorrect": false }
+    ],
+    "feedback": {
+      "correct": "¡Correcto! La regla general es que la cantidad de cristaloides necesaria para alcanzar la estabilidad hemodinámica es aproximadamente tres veces el volumen estimado de la pérdida sanguínea.",
+      "incorrect": "Incorrecto. La respuesta correcta es tres veces el volumen estimado de la pérdida sanguínea. Esta es una regla general en el manejo de líquidos en pacientes pediátricos con trauma."
+    }
+  },
+  {
+    "question": "Un niño con quemaduras graves presenta un estado de shock. Se utiliza la fórmula de Parkland modificada para calcular los requerimientos de líquidos. ¿Qué porcentaje del volumen calculado se debe administrar en las primeras 8 horas?",
+    "options": [
+      { "text": "25%.", "isCorrect": false },
+      { "text": "50%.", "isCorrect": true },
+      { "text": "75%.", "isCorrect": false },
+      { "text": "100%.", "isCorrect": false }
+    ],
+    "feedback": {
+      "correct": "¡Correcto! El 50% del volumen calculado debe administrarse en las primeras 8 horas desde el momento de la lesión. El 50% restante se administra en las 16 horas siguientes.",
+      "incorrect": "Incorrecto. La respuesta correcta es 50%. El 50% del volumen calculado debe administrarse en las primeras 8 horas desde el momento de la lesión. El 50% restante se administra en las 16 horas siguientes."
+    }
+  },
+  {
+    "question": "El documento menciona que los pacientes con ciertas comorbilidades tienen un mayor riesgo de sobrehidratación. ¿Cuál de las siguientes es una de esas condiciones?",
+    "options": [
+      { "text": "Estados edematosos de cualquier etiología.", "isCorrect": true },
+      { "text": "Insuficiencia cardíaca congestiva.", "isCorrect": true },
+      { "text": "Postoperatorio de cirugía de corazón.", "isCorrect": true },
+      { "text": "Todas las opciones son correctas.", "isCorrect": true }
+    ],
+    "feedback": {
+      "correct": "¡Correcto! El riesgo de sobrehidratación es mayor en pacientes con estados edematosos de cualquier etiología, insuficiencia cardíaca congestiva, postoperatorio de cirugía de corazón e insuficiencia renal aguda (con oligoanuria).",
+      "incorrect": "Incorrecto. El riesgo de sobrehidratación es mayor en pacientes con estados edematosos de cualquier etiología, insuficiencia cardíaca congestiva, postoperatorio de cirugía de corazón e insuficiencia renal aguda (con oligoanuria)."
+    }
+  },
+  {
+    "question": "Un paciente de 5 años con hemoglobina < 5 g/dL es admitido en la unidad de cuidados intensivos. El médico considera la reanimación con líquidos. ¿Cuál es la principal preocupación en este caso?",
+    "options": [
+      { "text": "El riesgo de hiponatremia.", "isCorrect": false },
+      { "text": "El riesgo de sobrecarga de volumen.", "isCorrect": true },
+      { "text": "El riesgo de diluir aún más la hemoglobina y comprometer el transporte de oxígeno.", "isCorrect": true },
+      { "text": "La toxicidad de las nuevas terapias oncológicas.", "isCorrect": false }
+    ],
+    "feedback": {
+      "correct": "¡Correcto! En niños con hemoglobina < 5 g/dL, los bolos rápidos de líquidos pueden diluir aún más la hemoglobina, comprometer el transporte de oxígeno y precipitar insuficiencia cardíaca. Por lo tanto, la reanimación con líquidos debe ser cautelosa.",
+      "incorrect": "Incorrecto. La respuesta correcta es el riesgo de diluir aún más la hemoglobina y comprometer el transporte de oxígeno. Esto puede precipitar insuficiencia cardíaca. Por lo tanto, la reanimación con líquidos debe ser cautelosa y se debe considerar la transfusión de concentrado de hematíes (GRBC)."
+    }
+  },
+  {
+    "question": "El plasma está compuesto por una fracción acuosa (93%) y una fracción sólida anhidra (7%). La concentración de sodio en la fase acuosa alcanza aproximadamente 154 mEq/L. ¿Cuál es la osmolaridad de la solución salina al 0.9%?",
+    "options": [
+      { "text": "154 mEq/L.", "isCorrect": false },
+      { "text": "308 mOsm/L.", "isCorrect": true },
+      { "text": "78 mOsm/L.", "isCorrect": false },
+      { "text": "273 mOsm/L.", "isCorrect": false }
+    ],
+    "feedback": {
+      "correct": "¡Correcto! La osmolaridad de la solución salina al 0.9% es de 308 mOsm/L, similar a la del plasma. Por esta razón, se considera una solución isotónica.",
+      "incorrect": "Incorrecto. La osmolaridad de la solución salina al 0.9% es de 308 mOsm/L, similar a la del plasma. Por esta razón, se considera una solución isotónica."
+    }
+  },
+  {
+    "question": "Un paciente pediátrico con shock presenta signos de sobrecarga de líquidos. ¿Cuál es la administración de líquidos recomendada en este caso?",
+    "options": [
+      { "text": "Administración de volúmenes menores (5-10 mL/kg) infundidos durante 15 a 30 minutos.", "isCorrect": true },
+      { "text": "Administración de un bolo de 20 mL/kg de solución salina al 0.9% rápidamente.", "isCorrect": false },
+      { "text": "Administración de un bolo de 10 mL/kg de solución salina al 0.9% en 60 minutos.", "isCorrect": false },
+      { "text": "No se debe administrar líquidos.", "isCorrect": false }
+    ],
+    "feedback": {
+      "correct": "¡Correcto! En pacientes con signos de sobrecarga de líquidos, se recomienda una administración más cautelosa, con volúmenes menores (5-10 mL/kg) infundidos durante 15 a 30 minutos para reducir el riesgo de descompensación cardiovascular.",
+      "incorrect": "Incorrecto. La respuesta correcta es la administración de volúmenes menores (5-10 mL/kg) infundidos durante 15 a 30 minutos. La administración de volúmenes mayores podría agravar el estado del paciente y causar edema pulmonar, arritmias, etc."
+    }
+  },
+  {
+    "question": "Un paciente pediátrico con desnutrición grave es admitido en la unidad de cuidados intensivos con shock. ¿Cuál es el enfoque recomendado para la reanimación con líquidos?",
+    "options": [
+      { "text": "Administración de bolos rápidos de 20 mL/kg de cristaloides.", "isCorrect": false },
+      { "text": "Administración de bolos lentos de 5-10 mL/kg de cristaloides.", "isCorrect": false },
+      { "text": "Se requiere un enfoque específico y cauteloso, generalmente abordado por protocolos diferenciados.", "isCorrect": true },
+      { "text": "Administración de albúmina al 5%.", "isCorrect": false }
+    ],
+    "feedback": {
+      "correct": "¡Correcto! El documento menciona que la desnutrición grave requiere un enfoque específico y cauteloso para la reanimación con líquidos, generalmente abordado por protocolos diferenciados.",
+      "incorrect": "Incorrecto. La respuesta correcta es que se requiere un enfoque específico y cauteloso, generalmente abordado por protocolos diferenciados. El documento menciona que la desnutrición grave es una de las comorbilidades en las que la reanimación excesiva con líquidos puede ser perjudicial."
+    }
+  },
+  {
+    "question": "La fórmula de Holliday y Segar es un método alternativo para el cálculo de los requerimientos de líquidos de mantenimiento. ¿Cuál es la fórmula para niños mayores de 10 kg?",
+    "options": [
+      { "text": "4 mL/Kg/hora.", "isCorrect": false },
+      { "text": "40 mL/hora + 2 ml/hora por cada kg sobre 10 kg.", "isCorrect": false },
+      { "text": "60 mL/hora + 1 mL/hora por cada kg por encima de 20 kg.", "isCorrect": true },
+      { "text": "100 mL/hora + 50 ml/hora por cada kg por encima de 10 kg.", "isCorrect": false }
+    ],
+    "feedback": {
+      "correct": "¡Correcto! La fórmula para niños mayores de 20 kg es: 60 mL/hora + 1 mL/hora por cada kg por encima de 20 kg. Para niños de 11 a 20 kg, la fórmula es: 40 mL/hora + 2 ml/hora por cada kg sobre 10 kg. Para niños menores de 10 kg, la fórmula es: 4 mL/Kg/hora.",
+      "incorrect": "Incorrecto. La respuesta correcta es 60 mL/hora + 1 mL/hora por cada kg por encima de 20 kg. La fórmula para niños de 11 a 20 kg es: 40 mL/hora + 2 ml/hora por cada kg sobre 10 kg. La fórmula para niños menores de 10 kg es: 4 mL/Kg/hora."
+    }
+  },
+  {
+    "question": "En la evaluación de la respuesta a la reanimación en quemaduras, ¿cuál es la diuresis esperada en un niño de 10 kg?",
+    "options": [
+      { "text": "0.5-1 mL/kg/hora.", "isCorrect": false },
+      { "text": "1-2 mL/kg/hora.", "isCorrect": true },
+      { "text": "2-3 mL/kg/hora.", "isCorrect": false },
+      { "text": "3-4 mL/kg/hora.", "isCorrect": false }
+    ],
+    "feedback": {
+      "correct": "¡Correcto! En niños menores de 30 kg, la diuresis esperada es de 1-2 mL/kg/hora. En niños mayores de 30 kg, la diuresis esperada es de 0.5-1 mL/kg/hora.",
+      "incorrect": "Incorrecto. La respuesta correcta es 1-2 mL/kg/hora. En niños menores de 30 kg, la diuresis esperada es de 1-2 mL/kg/hora. En niños mayores de 30 kg, la diuresis esperada es de 0.5-1 mL/kg/hora."
+    }
+  },
+  {
+    "question": "Un paciente pediátrico con trauma penetrante con hemorragia activa presenta hipotensión. ¿Cuál es el enfoque de reanimación con líquidos recomendado?",
+    "options": [
+      { "text": "Administración de bolos rápidos de 20 mL/kg de cristaloides.", "isCorrect": false },
+      { "text": "Hipotensión controlada para recuperar una perfusión mínima adecuada sin alcanzar una normotensión completa.", "isCorrect": true },
+      { "text": "Administración de bolos lentos de 5-10 mL/kg de cristaloides.", "isCorrect": false },
+      { "text": "Administración de concentrado de hematíes (GRBC) de forma inmediata.", "isCorrect": false }
+    ],
+    "feedback": {
+      "correct": "¡Correcto! En pacientes con trauma penetrante con hemorragia activa, se plantea el enfoque de hipotensión controlada como estrategia temporal hasta lograr el control quirúrgico del sangrado. Una reanimación agresiva previa al control hemostático puede elevar la presión arterial, diluir los factores de coagulación, inducir hipotermia y agravar el sangrado, comprometiendo así el pronóstico del paciente.",
+      "incorrect": "Incorrecto. La respuesta correcta es hipotensión controlada para recuperar una perfusión mínima adecuada sin alcanzar una normotensión completa. Este enfoque es útil en pacientes con trauma penetrante con hemorragia activa, ya que una reanimación agresiva previa al control hemostático puede agravar el sangrado."
+    }
+  },
+  {
+    "question": "Un niño con quemaduras graves presenta taquicardia persistente. ¿Qué puede reflejar este hallazgo?",
+    "options": [
+      { "text": "Hipovolemia.", "isCorrect": true },
+      { "text": "Hipervolemia.", "isCorrect": false },
+      { "text": "Sobrecarga de volumen.", "isCorrect": false },
+      { "text": "Shock cardiogénico.", "isCorrect": false }
+    ],
+    "feedback": {
+      "correct": "¡Correcto! El documento menciona que la taquicardia persistente puede reflejar hipovolemia, aunque también puede elevarse por dolor o ansiedad en pacientes euvolémicos. La taquicardia persistente puede ser un mejor indicador del estado circulatorio que la presión arterial en las primeras fases de la reanimación.",
+      "incorrect": "Incorrecto. La respuesta correcta es hipovolemia. La taquicardia persistente puede reflejar hipovolemia, aunque también puede elevarse por dolor o ansiedad en pacientes euvolémicos. La taquicardia persistente puede ser un mejor indicador del estado circulatorio que la presión arterial en las primeras fases de la reanimación."
+    }
+  },
+  {
+    "question": "Un paciente pediátrico con shock cardiogénico necesita una administración de líquidos más cautelosa. ¿Cuál es el volumen de líquido recomendado en este caso?",
+    "options": [
+      { "text": "10-20 mL/kg.", "isCorrect": false },
+      { "text": "20 mL/kg.", "isCorrect": false },
+      { "text": "5-10 mL/kg.", "isCorrect": true },
+      { "text": "No se debe administrar líquidos.", "isCorrect": false }
+    ],
+    "feedback": {
+      "correct": "¡Correcto! En pacientes con shock cardiogénico, la administración de líquidos debe ser lenta y en volúmenes pequeños (5-10 mL/kg) para evitar agravar la disfunción miocárdica e inducir edema pulmonar.",
+      "incorrect": "Incorrecto. La respuesta correcta es 5-10 mL/kg. En pacientes con shock cardiogénico, la administración de líquidos debe ser lenta y en volúmenes pequeños (5-10 mL/kg) para evitar agravar la disfunción miocárdica e inducir edema pulmonar."
+    }
+  },
+  {
+    "question": "El documento menciona que los pacientes pediátricos con ciertas comorbilidades tienen un mayor riesgo de sobrehidratación. ¿Cuál de las siguientes es una de esas condiciones?",
+    "options": [
+      { "text": "Síndrome de secreción inapropiada de hormona antidiurética (SIADH).", "isCorrect": true },
+      { "text": "Diabetes insípida.", "isCorrect": false },
+      { "text": "Diarrea acuosa voluminosa.", "isCorrect": false },
+      { "text": "Quemaduras severas.", "isCorrect": false }
+    ],
+    "feedback": {
+      "correct": "¡Correcto! El síndrome de secreción inapropiada de hormona antidiurética (SIADH) es una de las condiciones que aumenta el riesgo de sobrehidratación. La fluidoterapia intensiva en personas con SIADH puede causar edema cerebral en pacientes con meningitis y síndrome de dificultad respiratoria del adulto en pacientes con neumonía como resultado de la sobrecarga de líquidos.",
+      "incorrect": "Incorrecto. La respuesta correcta es síndrome de secreción inapropiada de hormona antidiurética (SIADH). El síndrome de secreción inapropiada de hormona antidiurética (SIADH) es una de las condiciones que aumenta el riesgo de sobrehidratación."
+    }
+  },
+  {
+    "question": "Un paciente pediátrico con shock presenta un shock obstructivo. ¿Cuál de las siguientes condiciones es una causa de este tipo de shock?",
+    "options": [
+      { "text": "Taponamiento cardíaco.", "isCorrect": true },
+      { "text": "Sepsis.", "isCorrect": false },
+      { "text": "Hemorragia.", "isCorrect": false },
+      { "text": "Falla cardíaca.", "isCorrect": false }
+    ],
+    "feedback": {
+      "correct": "¡Correcto! El documento menciona que el shock obstructivo es causado por condiciones como el tromboembolismo pulmonar, el taponamiento cardíaco o el neumotórax a tensión. El taponamiento cardíaco es una de las causas de shock obstructivo, ya que el líquido en el saco pericárdico comprime el corazón y le impide bombear sangre de manera efectiva.",
+      "incorrect": "Incorrecto. La respuesta correcta es taponamiento cardíaco. El documento menciona que el shock obstructivo es causado por condiciones como el tromboembolismo pulmonar, el taponamiento cardíaco o el neumotórax a tensión."
+    }
+  },
+  {
+    "question": "Un paciente pediátrico con shock cardiogénico y cardiomegalia en la radiografía de tórax necesita una administración de líquidos más cautelosa. ¿Cuál es el volumen de líquido recomendado en este caso?",
+    "options": [
+      { "text": "10-20 mL/kg.", "isCorrect": false },
+      { "text": "20 mL/kg.", "isCorrect": false },
+      { "text": "5-10 mL/kg.", "isCorrect": true },
+      { "text": "No se debe administrar líquidos.", "isCorrect": false }
+    ],
+    "feedback": {
+      "correct": "¡Correcto! En pacientes con shock cardiogénico, la administración de líquidos debe ser lenta y en volúmenes pequeños (5-10 mL/kg) para evitar agravar la disfunción miocárdica e inducir edema pulmonar. La cardiomegalia en la radiografía de tórax es un signo de sobrecarga de volumen, lo que sugiere un corazón con sobrecarga de volumen.",
+      "incorrect": "Incorrecto. La respuesta correcta es 5-10 mL/kg. En pacientes con shock cardiogénico, la administración de líquidos debe ser lenta y en volúmenes pequeños (5-10 mL/kg) para evitar agravar la disfunción miocárdica e inducir edema pulmonar."
+    }
+  },
+  {
+    "question": "Un paciente pediátrico con shock presenta un shock obstructivo por tromboembolismo pulmonar. El manejo debe enfocarse en resolver la causa primaria. ¿Cuál de los siguientes es el tratamiento definitivo en este caso?",
+    "options": [
+      { "text": "Administración de líquidos y vasopresores.", "isCorrect": false },
+      { "text": "Pericardiocentesis.", "isCorrect": false },
+      { "text": "Fibrinólisis o embolectomía quirúrgica.", "isCorrect": true },
+      { "text": "Toracocentesis con aguja.", "isCorrect": false }
+    ],
+    "feedback": {
+      "correct": "¡Correcto! La tromboembolia pulmonar es una causa de shock obstructivo, y el tratamiento definitivo es la fibrinólisis o la embolectomía quirúrgica, que consiste en disolver o extraer el coágulo para liberar la obstrucción del flujo sanguíneo.",
+      "incorrect": "Incorrecto. La respuesta correcta es fibrinólisis o embolectomía quirúrgica. El shock obstructivo es causado por una obstrucción mecánica del flujo sanguíneo, por lo que el manejo debe enfocarse en resolver la causa primaria."
+    }
+  }
+]

@@ -1,0 +1,275 @@
+[
+    {
+        "question": "Una mujer de 45 años, secretaria, acude a consulta por dolor, hormigueo y entumecimiento en los dedos pulgar, índice y medio de la mano derecha, que empeoran por la noche y la despiertan. Los síntomas se alivian al sacudir la mano. ¿Qué signo clínico está presente y qué prueba de provocación podría usar para confirmar la sospecha diagnóstica?",
+        "options": [
+            { "text": "Signo de Tinel; prueba de Durkan.", "isCorrect": false },
+            { "text": "Signo de Flick; prueba de Phalen invertido.", "isCorrect": false },
+            { "text": "Signo de Flick; prueba de Durkan.", "isCorrect": true },
+            { "text": "Signo de Tinel; prueba de Phalen.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! El gesto de sacudir o mover las manos para aliviar los síntomas se conoce como el signo de Flick. Para confirmar la sospecha de síndrome del túnel del carpo, la prueba de provocación más efectiva es la prueba de Durkan, que tiene la mayor sensibilidad y especificidad.",
+            "incorrect": "Incorrecto. La respuesta correcta es el signo de Flick y la prueba de Durkan. El signo de Flick es el gesto de sacudir la mano para aliviar los síntomas. La prueba de Durkan es la mejor prueba de provocación para el diagnóstico del síndrome del túnel del carpo."
+        }
+    },
+    {
+        "question": "Un hombre de 55 años, con antecedentes de diabetes mellitus, se queja de debilidad en su mano y dificultad para sujetar objetos. Al examen físico, se observa atrofia muscular en la eminencia tenar. ¿Qué tipo de síndrome del túnel del carpo es más probable y qué hallazgos electrodiagnósticos se esperarían?",
+        "options": [
+            { "text": "Leve; latencia motora distal normal.", "isCorrect": false },
+            { "text": "Moderado; velocidad de conducción sensitiva anormal.", "isCorrect": false },
+            { "text": "Severo; atrofia tenar y latencia motora distal anormal o ausente.", "isCorrect": true },
+            { "text": "Moderado; atrofia tenar y velocidad de conducción sensitiva anormal.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! La atrofia muscular de la eminencia tenar es un signo de denervación crónica del nervio mediano, lo que clasifica el síndrome del túnel del carpo como severo. En este estadio, los estudios de conducción nerviosa mostrarían una latencia motora distal anormal o incluso ausente.",
+            "incorrect": "Incorrecto. La atrofia tenar es un signo de denervación crónica del nervio mediano, lo que clasifica el síndrome del túnel del carpo como severo. En este estadio, los estudios de conducción nerviosa mostrarían una latencia motora distal anormal o ausente."
+        }
+    },
+    {
+        "question": "Una mujer de 30 años, en su tercer trimestre de embarazo, presenta síntomas de síndrome del túnel del carpo. El médico le explica que esto es común en el embarazo. ¿Qué opción de tratamiento conservador es la primera línea y más segura en su caso?",
+        "options": [
+            { "text": "Infiltración con esteroides.", "isCorrect": false },
+            { "text": "Uso de férulas de muñeca por la noche.", "isCorrect": true },
+            { "text": "Analgésicos orales como AINEs.", "isCorrect": false },
+            { "text": "Cirugía de descompresión del túnel carpiano.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! En la mayoría de los casos de síndrome del túnel del carpo relacionado con el embarazo, el uso de férulas de muñeca, especialmente durante la noche, es la primera línea de tratamiento no invasiva. Los síntomas a menudo se resuelven espontáneamente después del parto.",
+            "incorrect": "Incorrecto. La respuesta correcta es el uso de férulas de muñeca por la noche. Las férulas son una opción no invasiva que se considera la primera línea de tratamiento para el síndrome del túnel del carpo leve a moderado. En la mayoría de los casos, los síntomas se resuelven después del parto."
+        }
+    },
+    {
+        "question": "Un paciente presenta síntomas de síndrome del túnel del carpo y su médico decide realizar un electrodiagnóstico. Aunque es una herramienta útil, tiene algunas limitaciones. ¿Cuál de las siguientes afirmaciones sobre los estudios electrofisiológicos es la más precisa?",
+        "options": [
+            { "text": "Son el estándar de oro para el diagnóstico del síndrome del túnel del carpo y no reemplazan el examen clínico.", "isCorrect": false },
+            { "text": "No pueden descartar otras condiciones neurológicas que se pueden confundir con un síndrome del túnel del carpo, como una radiculopatía cervical.", "isCorrect": false },
+            { "text": "Tienen una sensibilidad y especificidad limitadas, por lo que no reemplazan el examen clínico, pero son útiles para confirmar el diagnóstico.", "isCorrect": true },
+            { "text": "Son el estándar de oro para el diagnóstico del síndrome del túnel del carpo y tienen una sensibilidad y especificidad del 100%.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! Los estudios electrofisiológicos no son el estándar de oro para el diagnóstico del síndrome del túnel del carpo y tienen una sensibilidad limitada, pero son una herramienta muy poderosa en combinación con la evaluación clínica para confirmar el diagnóstico o descartar otras condiciones.",
+            "incorrect": "Incorrecto. Los estudios de electrodiagnóstico tienen limitaciones con sensibilidad entre 56-85% y especificidad entre el 94-99%, por lo tanto, no son el estándar de oro. Sin embargo, en combinación con el examen clínico, son una herramienta poderosa para confirmar el diagnóstico o descartar otras condiciones neurológicas."
+        }
+    },
+    {
+        "question": "Un paciente de 60 años con historia de insuficiencia cardíaca y uso de marcapasos presenta un síndrome del túnel del carpo bilateral. El médico sospecha un diagnóstico subyacente raro pero importante. ¿Cuál de los siguientes factores de riesgo debería considerar prioritario?",
+        "options": [
+            { "text": "Obesidad.", "isCorrect": false },
+            { "text": "Diabetes mellitus.", "isCorrect": false },
+            { "text": "Amiloidosis cardiaca.", "isCorrect": true },
+            { "text": "Artritis reumatoidea.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! Un síndrome del túnel del carpo bilateral en un hombre mayor de 50 años, con insuficiencia cardíaca o uso de marcapasos, es un signo temprano de amiloidosis cardiaca debido al depósito de amiloide en el túnel carpiano. Estar alerta a este diagnóstico es crucial para el tratamiento del paciente.",
+            "incorrect": "Incorrecto. El síndrome del túnel del carpo bilateral en un hombre mayor de 50 años, con insuficiencia cardíaca o uso de marcapasos, es un signo temprano de amiloidosis cardiaca, ya que el depósito de amiloide en el túnel carpiano precede a la amiloidosis cardiaca aproximadamente 5-10 años."
+        }
+    },
+    {
+        "question": "Una mujer de 50 años, trabajadora manual, presenta dolor y parestesias nocturnas en la mano, con despertares frecuentes. Al realizar la prueba de Phalen, se reproducen los síntomas. Según la clasificación del síndrome del túnel del carpo, ¿en qué estadio se encuentra probablemente la paciente?",
+        "options": [
+            { "text": "Leve.", "isCorrect": false },
+            { "text": "Moderado.", "isCorrect": true },
+            { "text": "Severo.", "isCorrect": false },
+            { "text": "Muy severo.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! Los síntomas de despertares nocturnos frecuentes que afectan el sueño y los síntomas frecuentes relacionados con la actividad, sin debilidad ni pérdida sensitiva en la exploración física, son característicos del estadio moderado del síndrome del túnel del carpo.",
+            "incorrect": "Incorrecto. Los síntomas de despertares nocturnos frecuentes que afectan el sueño y los síntomas frecuentes relacionados con la actividad, sin debilidad ni pérdida sensitiva en la exploración física, son característicos del estadio moderado del síndrome del túnel del carpo. El estadio leve presenta síntomas ocasionales e intermitentes, y el estadio severo presenta atrofia tenar y debilidad."
+        }
+    },
+    {
+        "question": "Un paciente con síndrome del túnel del carpo leve a moderado ha fallado en el tratamiento con férulas de muñeca. El médico decide probar un nuevo tratamiento conservador. ¿Cuál de las siguientes opciones ha demostrado tener beneficios significativos a corto plazo?",
+        "options": [
+            { "text": "Infiltraciones con plasma rico en plaquetas.", "isCorrect": false },
+            { "text": "Analgésicos de venta libre como antiinflamatorios no esteroideos.", "isCorrect": false },
+            { "text": "Infiltraciones con esteroides.", "isCorrect": true },
+            { "text": "Ejercicios de deslizamiento nervioso.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! Las infiltraciones con esteroides proporcionan una mejoría significativa de los síntomas y la función a 3 meses, con beneficios que duran hasta los 6 meses, y una menor necesidad de cirugía al año. Aunque los ejercicios de deslizamiento nervioso pueden ser útiles, la evidencia que demuestra que la fisioterapia es eficaz es limitada.",
+            "incorrect": "Incorrecto. La respuesta correcta es las infiltraciones con esteroides. Según una revisión Cochrane, las infiltraciones con esteroides proporcionan una mejoría significativa de los síntomas y la función a 3 meses, con beneficios que duran hasta los 6 meses."
+        }
+    },
+    {
+        "question": "Un hombre de 40 años, trabajador de la construcción, presenta síntomas de síndrome del túnel del carpo. El médico sospecha un doble atrapamiento del nervio mediano, tanto en la muñeca como en el codo. ¿Qué prueba de provocación a nivel del codo podría usar para confirmar esta sospecha?",
+        "options": [
+            { "text": "Prueba de Phalen.", "isCorrect": false },
+            { "text": "Prueba de Durkan.", "isCorrect": false },
+            { "text": "Prueba de colapso por rascado (Scratch Colapse Test) en el lacerto fibroso.", "isCorrect": true },
+            { "text": "Signo de Tinel en la muñeca.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! La prueba de colapso por rascado es una maniobra que ayuda a diagnosticar neuropatías por compresión del nervio, y se puede realizar sobre el lacerto fibroso en el codo para buscar un doble atrapamiento del nervio mediano.",
+            "incorrect": "Incorrecto. La prueba de colapso por rascado (Scratch Colapse Test) sobre el lacerto fibroso es una maniobra que ayuda a diagnosticar neuropatías por compresión del nervio a nivel del codo, lo que podría indicar un doble atrapamiento del nervio mediano."
+        }
+    },
+    {
+        "question": "Un paciente con un síndrome del túnel del carpo severo, con atrofia tenar y debilidad en la oposición del pulgar, ha intentado todos los tratamientos conservadores sin éxito. ¿Cuál es la opción de tratamiento más adecuada en este caso?",
+        "options": [
+            { "text": "Continuar con fisioterapia y ejercicios de estiramiento.", "isCorrect": false },
+            { "text": "Infiltraciones con esteroides repetidas.", "isCorrect": false },
+            { "text": "Liberación quirúrgica del túnel carpiano.", "isCorrect": true },
+            { "text": "Administración de prednisona oral por más de 2 semanas.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! La liberación quirúrgica del túnel carpiano está indicada cuando el tratamiento no quirúrgico falla, o si el paciente presenta síntomas graves o signos de denervación, como atrofia muscular tenar o debilidad en la oposición del pulgar.",
+            "incorrect": "Incorrecto. La liberación quirúrgica del túnel carpiano es el tratamiento adecuado y eficaz para el síndrome del túnel del carpo severo, con signos de denervación como la atrofia muscular tenar y la debilidad en la oposición del pulgar."
+        }
+    },
+    {
+        "question": "El diagnóstico de síndrome del túnel del carpo se realiza principalmente por la historia clínica y el examen físico. El examen físico debe incluir la evaluación de toda la extremidad superior, ya que puede haber otro sitio de atrapamiento del nervio mediano. ¿Cuál es el sitio de atrapamiento más frecuentemente identificado después del túnel del carpo?",
+        "options": [
+            { "text": "El hombro en la región del plexo braquial.", "isCorrect": false },
+            { "text": "La columna cervical en la región de la radiculopatía.", "isCorrect": false },
+            { "text": "El codo en la región del lacerto fibroso o aponeurosis bicipital.", "isCorrect": true },
+            { "text": "La mano en la región del nervio ulnar.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! El codo, en la región del lacerto fibroso o aponeurosis bicipital, es uno de los sitios de atrapamiento más frecuentemente identificados del nervio mediano después del túnel del carpo. Un doble atrapamiento puede pasar desapercibido si no se evalúa el codo.",
+            "incorrect": "Incorrecto. La respuesta correcta es el codo en la región del lacerto fibroso o aponeurosis bicipital. El documento menciona que el examen físico debe incluir la evaluación de toda la extremidad superior para buscar otro tipo de patología con síntomas relacionados, como las localizadas en la columna cervical y el plexo braquial."
+        }
+    },
+    {
+        "question": "Un paciente con síndrome del túnel del carpo presenta síntomas en la zona de distribución del nervio mediano, pero excluye la zona de inervación de la rama cutánea palmar. ¿Por qué es importante esta distinción?",
+        "options": [
+            { "text": "La rama cutánea palmar es inervada por el nervio radial.", "isCorrect": false },
+            { "text": "La rama cutánea palmar discurre fuera del túnel carpiano.", "isCorrect": true },
+            { "text": "La rama cutánea palmar solo inerva el dedo meñique.", "isCorrect": false },
+            { "text": "La rama cutánea palmar es un nervio motor.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! El documento aclara que los síntomas del síndrome del túnel del carpo se manifiestan en la zona de distribución del nervio mediano, excluyendo la zona de inervación de la rama cutánea palmar, ya que esta no discurre por el túnel carpiano.",
+            "incorrect": "Incorrecto. La respuesta correcta es que la rama cutánea palmar discurre fuera del túnel carpiano. Por lo tanto, los síntomas del síndrome del túnel del carpo se manifiestan en la zona de distribución del nervio mediano, excluyendo la zona de inervación de la rama cutánea palmar."
+        }
+    },
+    {
+        "question": "Un paciente presenta síndrome del túnel del carpo. ¿Qué tipo de movimientos repetitivos de la muñeca empeorarán el daño nervioso al aumentar la presión en el túnel carpiano?",
+        "options": [
+            { "text": "Flexión y extensión.", "isCorrect": true },
+            { "text": "Rotación y aducción.", "isCorrect": false },
+            { "text": "Desviación radial y ulnar.", "isCorrect": false },
+            { "text": "Pronación y supinación.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! El documento explica que la flexión y la extensión de la muñeca pueden provocar un aumento de ocho y diez veces, respectivamente, en la presión del túnel carpiano, empeorando el daño nervioso en los pacientes con síndrome del túnel del carpo.",
+            "incorrect": "Incorrecto. La flexión y la extensión de la muñeca pueden provocar un aumento de ocho y diez veces, respectivamente, en la presión del túnel carpiano. Por lo tanto, los movimientos repetitivos de la muñeca empeorarán aún más el daño nervioso en los pacientes con síndrome del túnel del carpo."
+        }
+    },
+    {
+        "question": "Un paciente con síndrome del túnel del carpo presenta síntomas en el dedo pulgar, índice, medio y la cara radial del anular. ¿Qué nervio está afectado?",
+        "options": [
+            { "text": "Nervio cubital.", "isCorrect": false },
+            { "text": "Nervio radial.", "isCorrect": false },
+            { "text": "Nervio mediano.", "isCorrect": true },
+            { "text": "Plexo braquial.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! El nervio mediano es el que está afectado en el síndrome del túnel del carpo. Su zona de inervación sensitiva se extiende desde el dedo pulgar hasta la cara radial del dedo anular.",
+            "incorrect": "Incorrecto. La respuesta correcta es el nervio mediano. El nervio mediano es el que está afectado en el síndrome del túnel del carpo. Su zona de inervación sensitiva se extiende desde el dedo pulgar hasta la cara radial del dedo anular."
+        }
+    },
+    {
+        "question": "Un paciente con síndrome del túnel del carpo es diagnosticado con base en la clínica. ¿Cuál de los siguientes no es un factor de riesgo para el desarrollo de esta patología?",
+        "options": [
+            { "text": "Obesidad.", "isCorrect": false },
+            { "text": "Hipotiroidismo.", "isCorrect": false },
+            { "text": "Diabetes mellitus.", "isCorrect": false },
+            { "text": "Hipoparatiroidismo.", "isCorrect": true }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! El hipoparatiroidismo no se ha reportado como un factor de riesgo para el síndrome del túnel del carpo. Sin embargo, la obesidad, la artritis reumatoidea, la acromegalia y el hipotiroidismo se han reportado ampliamente como factores de riesgo.",
+            "incorrect": "Incorrecto. La respuesta correcta es el hipoparatiroidismo. El hipotiroidismo, la obesidad y la diabetes mellitus se han reportado ampliamente como factores de riesgo para el síndrome del túnel del carpo."
+        }
+    },
+    {
+        "question": "Un paciente presenta síndrome del túnel del carpo y es evaluado con una ecografía. El médico observa un área de corte transversal del nervio mediano mayor a 10 mm². ¿Qué indica este hallazgo?",
+        "options": [
+            { "text": "Es un hallazgo normal.", "isCorrect": false },
+            { "text": "Se relaciona con síndrome del túnel del carpo.", "isCorrect": true },
+            { "text": "Es un hallazgo que descarta el síndrome del túnel del carpo.", "isCorrect": false },
+            { "text": "Es un hallazgo que indica que el nervio está comprimido en el codo.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! Un incremento en el área de corte transversal del nervio mediano mayor a 10 mm² a nivel del túnel del carpo se ha relacionado con síndrome del túnel del carpo. Esta es una de las ventajas de la ecografía como herramienta de diagnóstico.",
+            "incorrect": "Incorrecto. La respuesta correcta es que se relaciona con síndrome del túnel del carpo. Un incremento en el área de corte transversal del nervio mediano mayor a 10 mm² a nivel del túnel del carpo se ha relacionado con síndrome del túnel del carpo."
+        }
+    },
+    {
+        "question": "Un paciente con un síndrome del túnel del carpo leve a moderado es tratado con un ciclo corto de prednisona oral. ¿Cuál es el principal beneficio de este tratamiento?",
+        "options": [
+            { "text": "Alivio a largo plazo de los síntomas.", "isCorrect": false },
+            { "text": "Alivio a corto plazo de los síntomas.", "isCorrect": true },
+            { "text": "Reducción permanente de la presión en el túnel carpiano.", "isCorrect": false },
+            { "text": "Evita la necesidad de cirugía.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! Los ciclos cortos de prednisona (menos de 2 semanas) son eficaces para el alivio a corto plazo de los síntomas. Sin embargo, no se recomienda su uso a largo plazo.",
+            "incorrect": "Incorrecto. La respuesta correcta es el alivio a corto plazo de los síntomas. Los ciclos cortos de prednisona (menos de 2 semanas) son eficaces para el alivio a corto plazo de los síntomas."
+        }
+    },
+    {
+        "question": "Un paciente con síndrome del túnel del carpo severo presenta atrofia muscular tenar. El médico explica que esta atrofia es el resultado de la denervación crónica de la musculatura intrínseca del pulgar a cargo del nervio mediano. ¿Qué músculo del pulgar no se encuentra inervado por el nervio mediano y, por lo tanto, no se vería afectado?",
+        "options": [
+            { "text": "Abductor corto del pulgar.", "isCorrect": false },
+            { "text": "Flexor corto del pulgar (porción profunda).", "isCorrect": true },
+            { "text": "Oponente del pulgar.", "isCorrect": false },
+            { "text": "Flexor largo del pulgar.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! El aductor del pulgar y la porción profunda del flexor corto del pulgar se encuentran inervados por el nervio ulnar. El nervio mediano inerva el abductor corto del pulgar, el oponente del pulgar y el flexor largo del pulgar.",
+            "incorrect": "Incorrecto. La respuesta correcta es la porción profunda del flexor corto del pulgar. El aductor del pulgar y la porción profunda del flexor corto del pulgar se encuentran inervados por el nervio ulnar, no por el nervio mediano."
+        }
+    },
+    {
+        "question": "Un paciente con un síndrome del túnel del carpo leve a moderado es tratado con una férula de muñeca. ¿Cuál es la posición más efectiva para la férula?",
+        "options": [
+            { "text": "En flexión máxima.", "isCorrect": false },
+            { "text": "En extensión máxima.", "isCorrect": false },
+            { "text": "En posición neutra.", "isCorrect": true },
+            { "text": "La posición no tiene importancia.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! El documento menciona que una férula de muñeca en posición neutra puede ser más eficaz que una férula de extensión para aliviar los síntomas del síndrome del túnel del carpo. Las férulas de uso nocturno son tan eficaces como las de uso continuo.",
+            "incorrect": "Incorrecto. La respuesta correcta es en posición neutra. El documento menciona que una férula de muñeca en posición neutra puede ser más eficaz que una férula de extensión."
+        }
+    },
+    {
+        "question": "Un paciente con síndrome del túnel del carpo está siendo evaluado por un médico. Se realiza el signo de Tinel. ¿En qué consiste esta prueba?",
+        "options": [
+            { "text": "Flexionar la muñeca a 90º durante 60 segundos.", "isCorrect": false },
+            { "text": "Percutir en la superficie palmar sobre el túnel del carpo.", "isCorrect": true },
+            { "text": "Aplicar presión firme en el túnel del carpo por 30 segundos.", "isCorrect": false },
+            { "text": "Extender la muñeca a 90º durante 60 segundos.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! El signo de Tinel consiste en percutir en la superficie palmar sobre el túnel del carpo. Se considera positivo si se reproducen las parestesias o la sensación de 'corriente' en el territorio de distribución del nervio mediano.",
+            "incorrect": "Incorrecto. La respuesta correcta es percutir en la superficie palmar sobre el túnel del carpo. Se considera positivo si se reproducen las parestesias o la sensación de 'corriente' en el territorio de distribución del nervio mediano."
+        }
+    },
+    {
+        "question": "Un paciente con síndrome del túnel del carpo está siendo evaluado por un médico. El médico le pide que eleve el pulgar en dirección al techo mientras él opone resistencia. ¿Qué músculo está evaluando?",
+        "options": [
+            { "text": "Aductor del pulgar.", "isCorrect": false },
+            { "text": "Flexor corto del pulgar.", "isCorrect": false },
+            { "text": "Abductor corto del pulgar.", "isCorrect": true },
+            { "text": "Oponente del pulgar.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! La prueba de evaluación de la fuerza muscular del abductor corto del pulgar se realiza indicándole al paciente que, manteniendo la mano en supinación máxima sobre una mesa, eleve al máximo el pulgar en dirección al techo mientras el examinador le opone resistencia.",
+            "incorrect": "Incorrecto. La respuesta correcta es el abductor corto del pulgar. La prueba de evaluación de la fuerza muscular del abductor corto del pulgar se realiza indicándole al paciente que, manteniendo la mano en supinación máxima sobre una mesa, eleve al máximo el pulgar en dirección al techo mientras el examinador le opone resistencia."
+        }
+    },
+    {
+        "question": "Un paciente con síndrome del túnel del carpo presenta síntomas en el dedo pulgar, índice, medio y la cara radial del anular. También presenta síntomas en el dedo meñique. ¿Qué debe considerar el médico?",
+        "options": [
+            { "text": "Una polineuropatía periférica.", "isCorrect": false },
+            { "text": "Un síndrome del túnel del carpo atípico.", "isCorrect": true },
+            { "text": "Un doble atrapamiento del nervio mediano.", "isCorrect": false },
+            { "text": "Un síndrome de compresión del nervio ulnar.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! Los síntomas del síndrome del túnel del carpo suelen manifestarse en el dedo pulgar, índice, medio, y la cara radial del anular. Sin embargo, también pueden aparecer en el dedo meñique por razones que aún no se conocen, lo que se considera un síndrome del túnel del carpo atípico.",
+            "incorrect": "Incorrecto. Los síntomas del síndrome del túnel del carpo pueden manifestarse en el dedo meñique por razones que aún no se conocen. Esto se considera un síndrome del túnel del carpo atípico. El síndrome de compresión del nervio ulnar afectaría principalmente al dedo meñique y la mitad del anular, pero no a los otros dedos."
+        }
+    }
+]

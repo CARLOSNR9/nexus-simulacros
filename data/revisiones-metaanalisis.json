@@ -1,0 +1,301 @@
+[
+    {
+        "question": "Un equipo de investigación está planificando una revisión sistemática. ¿Cuál de los siguientes no es un componente de la pregunta de investigación en el formato PICOS que se debe establecer al inicio del proceso?",
+        "options": [
+            { "text": "P: Pacientes, población o problema.", "isCorrect": false },
+            { "text": "I: Intervención.", "isCorrect": false },
+            { "text": "C: Comparación.", "isCorrect": false },
+            { "text": "O: Objetivo de la investigación.", "isCorrect": true }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! El formato PICOS consta de Pacientes, Intervención, Comparación, Desenlaces (Outcomes) y Diseño de los estudios primarios. El objetivo de la investigación no es un componente del acrónimo PICOS.",
+            "incorrect": "Incorrecto. El formato PICOS es un acrónimo que significa Pacientes, Intervención, Comparación, Desenlaces (Outcomes) y Diseño de los estudios primarios. El objetivo de la investigación es una parte del diseño de la investigación, pero no es un componente del acrónimo PICOS."
+        }
+    },
+    {
+        "question": "Un investigador ha realizado un metaanálisis y crea un gráfico de embudo (funnel plot). El gráfico no es simétrico. ¿Qué podría indicar este hallazgo?",
+        "options": [
+            { "text": "Presencia de heterogeneidad en los estudios.", "isCorrect": false },
+            { "text": "Falta de homogeneidad en los estudios.", "isCorrect": false },
+            { "text": "Sesgo de publicación.", "isCorrect": true },
+            { "text": "Un metaanálisis no confiable.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! El sesgo de publicación se evalúa mediante el gráfico de embudo (funnel plot) invertido. Si no es simétrico, se considera que hay sesgo de publicación. Esto se produce por la tendencia a publicar resultados de investigación que sean 'positivos' o estadísticamente significativos.",
+            "incorrect": "Incorrecto. La respuesta correcta es el sesgo de publicación. El sesgo de publicación se evalúa mediante el gráfico de embudo (funnel plot) invertido. Un gráfico asimétrico sugiere la presencia de sesgo de publicación, lo que puede sobreestimar el efecto medido."
+        }
+    },
+    {
+        "question": "Un metaanálisis incluye estudios primarios que fueron ensayos clínicos. El investigador desea evaluar las limitaciones metodológicas o el riesgo de sesgos. ¿Qué herramienta debe utilizar?",
+        "options": [
+            { "text": "ROBINS-I (risk of bias in non-randomised studies of interventions).", "isCorrect": false },
+            { "text": "RoB 2.0 (risk of bias 2.0).", "isCorrect": true },
+            { "text": "GRADE (Grading of Recommendations Assessment, Development and Evaluation).", "isCorrect": false },
+            { "text": "AMSTAR-2 (a measurement tool to assess systematic reviews).", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! La herramienta RoB 2.0 se utiliza para evaluar el riesgo de sesgos de los estudios primarios que son ensayos clínicos. Esta herramienta evalúa los aspectos de la aleatorización de los participantes, el cegamiento, las pérdidas del seguimiento o el reporte selectivo de desenlaces.",
+            "incorrect": "Incorrecto. La respuesta correcta es RoB 2.0 (risk of bias 2.0). Esta herramienta se utiliza para evaluar el riesgo de sesgos de los estudios primarios que son ensayos clínicos. La herramienta ROBINS-I se utiliza para estudios primarios que evalúan intervenciones sin asignación aleatoria."
+        }
+    },
+    {
+        "question": "Un investigador está realizando un metaanálisis y desea evaluar la homogeneidad (consistencia) o la heterogeneidad (inconsistencia) de los resultados de los estudios primarios. ¿Qué prueba estadística se puede utilizar para determinar si hay heterogeneidad?",
+        "options": [
+            { "text": "Prueba Q de Cochrane.", "isCorrect": true },
+            { "text": "Prueba de Egger.", "isCorrect": false },
+            { "text": "Prueba de Begg.", "isCorrect": false },
+            { "text": "Prueba de la t de Student.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! La prueba Q de Cochrane es una de las tres pruebas estadísticas para demostrar la presencia de heterogeneidad. Las otras dos son el índice de inconsistencia I² y el tau². La prueba Q de Cochrane sigue una distribución Chi² con un valor de significancia (α) de 0.1.",
+            "incorrect": "Incorrecto. La respuesta correcta es la prueba Q de Cochrane. El documento menciona tres pruebas estadísticas para demostrar la presencia de heterogeneidad: la prueba Q de Cochrane, el índice de inconsistencia I² y el tau²."
+        }
+    },
+    {
+        "question": "En un metaanálisis, el investigador encuentra un índice de inconsistencia (I²) del 75%. ¿Qué tipo de heterogeneidad se considera que hay en los estudios primarios?",
+        "options": [
+            { "text": "Baja heterogeneidad.", "isCorrect": false },
+            { "text": "Moderada heterogeneidad.", "isCorrect": false },
+            { "text": "Alta heterogeneidad.", "isCorrect": true },
+            { "text": "Muy alta heterogeneidad.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! El documento establece que un índice de inconsistencia (I²) del 50%-75% indica una alta heterogeneidad.",
+            "incorrect": "Incorrecto. La respuesta correcta es alta heterogeneidad. La escala de heterogeneidad es la siguiente: 0%: homogeneidad; 0%-25%: baja heterogeneidad; 25%-50%: moderada heterogeneidad; 50%-75%: alta heterogeneidad; y >75%: muy alta heterogeneidad."
+        }
+    },
+    {
+        "question": "Se ha realizado un metaanálisis y se ha encontrado heterogeneidad. El investigador decide utilizar el modelo de efectos aleatorios. ¿Cuál es la principal diferencia con el modelo de efectos fijos?",
+        "options": [
+            { "text": "El modelo de efectos aleatorios asume que todos los estudios arrojan el mismo resultado.", "isCorrect": false },
+            { "text": "El modelo de efectos aleatorios da mayor peso a los estudios con mayor tamaño de muestra y desenlaces.", "isCorrect": false },
+            { "text": "El modelo de efectos aleatorios toma en cuenta una fuente adicional de variabilidad y pondera los estudios de forma más balanceada.", "isCorrect": true },
+            { "text": "El modelo de efectos aleatorios se utiliza solo cuando no hay heterogeneidad.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! El modelo de efectos aleatorios toma en cuenta que los estudios primarios provienen de poblaciones diferentes, lo que genera una fuente adicional de variabilidad. Este modelo pondera los estudios de forma más balanceada que el modelo de efectos fijos, que da más peso a los estudios con mayor tamaño de muestra.",
+            "incorrect": "Incorrecto. La respuesta correcta es que el modelo de efectos aleatorios toma en cuenta una fuente adicional de variabilidad y pondera los estudios de forma más balanceada. El modelo de efectos fijos asume que todos los estudios arrojan el mismo resultado y la variabilidad se debe exclusivamente al azar."
+        }
+    },
+    {
+        "question": "Un investigador ha realizado un metaanálisis y desea evaluar la confianza de los resultados. ¿Qué herramienta debe utilizar para evaluar la certeza o la confianza del resultado?",
+        "options": [
+            { "text": "PRISMA (preferred reporting items for systematic reviews and meta-analyses).", "isCorrect": false },
+            { "text": "GRADE (Grading of Recommendations Assessment, Development and Evaluation).", "isCorrect": true },
+            { "text": "AMSTAR-2 (a measurement tool to assess systematic reviews).", "isCorrect": false },
+            { "text": "Cochrane Handbook for Systematic Reviews of Interventions.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! La herramienta GRADE se utiliza para evaluar la confianza de los resultados del metaanálisis a través de cinco criterios: el riesgo de sesgos de los estudios primarios, el sesgo de publicación, la inconsistencia, la imprecisión y la evidencia indirecta.",
+            "incorrect": "Incorrecto. La respuesta correcta es GRADE. La herramienta GRADE se utiliza para evaluar la confianza de los resultados del metaanálisis en una escala ordinal de cuatro categorías: alta, moderada, baja o muy baja."
+        }
+    },
+    {
+        "question": "Una revisión sistemática de la literatura (RSL) es una estrategia de investigación secundaria. ¿Cuál de los siguientes es el resultado final cuantitativo de una RSL?",
+        "options": [
+            { "text": "Una síntesis narrativa de la evidencia.", "isCorrect": false },
+            { "text": "Un metaanálisis.", "isCorrect": true },
+            { "text": "Un ensayo clínico.", "isCorrect": false },
+            { "text": "Un estudio de cohorte.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! El metaanálisis es el resultado final cuantitativo de una RSL, donde se combinan estadísticamente los resultados de los estudios previos que han intentado responder a una misma pregunta de investigación.",
+            "incorrect": "Incorrecto. La respuesta correcta es un metaanálisis. Una revisión sistemática de la literatura (RSL) puede terminar de forma cualitativa (descriptiva o síntesis narrativa de la evidencia) o de forma cuantitativa, que sería propiamente el metaanálisis."
+        }
+    },
+    {
+        "question": "Para un metaanálisis, el investigador desea evaluar el riesgo de sesgos de estudios primarios que evalúan intervenciones sin asignación aleatoria. ¿Qué herramienta debe utilizar?",
+        "options": [
+            { "text": "ROBINS-I (risk of bias in non-randomised studies of interventions).", "isCorrect": true },
+            { "text": "RoB 2.0 (risk of bias 2.0).", "isCorrect": false },
+            { "text": "GRADE (Grading of Recommendations Assessment, Development and Evaluation).", "isCorrect": false },
+            { "text": "AMSTAR-2 (a measurement tool to assess systematic reviews).", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! La herramienta ROBINS-I se recomienda para la evaluación del riesgo de sesgos de los estudios primarios que evalúan intervenciones sin asignación aleatoria, mientras que la herramienta RoB 2.0 se utiliza para ensayos clínicos.",
+            "incorrect": "Incorrecto. La respuesta correcta es ROBINS-I. La herramienta ROBINS-I se utiliza para evaluar el riesgo de sesgos de los estudios primarios que evalúan intervenciones sin asignación aleatoria. La herramienta RoB 2.0 se utiliza para ensayos clínicos."
+        }
+    },
+    {
+        "question": "Un investigador está realizando un metaanálisis y desea evaluar la heterogeneidad (inconsistencia) de los resultados de los estudios primarios. ¿Qué prueba estadística se utiliza para cuantificar la inconsistencia en un porcentaje?",
+        "options": [
+            { "text": "Prueba Q de Cochrane.", "isCorrect": false },
+            { "text": "Índice de inconsistencia I².", "isCorrect": true },
+            { "text": "Tau².", "isCorrect": false },
+            { "text": "Prueba de la t de Student.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! El índice de inconsistencia I² se utiliza para cuantificar la inconsistencia en un porcentaje. Un valor de 0% indica homogeneidad, y un valor de >75% indica muy alta heterogeneidad.",
+            "incorrect": "Incorrecto. La respuesta correcta es el índice de inconsistencia I². El índice de inconsistencia I² se utiliza para cuantificar la inconsistencia en un porcentaje. La prueba Q de Cochrane y el tau² también se utilizan para evaluar la heterogeneidad, pero no la cuantifican en un porcentaje."
+        }
+    },
+    {
+        "question": "Un investigador ha realizado un metaanálisis y encuentra que hay heterogeneidad (I² > 50%). El modelo de efectos fijos da mayor peso a los estudios con:",
+        "options": [
+            { "text": "Mayor tamaño de muestra y desenlaces.", "isCorrect": true },
+            { "text": "Menor tamaño de muestra y desenlaces.", "isCorrect": false },
+            { "text": "Menor número de participantes.", "isCorrect": false },
+            { "text": "El modelo de efectos fijos no tiene en cuenta el tamaño de la muestra.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! Cuando hay heterogeneidad (I² > 50%), el modelo de efectos fijos da mayor peso a los estudios con mayor tamaño de muestra y desenlaces, mientras que muy poco peso a los estudios pequeños.",
+            "incorrect": "Incorrecto. La respuesta correcta es mayor tamaño de muestra y desenlaces. El modelo de efectos fijos da mayor peso a los estudios con mayor tamaño de muestra y desenlaces, mientras que muy poco peso a los estudios pequeños. Por el contrario, el modelo de efectos aleatorios pondera los estudios de forma más balanceada."
+        }
+    },
+    {
+        "question": "Para realizar una revisión sistemática de la literatura y el metaanálisis sobre intervenciones, se recomienda seguir las instrucciones del Manual de la Colaboración Cochrane. ¿Qué herramienta se utiliza para evaluar de forma crítica la calidad de las revisiones sistemáticas?",
+        "options": [
+            { "text": "PRISMA (preferred reporting items for systematic reviews and meta-analyses).", "isCorrect": false },
+            { "text": "GRADE (Grading of Recommendations Assessment, Development and Evaluation).", "isCorrect": false },
+            { "text": "AMSTAR-2 (a measurement tool to assess systematic reviews).", "isCorrect": true },
+            { "text": "ROBINS-I (risk of bias in non-randomised studies of interventions).", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! La herramienta AMSTAR-2 se utiliza para evaluar de forma crítica la calidad de las revisiones sistemáticas que incluyen estudios aleatorios o no aleatorios de intervenciones sanitarias. La herramienta PRISMA se utiliza para reportar los elementos preferidos para revisiones sistemáticas y metaanálisis.",
+            "incorrect": "Incorrecto. La respuesta correcta es AMSTAR-2. La herramienta AMSTAR-2 se utiliza para realizar un análisis crítico de las revisiones sistemáticas. La herramienta PRISMA se utiliza para reportar los elementos preferidos para revisiones sistemáticas y metaanálisis."
+        }
+    },
+    {
+        "question": "Un investigador está realizando un metaanálisis de ensayos clínicos. El metaanálisis tiene la ventaja de que puede sintetizar gran cantidad de información previa. ¿Cuál de los siguientes no es una ventaja del metaanálisis?",
+        "options": [
+            { "text": "Ofrece estimados más precisos del efecto o medida de interés.", "isCorrect": false },
+            { "text": "Sintetiza gran cantidad de información previa.", "isCorrect": false },
+            { "text": "Observa la reproducibilidad de los hallazgos.", "isCorrect": false },
+            { "text": "Resuelve la incertidumbre metodológica de todos los estudios primarios.", "isCorrect": true }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! El metaanálisis no resuelve la incertidumbre metodológica de los estudios primarios. De hecho, la confianza del resultado de un metaanálisis será pobre si los estudios primarios tuvieron deficiencias metodológicas. El metaanálisis puede sintetizar gran cantidad de información, ofrecer estimados más precisos y observar la reproducibilidad de los hallazgos.",
+            "incorrect": "Incorrecto. La respuesta correcta es que no resuelve la incertidumbre metodológica de todos los estudios primarios. Si los estudios primarios tuvieron deficiencias metodológicas, la confianza del resultado será pobre."
+        }
+    },
+    {
+        "question": "En la evaluación de la heterogeneidad, el investigador utiliza un gráfico de bosque (forest plot). ¿Qué indica que la línea perpendicular al estimado puntual del resultado del metaanálisis 'corta o atraviesa' por todos los intervalos de confianza de los estudios primarios?",
+        "options": [
+            { "text": "Hay heterogeneidad.", "isCorrect": false },
+            { "text": "No hay heterogeneidad.", "isCorrect": true },
+            { "text": "Hay sesgo de publicación.", "isCorrect": false },
+            { "text": "La evidencia no es confiable.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! El documento menciona que si la línea perpendicular al estimado puntual del resultado del metaanálisis 'corta o atraviesa' por todos los intervalos de confianza de los estudios primarios, se considera que no hay heterogeneidad.",
+            "incorrect": "Incorrecto. La respuesta correcta es que no hay heterogeneidad. El gráfico de bosque (forest plot) es una herramienta visual para evaluar la heterogeneidad. Si la línea perpendicular al estimado puntual del resultado del metaanálisis 'corta o atraviesa' por todos los intervalos de confianza de los estudios primarios, se considera que no hay heterogeneidad."
+        }
+    },
+    {
+        "question": "Un investigador está realizando un metaanálisis y desea utilizar el modelo de efectos aleatorios. ¿Cuál es el valor del tau² que indica una homogeneidad total?",
+        "options": [
+            { "text": "0.", "isCorrect": true },
+            { "text": "0.04-0.06.", "isCorrect": false },
+            { "text": "0.14-0.16.", "isCorrect": false },
+            { "text": "0.36-0.40.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! El valor de tau² de 0 indica homogeneidad total. Los valores de 0.04-0.06 indican heterogeneidad leve, 0.14-0.16 indican moderada y 0.36-0.40 indican alta heterogeneidad.",
+            "incorrect": "Incorrecto. La respuesta correcta es 0. El valor de tau² de 0 indica homogeneidad total. Los valores de 0.04-0.06 indican heterogeneidad leve, 0.14-0.16 indican moderada y 0.36-0.40 indican alta heterogeneidad."
+        }
+    },
+    {
+        "question": "El sesgo de publicación se produce por la tendencia a publicar resultados de investigación que son 'positivos'. ¿Qué pruebas estadísticas se pueden utilizar para evaluar el sesgo de publicación?",
+        "options": [
+            { "text": "Prueba Q de Cochrane y índice de inconsistencia I².", "isCorrect": false },
+            { "text": "Prueba de Egger y prueba de Begg.", "isCorrect": true },
+            { "text": "Prueba de la t de Student y prueba de Chi².", "isCorrect": false },
+            { "text": "Prueba de la F de Fisher y prueba de la W de Wilcoxon.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! Las pruebas de Egger y Begg se utilizan para evaluar el sesgo de publicación, con un valor de alfa de 0.05. Sin embargo, estas pruebas requieren idealmente treinta estudios primarios incluidos.",
+            "incorrect": "Incorrecto. La respuesta correcta es la prueba de Egger y prueba de Begg. Estas pruebas se utilizan para evaluar el sesgo de publicación, con un valor de alfa de 0.05. Sin embargo, estas pruebas requieren idealmente treinta estudios primarios incluidos."
+        }
+    },
+    {
+        "question": "Para una revisión sistemática de la literatura y el metaanálisis, la búsqueda de la literatura debe incluir tanto en bases de datos bibliográficas electrónicas como en búsquedas alternativas. ¿Cuál de los siguientes no es una fuente de búsqueda alternativa?",
+        "options": [
+            { "text": "Revisión de las referencias.", "isCorrect": false },
+            { "text": "Registros de los ensayos clínicos.", "isCorrect": false },
+            { "text": "Búsqueda manual y en repositorios.", "isCorrect": false },
+            { "text": "Bases de datos bibliográficas como Medline y Embase.", "isCorrect": true }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! Las bases de datos bibliográficas como Medline y Embase se consideran fuentes de búsqueda electrónicas. Las búsquedas alternativas incluyen la revisión de las referencias, los registros de los ensayos clínicos, la búsqueda manual y los repositorios.",
+            "incorrect": "Incorrecto. La respuesta correcta es las bases de datos bibliográficas como Medline y Embase. Estas se consideran fuentes de búsqueda electrónicas. Las búsquedas alternativas son la revisión de las referencias, los registros de los ensayos clínicos, la búsqueda manual y los repositorios."
+        }
+    },
+    {
+        "question": "Un investigador está realizando un metaanálisis y se asegura de que no hay problemas de sesgo de publicación, riesgo de sesgos y heterogeneidad. Ahora, puede proceder con el metaanálisis, que es la combinación mediante una media ponderada de los resultados de los estudios primarios. ¿Qué modelo estadístico se utiliza para esta combinación?",
+        "options": [
+            { "text": "Modelo de efectos fijos o comunes.", "isCorrect": false },
+            { "text": "Modelo de efectos aleatorios.", "isCorrect": false },
+            { "text": "Ambos modelos son correctos.", "isCorrect": true },
+            { "text": "Ninguno de los anteriores.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! El metaanálisis se realiza mediante la combinación de los resultados de los estudios primarios con el uso del modelo estadístico de efectos fijos o comunes, o el modelo de efectos aleatorios. Ambos modelos son correctos, y la elección del modelo depende de la heterogeneidad de los estudios.",
+            "incorrect": "Incorrecto. La respuesta correcta es ambos modelos. El metaanálisis se realiza mediante la combinación de los resultados de los estudios primarios con el uso del modelo estadístico de efectos fijos o comunes, o el modelo de efectos aleatorios. Ambos modelos son correctos, y la elección del modelo depende de la heterogeneidad de los estudios."
+        }
+    },
+    {
+        "question": "El documento menciona que para realizar una revisión sistemática de la literatura y el metaanálisis, es recomendable seguir el protocolo PRISMA-P (preferred reporting items for systematic reviews and meta-analyses for protocols) y, cuando se publique, adherirse a las listas de chequeo del PRISMA. ¿Qué evalúa la herramienta PRISMA?",
+        "options": [
+            { "text": "La calidad de las revisiones sistemáticas.", "isCorrect": false },
+            { "text": "La calidad de la evidencia.", "isCorrect": false },
+            { "text": "Los elementos preferidos para reportar revisiones sistemáticas.", "isCorrect": true },
+            { "text": "La calidad de los estudios primarios.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! La herramienta PRISMA se utiliza para reportar los elementos preferidos para revisiones sistemáticas y metaanálisis. Su objetivo es ayudar a los autores a reportar su trabajo de una manera clara y transparente.",
+            "incorrect": "Incorrecto. La respuesta correcta es los elementos preferidos para reportar revisiones sistemáticas. La herramienta PRISMA se utiliza para reportar los elementos preferidos para revisiones sistemáticas y metaanálisis. Su objetivo es ayudar a los autores a reportar su trabajo de una manera clara y transparente."
+        }
+    },
+    {
+        "question": "Una de las ventajas del metaanálisis es que, si se realiza rigurosamente, puede ofrecer estimados más precisos del efecto o medida de interés. ¿Cuál de los siguientes es un detractor del metaanálisis?",
+        "options": [
+            { "text": "Que se están combinando elementos de distinta índole o que no se debe resumir todo un cuerpo de evidencia en un 'solo número'.", "isCorrect": true },
+            { "text": "Que no puede observar la reproducibilidad de los hallazgos.", "isCorrect": false },
+            { "text": "Que no puede sintetizar gran cantidad de información previa.", "isCorrect": false },
+            { "text": "Que no puede ofrecer estimados más precisos del efecto o medida de interés.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! El documento menciona que el metaanálisis tiene detractores, como quienes piensan que se están combinando elementos de distinta índole o que no se debe resumir todo un cuerpo de evidencia en un 'solo número'.",
+            "incorrect": "Incorrecto. La respuesta correcta es que se están combinando elementos de distinta índole o que no se debe resumir todo un cuerpo de evidencia en un 'solo número'. El documento menciona que el metaanálisis tiene detractores, que no están de acuerdo con el uso de un 'solo número' para resumir toda la evidencia."
+        }
+    },
+    {
+        "question": "Un metaanálisis se ha realizado y se ha encontrado un tau² de 0.15. ¿Qué indica este valor?",
+        "options": [
+            { "text": "Homogeneidad total.", "isCorrect": false },
+            { "text": "Heterogeneidad leve.", "isCorrect": false },
+            { "text": "Heterogeneidad moderada.", "isCorrect": true },
+            { "text": "Heterogeneidad alta.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! El documento establece que un tau² de 0.14-0.16 indica heterogeneidad moderada. El valor de tau² de 0 indica homogeneidad total, 0.04-0.06 indica heterogeneidad leve y 0.36-0.40 indica heterogeneidad alta.",
+            "incorrect": "Incorrecto. La respuesta correcta es heterogeneidad moderada. El documento establece que un tau² de 0.14-0.16 indica heterogeneidad moderada."
+        }
+    },
+    {
+        "question": "El proceso de la revisión sistemática de la literatura (RSL) comienza con una pregunta de investigación que se desee responder en el formato PICOS. ¿Qué significa la 'S' en el formato PICOS?",
+        "options": [
+            { "text": "Sesgo de publicación.", "isCorrect": false },
+            { "text": "Selección de estudios.", "isCorrect": false },
+            { "text": "Diseño de los estudios primarios a incluir.", "isCorrect": true },
+            { "text": "Síntesis de la evidencia.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! El acrónimo PICOS significa: P (pacientes, población o problema), I (intervención), C (comparación), O (desenlaces) y S (diseño de los estudios primarios a incluir).",
+            "incorrect": "Incorrecto. La respuesta correcta es diseño de los estudios primarios a incluir. El acrónimo PICOS significa: P (pacientes, población o problema), I (intervención), C (comparación), O (desenlaces) y S (diseño de los estudios primarios a incluir)."
+        }
+    },
+    {
+        "question": "En un metaanálisis, un investigador encuentra que los resultados de los estudios primarios son disímiles. ¿Qué término se utiliza para describir esta situación?",
+        "options": [
+            { "text": "Homogeneidad.", "isCorrect": false },
+            { "text": "Inconsistencia.", "isCorrect": true },
+            { "text": "Sesgo de publicación.", "isCorrect": false },
+            { "text": "Imprecisión.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! El documento menciona que la disimilitud de los resultados de los estudios primarios se describe como heterogeneidad o inconsistencia. La homogeneidad o consistencia se refiere a que los resultados son similares.",
+            "incorrect": "Incorrecto. La respuesta correcta es inconsistencia. La disimilitud de los resultados de los estudios primarios se describe como heterogeneidad o inconsistencia."
+        }
+    }
+]

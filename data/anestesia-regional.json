@@ -1,0 +1,483 @@
+[
+    {
+        "question": "El documento resalta que en Colombia la Ley 6 de 1991 restringe el uso de técnicas anestésicas al especialista. Sin embargo, ¿para qué tipo de procedimientos se considera indispensable que un médico general tenga nociones básicas de anestesia regional?",
+        "options": [
+            { "text": "Procedimientos quirúrgicos mayores que requieren anestesia general.", "isCorrect": false },
+            { "text": "Procedimientos menores que implican dolor, como suturar heridas o drenar abscesos.", "isCorrect": true },
+            { "text": "Anestesia en pacientes con trauma severo que requieren cirugía de emergencia.", "isCorrect": false },
+            { "text": "Bloqueos epidurales en partos complicados.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! El documento indica que el médico general, especialmente en escenarios rurales, enfrenta procedimientos menores que implican dolor, como suturar heridas o drenar abscesos. Contar con habilidades básicas en bloqueos regionales menores mejora la experiencia del paciente y optimiza la atención clínica.",
+            "incorrect": "Incorrecto. El documento aclara que, si bien la anestesiología está reservada al especialista, es indispensable que el médico general cuente con nociones básicas para manejar el dolor en procedimientos menores frecuentes en su práctica, como la sutura de heridas o el drenaje de abscesos."
+        }
+    },
+    {
+        "question": "Para un bloqueo del nervio supraorbitario, el médico palpa el borde superior de la órbita. ¿Cuál es el punto de referencia anatómico para localizar la escotadura o foramen supraorbitario?",
+        "options": [
+            { "text": "1 cm medial al foramen supratroclear.", "isCorrect": false },
+            { "text": "Justo en línea con la pupila, cuando el paciente mira al frente.", "isCorrect": true },
+            { "text": "1 cm por debajo del borde inferior de la órbita.", "isCorrect": false },
+            { "text": "A la altura del segundo premolar superior.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! El documento especifica que la escotadura o foramen supraorbitario se localiza palpando el borde superior de la órbita, justo en línea con la pupila, cuando el paciente mira al frente.",
+            "incorrect": "Incorrecto. La respuesta correcta es justo en línea con la pupila. La escotadura o foramen supraorbitario se localiza en el borde superior de la órbita, en una línea vertical que pasa por la pupila."
+        }
+    },
+    {
+        "question": "Un médico necesita anestesiar el labio superior y el ala nasal de un paciente. ¿Cuál de los siguientes bloqueos nerviosos regionales sería el más indicado para este procedimiento?",
+        "options": [
+            { "text": "Bloqueo del nervio supraorbitario.", "isCorrect": false },
+            { "text": "Bloqueo del nervio mentoniano.", "isCorrect": false },
+            { "text": "Bloqueo del nervio infraorbitario.", "isCorrect": true },
+            { "text": "Bloqueo del nervio occipital mayor.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! El bloqueo infraorbitario es útil para procedimientos que involucran el párpado inferior, la mejilla, el ala nasal, el labio superior y los dientes incisivos y caninos superiores.",
+            "incorrect": "Incorrecto. La respuesta correcta es el bloqueo del nervio infraorbitario. Este bloqueo es útil para anestesiar el párpado inferior, la mejilla, el ala nasal, el labio superior y los dientes incisivos y caninos superiores. El bloqueo del nervio mentoniano anestesia el labio inferior y la barbilla."
+        }
+    },
+    {
+        "question": "Para un bloqueo del nervio mentoniano por abordaje percutáneo, el médico debe depositar el anestésico local justo frente al foramen mentoniano, sin profundizar dentro del canal. ¿Con qué referencia anatómica se alinea este foramen?",
+        "options": [
+            { "text": "Con el segundo premolar superior.", "isCorrect": false },
+            { "text": "A la altura de la raíz nasal.", "isCorrect": false },
+            { "text": "Con el segundo premolar inferior.", "isCorrect": true },
+            { "text": "Con la protuberancia occipital externa.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! El agujero mentoniano se localiza en la cara anterior de la mandíbula, y suele estar alineado aproximadamente con el segundo premolar inferior.",
+            "incorrect": "Incorrecto. El agujero mentoniano se alinea aproximadamente con el segundo premolar inferior. Esta es la referencia anatómica que se usa para localizar el foramen mentoniano y realizar el bloqueo de forma segura."
+        }
+    },
+    {
+        "question": "Un paciente requiere una reparación de laceración en el pabellón auricular. Se decide realizar un bloqueo regional. ¿Qué nervios principales inervan sensitivamente esta área, haciendo necesario un enfoque en forma de rombo para cubrir múltiples ramas?",
+        "options": [
+            { "text": "Nervio facial y nervio vago.", "isCorrect": false },
+            { "text": "Nervio auriculotemporal y nervio auricular mayor.", "isCorrect": true },
+            { "text": "Nervio occipital mayor y nervio occipital menor.", "isCorrect": false },
+            { "text": "Nervio trigémino y nervio vago.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! La inervación sensitiva del pabellón auricular es compleja y está mediada principalmente por el nervio auriculotemporal (rama del nervio mandibular, V3) y el nervio auricular mayor (del plexo cervical C2-C3). Por esta razón, se requiere un bloqueo en forma de rombo que cubra todas las regiones.",
+            "incorrect": "Incorrecto. La inervación sensitiva del pabellón auricular está mediada por múltiples nervios, siendo los principales el nervio auriculotemporal y el nervio auricular mayor. El bloqueo en forma de rombo cubre estas ramas para una analgesia efectiva."
+        }
+    },
+    {
+        "question": "Un médico general debe realizar un bloqueo para el nervio occipital mayor. ¿Qué referencia anatómica debe tomar en cuenta para su localización?",
+        "options": [
+            { "text": "El punto medio entre la apófisis mastoides y la clavícula.", "isCorrect": false },
+            { "text": "El punto medio entre la protuberancia occipital externa y la apófisis mastoides.", "isCorrect": true },
+            { "text": "El borde anterior del músculo esternocleidomastoideo.", "isCorrect": false },
+            { "text": "A 1 cm lateral de la columna vertebral.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! Para el nervio occipital mayor, la referencia anatómica es el punto medio entre la protuberancia occipital externa y la apófisis mastoides, sobre la línea nucal superior.",
+            "incorrect": "Incorrecto. La respuesta correcta es el punto medio entre la protuberancia occipital externa y la apófisis mastoides. El nervio occipital mayor emerge por el músculo trapecio en este punto, lo que lo convierte en un objetivo ideal para el bloqueo."
+        }
+    },
+    {
+        "question": "Para realizar un bloqueo del nervio mediano a nivel de la muñeca, ¿cuáles son los dos tendones que se usan como referencia anatómica para la punción?",
+        "options": [
+            { "text": "Flexor radial del carpo y flexor largo del pulgar.", "isCorrect": false },
+            { "text": "Palmar largo y flexor cubital del carpo.", "isCorrect": false },
+            { "text": "Flexor largo del pulgar y abductor largo del pulgar.", "isCorrect": false },
+            { "text": "Palmar largo y flexor radial del carpo.", "isCorrect": true }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! El nervio mediano cruza la muñeca entre el tendón del palmar largo (más prominente) y el flexor radial del carpo. Se punciona entre estos dos tendones para el bloqueo.",
+            "incorrect": "Incorrecto. El nervio mediano cruza la muñeca entre el tendón del palmar largo y el flexor radial del carpo. La punción se realiza entre estos dos tendones para el bloqueo del nervio mediano."
+        }
+    },
+    {
+        "question": "Se va a realizar una sutura en el dedo meñique de un paciente. ¿Cuál es el bloqueo de muñeca más adecuado para anestesiar esta área?",
+        "options": [
+            { "text": "Bloqueo del nervio mediano.", "isCorrect": false },
+            { "text": "Bloqueo del nervio radial.", "isCorrect": false },
+            { "text": "Bloqueo del nervio cubital.", "isCorrect": true },
+            { "text": "Bloqueo interdigital.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! El nervio cubital inerva el dedo meñique, la mitad cubital del anular y el borde medial de la mano. Por lo tanto, el bloqueo del nervio cubital es el más adecuado para anestesiar esta área. El bloqueo interdigital es otra opción, pero el bloqueo de muñeca es más amplio.",
+            "incorrect": "Incorrecto. El nervio cubital inerva el dedo meñique y la mitad cubital del dedo anular. Para anestesiar esta área, se debe realizar un bloqueo del nervio cubital. El bloqueo interdigital es otra opción, pero el bloqueo de muñeca es más amplio."
+        }
+    },
+    {
+        "question": "Un médico general necesita anestesiar la cara dorsal del pulgar de un paciente. ¿Qué nervio debe bloquear y qué referencia anatómica debe usar?",
+        "options": [
+            { "text": "Nervio mediano; entre el palmar largo y el flexor radial del carpo.", "isCorrect": false },
+            { "text": "Nervio radial; en la tabaquera anatómica.", "isCorrect": false },
+            { "text": "Nervio radial; por encima de la estiloides radial.", "isCorrect": true },
+            { "text": "Nervio cubital; justo lateral al hueso pisiforme.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! La rama superficial del nervio radial inerva la cara dorsal del pulgar. Se punciona por encima de la estiloides radial, dirigiendo la aguja hacia medial y en abanico subcutáneo a lo largo de la cara dorsolateral de la muñeca.",
+            "incorrect": "Incorrecto. La rama superficial del nervio radial inerva la cara dorsal del pulgar. Se punciona por encima de la estiloides radial, dirigiendo la aguja hacia medial y en abanico subcutáneo a lo largo de la cara dorsolateral de la muñeca. El bloqueo del nervio mediano anestesia la cara palmar del pulgar."
+        }
+    },
+    {
+        "question": "En un bloqueo de tobillo, el médico busca el nervio safeno. ¿Cuál es la ubicación anatómica de este nervio?",
+        "options": [
+            { "text": "Posterior al maléolo medial.", "isCorrect": false },
+            { "text": "Anterior al maléolo medial.", "isCorrect": true },
+            { "text": "Posterior al maléolo lateral.", "isCorrect": false },
+            { "text": "Entre los tendones del extensor largo del hallux y el extensor largo de los dedos.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! El nervio safeno se ubica anterior al maléolo medial. El médico lo localiza en la línea intermaleolar, infiltrando el anestésico de forma subcutánea.",
+            "incorrect": "Incorrecto. La respuesta correcta es anterior al maléolo medial. El nervio safeno se ubica en la línea intermaleolar, anterior al maléolo medial, y se infiltra el anestésico de forma subcutánea siguiendo la trayectoria de la vena safena."
+        }
+    },
+    {
+        "question": "Un paciente necesita un procedimiento en el pie que involucra el dorso del pie y la cara dorsal de los dedos (excepto el primer espacio interdigital). ¿Qué nervio debe bloquear el médico?",
+        "options": [
+            { "text": "Nervio tibial posterior.", "isCorrect": false },
+            { "text": "Nervio peroneo profundo.", "isCorrect": false },
+            { "text": "Nervio safeno.", "isCorrect": false },
+            { "text": "Nervio peroneo superficial.", "isCorrect": true }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! El nervio peroneo superficial inerva el dorso del pie y la cara dorsal de los dedos (excepto el primer espacio interdigital). Para bloquear este nervio, se realiza una infiltración en abanico subcutáneo sobre la cara anterolateral de la línea intermaleolar.",
+            "incorrect": "Incorrecto. La respuesta correcta es el nervio peroneo superficial. Este nervio inerva el dorso del pie y la cara dorsal de los dedos (excepto el primer espacio interdigital). El nervio peroneo profundo inerva el primer espacio interdigital."
+        }
+    },
+    {
+        "question": "Para el bloqueo del nervio tibial posterior a nivel del tobillo, ¿cuál es la referencia anatómica clave para evitar una inyección intravascular?",
+        "options": [
+            { "text": "El tendón de Aquiles.", "isCorrect": false },
+            { "text": "El maléolo medial.", "isCorrect": false },
+            { "text": "El pulso de la arteria tibial posterior.", "isCorrect": true },
+            { "text": "El nervio sural.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! El nervio tibial posterior se encuentra junto a la arteria tibial posterior. Por lo tanto, el médico debe palpar el pulso de esta arteria justo detrás del maléolo medial e insertar la aguja posterior al pulso, aspirando previamente para evitar una inyección intravascular.",
+            "incorrect": "Incorrecto. La respuesta correcta es el pulso de la arteria tibial posterior. El nervio tibial posterior se encuentra junto a la arteria tibial posterior, por lo que el médico debe palpar el pulso de esta arteria y puncionar posterior a este punto, aspirando previamente para evitar una inyección intravascular."
+        }
+    },
+    {
+        "question": "En un bloqueo interdigital, ¿dónde corren los nervios interdigitales para anestesiar un dedo en su totalidad?",
+        "options": [
+            { "text": "En la cara dorsal del dedo, cerca de la articulación proximal.", "isCorrect": false },
+            { "text": "En la cara palmar del dedo, superficial a los tendones flexores.", "isCorrect": false },
+            { "text": "En la cara ventrolateral y dorsolateral del dedo.", "isCorrect": true },
+            { "text": "En la cara medial y lateral del dedo.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! Los nervios interdigitales corren en la cara ventrolateral y dorsolateral del dedo, por lo que una punción en abanico en la zona dorsal o palmar permite anestesiar el dedo en su totalidad. El documento menciona que en la práctica clínica se usa con mayor frecuencia la vía dorsal para evitar estructuras anatómicas, como la vaina del tendón flexor.",
+            "incorrect": "Incorrecto. La respuesta correcta es en la cara ventrolateral y dorsolateral del dedo. Los nervios interdigitales corren en la cara ventrolateral del dedo, inmediatamente lateral a la vaina del tendón flexor. Pequeños nervios digitales dorsales discurren por la cara dorsolateral del dedo y suministran inervación al dorso de los dedos hasta la articulación proximal."
+        }
+    },
+    {
+        "question": "Según la tabla de recomendaciones sugeridas de dosificación, ¿cuál es la dosis máxima de Lidocaína sin epinefrina en un paciente de 70 kg?",
+        "options": [
+            { "text": "350 mg.", "isCorrect": true },
+            { "text": "500 mg.", "isCorrect": false },
+            { "text": "225 mg.", "isCorrect": false },
+            { "text": "175 mg.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! La dosis máxima sin epinefrina para la Lidocaína es de 5 mg/kg. Para un paciente de 70 kg, esto equivale a 350 mg (70 kg x 5 mg/kg = 350 mg).",
+            "incorrect": "Incorrecto. La dosis máxima de Lidocaína sin epinefrina es de 5 mg/kg. Para un paciente de 70 kg, la dosis máxima es de 350 mg. Es importante tener en cuenta que la dosis máxima con epinefrina es de 7 mg/kg."
+        }
+    },
+    {
+        "question": "Un médico realiza un bloqueo del nervio cubital en la muñeca. ¿Cuál de las siguientes es una referencia anatómica clave para evitar la inyección intravascular?",
+        "options": [
+            { "text": "El tendón del palmar largo.", "isCorrect": false },
+            { "text": "El hueso pisiforme, que se encuentra lateral al nervio.", "isCorrect": false },
+            { "text": "La arteria cubital, que se encuentra próxima al nervio.", "isCorrect": true },
+            { "text": "El tendón del flexor radial del carpo.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! El nervio cubital pasa por el canal de Guyon, próximo a la arteria cubital. Por lo tanto, el médico debe palpar el hueso pisiforme y puncionar justo lateral a él, cuidando de no atravesar la arteria cubital. Se recomienda aspirar previamente para evitar una inyección intravascular.",
+            "incorrect": "Incorrecto. La respuesta correcta es la arteria cubital. El nervio cubital se encuentra próximo a la arteria cubital, por lo que el médico debe tener cuidado de no puncionar la arteria. Se recomienda aspirar previamente para evitar una inyección intravascular."
+        }
+    },
+    {
+        "question": "En un bloqueo de tobillo, el médico busca el nervio peroneo profundo. ¿Cuál es su ubicación anatómica?",
+        "options": [
+            { "text": "Posterior al maléolo medial.", "isCorrect": false },
+            { "text": "Posterior al maléolo lateral.", "isCorrect": false },
+            { "text": "Anterior al maléolo medial.", "isCorrect": false },
+            { "text": "Entre los tendones del extensor largo del hallux y el extensor largo de los dedos.", "isCorrect": true }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! El nervio peroneo profundo se encuentra entre los tendones del extensor largo del hallux y el extensor largo de los dedos. Se punciona entre estos dos tendones, cuidando de no lesionar la arteria dorsal del pie (arteria pedía).",
+            "incorrect": "Incorrecto. La respuesta correcta es entre los tendones del extensor largo del hallux y el extensor largo de los dedos. El nervio peroneo profundo se encuentra en esta ubicación, por lo que se punciona entre estos dos tendones para el bloqueo."
+        }
+    },
+    {
+        "question": "Para una sutura en la barbilla y el labio inferior, ¿qué nervio se debe bloquear?",
+        "options": [
+            { "text": "Nervio supraorbitario.", "isCorrect": false },
+            { "text": "Nervio infraorbitario.", "isCorrect": false },
+            { "text": "Nervio mentoniano.", "isCorrect": true },
+            { "text": "Nervio facial.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! El bloqueo del nervio mentoniano es útil para procedimientos localizados en el labio inferior, la barbilla, encías anteriores inferiores y dientes incisivos inferiores.",
+            "incorrect": "Incorrecto. La respuesta correcta es el nervio mentoniano. Este bloqueo es particularmente útil para procedimientos localizados en el labio inferior, la barbilla, encías anteriores inferiores y dientes incisivos inferiores. El nervio infraorbitario anestesia el labio superior y la mejilla."
+        }
+    },
+    {
+        "question": "Para un bloqueo de los nervios occipital mayor y menor, ¿cuál es el plano de infiltración recomendado?",
+        "options": [
+            { "text": "Intramuscular profunda.", "isCorrect": false },
+            { "text": "Subcutáneamente, siguiendo un patrón en abanico superficial.", "isCorrect": true },
+            { "text": "Subaracnoideo.", "isCorrect": false },
+            { "text": "Epidural.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! El documento menciona que la infiltración debe ser subcutánea, siguiendo un patrón en abanico superficial. No se requiere una infiltración profunda, ya que ambos nervios se encuentran en un plano subcutáneo o justo por debajo de la fascia superficial.",
+            "incorrect": "Incorrecto. El documento especifica que la infiltración debe ser subcutánea, siguiendo un patrón en abanico superficial. No se requiere una infiltración profunda, ya que ambos nervios se encuentran en un plano subcutáneo o justo por debajo de la fascia superficial."
+        }
+    },
+    {
+        "question": "Un paciente requiere un bloqueo para anestesiar la cara plantar del pie. ¿Qué nervio debe bloquear el médico?",
+        "options": [
+            { "text": "Nervio sural.", "isCorrect": false },
+            { "text": "Nervio peroneo superficial.", "isCorrect": false },
+            { "text": "Nervio tibial posterior.", "isCorrect": true },
+            { "text": "Nervio peroneo profundo.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! El nervio tibial posterior inerva la cara plantar del pie, la región del talón y los dedos (excepto el borde medial y dorsal). Se bloquea posterior al maléolo medial, junto a la arteria tibial posterior.",
+            "incorrect": "Incorrecto. La respuesta correcta es el nervio tibial posterior. Este nervio inerva la cara plantar del pie, la región del talón y los dedos (excepto el borde medial y dorsal). El nervio sural inerva el borde lateral del pie y el talón."
+        }
+    },
+    {
+        "question": "En el bloqueo de muñeca, el nervio radial inerva la cara dorsal del pulgar y la parte lateral del dorso de la mano. ¿Qué referencia anatómica se usa para su localización?",
+        "options": [
+            { "text": "El hueso pisiforme.", "isCorrect": false },
+            { "text": "La estiloides radial y la tabaquera anatómica.", "isCorrect": true },
+            { "text": "El palmar largo y el flexor radial del carpo.", "isCorrect": false },
+            { "text": "La arteria cubital.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! Para el bloqueo del nervio radial, se localiza la estiloides radial y se identifica la tabaquera anatómica. Se punciona por encima de la estiloides radial para anestesiar la cara dorsal del pulgar y la parte lateral del dorso de la mano.",
+            "incorrect": "Incorrecto. La respuesta correcta es la estiloides radial y la tabaquera anatómica. Para el bloqueo del nervio radial, se localiza la estiloides radial y se identifica la tabaquera anatómica. Se punciona por encima de la estiloides radial para anestesiar la cara dorsal del pulgar y la parte lateral del dorso de la mano."
+        }
+    },
+    {
+        "question": "Un médico debe anestesiar la región frontal del rostro y parte del cuero cabelludo anterior. ¿Qué nervios debe bloquear?",
+        "options": [
+            { "text": "Nervio supraorbitario y supratroclear.", "isCorrect": true },
+            { "text": "Nervio infraorbitario y mentoniano.", "isCorrect": false },
+            { "text": "Nervio occipital mayor y menor.", "isCorrect": false },
+            { "text": "Nervio facial y trigémino.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! El bloqueo de los nervios supraorbitario y supratroclear es útil para procedimientos menores que implican la región frontal del rostro y parte del cuero cabelludo anterior.",
+            "incorrect": "Incorrecto. La respuesta correcta es el nervio supraorbitario y supratroclear. Estos nervios, ramas de la división oftálmica del nervio trigémino (V1), inervan la región frontal del rostro y parte del cuero cabelludo anterior."
+        }
+    },
+    {
+        "question": "Para un bloqueo del nervio sural a nivel del tobillo, ¿cuál es su ubicación anatómica?",
+        "options": [
+            { "text": "Anterior al maléolo medial.", "isCorrect": false },
+            { "text": "Posterior al maléolo lateral.", "isCorrect": true },
+            { "text": "Posterior al maléolo medial.", "isCorrect": false },
+            { "text": "Anterior al maléolo lateral.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! El nervio sural pasa posterior al maléolo lateral. Para su bloqueo, se infiltra el anestésico de forma subcutánea posterior al maléolo lateral, anterior al tendón de Aquiles.",
+            "incorrect": "Incorrecto. La respuesta correcta es posterior al maléolo lateral. El nervio sural pasa posterior al maléolo lateral y se infiltra el anestésico de forma subcutánea en esta zona."
+        }
+    },
+    {
+        "question": "En un bloqueo de muñeca para el nervio mediano, ¿qué nervio inerva la cara palmar del pulgar, índice, dedo medio y la mitad radial del anular?",
+        "options": [
+            { "text": "Nervio cubital.", "isCorrect": false },
+            { "text": "Nervio radial.", "isCorrect": false },
+            { "text": "Nervio mediano.", "isCorrect": true },
+            { "text": "Nervio cutáneo palmar.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! El nervio mediano inerva la cara palmar del pulgar, índice, dedo medio y la mitad radial del anular. Este es el nervio que se busca bloquear en el bloqueo de muñeca para esta zona.",
+            "incorrect": "Incorrecto. La respuesta correcta es el nervio mediano. El nervio mediano inerva la cara palmar del pulgar, índice, dedo medio y la mitad radial del anular. El nervio cubital inerva el dedo meñique y la mitad cubital del anular."
+        }
+    },
+    {
+        "question": "Un paciente requiere un bloqueo de tobillo. Para anestesiar el espacio interdigital entre el primer y segundo dedo, ¿qué nervio debe bloquear el médico?",
+        "options": [
+            { "text": "Nervio safeno.", "isCorrect": false },
+            { "text": "Nervio peroneo superficial.", "isCorrect": false },
+            { "text": "Nervio peroneo profundo.", "isCorrect": true },
+            { "text": "Nervio tibial posterior.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! El nervio peroneo profundo inerva el espacio interdigital entre el primer y segundo dedo. Se localiza entre los tendones del extensor largo del hallux y el extensor largo de los dedos.",
+            "incorrect": "Incorrecto. La respuesta correcta es el nervio peroneo profundo. Este nervio inerva el espacio interdigital entre el primer y segundo dedo. Se localiza entre los tendones del extensor largo del hallux y el extensor largo de los dedos."
+        }
+    },
+    {
+        "question": "En el bloqueo de muñeca, el nervio cubital pasa por el canal de Guyon. ¿Cuál es la referencia anatómica clave para su localización?",
+        "options": [
+            { "text": "El hueso pisiforme y la arteria cubital.", "isCorrect": true },
+            { "text": "El tendón del palmar largo y el flexor radial del carpo.", "isCorrect": false },
+            { "text": "La estiloides radial y la tabaquera anatómica.", "isCorrect": false },
+            { "text": "El tendón de Aquiles.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! El nervio cubital pasa por el canal de Guyon, lateral al hueso pisiforme y próximo a la arteria cubital. Estas son las referencias anatómicas clave para su bloqueo.",
+            "incorrect": "Incorrecto. La respuesta correcta es el hueso pisiforme y la arteria cubital. El nervio cubital pasa por el canal de Guyon, lateral al hueso pisiforme y próximo a la arteria cubital. Estas son las referencias anatómicas clave para su bloqueo."
+        }
+    },
+    {
+        "question": "En el bloqueo de tobillo, la sensibilidad del pie está mediada por cinco nervios periféricos. ¿Cuáles de los siguientes nervios inervan el dorso, la planta, los bordes medial y lateral del pie?",
+        "options": [
+            { "text": "Nervio tibial, nervio peroneo superficial, nervio peroneo profundo, nervio safeno y nervio sural.", "isCorrect": true },
+            { "text": "Nervio tibial, nervio peroneo profundo, nervio safeno y nervio sural.", "isCorrect": false },
+            { "text": "Nervio tibial, nervio peroneo superficial, nervio safeno y nervio sural.", "isCorrect": false },
+            { "text": "Nervio tibial, nervio peroneo superficial, nervio peroneo profundo y nervio safeno.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! Los cinco nervios que inervan el pie son el nervio tibial (planta del pie), el nervio peroneo superficial (dorso del pie), el nervio peroneo profundo (espacio interdigital entre el primer y segundo dedo), el nervio safeno (borde medial del pie) y el nervio sural (borde lateral del pie).",
+            "incorrect": "Incorrecto. La respuesta correcta es nervio tibial, nervio peroneo superficial, nervio peroneo profundo, nervio safeno y nervio sural. Estos cinco nervios periféricos inervan la sensibilidad del pie."
+        }
+    },
+    {
+        "question": "Un paciente con cefalea occipital y neuralgia del nervio occipital requiere un bloqueo. ¿Qué nervios debe bloquear el médico?",
+        "options": [
+            { "text": "Nervio supraorbitario y supratroclear.", "isCorrect": false },
+            { "text": "Nervio auriculotemporal y auricular mayor.", "isCorrect": false },
+            { "text": "Nervio occipital mayor y menor.", "isCorrect": true },
+            { "text": "Nervio trigémino.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! El bloqueo de los nervios occipital mayor y menor es útil en el manejo del dolor occipital, como en cefaleas occipitales y neuralgia del nervio occipital. El nervio occipital mayor inerva la región occipital del cuero cabelludo, y el nervio occipital menor inerva la región lateral de la parte posterior de la cabeza.",
+            "incorrect": "Incorrecto. La respuesta correcta es el nervio occipital mayor y menor. Estos nervios inervan la región occipital del cuero cabelludo y la región lateral de la parte posterior de la cabeza, respectivamente. El bloqueo de estos nervios es útil en el manejo del dolor occipital."
+        }
+    },
+    {
+        "question": "Un médico general realiza un bloqueo de muñeca. ¿Cuál es una de las ventajas de esta técnica?",
+        "options": [
+            { "text": "Proporciona una anestesia completa de la extremidad superior.", "isCorrect": false },
+            { "text": "Es ideal para procedimientos en dedos y mano, ya que proporciona buena analgesia sin bloquear la función motora del antebrazo.", "isCorrect": true },
+            { "text": "Es una técnica que requiere equipo especializado, como un ecógrafo.", "isCorrect": false },
+            { "text": "Es ideal para procedimientos en la región del hombro y del brazo.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! El bloqueo de muñeca es una técnica segura, rápida y eficaz que no requiere equipo. Es ideal para procedimientos ambulatorios en dedos y mano, ya que proporciona buena analgesia sin bloquear la función motora del antebrazo.",
+            "incorrect": "Incorrecto. La respuesta correcta es que es ideal para procedimientos en dedos y mano, ya que proporciona buena analgesia sin bloquear la función motora del antebrazo. El bloqueo de muñeca es una técnica segura, rápida y eficaz que no requiere equipo."
+        }
+    },
+    {
+        "question": "Un paciente con una herida en la región frontal del rostro requiere un bloqueo. ¿Cuál de los siguientes nervios es una rama terminal de la división oftálmica del nervio trigémino (V1)?",
+        "options": [
+            { "text": "Nervio mentoniano.", "isCorrect": false },
+            { "text": "Nervio infraorbitario.", "isCorrect": false },
+            { "text": "Nervio supraorbitario.", "isCorrect": true },
+            { "text": "Nervio auricular mayor.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! El nervio supraorbitario es una de las ramas terminales de la división oftálmica del nervio trigémino (V1), junto con el nervio supratroclear. El bloqueo de estos nervios es útil para procedimientos menores en la región frontal del rostro y parte del cuero cabelludo anterior.",
+            "incorrect": "Incorrecto. La respuesta correcta es el nervio supraorbitario. El nervio supraorbitario es una de las ramas terminales de la división oftálmica del nervio trigémino (V1). El nervio infraorbitario es una rama de la división maxilar, y el nervio mentoniano es una rama de la división mandibular."
+        }
+    },
+    {
+        "question": "Un paciente con una laceración en la región del labio superior, la mejilla y el ala nasal requiere un bloqueo regional. ¿Qué nervio se debe bloquear?",
+        "options": [
+            { "text": "Nervio supraorbitario.", "isCorrect": false },
+            { "text": "Nervio infraorbitario.", "isCorrect": true },
+            { "text": "Nervio mentoniano.", "isCorrect": false },
+            { "text": "Nervio auricular mayor.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! El nervio infraorbitario, rama de la división maxilar del nervio trigémino (V2), inerva el párpado inferior, la mejilla, el ala nasal, el labio superior y los dientes incisivos y caninos superiores.",
+            "incorrect": "Incorrecto. La respuesta correcta es el nervio infraorbitario. Este nervio inerva la región del labio superior, la mejilla y el ala nasal. El nervio mentoniano inerva la región del labio inferior y la barbilla."
+        }
+    },
+    {
+        "question": "Un médico realiza un bloqueo del nervio sural en el tobillo. ¿Qué área del pie anestesia este bloqueo?",
+        "options": [
+            { "text": "Cara medial del pie hasta el arco del medio pie.", "isCorrect": false },
+            { "text": "Dorso del pie y cara dorsal de los dedos.", "isCorrect": false },
+            { "text": "Borde lateral del pie y talón.", "isCorrect": true },
+            { "text": "Cara plantar del pie.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! El nervio sural inerva el borde lateral del pie y el talón. Se bloquea posterior al maléolo lateral, anterior al tendón de Aquiles y a la piel del talón.",
+            "incorrect": "Incorrecto. La respuesta correcta es el borde lateral del pie y el talón. El nervio sural inerva el borde lateral del pie y el talón. El nervio safeno inerva la cara medial del pie."
+        }
+    },
+    {
+        "question": "El documento menciona que la anestesia regional es una herramienta invaluable para el control del dolor. ¿Cuál de los siguientes es el objetivo principal de este capítulo?",
+        "options": [
+            { "text": "Enseñar a los médicos generales a realizar procedimientos quirúrgicos mayores.", "isCorrect": false },
+            { "text": "Dotar al médico general de herramientas teórico-prácticas para la ejecución responsable y segura de técnicas anestésicas regionales menores.", "isCorrect": true },
+            { "text": "Capacitar a los médicos generales para realizar anestesia general.", "isCorrect": false },
+            { "text": "Aprobar la anestesia regional como una técnica para el especialista, sin la participación del médico general.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! El objetivo principal de este capítulo es dotar al médico general de herramientas teórico-prácticas para la ejecución responsable y segura de técnicas anestésicas regionales menores, dentro del marco legal y ético vigente. Se trata de empoderar, no de invadir.",
+            "incorrect": "Incorrecto. La respuesta correcta es dotar al médico general de herramientas teórico-prácticas para la ejecución responsable y segura de técnicas anestésicas regionales menores. El objetivo principal de este capítulo es empoderar al médico general, no de invadir el campo del especialista."
+        }
+    },
+    {
+        "question": "Un médico general realiza un bloqueo de muñeca para anestesiar la mano. ¿Cuáles son los tres nervios periféricos principales que inervan la sensibilidad de la mano?",
+        "options": [
+            { "text": "Nervio mediano, nervio radial y nervio cubital.", "isCorrect": true },
+            { "text": "Nervio mediano, nervio radial y nervio braquial.", "isCorrect": false },
+            { "text": "Nervio mediano, nervio cubital y nervio axilar.", "isCorrect": false },
+            { "text": "Nervio radial, nervio cubital y nervio axilar.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! La sensibilidad de la mano y los dedos está mediada principalmente por tres nervios periféricos: el nervio mediano, el nervio radial y el nervio cubital. El bloqueo de muñeca de estos tres nervios permite una anestesia completa de la mano.",
+            "incorrect": "Incorrecto. La respuesta correcta es el nervio mediano, nervio radial y nervio cubital. Estos tres nervios inervan la sensibilidad de la mano y los dedos. El bloqueo de muñeca de estos tres nervios permite una anestesia completa de la mano."
+        }
+    },
+    {
+        "question": "Un paciente con una herida en la región del cuero cabelludo posterior requiere un bloqueo. ¿Qué nervios debe bloquear el médico?",
+        "options": [
+            { "text": "Nervio supraorbitario y supratroclear.", "isCorrect": false },
+            { "text": "Nervio infraorbitario y mentoniano.", "isCorrect": false },
+            { "text": "Nervio occipital mayor y menor.", "isCorrect": true },
+            { "text": "Nervio facial y trigémino.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! El bloqueo de los nervios occipital mayor y menor es útil en el manejo del dolor occipital, como en cefaleas occipitales, y también para intervenciones mínimamente invasivas en la parte posterior del cuero cabelludo.",
+            "incorrect": "Incorrecto. La respuesta correcta es el nervio occipital mayor y menor. Estos nervios inervan la región del cuero cabelludo posterior, por lo que el bloqueo de estos nervios es útil en el manejo de las heridas en esta región."
+        }
+    },
+    {
+        "question": "En un bloqueo interdigital, ¿cuál es el volumen de anestésico local que se debe infiltrar por dedo?",
+        "options": [
+            { "text": "0.5 a 1 ml.", "isCorrect": false },
+            { "text": "1 a 2 ml.", "isCorrect": false },
+            { "text": "2 a 5 ml.", "isCorrect": true },
+            { "text": "5 a 10 ml.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! El volumen de anestésico local que se debe infiltrar en un bloqueo interdigital es de 2 a 5 ml por dedo, distribuido de forma superficial. En la práctica clínica, se usa con mayor frecuencia la vía dorsal para evitar estructuras anatómicas, como la vaina del tendón flexor.",
+            "incorrect": "Incorrecto. La respuesta correcta es de 2 a 5 ml. El volumen de anestésico local que se debe infiltrar en un bloqueo interdigital es de 2 a 5 ml por dedo, distribuido de forma superficial."
+        }
+    },
+    {
+        "question": "En un bloqueo de tobillo, la anestesia del borde medial del pie hasta el arco del medio pie está mediada por el nervio:",
+        "options": [
+            { "text": "Nervio tibial posterior.", "isCorrect": false },
+            { "text": "Nervio peroneo superficial.", "isCorrect": false },
+            { "text": "Nervio safeno.", "isCorrect": true },
+            { "text": "Nervio peroneo profundo.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! El nervio safeno inerva la cara medial del pie hasta el arco del medio pie. Se bloquea anterior al maléolo medial. Es uno de los cinco nervios que inervan la sensibilidad del pie.",
+            "incorrect": "Incorrecto. La respuesta correcta es el nervio safeno. El nervio safeno inerva la cara medial del pie hasta el arco del medio pie. Se bloquea anterior al maléolo medial."
+        }
+    },
+    {
+        "question": "Para un bloqueo de pabellón auricular, ¿qué volumen de anestésico local se debe infiltrar en la región posterior y anterior a la unión de la oreja con el cráneo?",
+        "options": [
+            { "text": "1 a 2 ml.", "isCorrect": false },
+            { "text": "3 a 5 ml.", "isCorrect": true },
+            { "text": "5 a 10 ml.", "isCorrect": false },
+            { "text": "10 a 15 ml.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! Para el bloqueo de pabellón auricular, se infiltran 3 a 5 ml de anestésico local en forma de abanico en la región posterior y anterior a la unión de la oreja con el cráneo. Se recomienda aspirar antes de cada depósito para evitar una inyección intravascular.",
+            "incorrect": "Incorrecto. La respuesta correcta es de 3 a 5 ml. Para el bloqueo de pabellón auricular, se infiltran 3 a 5 ml de anestésico local en forma de abanico en la región posterior y anterior a la unión de la oreja con el cráneo."
+        }
+    }
+]

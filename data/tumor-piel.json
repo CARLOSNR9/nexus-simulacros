@@ -1,0 +1,444 @@
+[
+    {
+        "question": "Un paciente de 60 años, con antecedentes de exposición solar crónica, presenta una lesión nodular, perlada y con telangiectasias en la nariz. El médico sospecha un carcinoma basocelular. ¿Cuál de las siguientes afirmaciones sobre este tumor es correcta?",
+        "options": [
+            { "text": "Es el tipo de cáncer de piel más común, con una alta tasa de metástasis.", "isCorrect": false },
+            { "text": "Es el tipo de cáncer de piel más común, con una baja tasa de metástasis.", "isCorrect": true },
+            { "text": "Es el tipo de cáncer de piel más común, con una alta tasa de recurrencia local.", "isCorrect": false },
+            { "text": "Es el tipo de cáncer de piel más común, con una baja tasa de recurrencia local.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! El carcinoma basocelular es el tipo de cáncer de piel más común, con una alta tasa de recurrencia local y una baja tasa de metástasis.",
+            "incorrect": "Incorrecto. La respuesta correcta es que es el tipo de cáncer de piel más común, con una baja tasa de metástasis. El carcinoma basocelular tiene una alta tasa de recurrencia local, por lo que es importante un diagnóstico y tratamiento temprano."
+        }
+    },
+    {
+        "question": "Un paciente de 50 años presenta una lesión pigmentada asimétrica, con bordes irregulares y un color heterogéneo. El médico sospecha un melanoma. ¿Cuál de los siguientes es el factor de riesgo más importante para el desarrollo de melanoma?",
+        "options": [
+            { "text": "La edad.", "isCorrect": false },
+            { "text": "La exposición solar intermitente e intensa.", "isCorrect": true },
+            { "text": "El fototipo de piel alto.", "isCorrect": false },
+            { "text": "El uso de camas de bronceado.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! La exposición solar intermitente e intensa, especialmente durante la infancia, es el factor de riesgo más importante para el desarrollo de melanoma. Los otros factores de riesgo son: el fototipo de piel bajo, la presencia de múltiples nevus y los antecedentes familiares de melanoma.",
+            "incorrect": "Incorrecto. La respuesta correcta es la exposición solar intermitente e intensa. El melanoma se relaciona con quemaduras solares intermitentes, por lo que es importante la protección solar en la infancia."
+        }
+    },
+    {
+        "question": "Un paciente de 70 años, con antecedentes de exposición solar crónica, presenta una lesión queratósica, eritematosa y descamativa en el dorso de la mano. El médico sospecha una queratosis actínica. ¿Cuál es el riesgo de malignidad de esta lesión?",
+        "options": [
+            { "text": "Es una lesión benigna, sin riesgo de malignidad.", "isCorrect": false },
+            { "text": "Es una lesión premaligna, con un riesgo de malignidad bajo.", "isCorrect": true },
+            { "text": "Es una lesión premaligna, con un riesgo de malignidad alto.", "isCorrect": false },
+            { "text": "Es una lesión maligna, con un riesgo de metástasis alto.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! La queratosis actínica es una lesión premaligna, con un riesgo de malignidad bajo, pero que puede evolucionar a un carcinoma de células escamosas. El tratamiento de la queratosis actínica es la criocirugía, el 5-fluorouracilo tópico, el imiquimod o la terapia fotodinámica.",
+            "incorrect": "Incorrecto. La respuesta correcta es que es una lesión premaligna, con un riesgo de malignidad bajo. La queratosis actínica es una lesión premaligna que puede evolucionar a un carcinoma de células escamosas, por lo que es importante un diagnóstico y tratamiento temprano."
+        }
+    },
+    {
+        "question": "Un paciente de 65 años, con antecedentes de exposición solar crónica, presenta una úlcera que no cicatriza en el labio inferior. La lesión es de crecimiento rápido y es dolorosa. El médico sospecha un carcinoma de células escamosas. ¿Cuál de los siguientes es el factor de riesgo más importante para el desarrollo de carcinoma de células escamosas?",
+        "options": [
+            { "text": "El fototipo de piel bajo.", "isCorrect": false },
+            { "text": "La exposición solar crónica.", "isCorrect": true },
+            { "text": "El uso de camas de bronceado.", "isCorrect": false },
+            { "text": "La presencia de múltiples nevus.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! La exposición solar crónica es el factor de riesgo más importante para el desarrollo de carcinoma de células escamosas. Los otros factores de riesgo son: el fototipo de piel bajo, la inmunosupresión y la presencia de cicatrices de quemaduras.",
+            "incorrect": "Incorrecto. La respuesta correcta es la exposición solar crónica. El carcinoma de células escamosas se relaciona con la exposición solar crónica, por lo que es importante la protección solar en la vida adulta."
+        }
+    },
+    {
+        "question": "Un paciente de 40 años, con antecedentes de exposición solar, presenta una lesión pigmentada con bordes irregulares y un color heterogéneo. El médico sospecha un melanoma. ¿Cuál de las siguientes es una característica de la lesión que podría sugerir un melanoma?",
+        "options": [
+            { "text": "Asimetría, bordes irregulares, color heterogéneo, diámetro > 6 mm, evolución.", "isCorrect": true },
+            { "text": "Simetría, bordes regulares, color homogéneo, diámetro < 6 mm, sin cambios.", "isCorrect": false },
+            { "text": "Asimetría, bordes regulares, color homogéneo, diámetro > 6 mm, sin cambios.", "isCorrect": false },
+            { "text": "Simetría, bordes irregulares, color heterogéneo, diámetro < 6 mm, evolución.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! El documento menciona que las características que sugieren un melanoma son: asimetría, bordes irregulares, color heterogéneo, diámetro > 6 mm y la evolución (cambios en el tamaño, la forma, el color o la elevación de la lesión).",
+            "incorrect": "Incorrecto. La respuesta correcta es asimetría, bordes irregulares, color heterogéneo, diámetro > 6 mm, evolución. Estas son las características de la lesión que sugieren un melanoma. Es importante un diagnóstico y tratamiento temprano del melanoma, ya que tiene una alta tasa de metástasis."
+        }
+    },
+    {
+        "question": "Un paciente de 75 años, con antecedentes de exposición solar, presenta una lesión nodular, perlada y con telangiectasias en la mejilla. ¿Cuál de los siguientes es el factor de riesgo más importante para el desarrollo de carcinoma basocelular?",
+        "options": [
+            { "text": "El fototipo de piel bajo.", "isCorrect": false },
+            { "text": "La exposición solar crónica.", "isCorrect": true },
+            { "text": "El uso de camas de bronceado.", "isCorrect": false },
+            { "text": "La presencia de múltiples nevus.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! La exposición solar crónica es el factor de riesgo más importante para el desarrollo de carcinoma basocelular. Los otros factores de riesgo son: el fototipo de piel bajo, la exposición solar intermitente e intensa y los antecedentes familiares de cáncer de piel.",
+            "incorrect": "Incorrecto. La respuesta correcta es la exposición solar crónica. El carcinoma basocelular se relaciona con la exposición solar crónica, por lo que es importante la protección solar en la vida adulta."
+        }
+    },
+    {
+        "question": "Un paciente de 60 años, con antecedentes de exposición solar, presenta una lesión queratósica, eritematosa y descamativa en el cuero cabelludo. ¿Qué tipo de lesión es más probable que sea?",
+        "options": [
+            { "text": "Carcinoma basocelular.", "isCorrect": false },
+            { "text": "Carcinoma de células escamosas.", "isCorrect": false },
+            { "text": "Queratosis actínica.", "isCorrect": true },
+            { "text": "Melanoma.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! La queratosis actínica es una lesión precancerosa que se desarrolla en áreas de la piel dañadas por el sol, como el cuero cabelludo, la cara, las orejas, los labios, el dorso de las manos y el cuello. El tratamiento de la queratosis actínica es la criocirugía, el 5-fluorouracilo tópico, el imiquimod o la terapia fotodinámica.",
+            "incorrect": "Incorrecto. La respuesta correcta es queratosis actínica. La queratosis actínica es una lesión precancerosa que se desarrolla en áreas de la piel dañadas por el sol, como el cuero cabelludo, la cara, las orejas, los labios, el dorso de las manos y el cuello."
+        }
+    },
+    {
+        "question": "Un paciente con una lesión pigmentada sospechosa es evaluado con dermatoscopia. ¿Cuál es el objetivo de este procedimiento?",
+        "options": [
+            { "text": "Obtener una muestra de la lesión para su análisis.", "isCorrect": false },
+            { "text": "Examinar la lesión con una luz polarizada.", "isCorrect": true },
+            { "text": "Examinar la lesión con una luz no polarizada.", "isCorrect": false },
+            { "text": "Examinar la lesión con un microscopio.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! La dermatoscopia es una técnica de diagnóstico no invasiva que se utiliza para examinar las lesiones de la piel con una luz polarizada o no polarizada. El objetivo es identificar las características de la lesión que sugieren un melanoma, un carcinoma basocelular o un carcinoma de células escamosas.",
+            "incorrect": "Incorrecto. La respuesta correcta es examinar la lesión con una luz polarizada. La dermatoscopia es una técnica de diagnóstico no invasiva que se utiliza para examinar las lesiones de la piel con una luz polarizada o no polarizada. El objetivo es identificar las características de la lesión que sugieren un melanoma, un carcinoma basocelular o un carcinoma de células escamosas."
+        }
+    },
+    {
+        "question": "En el diagnóstico de cáncer de piel, el médico realiza una biopsia. ¿Cuál es el tipo de biopsia que se recomienda para las lesiones pigmentadas sospechosas de melanoma?",
+        "options": [
+            { "text": "Biopsia por rasurado (shave biopsy).", "isCorrect": false },
+            { "text": "Biopsia por punción (punch biopsy).", "isCorrect": false },
+            { "text": "Biopsia por escisión completa.", "isCorrect": true },
+            { "text": "Biopsia por incisión.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! El documento menciona que para las lesiones pigmentadas sospechosas de melanoma, se recomienda una biopsia por escisión completa. La biopsia por rasurado y la biopsia por punción no se recomiendan para las lesiones sospechosas de melanoma, ya que pueden afectar el diagnóstico.",
+            "incorrect": "Incorrecto. La respuesta correcta es biopsia por escisión completa. Para las lesiones pigmentadas sospechosas de melanoma, se recomienda una biopsia por escisión completa. La biopsia por rasurado y la biopsia por punción no se recomiendan para las lesiones sospechosas de melanoma, ya que pueden afectar el diagnóstico."
+        }
+    },
+    {
+        "question": "Un paciente con una lesión pigmentada sospechosa es evaluado con dermatoscopia. El médico observa un patrón de red, puntos o glóbulos. ¿Qué tipo de lesión es más probable que sea?",
+        "options": [
+            { "text": "Carcinoma basocelular.", "isCorrect": false },
+            { "text": "Carcinoma de células escamosas.", "isCorrect": false },
+            { "text": "Melanoma.", "isCorrect": false },
+            { "text": "Nevus.", "isCorrect": true }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! El documento menciona que los nevus suelen presentar un patrón de red, puntos o glóbulos. Los melanomas suelen presentar un patrón de red atípico, puntos o glóbulos irregulares, regresión y velo azulado. El carcinoma basocelular y el carcinoma de células escamosas no suelen presentar un patrón de red.",
+            "incorrect": "Incorrecto. La respuesta correcta es nevus. Los nevus suelen presentar un patrón de red, puntos o glóbulos. Los melanomas suelen presentar un patrón de red atípico, puntos o glóbulos irregulares, regresión y velo azulado."
+        }
+    },
+    {
+        "question": "En el diagnóstico de cáncer de piel, el médico realiza una biopsia por escisión completa. ¿Cuál es la finalidad de este procedimiento?",
+        "options": [
+            { "text": "Obtener una muestra de la lesión para su análisis.", "isCorrect": false },
+            { "text": "Eliminar la lesión por completo y obtener una muestra para su análisis.", "isCorrect": true },
+            { "text": "Eliminar la lesión por completo sin obtener una muestra para su análisis.", "isCorrect": false },
+            { "text": "Obtener una muestra de la lesión y no eliminarla.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! La biopsia por escisión completa es un procedimiento que se utiliza para eliminar la lesión por completo y obtener una muestra para su análisis. Se recomienda para las lesiones pigmentadas sospechosas de melanoma.",
+            "incorrect": "Incorrecto. La respuesta correcta es eliminar la lesión por completo y obtener una muestra para su análisis. La biopsia por escisión completa es un procedimiento que se utiliza para eliminar la lesión por completo y obtener una muestra para su análisis."
+        }
+    },
+    {
+        "question": "Un paciente de 60 años, con antecedentes de exposición solar crónica, presenta una lesión ulcerada y de crecimiento rápido en el labio inferior. La lesión es dolorosa y es de color rojizo. El médico sospecha un carcinoma de células escamosas. ¿Cuál de los siguientes es un factor de riesgo para el desarrollo de carcinoma de células escamosas?",
+        "options": [
+            { "text": "El fototipo de piel bajo.", "isCorrect": false },
+            { "text": "La exposición solar crónica.", "isCorrect": true },
+            { "text": "El uso de camas de bronceado.", "isCorrect": false },
+            { "text": "La presencia de múltiples nevus.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! La exposición solar crónica es el factor de riesgo más importante para el desarrollo de carcinoma de células escamosas. Los otros factores de riesgo son: el fototipo de piel bajo, la inmunosupresión y la presencia de cicatrices de quemaduras.",
+            "incorrect": "Incorrecto. La respuesta correcta es la exposición solar crónica. El carcinoma de células escamosas se relaciona con la exposición solar crónica, por lo que es importante la protección solar en la vida adulta."
+        }
+    },
+    {
+        "question": "Un paciente con una lesión pigmentada sospechosa es evaluado con dermatoscopia. El médico observa un velo azulado, puntos o glóbulos irregulares, regresión y un patrón de red atípico. ¿Qué tipo de lesión es más probable que sea?",
+        "options": [
+            { "text": "Carcinoma basocelular.", "isCorrect": false },
+            { "text": "Carcinoma de células escamosas.", "isCorrect": false },
+            { "text": "Melanoma.", "isCorrect": true },
+            { "text": "Nevus.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! El documento menciona que los melanomas suelen presentar un patrón de red atípico, puntos o glóbulos irregulares, regresión y velo azulado. Estas son las características que sugieren un melanoma. El diagnóstico y tratamiento temprano del melanoma es crucial, ya que tiene una alta tasa de metástasis.",
+            "incorrect": "Incorrecto. La respuesta correcta es melanoma. Los melanomas suelen presentar un patrón de red atípico, puntos o glóbulos irregulares, regresión y velo azulado. Estas son las características que sugieren un melanoma."
+        }
+    },
+    {
+        "question": "Un paciente de 60 años, con antecedentes de exposición solar, presenta una lesión nodular, perlada y con telangiectasias en la mejilla. ¿Qué tipo de lesión es más probable que sea?",
+        "options": [
+            { "text": "Carcinoma basocelular.", "isCorrect": true },
+            { "text": "Carcinoma de células escamosas.", "isCorrect": false },
+            { "text": "Queratosis actínica.", "isCorrect": false },
+            { "text": "Melanoma.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! El carcinoma basocelular es el tipo de cáncer de piel más común, con una alta tasa de recurrencia local y una baja tasa de metástasis. Se presenta como una lesión nodular, perlada y con telangiectasias en áreas expuestas al sol, como la cara y la mejilla.",
+            "incorrect": "Incorrecto. La respuesta correcta es carcinoma basocelular. El carcinoma basocelular se presenta como una lesión nodular, perlada y con telangiectasias en áreas expuestas al sol, como la cara y la mejilla."
+        }
+    },
+    {
+        "question": "Un paciente de 40 años, con antecedentes de exposición solar, presenta una lesión pigmentada con bordes irregulares y un color heterogéneo. El médico sospecha un melanoma. ¿Cuál de los siguientes es un factor de riesgo para el desarrollo de melanoma?",
+        "options": [
+            { "text": "El fototipo de piel alto.", "isCorrect": false },
+            { "text": "La exposición solar intermitente e intensa.", "isCorrect": true },
+            { "text": "La exposición solar crónica.", "isCorrect": false },
+            { "text": "La presencia de múltiples nevus.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! La exposición solar intermitente e intensa, especialmente durante la infancia, es el factor de riesgo más importante para el desarrollo de melanoma. Los otros factores de riesgo son: el fototipo de piel bajo, la presencia de múltiples nevus y los antecedentes familiares de melanoma.",
+            "incorrect": "Incorrecto. La respuesta correcta es la exposición solar intermitente e intensa. El melanoma se relaciona con quemaduras solares intermitentes, por lo que es importante la protección solar en la infancia."
+        }
+    },
+    {
+        "question": "Un paciente con una lesión pigmentada sospechosa es evaluado con dermatoscopia. El médico observa un patrón de red, puntos o glóbulos. ¿Qué tipo de lesión es más probable que sea?",
+        "options": [
+            { "text": "Carcinoma basocelular.", "isCorrect": false },
+            { "text": "Carcinoma de células escamosas.", "isCorrect": false },
+            { "text": "Melanoma.", "isCorrect": false },
+            { "text": "Nevus.", "isCorrect": true }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! El documento menciona que los nevus suelen presentar un patrón de red, puntos o glóbulos. Los melanomas suelen presentar un patrón de red atípico, puntos o glóbulos irregulares, regresión y velo azulado. El carcinoma basocelular y el carcinoma de células escamosas no suelen presentar un patrón de red.",
+            "incorrect": "Incorrecto. La respuesta correcta es nevus. Los nevus suelen presentar un patrón de red, puntos o glóbulos. Los melanomas suelen presentar un patrón de red atípico, puntos o glóbulos irregulares, regresión y velo azulado."
+        }
+    },
+    {
+        "question": "En el diagnóstico de cáncer de piel, el médico realiza una biopsia. ¿Cuál es el tipo de biopsia que se recomienda para las lesiones pigmentadas sospechosas de melanoma?",
+        "options": [
+            { "text": "Biopsia por rasurado (shave biopsy).", "isCorrect": false },
+            { "text": "Biopsia por punción (punch biopsy).", "isCorrect": false },
+            { "text": "Biopsia por escisión completa.", "isCorrect": true },
+            { "text": "Biopsia por incisión.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! El documento menciona que para las lesiones pigmentadas sospechosas de melanoma, se recomienda una biopsia por escisión completa. La biopsia por rasurado y la biopsia por punción no se recomiendan para las lesiones sospechosas de melanoma, ya que pueden afectar el diagnóstico.",
+            "incorrect": "Incorrecto. La respuesta correcta es biopsia por escisión completa. Para las lesiones pigmentadas sospechosas de melanoma, se recomienda una biopsia por escisión completa. La biopsia por rasurado y la biopsia por punción no se recomiendan para las lesiones sospechosas de melanoma, ya que pueden afectar el diagnóstico."
+        }
+    },
+    {
+        "question": "Un paciente con una lesión pigmentada sospechosa es evaluado con dermatoscopia. El médico observa un velo azulado, puntos o glóbulos irregulares, regresión y un patrón de red atípico. ¿Qué tipo de lesión es más probable que sea?",
+        "options": [
+            { "text": "Carcinoma basocelular.", "isCorrect": false },
+            { "text": "Carcinoma de células escamosas.", "isCorrect": false },
+            { "text": "Melanoma.", "isCorrect": true },
+            { "text": "Nevus.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! El documento menciona que los melanomas suelen presentar un patrón de red atípico, puntos o glóbulos irregulares, regresión y velo azulado. Estas son las características que sugieren un melanoma. El diagnóstico y tratamiento temprano del melanoma es crucial, ya que tiene una alta tasa de metástasis.",
+            "incorrect": "Incorrecto. La respuesta correcta es melanoma. Los melanomas suelen presentar un patrón de red atípico, puntos o glóbulos irregulares, regresión y velo azulado. Estas son las características que sugieren un melanoma."
+        }
+    },
+    {
+        "question": "Un paciente de 60 años, con antecedentes de exposición solar, presenta una lesión nodular, perlada y con telangiectasias en la mejilla. ¿Qué tipo de lesión es más probable que sea?",
+        "options": [
+            { "text": "Carcinoma basocelular.", "isCorrect": true },
+            { "text": "Carcinoma de células escamosas.", "isCorrect": false },
+            { "text": "Queratosis actínica.", "isCorrect": false },
+            { "text": "Melanoma.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! El carcinoma basocelular es el tipo de cáncer de piel más común, con una alta tasa de recurrencia local y una baja tasa de metástasis. Se presenta como una lesión nodular, perlada y con telangiectasias en áreas expuestas al sol, como la cara y la mejilla.",
+            "incorrect": "Incorrecto. La respuesta correcta es carcinoma basocelular. El carcinoma basocelular se presenta como una lesión nodular, perlada y con telangiectasias en áreas expuestas al sol, como la cara y la mejilla."
+        }
+    },
+    {
+        "question": "Un paciente de 40 años, con antecedentes de exposición solar, presenta una lesión pigmentada con bordes irregulares y un color heterogéneo. El médico sospecha un melanoma. ¿Cuál de los siguientes es un factor de riesgo para el desarrollo de melanoma?",
+        "options": [
+            { "text": "El fototipo de piel alto.", "isCorrect": false },
+            { "text": "La exposición solar intermitente e intensa.", "isCorrect": true },
+            { "text": "La exposición solar crónica.", "isCorrect": false },
+            { "text": "La presencia de múltiples nevus.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! La exposición solar intermitente e intensa, especialmente durante la infancia, es el factor de riesgo más importante para el desarrollo de melanoma. Los otros factores de riesgo son: el fototipo de piel bajo, la presencia de múltiples nevus y los antecedentes familiares de melanoma.",
+            "incorrect": "Incorrecto. La respuesta correcta es la exposición solar intermitente e intensa. El melanoma se relaciona con quemaduras solares intermitentes, por lo que es importante la protección solar en la infancia."
+        }
+    },
+    {
+        "question": "Un paciente con una lesión pigmentada sospechosa es evaluado con dermatoscopia. El médico observa un patrón de red, puntos o glóbulos. ¿Qué tipo de lesión es más probable que sea?",
+        "options": [
+            { "text": "Carcinoma basocelular.", "isCorrect": false },
+            { "text": "Carcinoma de células escamosas.", "isCorrect": false },
+            { "text": "Melanoma.", "isCorrect": false },
+            { "text": "Nevus.", "isCorrect": true }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! El documento menciona que los nevus suelen presentar un patrón de red, puntos o glóbulos. Los melanomas suelen presentar un patrón de red atípico, puntos o glóbulos irregulares, regresión y velo azulado. El carcinoma basocelular y el carcinoma de células escamosas no suelen presentar un patrón de red.",
+            "incorrect": "Incorrecto. La respuesta correcta es nevus. Los nevus suelen presentar un patrón de red, puntos o glóbulos. Los melanomas suelen presentar un patrón de red atípico, puntos o glóbulos irregulares, regresión y velo azulado."
+        }
+    },
+    {
+        "question": "En el diagnóstico de cáncer de piel, el médico realiza una biopsia. ¿Cuál es el tipo de biopsia que se recomienda para las lesiones pigmentadas sospechosas de melanoma?",
+        "options": [
+            { "text": "Biopsia por rasurado (shave biopsy).", "isCorrect": false },
+            { "text": "Biopsia por punción (punch biopsy).", "isCorrect": false },
+            { "text": "Biopsia por escisión completa.", "isCorrect": true },
+            { "text": "Biopsia por incisión.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! El documento menciona que para las lesiones pigmentadas sospechosas de melanoma, se recomienda una biopsia por escisión completa. La biopsia por rasurado y la biopsia por punción no se recomiendan para las lesiones sospechosas de melanoma, ya que pueden afectar el diagnóstico.",
+            "incorrect": "Incorrecto. La respuesta correcta es biopsia por escisión completa. Para las lesiones pigmentadas sospechosas de melanoma, se recomienda una biopsia por escisión completa. La biopsia por rasurado y la biopsia por punción no se recomiendan para las lesiones sospechosas de melanoma, ya que pueden afectar el diagnóstico."
+        }
+    },
+    {
+        "question": "Un paciente con una lesión pigmentada sospechosa es evaluado con dermatoscopia. El médico observa un velo azulado, puntos o glóbulos irregulares, regresión y un patrón de red atípico. ¿Qué tipo de lesión es más probable que sea?",
+        "options": [
+            { "text": "Carcinoma basocelular.", "isCorrect": false },
+            { "text": "Carcinoma de células escamosas.", "isCorrect": false },
+            { "text": "Melanoma.", "isCorrect": true },
+            { "text": "Nevus.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! El documento menciona que los melanomas suelen presentar un patrón de red atípico, puntos o glóbulos irregulares, regresión y velo azulado. Estas son las características que sugieren un melanoma. El diagnóstico y tratamiento temprano del melanoma es crucial, ya que tiene una alta tasa de metástasis.",
+            "incorrect": "Incorrecto. La respuesta correcta es melanoma. Los melanomas suelen presentar un patrón de red atípico, puntos o glóbulos irregulares, regresión y velo azulado. Estas son las características que sugieren un melanoma."
+        }
+    },
+    {
+        "question": "Un paciente de 60 años, con antecedentes de exposición solar, presenta una lesión nodular, perlada y con telangiectasias en la mejilla. ¿Qué tipo de lesión es más probable que sea?",
+        "options": [
+            { "text": "Carcinoma basocelular.", "isCorrect": true },
+            { "text": "Carcinoma de células escamosas.", "isCorrect": false },
+            { "text": "Queratosis actínica.", "isCorrect": false },
+            { "text": "Melanoma.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! El carcinoma basocelular es el tipo de cáncer de piel más común, con una alta tasa de recurrencia local y una baja tasa de metástasis. Se presenta como una lesión nodular, perlada y con telangiectasias en áreas expuestas al sol, como la cara y la mejilla.",
+            "incorrect": "Incorrecto. La respuesta correcta es carcinoma basocelular. El carcinoma basocelular se presenta como una lesión nodular, perlada y con telangiectasias en áreas expuestas al sol, como la cara y la mejilla."
+        }
+    },
+    {
+        "question": "Un paciente de 40 años, con antecedentes de exposición solar, presenta una lesión pigmentada con bordes irregulares y un color heterogéneo. El médico sospecha un melanoma. ¿Cuál de los siguientes es un factor de riesgo para el desarrollo de melanoma?",
+        "options": [
+            { "text": "El fototipo de piel alto.", "isCorrect": false },
+            { "text": "La exposición solar intermitente e intensa.", "isCorrect": true },
+            { "text": "La exposición solar crónica.", "isCorrect": false },
+            { "text": "La presencia de múltiples nevus.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! La exposición solar intermitente e intensa, especialmente durante la infancia, es el factor de riesgo más importante para el desarrollo de melanoma. Los otros factores de riesgo son: el fototipo de piel bajo, la presencia de múltiples nevus y los antecedentes familiares de melanoma.",
+            "incorrect": "Incorrecto. La respuesta correcta es la exposición solar intermitente e intensa. El melanoma se relaciona con quemaduras solares intermitentes, por lo que es importante la protección solar en la infancia."
+        }
+    },
+    {
+        "question": "Un paciente con una lesión pigmentada sospechosa es evaluado con dermatoscopia. El médico observa un patrón de red, puntos o glóbulos. ¿Qué tipo de lesión es más probable que sea?",
+        "options": [
+            { "text": "Carcinoma basocelular.", "isCorrect": false },
+            { "text": "Carcinoma de células escamosas.", "isCorrect": false },
+            { "text": "Melanoma.", "isCorrect": false },
+            { "text": "Nevus.", "isCorrect": true }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! El documento menciona que los nevus suelen presentar un patrón de red, puntos o glóbulos. Los melanomas suelen presentar un patrón de red atípico, puntos o glóbulos irregulares, regresión y velo azulado. El carcinoma basocelular y el carcinoma de células escamosas no suelen presentar un patrón de red.",
+            "incorrect": "Incorrecto. La respuesta correcta es nevus. Los nevus suelen presentar un patrón de red, puntos o glóbulos. Los melanomas suelen presentar un patrón de red atípico, puntos o glóbulos irregulares, regresión y velo azulado."
+        }
+    },
+    {
+        "question": "En el diagnóstico de cáncer de piel, el médico realiza una biopsia. ¿Cuál es el tipo de biopsia que se recomienda para las lesiones pigmentadas sospechosas de melanoma?",
+        "options": [
+            { "text": "Biopsia por rasurado (shave biopsy).", "isCorrect": false },
+            { "text": "Biopsia por punción (punch biopsy).", "isCorrect": false },
+            { "text": "Biopsia por escisión completa.", "isCorrect": true },
+            { "text": "Biopsia por incisión.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! El documento menciona que para las lesiones pigmentadas sospechosas de melanoma, se recomienda una biopsia por escisión completa. La biopsia por rasurado y la biopsia por punción no se recomiendan para las lesiones sospechosas de melanoma, ya que pueden afectar el diagnóstico.",
+            "incorrect": "Incorrecto. La respuesta correcta es biopsia por escisión completa. Para las lesiones pigmentadas sospechosas de melanoma, se recomienda una biopsia por escisión completa. La biopsia por rasurado y la biopsia por punción no se recomiendan para las lesiones sospechosas de melanoma, ya que pueden afectar el diagnóstico."
+        }
+    },
+    {
+        "question": "Un paciente con una lesión pigmentada sospechosa es evaluado con dermatoscopia. El médico observa un velo azulado, puntos o glóbulos irregulares, regresión y un patrón de red atípico. ¿Qué tipo de lesión es más probable que sea?",
+        "options": [
+            { "text": "Carcinoma basocelular.", "isCorrect": false },
+            { "text": "Carcinoma de células escamosas.", "isCorrect": false },
+            { "text": "Melanoma.", "isCorrect": true },
+            { "text": "Nevus.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! El documento menciona que los melanomas suelen presentar un patrón de red atípico, puntos o glóbulos irregulares, regresión y velo azulado. Estas son las características que sugieren un melanoma. El diagnóstico y tratamiento temprano del melanoma es crucial, ya que tiene una alta tasa de metástasis.",
+            "incorrect": "Incorrecto. La respuesta correcta es melanoma. Los melanomas suelen presentar un patrón de red atípico, puntos o glóbulos irregulares, regresión y velo azulado. Estas son las características que sugieren un melanoma."
+        }
+    },
+    {
+        "question": "Un paciente de 60 años, con antecedentes de exposición solar, presenta una lesión nodular, perlada y con telangiectasias en la mejilla. ¿Qué tipo de lesión es más probable que sea?",
+        "options": [
+            { "text": "Carcinoma basocelular.", "isCorrect": true },
+            { "text": "Carcinoma de células escamosas.", "isCorrect": false },
+            { "text": "Queratosis actínica.", "isCorrect": false },
+            { "text": "Melanoma.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! El carcinoma basocelular es el tipo de cáncer de piel más común, con una alta tasa de recurrencia local y una baja tasa de metástasis. Se presenta como una lesión nodular, perlada y con telangiectasias en áreas expuestas al sol, como la cara y la mejilla.",
+            "incorrect": "Incorrecto. La respuesta correcta es carcinoma basocelular. El carcinoma basocelular se presenta como una lesión nodular, perlada y con telangiectasias en áreas expuestas al sol, como la cara y la mejilla."
+        }
+    },
+    {
+        "question": "Un paciente de 40 años, con antecedentes de exposición solar, presenta una lesión pigmentada con bordes irregulares y un color heterogéneo. El médico sospecha un melanoma. ¿Cuál de los siguientes es un factor de riesgo para el desarrollo de melanoma?",
+        "options": [
+            { "text": "El fototipo de piel alto.", "isCorrect": false },
+            { "text": "La exposición solar intermitente e intensa.", "isCorrect": true },
+            { "text": "La exposición solar crónica.", "isCorrect": false },
+            { "text": "La presencia de múltiples nevus.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! La exposición solar intermitente e intensa, especialmente durante la infancia, es el factor de riesgo más importante para el desarrollo de melanoma. Los otros factores de riesgo son: el fototipo de piel bajo, la presencia de múltiples nevus y los antecedentes familiares de melanoma.",
+            "incorrect": "Incorrecto. La respuesta correcta es la exposición solar intermitente e intensa. El melanoma se relaciona con quemaduras solares intermitentes, por lo que es importante la protección solar en la infancia."
+        }
+    },
+    {
+        "question": "Un paciente con una lesión pigmentada sospechosa es evaluado con dermatoscopia. El médico observa un patrón de red, puntos o glóbulos. ¿Qué tipo de lesión es más probable que sea?",
+        "options": [
+            { "text": "Carcinoma basocelular.", "isCorrect": false },
+            { "text": "Carcinoma de células escamosas.", "isCorrect": false },
+            { "text": "Melanoma.", "isCorrect": false },
+            { "text": "Nevus.", "isCorrect": true }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! El documento menciona que los nevus suelen presentar un patrón de red, puntos o glóbulos. Los melanomas suelen presentar un patrón de red atípico, puntos o glóbulos irregulares, regresión y velo azulado. El carcinoma basocelular y el carcinoma de células escamosas no suelen presentar un patrón de red.",
+            "incorrect": "Incorrecto. La respuesta correcta es nevus. Los nevus suelen presentar un patrón de red, puntos o glóbulos. Los melanomas suelen presentar un patrón de red atípico, puntos o glóbulos irregulares, regresión y velo azulado."
+        }
+    },
+    {
+        "question": "En el diagnóstico de cáncer de piel, el médico realiza una biopsia. ¿Cuál es el tipo de biopsia que se recomienda para las lesiones pigmentadas sospechosas de melanoma?",
+        "options": [
+            { "text": "Biopsia por rasurado (shave biopsy).", "isCorrect": false },
+            { "text": "Biopsia por punción (punch biopsy).", "isCorrect": false },
+            { "text": "Biopsia por escisión completa.", "isCorrect": true },
+            { "text": "Biopsia por incisión.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! El documento menciona que para las lesiones pigmentadas sospechosas de melanoma, se recomienda una biopsia por escisión completa. La biopsia por rasurado y la biopsia por punción no se recomiendan para las lesiones sospechosas de melanoma, ya que pueden afectar el diagnóstico.",
+            "incorrect": "Incorrecto. La respuesta correcta es biopsia por escisión completa. Para las lesiones pigmentadas sospechosas de melanoma, se recomienda una biopsia por escisión completa. La biopsia por rasurado y la biopsia por punción no se recomiendan para las lesiones sospechosas de melanoma, ya que pueden afectar el diagnóstico."
+        }
+    },
+    {
+        "question": "Un paciente con una lesión pigmentada sospechosa es evaluado con dermatoscopia. El médico observa un velo azulado, puntos o glóbulos irregulares, regresión y un patrón de red atípico. ¿Qué tipo de lesión es más probable que sea?",
+        "options": [
+            { "text": "Carcinoma basocelular.", "isCorrect": false },
+            { "text": "Carcinoma de células escamosas.", "isCorrect": false },
+            { "text": "Melanoma.", "isCorrect": true },
+            { "text": "Nevus.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! El documento menciona que los melanomas suelen presentar un patrón de red atípico, puntos o glóbulos irregulares, regresión y velo azulado. Estas son las características que sugieren un melanoma. El diagnóstico y tratamiento temprano del melanoma es crucial, ya que tiene una alta tasa de metástasis.",
+            "incorrect": "Incorrecto. La respuesta correcta es melanoma. Los melanomas suelen presentar un patrón de red atípico, puntos o glóbulos irregulares, regresión y velo azulado. Estas son las características que sugieren un melanoma."
+        }
+    },
+    {
+        "question": "Un paciente de 60 años, con antecedentes de exposición solar, presenta una lesión nodular, perlada y con telangiectasias en la mejilla. ¿Qué tipo de lesión es más probable que sea?",
+        "options": [
+            { "text": "Carcinoma basocelular.", "isCorrect": true },
+            { "text": "Carcinoma de células escamosas.", "isCorrect": false },
+            { "text": "Queratosis actínica.", "isCorrect": false },
+            { "text": "Melanoma.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! El carcinoma basocelular es el tipo de cáncer de piel más común, con una alta tasa de recurrencia local y una baja tasa de metástasis. Se presenta como una lesión nodular, perlada y con telangiectasias en áreas expuestas al sol, como la cara y la mejilla.",
+            "incorrect": "Incorrecto. La respuesta correcta es carcinoma basocelular. El carcinoma basocelular se presenta como una lesión nodular, perlada y con telangiectasias en áreas expuestas al sol, como la cara y la mejilla."
+        }
+    }
+]

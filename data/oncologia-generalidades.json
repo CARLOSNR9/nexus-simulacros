@@ -1,0 +1,483 @@
+[
+    {
+        "question": "Según el documento, la definición de cáncer en la actualidad se basa en que es un grupo de enfermedades caracterizadas por:",
+        "options": [
+            { "text": "La pérdida de la capacidad de apoptosis.", "isCorrect": false },
+            { "text": "Un desequilibrio entre los protooncogenes y los genes supresores de tumores, lo que les permite a las células adquirir propiedades más agresivas.", "isCorrect": true },
+            { "text": "Una sola enfermedad con una misma causa y mecanismo.", "isCorrect": false },
+            { "text": "La producción de una matriz extracelular que restringe el espacio en el túnel del carpo.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! El documento menciona que la definición de cáncer ha evolucionado de un simple grupo de enfermedades con proliferación descontrolada a un desequilibrio entre los protooncogenes y los genes supresores de tumores, lo que les permite a las células adquirir propiedades más agresivas y ser resistentes al tratamiento. Esto es la base de la patología molecular del cáncer.",
+            "incorrect": "Incorrecto. La respuesta correcta es un desequilibrio entre los protooncogenes y los genes supresores de tumores, lo que les permite a las células adquirir propiedades más agresivas y ser resistentes al tratamiento. El cáncer se considera un grupo de enfermedades con una base genética y molecular compleja."
+        }
+    },
+    {
+        "question": "Un paciente de 60 años, fumador, presenta una masa pulmonar. El patólogo realiza una biopsia y diagnostica un carcinoma de células escamosas. ¿A qué tipo de tejido de origen corresponde este tumor?",
+        "options": [
+            { "text": "Tejido conjuntivo y derivados.", "isCorrect": false },
+            { "text": "Tejido epitelial.", "isCorrect": true },
+            { "text": "Tejido nervioso.", "isCorrect": false },
+            { "text": "Células hematopoyéticas y linfoides.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! El carcinoma es el tipo más común de cáncer, se origina a partir de las células epiteliales. El carcinoma de células escamosas se origina en las células epiteliales que cubren la superficie de los órganos. Es una de las principales causas de cáncer de pulmón en los fumadores.",
+            "incorrect": "Incorrecto. La respuesta correcta es tejido epitelial. El carcinoma es el tipo más común de cáncer, se origina a partir de las células epiteliales. El carcinoma de células escamosas se origina en las células epiteliales que cubren la superficie de los órganos."
+        }
+    },
+    {
+        "question": "Un paciente presenta un tumor benigno en la piel. El patólogo lo clasifica como un fibroma. ¿Cuál de las siguientes afirmaciones sobre los tumores benignos es correcta?",
+        "options": [
+            { "text": "Son proliferaciones neoplásicas que no invaden, de crecimiento relativamente lento, que conservan muchas de las características morfológicas y funcionales del tejido de origen.", "isCorrect": true },
+            { "text": "Invaden el tejido adyacente y diseminan a sitios distantes.", "isCorrect": false },
+            { "text": "Son tumores que tienen una alta capacidad de metástasis.", "isCorrect": false },
+            { "text": "La mayoría de los tumores benignos no presentan las características morfológicas y funcionales del tejido de origen.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! Los tumores benignos son proliferaciones neoplásicas no invasivas, de crecimiento relativamente lento, que conservan muchas de las características morfológicas y funcionales del tejido de origen. No invaden ni metástasis. Suelen estar rodeados por una cápsula fibrosa y no infiltran el tejido adyacente.",
+            "incorrect": "Incorrecto. La respuesta correcta es que son proliferaciones neoplásicas no invasivas, de crecimiento relativamente lento, que conservan muchas de las características morfológicas y funcionales del tejido de origen. Los tumores malignos invaden y metastatizan, lo que los distingue claramente de los tumores benignos."
+        }
+    },
+    {
+        "question": "El documento menciona que el cáncer es una enfermedad genética. ¿Cuál de los siguientes no es un cambio en los genes que causa el cáncer?",
+        "options": [
+            { "text": "Errores que ocurren cuando las células se multiplican.", "isCorrect": false },
+            { "text": "Daños en el ADN por sustancias perjudiciales en el medio ambiente.", "isCorrect": false },
+            { "text": "Se pasan por herencia de padres a hijos.", "isCorrect": false },
+            { "text": "La apoptosis.", "isCorrect": true }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! El documento menciona que el cáncer es ocasionado por cambios (mutaciones) en el ADN dentro de las células. Los cambios genéticos que causan cáncer se producen por errores que ocurren cuando las células se multiplican, daños en el ADN por sustancias perjudiciales en el medio ambiente y se pasan por herencia de padres a hijos. La apoptosis es el proceso de muerte celular programada, que se altera en las células cancerosas, no una causa de cáncer.",
+            "incorrect": "Incorrecto. La respuesta correcta es la apoptosis. El documento menciona que los cambios genéticos que causan cáncer se producen por errores que ocurren cuando las células se multiplican, daños en el ADN por sustancias perjudiciales en el medio ambiente y se pasan por herencia de padres a hijos. La apoptosis es el proceso de muerte celular programada."
+        }
+    },
+    {
+        "question": "Un paciente de 70 años, con antecedentes de diabetes y obesidad, presenta un cáncer de colon. ¿Cuál de los siguientes es un factor de riesgo de cáncer relacionado con el estilo de vida?",
+        "options": [
+            { "text": "La edad.", "isCorrect": false },
+            { "text": "El hábito tabáquico.", "isCorrect": true },
+            { "text": "Las mutaciones genéticas.", "isCorrect": false },
+            { "text": "La obesidad.", "isCorrect": true }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! El documento menciona que los factores relacionados con el estilo de vida son los más frecuentes. El hábito tabáquico, el consumo de alcohol, el sedentarismo y la obesidad son factores que están claramente asociados a un aumento de la incidencia del cáncer. La edad y las mutaciones genéticas son otros factores de riesgo, pero no son relacionados con el estilo de vida.",
+            "incorrect": "Incorrecto. El documento menciona que el hábito tabáquico, el consumo de alcohol, el sedentarismo y la obesidad son factores que están claramente asociados a un aumento de la incidencia del cáncer. La edad y las mutaciones genéticas son otros factores de riesgo, pero no son relacionados con el estilo de vida."
+        }
+    },
+    {
+        "question": "El documento menciona que la definición de cáncer ha evolucionado de un simple grupo de enfermedades con proliferación descontrolada. ¿Cuáles son los dos grupos principales de cáncer?",
+        "options": [
+            { "text": "Carcinomas y sarcomas.", "isCorrect": true },
+            { "text": "Leucemias y linfomas.", "isCorrect": false },
+            { "text": "Tumores sólidos y tumores líquidos.", "isCorrect": true },
+            { "text": "Los tumores sólidos son aquellos tipos que aparecen en cualquier órgano o tejido del cuerpo. Los tipos más comunes de tumores sólidos son el de seno, próstata, pulmón y el colorrectal.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! El documento menciona que existen dos categorías principales de cáncer: los cánceres hematológicos (de la sangre), como la leucemia y el linfoma, y los cánceres de tumores sólidos, que aparecen en cualquier órgano o tejido del cuerpo, como el de seno, próstata, pulmón y colorrectal. Los carcinomas y los sarcomas son subtipos de tumores sólidos. Las leucemias y los linfomas son subtipos de cánceres hematológicos.",
+            "incorrect": "Incorrecto. La respuesta correcta es tumores sólidos y tumores líquidos. El documento menciona que existen dos categorías principales de cáncer: los cánceres hematológicos (de la sangre), como la leucemia y el linfoma, y los cánceres de tumores sólidos, que aparecen en cualquier órgano o tejido del cuerpo, como el de seno, próstata, pulmón y colorrectal. Los carcinomas y los sarcomas son subtipos de tumores sólidos."
+        }
+    },
+    {
+        "question": "El documento menciona que el cáncer es una de las principales causas de muerte en todo el mundo. ¿Cuál de los siguientes es el cáncer más común en hombres en la Región de las Américas?",
+        "options": [
+            { "text": "Cáncer de pulmón.", "isCorrect": false },
+            { "text": "Cáncer de próstata.", "isCorrect": true },
+            { "text": "Cáncer de colon.", "isCorrect": false },
+            { "text": "Cáncer de recto.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! El documento menciona que los tipos de cáncer diagnosticados con mayor frecuencia en los hombres en la Región de las Américas son: próstata (21.8%), pulmón (8.6%), colorrectal (7.7%) y vejiga (4.5%).",
+            "incorrect": "Incorrecto. La respuesta correcta es cáncer de próstata. El documento menciona que los tipos de cáncer diagnosticados con mayor frecuencia en los hombres en la Región de las Américas son: próstata (21.8%), pulmón (8.6%), colorrectal (7.7%) y vejiga (4.5%)."
+        }
+    },
+    {
+        "question": "El documento menciona que la definición de cáncer ha evolucionado de un simple grupo de enfermedades con proliferación descontrolada. ¿Cuál de los siguientes no es un hallazgo que se esperaría encontrar en una célula cancerosa?",
+        "options": [
+            { "text": "Pérdida de la capacidad para morir.", "isCorrect": false },
+            { "text": "División sin límite.", "isCorrect": false },
+            { "text": "Adhesión entre sí que las hace menos propensas a diseminarse.", "isCorrect": true },
+            { "text": "Un aspecto menos ordenado, con distintos tamaños y sin una organización aparente.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! Las células del cáncer están menos unidas entre sí que las células normales y por eso tienen tendencia a salir del lugar donde nacieron y extenderse a otro órgano. Esto es lo que se denomina metástasis. Los otros tres hallazgos son características de las células cancerosas.",
+            "incorrect": "Incorrecto. La respuesta correcta es la adhesión entre sí que las hace menos propensas a diseminarse. Las células del cáncer están menos unidas entre sí que las células normales y por eso tienen tendencia a salir del lugar donde nacieron y extenderse a otro órgano, es lo que se denomina metástasis."
+        }
+    },
+    {
+        "question": "El documento menciona que el cáncer es la principal causa de muerte en todo el mundo. ¿Cuál de los siguientes es el cáncer más común en mujeres en la Región de las Américas?",
+        "options": [
+            { "text": "Cáncer de mama.", "isCorrect": true },
+            { "text": "Cáncer de pulmón.", "isCorrect": false },
+            { "text": "Cáncer de colon.", "isCorrect": false },
+            { "text": "Cáncer de recto.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! El documento menciona que los tipos de cáncer diagnosticados con mayor frecuencia en las mujeres en la Región de las Américas son: mama (21.8%), pulmón (8.6%), colorrectal (7.7%) y vejiga (4.5%).",
+            "incorrect": "Incorrecto. La respuesta correcta es cáncer de mama. El documento menciona que los tipos de cáncer diagnosticados con mayor frecuencia en las mujeres en la Región de las Américas son: mama (21.8%), pulmón (8.6%), colorrectal (7.7%) y vejiga (4.5%)."
+        }
+    },
+    {
+        "question": "El documento menciona que el cáncer es una enfermedad genética. ¿Cuál de las siguientes no es una causa del cáncer?",
+        "options": [
+            { "text": "Factores de riesgo relacionados con el estilo de vida.", "isCorrect": false },
+            { "text": "Factores genéticos.", "isCorrect": false },
+            { "text": "Factores ambientales.", "isCorrect": false },
+            { "text": "La apoptosis.", "isCorrect": true }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! El documento menciona que el cáncer es ocasionado por cambios (mutaciones) en el ADN dentro de las células. Los cambios genéticos que causan cáncer se producen por factores relacionados con el estilo de vida, factores genéticos y factores ambientales. La apoptosis es el proceso de muerte celular programada, que se altera en las células cancerosas, no una causa de cáncer.",
+            "incorrect": "Incorrecto. La respuesta correcta es la apoptosis. El documento menciona que los cambios genéticos que causan cáncer se producen por factores relacionados con el estilo de vida, factores genéticos y factores ambientales. La apoptosis es el proceso de muerte celular programada, que se altera en las células cancerosas, no una causa de cáncer."
+        }
+    },
+    {
+        "question": "Un paciente de 50 años presenta una masa en el cuello que, según el estudio histológico, es un carcinoma. ¿Cuál es el tipo de cáncer más común?",
+        "options": [
+            { "text": "Carcinoma.", "isCorrect": true },
+            { "text": "Sarcoma.", "isCorrect": false },
+            { "text": "Leucemia.", "isCorrect": false },
+            { "text": "Linfoma.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! El documento menciona que el carcinoma es el tipo más común de cáncer, se origina a partir de las células epiteliales. Representa más del 80% de la totalidad de los cánceres, incluyendo las variedades más comunes de cáncer de pulmón, mama, colon, próstata, páncreas y estómago, entre otros.",
+            "incorrect": "Incorrecto. La respuesta correcta es carcinoma. El documento menciona que el carcinoma es el tipo más común de cáncer, se origina a partir de las células epiteliales. Representa más del 80% de la totalidad de los cánceres, incluyendo las variedades más comunes de cáncer de pulmón, mama, colon, próstata, páncreas y estómago, entre otros."
+        }
+    },
+    {
+        "question": "Un paciente con cáncer de colon es diagnosticado. El médico le explica que el tratamiento del cáncer se adapta al tipo de tumor, al estadio del tumor y a las características biológicas y moleculares del tumor. ¿Qué es el estadio del tumor?",
+        "options": [
+            { "text": "El tipo de tumor.", "isCorrect": false },
+            { "text": "La extensión de la enfermedad.", "isCorrect": true },
+            { "text": "Las características biológicas y moleculares del tumor.", "isCorrect": false },
+            { "text": "El tratamiento del tumor.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! El documento menciona que el estadio del tumor hace referencia a la extensión de la enfermedad. Básicamente se diferencian tres situaciones: tumores localizados, tumores localmente avanzados y tumores metastásicos o diseminados.",
+            "incorrect": "Incorrecto. La respuesta correcta es la extensión de la enfermedad. El documento menciona que el estadio del tumor hace referencia a la extensión de la enfermedad. Básicamente se diferencian tres situaciones: tumores localizados, tumores localmente avanzados y tumores metastásicos o diseminados."
+        }
+    },
+    {
+        "question": "En el diagnóstico de cáncer, el médico realiza una biopsia. ¿Cuál es la finalidad de este procedimiento?",
+        "options": [
+            { "text": "Para determinar el tipo de tumor.", "isCorrect": false },
+            { "text": "Para determinar el estadio del tumor.", "isCorrect": false },
+            { "text": "Para confirmar el diagnóstico y el tejido de origen cuando se sospecha de cáncer.", "isCorrect": true },
+            { "text": "Para determinar las características biológicas y moleculares del tumor.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! El documento menciona que para llegar al diagnóstico de certeza, suele ser necesario tomar una muestra del tumor (biopsia), para realizar un estudio histológico del tejido. El estudio de la biopsia es la única forma de obtener un diagnóstico definitivo de cáncer.",
+            "incorrect": "Incorrecto. La respuesta correcta es confirmar el diagnóstico y el tejido de origen cuando se sospecha de cáncer. El estudio de la biopsia es la única forma de obtener un diagnóstico definitivo de cáncer."
+        }
+    },
+    {
+        "question": "Un paciente presenta un tumor maligno. El patólogo lo clasifica como un osteosarcoma. ¿Cuál de los siguientes es el tejido de origen de este tumor?",
+        "options": [
+            { "text": "Tejido conjuntivo y derivados.", "isCorrect": true },
+            { "text": "Tejido epitelial.", "isCorrect": false },
+            { "text": "Tejido nervioso.", "isCorrect": false },
+            { "text": "Células hematopoyéticas y linfoides.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! El osteosarcoma es un tumor maligno que se origina a partir del tejido óseo, que es un tejido conjuntivo. El sarcoma es un tipo de cáncer que se forma a partir del llamado tejido conectivo o conjuntivo, del que derivan los músculos, los huesos, los cartílagos o el tejido graso.",
+            "incorrect": "Incorrecto. La respuesta correcta es tejido conjuntivo y derivados. El osteosarcoma es un tumor maligno que se origina a partir del tejido óseo, que es un tejido conjuntivo. El sarcoma es un tipo de cáncer que se forma a partir del llamado tejido conectivo o conjuntivo, del que derivan los músculos, los huesos, los cartílagos o el tejido graso."
+        }
+    },
+    {
+        "question": "En el diagnóstico de cáncer, el médico realiza pruebas por imágenes para examinar los huesos y órganos internos de forma no invasiva. ¿Cuál de las siguientes pruebas se utiliza para examinar los huesos?",
+        "options": [
+            { "text": "Tomografía computarizada (TC).", "isCorrect": false },
+            { "text": "Tomografía por emisión de positrones (PET).", "isCorrect": false },
+            { "text": "Resonancia magnética (RM).", "isCorrect": false },
+            { "text": "Gammagrafía ósea.", "isCorrect": true }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! El documento menciona que las pruebas por imágenes utilizadas para el diagnóstico del cáncer pueden consistir en tomografías computarizadas, gammagrafías óseas, resonancias magnéticas, tomografías por emisión de positrones, ecografías y radiografías. La gammagrafía ósea es una prueba por imágenes que se utiliza para examinar los huesos.",
+            "incorrect": "Incorrecto. La respuesta correcta es gammagrafía ósea. La gammagrafía ósea es una prueba por imágenes que se utiliza para examinar los huesos. Las otras pruebas se utilizan para examinar los órganos internos."
+        }
+    },
+    {
+        "question": "El documento menciona que la prevención es la estrategia más costoeficaz a largo plazo para luchar contra el cáncer. ¿Cuál de los siguientes no es un factor de riesgo que se puede modificar o suprimir para prevenir el cáncer?",
+        "options": [
+            { "text": "El consumo de tabaco.", "isCorrect": false },
+            { "text": "La inactividad física.", "isCorrect": false },
+            { "text": "El consumo de alcohol.", "isCorrect": false },
+            { "text": "El envejecimiento.", "isCorrect": true }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! El documento menciona que el riesgo de cáncer aumenta muchísimo con la edad, muy probablemente porque se van acumulando factores de riesgo de determinados tipos de cáncer. El envejecimiento no es un factor de riesgo que se puede modificar o suprimir. Sin embargo, el consumo de tabaco, la inactividad física y el consumo de alcohol son factores de riesgo que se pueden modificar o suprimir para prevenir el cáncer.",
+            "incorrect": "Incorrecto. La respuesta correcta es el envejecimiento. El envejecimiento no es un factor de riesgo que se puede modificar o suprimir. Sin embargo, el consumo de tabaco, la inactividad física y el consumo de alcohol son factores de riesgo que se pueden modificar o suprimir para prevenir el cáncer."
+        }
+    },
+    {
+        "question": "Un paciente con un cáncer de origen primario desconocido es diagnosticado. El médico le explica que el cáncer de origen primario desconocido es un grupo heterogéneo de tumores malignos que se definen por la presencia de metástasis. ¿Cuál de las siguientes pruebas se utiliza para diagnosticar un cáncer de origen primario desconocido?",
+        "options": [
+            { "text": "Estudios por imágenes.", "isCorrect": true },
+            { "text": "Análisis de sangre.", "isCorrect": true },
+            { "text": "Biopsias.", "isCorrect": true },
+            { "text": "Todas las opciones son correctas.", "isCorrect": true }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! El documento menciona que las pruebas para diagnosticar un cáncer de origen primario desconocido son: estudios por imágenes, análisis de sangre y biopsias. Las biopsias son la única forma de obtener un diagnóstico definitivo de cáncer, pero las otras pruebas también son útiles para el diagnóstico. Por lo tanto, todas las opciones son correctas.",
+            "incorrect": "Incorrecto. La respuesta correcta es todas las opciones son correctas. El documento menciona que las pruebas para diagnosticar un cáncer de origen primario desconocido son: estudios por imágenes, análisis de sangre y biopsias. Las biopsias son la única forma de obtener un diagnóstico definitivo de cáncer, pero las otras pruebas también son útiles para el diagnóstico."
+        }
+    },
+    {
+        "question": "Un paciente con un tumor en el hueso es diagnosticado. El patólogo lo clasifica como un sarcoma. ¿Cuál de los siguientes es el tejido de origen de este tumor?",
+        "options": [
+            { "text": "Tejido conjuntivo y derivados.", "isCorrect": true },
+            { "text": "Tejido epitelial.", "isCorrect": false },
+            { "text": "Tejido nervioso.", "isCorrect": false },
+            { "text": "Células hematopoyéticas y linfoides.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! El sarcoma es un tipo de cáncer que se forma a partir del llamado tejido conectivo o conjuntivo, del que derivan los músculos, los huesos, los cartílagos o el tejido graso. El osteosarcoma es un tumor maligno que se origina a partir del tejido óseo, que es un tejido conjuntivo.",
+            "incorrect": "Incorrecto. La respuesta correcta es tejido conjuntivo y derivados. El sarcoma es un tipo de cáncer que se forma a partir del llamado tejido conectivo o conjuntivo, del que derivan los músculos, los huesos, los cartílagos o el tejido graso."
+        }
+    },
+    {
+        "question": "En el diagnóstico de cáncer, el médico realiza una exploración física. ¿Qué debe buscar el médico en la exploración física?",
+        "options": [
+            { "text": "Bultos que indiquen la presencia de cáncer.", "isCorrect": true },
+            { "text": "Anomalías, como cambios en el color de la piel o el agrandamiento de un órgano.", "isCorrect": true },
+            { "text": "Síntomas sospechosos en el paciente.", "isCorrect": true },
+            { "text": "Todas las opciones son correctas.", "isCorrect": true }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! El documento menciona que el primer paso en el diagnóstico del cáncer es una historia clínica realizada por el médico, para determinar si existe algún síntoma sospechoso en el paciente. La exploración física es el segundo paso, donde el médico puede palpar partes del cuerpo en busca de bultos que indiquen la presencia de cáncer, buscar anomalías, como cambios en el color de la piel o el agrandamiento de un órgano, que podrían indicar la presencia de cáncer. Por lo tanto, todas las opciones son correctas.",
+            "incorrect": "Incorrecto. La respuesta correcta es todas las opciones son correctas. El documento menciona que el primer paso en el diagnóstico del cáncer es una historia clínica realizada por el médico, para determinar si existe algún síntoma sospechoso en el paciente. La exploración física es el segundo paso, donde el médico puede palpar partes del cuerpo en busca de bultos que indiquen la presencia de cáncer, buscar anomalías, como cambios en el color de la piel o el agrandamiento de un órgano, que podrían indicar la presencia de cáncer."
+        }
+    },
+    {
+        "question": "El documento menciona que el diagnóstico del cáncer es la principal causa de muerte en todo el mundo. ¿Cuál de los siguientes es el cáncer que causó el mayor número de defunciones en 2020?",
+        "options": [
+            { "text": "Cáncer de mama.", "isCorrect": false },
+            { "text": "Cáncer de pulmón.", "isCorrect": true },
+            { "text": "Cáncer colorrectal.", "isCorrect": false },
+            { "text": "Cáncer de hígado.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! El documento menciona que los tipos de cáncer que causaron un mayor número de fallecimientos en 2020 fueron: de pulmón (1,8 millones de defunciones), colorrectal (916 000 defunciones), hepático (830 000 defunciones), gástrico (769 000 defunciones) y de mama (685 000 defunciones).",
+            "incorrect": "Incorrecto. La respuesta correcta es cáncer de pulmón. El documento menciona que los tipos de cáncer que causaron un mayor número de fallecimientos en 2020 fueron: de pulmón (1,8 millones de defunciones), colorrectal (916 000 defunciones), hepático (830 000 defunciones), gástrico (769 000 defunciones) y de mama (685 000 defunciones)."
+        }
+    },
+    {
+        "question": "Un paciente con cáncer de mama es diagnosticado. El médico le explica que el tratamiento del cáncer se adapta al tipo de tumor, al estadio del tumor y a las características biológicas y moleculares del tumor. ¿Qué es la metástasis?",
+        "options": [
+            { "text": "La proliferación incontrolada de células.", "isCorrect": false },
+            { "text": "La invasión local del tejido adyacente.", "isCorrect": false },
+            { "text": "La propagación del cáncer a otras partes del cuerpo a través de la sangre o el sistema linfático.", "isCorrect": true },
+            { "text": "La pérdida de la capacidad de apoptosis.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! El documento menciona que la metástasis es la propagación del cáncer a otras partes del cuerpo a través de la sangre o el sistema linfático. Las células del cáncer están menos unidas entre sí que las células normales y por eso tienen tendencia a salir del lugar donde nacieron y extenderse a otro órgano, es lo que se denomina metástasis.",
+            "incorrect": "Incorrecto. La respuesta correcta es la propagación del cáncer a otras partes del cuerpo a través de la sangre o el sistema linfático. Las células del cáncer están menos unidas entre sí que las células normales y por eso tienen tendencia a salir del lugar donde nacieron y extenderse a otro órgano, es lo que se denomina metástasis."
+        }
+    },
+    {
+        "question": "El documento menciona que el diagnóstico del cáncer se puede realizar con análisis de laboratorio. ¿Qué análisis de laboratorio se utiliza para diagnosticar las leucemias?",
+        "options": [
+            { "text": "Análisis bioquímico de la sangre.", "isCorrect": false },
+            { "text": "Recuento sanguíneo completo (RSC).", "isCorrect": true },
+            { "text": "Análisis citogenético.", "isCorrect": false },
+            { "text": "Análisis de orina.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! El documento menciona que el recuento sanguíneo completo (RSC) se utiliza para diagnosticar algunos cánceres, en especial las leucemias. El RSC mide la cantidad de glóbulos rojos, glóbulos blancos y plaquetas en la sangre.",
+            "incorrect": "Incorrecto. La respuesta correcta es recuento sanguíneo completo (RSC). El documento menciona que el recuento sanguíneo completo (RSC) se utiliza para diagnosticar algunos cánceres, en especial las leucemias. El RSC mide la cantidad de glóbulos rojos, glóbulos blancos y plaquetas en la sangre."
+        }
+    },
+    {
+        "question": "El documento menciona que la definición de cáncer ha evolucionado de un simple grupo de enfermedades con proliferación descontrolada. ¿Cuál de las siguientes no es un subtipo de tumores sólidos?",
+        "options": [
+            { "text": "Carcinoma.", "isCorrect": false },
+            { "text": "Sarcoma.", "isCorrect": false },
+            { "text": "Leucemia.", "isCorrect": true },
+            { "text": "Melanoma.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! La leucemia es un tipo de cáncer hematológico, que se origina en la médula ósea. El carcinoma, el sarcoma y el melanoma son subtipos de tumores sólidos.",
+            "incorrect": "Incorrecto. La respuesta correcta es leucemia. La leucemia es un tipo de cáncer hematológico, que se origina en la médula ósea. El carcinoma, el sarcoma y el melanoma son subtipos de tumores sólidos."
+        }
+    },
+    {
+        "question": "El documento menciona que los tumores benignos se diferencian de los malignos por varias características. ¿Cuál de las siguientes es una característica de los tumores benignos?",
+        "options": [
+            { "text": "Invaden los tejidos cercanos.", "isCorrect": false },
+            { "text": "Viajan a lugares distantes del cuerpo a través de la sangre o el sistema linfático.", "isCorrect": false },
+            { "text": "No se diseminan ni invaden los tejidos cercanos.", "isCorrect": true },
+            { "text": "Siempre son pequeños y no regresan después de ser extraídos.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! El documento menciona que los tumores benignos no se diseminan ni invaden los tejidos cercanos. Sin embargo, los tumores benignos a veces pueden ser bastante grandes y regresar después de ser extraídos.",
+            "incorrect": "Incorrecto. La respuesta correcta es que no se diseminan ni invaden los tejidos cercanos. El documento menciona que los tumores benignos no se diseminan ni invaden los tejidos cercanos. Sin embargo, los tumores benignos a veces pueden ser bastante grandes y regresar después de ser extraídos."
+        }
+    },
+    {
+        "question": "El documento menciona que el cáncer es una enfermedad genética. ¿Cuál de las siguientes es una de las causas que se esperaría encontrar en un paciente con cáncer?",
+        "options": [
+            { "text": "Errores que ocurren cuando las células se multiplican.", "isCorrect": true },
+            { "text": "Daños en el ADN por sustancias perjudiciales en el medio ambiente.", "isCorrect": true },
+            { "text": "Se pasan por herencia de padres a hijos.", "isCorrect": true },
+            { "text": "Todas las opciones son correctas.", "isCorrect": true }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! El documento menciona que los cambios genéticos que causan cáncer se producen por errores que ocurren cuando las células se multiplican, daños en el ADN por sustancias perjudiciales en el medio ambiente y se pasan por herencia de padres a hijos. Por lo tanto, todas las opciones son correctas.",
+            "incorrect": "Incorrecto. La respuesta correcta es todas las opciones son correctas. El documento menciona que los cambios genéticos que causan cáncer se producen por errores que ocurren cuando las células se multiplican, daños en el ADN por sustancias perjudiciales en el medio ambiente y se pasan por herencia de padres a hijos."
+        }
+    },
+    {
+        "question": "El documento menciona que la radioterapia es un tratamiento para el cáncer. ¿Cuál es el objetivo de la radioterapia?",
+        "options": [
+            { "text": "Destruir el mayor número posible de células cancerosas y limitar el daño que sufre el tejido sano aledaño.", "isCorrect": true },
+            { "text": "Destruir el mayor número posible de células cancerosas sin dañar el tejido sano.", "isCorrect": false },
+            { "text": "Limitar el daño que sufre el tejido sano aledaño.", "isCorrect": false },
+            { "text": "Estimular el crecimiento de las células cancerosas.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! El documento menciona que el objetivo de la radioterapia es destruir el mayor número posible de células cancerosas y limitar el daño que sufre el tejido sano aledaño. La radiación daña las células cancerosas, pero también las células normales.",
+            "incorrect": "Incorrecto. La respuesta correcta es destruir el mayor número posible de células cancerosas y limitar el daño que sufre el tejido sano aledaño. La radiación daña las células cancerosas, pero también las células normales."
+        }
+    },
+    {
+        "question": "El documento menciona que el cáncer es la principal causa de muerte en todo el mundo. ¿Cuál de los siguientes es el cáncer más común en mujeres en América Latina y el Caribe?",
+        "options": [
+            { "text": "Cáncer de mama.", "isCorrect": true },
+            { "text": "Cáncer de pulmón.", "isCorrect": false },
+            { "text": "Cáncer colorrectal.", "isCorrect": false },
+            { "text": "Cáncer cervicouterino.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! El documento menciona que en América Latina y el Caribe, se registraron más de 220,000 nuevos casos de cáncer de mama y más de 100.000 muertes por este cáncer. El cáncer cervicouterino también es una causa importante de muerte en la región, con más de 63,000 mujeres diagnosticadas y más de 33,000 muertes.",
+            "incorrect": "Incorrecto. La respuesta correcta es cáncer de mama. El documento menciona que en América Latina y el Caribe, se registraron más de 220,000 nuevos casos de cáncer de mama y más de 100.000 muertes por este cáncer. El cáncer cervicouterino también es una causa importante de muerte en la región, con más de 63,000 mujeres diagnosticadas y más de 33,000 muertes."
+        }
+    },
+    {
+        "question": "El documento menciona que el envejecimiento es un factor de riesgo para el cáncer. ¿Cuál es la razón principal?",
+        "options": [
+            { "text": "Se van acumulando factores de riesgo de determinados tipos de cáncer.", "isCorrect": true },
+            { "text": "La inactividad física.", "isCorrect": false },
+            { "text": "La dieta poco saludable.", "isCorrect": false },
+            { "text": "El consumo de tabaco.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! El documento menciona que la incidencia del cáncer aumenta muchísimo con la edad, muy probablemente porque se van acumulando factores de riesgo de determinados tipos de cáncer. A esta acumulación global se suma la pérdida de eficacia de los mecanismos de reparación celular que suele ocurrir con la edad.",
+            "incorrect": "Incorrecto. La respuesta correcta es que se van acumulando factores de riesgo de determinados tipos de cáncer. El documento menciona que la incidencia del cáncer aumenta muchísimo con la edad, muy probablemente porque se van acumulando factores de riesgo de determinados tipos de cáncer."
+        }
+    },
+    {
+        "question": "El documento menciona que el diagnóstico precoz del cáncer consta de tres componentes. ¿Cuál de los siguientes no es un componente del diagnóstico precoz?",
+        "options": [
+            { "text": "El conocimiento de los síntomas de los distintos tipos de cáncer.", "isCorrect": false },
+            { "text": "El acceso a los servicios clínicos de evaluación y diagnóstico.", "isCorrect": false },
+            { "text": "La derivación oportuna del paciente a los servicios de tratamiento.", "isCorrect": false },
+            { "text": "La realización de mamografías.", "isCorrect": true }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! La realización de mamografías es una prueba de detección, no un componente del diagnóstico precoz. El diagnóstico precoz consta de tres componentes: el conocimiento de los síntomas de los distintos tipos de cáncer y de la importancia de acudir al médico si se observan anomalías que suscitan preocupación; el acceso a los servicios clínicos de evaluación y diagnóstico; y la derivación oportuna del paciente a los servicios de tratamiento.",
+            "incorrect": "Incorrecto. La respuesta correcta es la realización de mamografías. La realización de mamografías es una prueba de detección, no un componente del diagnóstico precoz."
+        }
+    },
+    {
+        "question": "El documento menciona que el diagnóstico precoz del cáncer consta de tres componentes. ¿Cuál de los siguientes no es un componente del diagnóstico precoz?",
+        "options": [
+            { "text": "El conocimiento de los síntomas de los distintos tipos de cáncer.", "isCorrect": false },
+            { "text": "El acceso a los servicios clínicos de evaluación y diagnóstico.", "isCorrect": false },
+            { "text": "La derivación oportuna del paciente a los servicios de tratamiento.", "isCorrect": false },
+            { "text": "La realización de mamografías.", "isCorrect": true }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! La realización de mamografías es una prueba de detección, no un componente del diagnóstico precoz. El diagnóstico precoz consta de tres componentes: el conocimiento de los síntomas de los distintos tipos de cáncer y de la importancia de acudir al médico si se observan anomalías que suscitan preocupación; el acceso a los servicios clínicos de evaluación y diagnóstico; y la derivación oportuna del paciente a los servicios de tratamiento.",
+            "incorrect": "Incorrecto. La respuesta correcta es la realización de mamografías. La realización de mamografías es una prueba de detección, no un componente del diagnóstico precoz."
+        }
+    },
+    {
+        "question": "El documento menciona que el diagnóstico precoz del cáncer consta de tres componentes. ¿Cuál de los siguientes no es un componente del diagnóstico precoz?",
+        "options": [
+            { "text": "El conocimiento de los síntomas de los distintos tipos de cáncer.", "isCorrect": false },
+            { "text": "El acceso a los servicios clínicos de evaluación y diagnóstico.", "isCorrect": false },
+            { "text": "La derivación oportuna del paciente a los servicios de tratamiento.", "isCorrect": false },
+            { "text": "La realización de mamografías.", "isCorrect": true }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! La realización de mamografías es una prueba de detección, no un componente del diagnóstico precoz. El diagnóstico precoz consta de tres componentes: el conocimiento de los síntomas de los distintos tipos de cáncer y de la importancia de acudir al médico si se observan anomalías que suscitan preocupación; el acceso a los servicios clínicos de evaluación y diagnóstico; y la derivación oportuna del paciente a los servicios de tratamiento.",
+            "incorrect": "Incorrecto. La respuesta correcta es la realización de mamografías. La realización de mamografías es una prueba de detección, no un componente del diagnóstico precoz."
+        }
+    },
+    {
+        "question": "El documento menciona que el diagnóstico precoz del cáncer consta de tres componentes. ¿Cuál de los siguientes no es un componente del diagnóstico precoz?",
+        "options": [
+            { "text": "El conocimiento de los síntomas de los distintos tipos de cáncer.", "isCorrect": false },
+            { "text": "El acceso a los servicios clínicos de evaluación y diagnóstico.", "isCorrect": false },
+            { "text": "La derivación oportuna del paciente a los servicios de tratamiento.", "isCorrect": false },
+            { "text": "La realización de mamografías.", "isCorrect": true }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! La realización de mamografías es una prueba de detección, no un componente del diagnóstico precoz. El diagnóstico precoz consta de tres componentes: el conocimiento de los síntomas de los distintos tipos de cáncer y de la importancia de acudir al médico si se observan anomalías que suscitan preocupación; el acceso a los servicios clínicos de evaluación y diagnóstico; y la derivación oportuna del paciente a los servicios de tratamiento.",
+            "incorrect": "Incorrecto. La respuesta correcta es la realización de mamografías. La realización de mamografías es una prueba de detección, no un componente del diagnóstico precoz."
+        }
+    },
+    {
+        "question": "El documento menciona que el diagnóstico precoz del cáncer consta de tres componentes. ¿Cuál de los siguientes no es un componente del diagnóstico precoz?",
+        "options": [
+            { "text": "El conocimiento de los síntomas de los distintos tipos de cáncer.", "isCorrect": false },
+            { "text": "El acceso a los servicios clínicos de evaluación y diagnóstico.", "isCorrect": false },
+            { "text": "La derivación oportuna del paciente a los servicios de tratamiento.", "isCorrect": false },
+            { "text": "La realización de mamografías.", "isCorrect": true }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! La realización de mamografías es una prueba de detección, no un componente del diagnóstico precoz. El diagnóstico precoz consta de tres componentes: el conocimiento de los síntomas de los distintos tipos de cáncer y de la importancia de acudir al médico si se observan anomalías que suscitan preocupación; el acceso a los servicios clínicos de evaluación y diagnóstico; y la derivación oportuna del paciente a los servicios de tratamiento.",
+            "incorrect": "Incorrecto. La respuesta correcta es la realización de mamografías. La realización de mamografías es una prueba de detección, no un componente del diagnóstico precoz."
+        }
+    },
+    {
+        "question": "El documento menciona que el diagnóstico precoz del cáncer consta de tres componentes. ¿Cuál de los siguientes no es un componente del diagnóstico precoz?",
+        "options": [
+            { "text": "El conocimiento de los síntomas de los distintos tipos de cáncer.", "isCorrect": false },
+            { "text": "El acceso a los servicios clínicos de evaluación y diagnóstico.", "isCorrect": false },
+            { "text": "La derivación oportuna del paciente a los servicios de tratamiento.", "isCorrect": false },
+            { "text": "La realización de mamografías.", "isCorrect": true }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! La realización de mamografías es una prueba de detección, no un componente del diagnóstico precoz. El diagnóstico precoz consta de tres componentes: el conocimiento de los síntomas de los distintos tipos de cáncer y de la importancia de acudir al médico si se observan anomalías que suscitan preocupación; el acceso a los servicios clínicos de evaluación y diagnóstico; y la derivación oportuna del paciente a los servicios de tratamiento.",
+            "incorrect": "Incorrecto. La respuesta correcta es la realización de mamografías. La realización de mamografías es una prueba de detección, no un componente del diagnóstico precoz."
+        }
+    },
+    {
+        "question": "El documento menciona que el diagnóstico precoz del cáncer consta de tres componentes. ¿Cuál de los siguientes no es un componente del diagnóstico precoz?",
+        "options": [
+            { "text": "El conocimiento de los síntomas de los distintos tipos de cáncer.", "isCorrect": false },
+            { "text": "El acceso a los servicios clínicos de evaluación y diagnóstico.", "isCorrect": false },
+            { "text": "La derivación oportuna del paciente a los servicios de tratamiento.", "isCorrect": false },
+            { "text": "La realización de mamografías.", "isCorrect": true }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! La realización de mamografías es una prueba de detección, no un componente del diagnóstico precoz. El diagnóstico precoz consta de tres componentes: el conocimiento de los síntomas de los distintos tipos de cáncer y de la importancia de acudir al médico si se observan anomalías que suscitan preocupación; el acceso a los servicios clínicos de evaluación y diagnóstico; y la derivación oportuna del paciente a los servicios de tratamiento.",
+            "incorrect": "Incorrecto. La respuesta correcta es la realización de mamografías. La realización de mamografías es una prueba de detección, no un componente del diagnóstico precoz."
+        }
+    },
+    {
+        "question": "El documento menciona que el diagnóstico precoz del cáncer consta de tres componentes. ¿Cuál de los siguientes no es un componente del diagnóstico precoz?",
+        "options": [
+            { "text": "El conocimiento de los síntomas de los distintos tipos de cáncer.", "isCorrect": false },
+            { "text": "El acceso a los servicios clínicos de evaluación y diagnóstico.", "isCorrect": false },
+            { "text": "La derivación oportuna del paciente a los servicios de tratamiento.", "isCorrect": false },
+            { "text": "La realización de mamografías.", "isCorrect": true }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! La realización de mamografías es una prueba de detección, no un componente del diagnóstico precoz. El diagnóstico precoz consta de tres componentes: el conocimiento de los síntomas de los distintos tipos de cáncer y de la importancia de acudir al médico si se observan anomalías que suscitan preocupación; el acceso a los servicios clínicos de evaluación y diagnóstico; y la derivación oportuna del paciente a los servicios de tratamiento.",
+            "incorrect": "Incorrecto. La respuesta correcta es la realización de mamografías. La realización de mamografías es una prueba de detección, no un componente del diagnóstico precoz."
+        }
+    },
+    {
+        "question": "El documento menciona que el diagnóstico precoz del cáncer consta de tres componentes. ¿Cuál de los siguientes no es un componente del diagnóstico precoz?",
+        "options": [
+            { "text": "El conocimiento de los síntomas de los distintos tipos de cáncer.", "isCorrect": false },
+            { "text": "El acceso a los servicios clínicos de evaluación y diagnóstico.", "isCorrect": false },
+            { "text": "La derivación oportuna del paciente a los servicios de tratamiento.", "isCorrect": false },
+            { "text": "La realización de mamografías.", "isCorrect": true }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! La realización de mamografías es una prueba de detección, no un componente del diagnóstico precoz. El diagnóstico precoz consta de tres componentes: el conocimiento de los síntomas de los distintos tipos de cáncer y de la importancia de acudir al médico si se observan anomalías que suscitan preocupación; el acceso a los servicios clínicos de evaluación y diagnóstico; y la derivación oportuna del paciente a los servicios de tratamiento.",
+            "incorrect": "Incorrecto. La respuesta correcta es la realización de mamografías. La realización de mamografías es una prueba de detección, no un componente del diagnóstico precoz."
+        }
+    }
+]

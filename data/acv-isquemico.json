@@ -1,0 +1,574 @@
+[
+    {
+        "question": "Un paciente de 60 años, hipertenso y diabético, llega a urgencias con un déficit neurológico súbito que incluye disartria, debilidad en el lado derecho de su cuerpo y déficit sensitivo. Su presión arterial es de 180/100 mmHg. ¿Qué es lo primero que se debe hacer?",
+        "options": [
+            { "text": "Administrar medicación para bajar la presión arterial a menos de 140/90 mmHg.", "isCorrect": false },
+            { "text": "Realizar una tomografía computarizada (TAC) de cráneo sin contraste para descartar hemorragia.", "isCorrect": true },
+            { "text": "Iniciar terapia trombolítica intravenosa con Alteplasa.", "isCorrect": false },
+            { "text": "Pedir una resonancia magnética cerebral (RMC).", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! El manejo inicial del ACV se centra en el reconocimiento clínico y en la neuroimagen urgente. Lo primero es realizar una TAC de cráneo sin contraste para descartar una hemorragia intracraneal, que es una contraindicación para el tratamiento trombolítico.",
+            "incorrect": "Incorrecto. La respuesta correcta es realizar una TAC de cráneo sin contraste para descartar una hemorragia. La neuroimagen es fundamental en el abordaje inicial, ya que es crucial diferenciar un ACV isquémico de uno hemorrágico, porque el tratamiento es completamente diferente."
+        }
+    },
+    {
+        "question": "Un paciente de 75 años con fibrilación auricular no anticoagulada llega a urgencias con una disartria y una hemiparesia izquierda. El médico sospecha un ACV isquémico. ¿Qué tipo de estudio se debe realizar para descartar la embolia cardíaca como causa?",
+        "options": [
+            { "text": "Electrocardiograma (ECG) y ecocardiograma transtorácico o transesofágico.", "isCorrect": true },
+            { "text": "Tomografía computarizada (TAC) de cráneo sin contraste.", "isCorrect": false },
+            { "text": "Angiotomografía de vasos de cuello y el Doppler transcraneal.", "isCorrect": false },
+            { "text": "Resonancia magnética cerebral (RMC).", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! El documento menciona que el electrocardiograma (ECG) debe realizarse de forma rutinaria para detectar arritmias, especialmente fibrilación auricular, que es una causa frecuente de ACV cardioembólico. El ecocardiograma transtorácico o transesofágico es útil para descartar trombos intracavitarios o foramen oval permeable.",
+            "incorrect": "Incorrecto. La respuesta correcta es ECG y ecocardiograma. La fibrilación auricular es una causa común de ACV cardioembólico. Por lo tanto, el ECG y el ecocardiograma son estudios de ayuda diagnóstica complementaria que se utilizan para identificar la etiología del evento."
+        }
+    },
+    {
+        "question": "Un paciente de 65 años llega a urgencias con un déficit neurológico súbito en el brazo derecho. La TAC de cráneo sin contraste es negativa para hemorragia. Han pasado 3 horas desde el inicio de los síntomas. El paciente es candidato a la terapia trombolítica. ¿Qué medicamento se utiliza para la terapia trombolítica intravenosa?",
+        "options": [
+            { "text": "Heparina.", "isCorrect": false },
+            { "text": "Alteplasa.", "isCorrect": true },
+            { "text": "Clopidogrel.", "isCorrect": false },
+            { "text": "Aspirina.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! El documento menciona que la terapia trombolítica intravenosa se realiza con Alteplasa. El tiempo ideal para su administración es de 4.5 horas desde el inicio de los síntomas.",
+            "incorrect": "Incorrecto. La respuesta correcta es Alteplasa. La terapia trombolítica intravenosa se realiza con Alteplasa. La Aspirina y el Clopidogrel son medicamentos antiagregantes que se utilizan en la prevención secundaria del ACV, no para la terapia trombolítica."
+        }
+    },
+    {
+        "question": "Un paciente de 50 años con un ACV isquémico ha sido tratado con terapia trombolítica. El médico necesita controlar la presión arterial del paciente para evitar una hemorragia intracraneal. ¿Cuál es el objetivo terapéutico de la presión arterial?",
+        "options": [
+            { "text": "Mantener la presión arterial por debajo de 185/110 mmHg.", "isCorrect": true },
+            { "text": "Mantener la presión arterial por debajo de 160/90 mmHg.", "isCorrect": false },
+            { "text": "Mantener la presión arterial por debajo de 140/90 mmHg.", "isCorrect": false },
+            { "text": "Mantener la presión arterial por debajo de 220/120 mmHg.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! El documento menciona que en pacientes candidatos a trombólisis intravenosa con Alteplasa, se recomienda reducir y mantener la presión arterial por debajo de 185/110 mmHg antes de la administración del tratamiento, y posteriormente sostenerla bajo 180/105 mmHg durante al menos las primeras 24 horas.",
+            "incorrect": "Incorrecto. La respuesta correcta es mantener la presión arterial por debajo de 185/110 mmHg. En pacientes candidatos a trombólisis intravenosa con Alteplasa, se recomienda reducir y mantener la presión arterial por debajo de 185/110 mmHg antes de la administración del tratamiento, y posteriormente sostenerla bajo 180/105 mmHg durante al menos las primeras 24 horas."
+        }
+    },
+    {
+        "question": "Un paciente de 60 años con un ACV isquémico no es candidato a la terapia trombolítica. Su presión arterial es de 200/110 mmHg. ¿Cuál es el manejo recomendado de la presión arterial?",
+        "options": [
+            { "text": "Mantener la presión arterial por debajo de 185/110 mmHg.", "isCorrect": false },
+            { "text": "No se recomienda bajar la presión arterial en este caso.", "isCorrect": false },
+            { "text": "Mantener la presión arterial por debajo de 220/120 mmHg.", "isCorrect": true },
+            { "text": "Mantener la presión arterial por debajo de 140/90 mmHg.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! El documento menciona que en pacientes que no son candidatos a trombólisis, se sugiere un enfoque más conservador, permitiendo cifras elevadas hasta 220/120 mmHg. En todos los casos, una disminución rápida o excesiva de la presión arterial debe evitarse, ya que puede comprometer la perfusión en áreas isquémicas.",
+            "incorrect": "Incorrecto. La respuesta correcta es mantener la presión arterial por debajo de 220/120 mmHg. En pacientes que no son candidatos a trombólisis, se sugiere un enfoque más conservador, permitiendo cifras elevadas hasta 220/120 mmHg. En todos los casos, una disminución rápida o excesiva de la presión arterial debe evitarse, ya que puede comprometer la perfusión en áreas isquémicas."
+        }
+    },
+    {
+        "question": "Un paciente con un ACV isquémico presenta un déficit neurológico que se resuelve en menos de 24 horas sin evidencia de infarto en neuroimagen. ¿Cuál es el diagnóstico?",
+        "options": [
+            { "text": "Accidente cerebrovascular isquémico (ACV).", "isCorrect": false },
+            { "text": "Ataque Isquémico Transitorio (AIT).", "isCorrect": true },
+            { "text": "Migraña con aura.", "isCorrect": false },
+            { "text": "Crisis epiléptica.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! El documento menciona que el Ataque Isquémico Transitorio (AIT) es un déficit neurológico transitorio que se resuelve en menos de 24 horas sin evidencia de infarto en neuroimagen. El AIT es un factor de riesgo para el ACV, por lo que el manejo debe ser inmediato.",
+            "incorrect": "Incorrecto. La respuesta correcta es Ataque Isquémico Transitorio (AIT). El AIT es un déficit neurológico transitorio que se resuelve en menos de 24 horas sin evidencia de infarto en neuroimagen. Es un factor de riesgo para el ACV, por lo que el manejo debe ser inmediato."
+        }
+    },
+    {
+        "question": "Un paciente con un ACV isquémico es evaluado con la escala NIHSS (National Institute of Health Stroke Scale). El resultado es un puntaje de 4. ¿Qué indica este puntaje?",
+        "options": [
+            { "text": "Un ACV grave.", "isCorrect": false },
+            { "text": "Un ACV moderado.", "isCorrect": true },
+            { "text": "Un ACV leve.", "isCorrect": false },
+            { "text": "Un ACV muy grave.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! El documento menciona que un puntaje NIHSS de 1 a 4 representa un ACV leve, de 5 a 16 representa un ACV moderado, y ≥20 representa un ACV grave. En este caso, el puntaje es de 4, por lo que se considera un ACV leve. El puntaje de 4 es un ACV leve, pero en el límite de moderado, por lo que se debe considerar el tratamiento con trombólisis.",
+            "incorrect": "Incorrecto. La respuesta correcta es un ACV leve. El documento menciona que un puntaje NIHSS <5 representa un ACV leve, de 5 a 16 representa un ACV moderado, y ≥20 representa un ACV grave. El puntaje de 4 es un ACV leve, pero en el límite de moderado, por lo que se debe considerar el tratamiento con trombólisis."
+        }
+    },
+    {
+        "question": "El documento menciona que el ACV isquémico es causado por una oclusión vascular. ¿Cuál es la etiología más frecuente de ACV isquémico en pacientes jóvenes?",
+        "options": [
+            { "text": "Aterosclerosis de grandes vasos.", "isCorrect": false },
+            { "text": "Enfermedad de pequeños vasos.", "isCorrect": false },
+            { "text": "Embolia de origen desconocido.", "isCorrect": true },
+            { "text": "Disección arterial.", "isCorrect": true }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! El documento menciona que la etiología de origen desconocido es la más frecuente en pacientes jóvenes. La disección arterial es otra causa común en este grupo etario.",
+            "incorrect": "Incorrecto. La respuesta correcta es embolia de origen desconocido. El documento menciona que la etiología de origen desconocido es la más frecuente en pacientes jóvenes. La disección arterial es otra causa común en este grupo etario."
+        }
+    },
+    {
+        "question": "En el manejo del ACV isquémico, la terapia antiplaquetaria dual con Aspirina y Clopidogrel se recomienda en pacientes con:",
+        "options": [
+            { "text": "ACV isquémico leve (NIHSS < 3) de etiología cardioembólica.", "isCorrect": false },
+            { "text": "ACV isquémico leve (NIHSS < 3) de etiología no cardioembólica.", "isCorrect": true },
+            { "text": "ACV isquémico moderado (NIHSS 5-16).", "isCorrect": false },
+            { "text": "ACV isquémico grave (NIHSS > 20).", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! El documento menciona que en pacientes con un evento isquémico leve, definido por una puntuación NIHSS menor a 3, sin etiología cardioembólica y que no hayan recibido alteplase, se aconseja el uso de terapia antiplaquetaria dual con aspirina y clopidogrel durante 21 días.",
+            "incorrect": "Incorrecto. La respuesta correcta es ACV isquémico leve (NIHSS < 3) de etiología no cardioembólica. El documento menciona que en pacientes con un evento isquémico leve, definido por una puntuación NIHSS menor a 3, sin etiología cardioembólica y que no hayan recibido alteplase, se aconseja el uso de terapia antiplaquetaria dual con aspirina y clopidogrel durante 21 días."
+        }
+    },
+    {
+        "question": "El documento menciona que la angiografía por tomografía de vasos de cuello y el Doppler transcraneal son herramientas clave en el diagnóstico de enfermedad aterotrombótica. ¿Qué evalúan estas herramientas?",
+        "options": [
+            { "text": "Estenosis arteriales, flujo hemodinámico y circulación colateral.", "isCorrect": true },
+            { "text": "Embolia de origen cardíaco.", "isCorrect": false },
+            { "text": "Trombos intracavitarios o foramen oval permeable.", "isCorrect": false },
+            { "text": "Lesiones isquémicas tempranas.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! El documento menciona que la angiotomografía de vasos de cuello y el Doppler transcraneal son herramientas clave en el diagnóstico de enfermedad aterotrombótica, ya que evalúan estenosis arteriales, flujo hemodinámico y circulación colateral. Estas herramientas son útiles en el diagnóstico de la enfermedad aterotrombótica, que es una de las causas del ACV isquémico.",
+            "incorrect": "Incorrecto. La respuesta correcta es estenosis arteriales, flujo hemodinámico y circulación colateral. El documento menciona que la angiotomografía de vasos de cuello y el Doppler transcraneal son herramientas clave en el diagnóstico de enfermedad aterotrombótica, ya que evalúan estenosis arteriales, flujo hemodinámico y circulación colateral."
+        }
+    },
+    {
+        "question": "Un paciente de 60 años con un ACV isquémico es evaluado con la escala NIHSS. El puntaje es de 22. ¿Qué indica este puntaje?",
+        "options": [
+            { "text": "Un ACV grave.", "isCorrect": true },
+            { "text": "Un ACV moderado.", "isCorrect": false },
+            { "text": "Un ACV leve.", "isCorrect": false },
+            { "text": "Un ACV muy grave.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! El documento menciona que un puntaje NIHSS de 1 a 4 representa un ACV leve, de 5 a 16 representa un ACV moderado, y ≥20 representa un ACV grave. En este caso, el puntaje es de 22, por lo que se considera un ACV grave. El puntaje de 22 es un ACV grave.",
+            "incorrect": "Incorrecto. La respuesta correcta es un ACV grave. El documento menciona que un puntaje NIHSS de 1 a 4 representa un ACV leve, de 5 a 16 representa un ACV moderado, y ≥20 representa un ACV grave. En este caso, el puntaje es de 22, por lo que se considera un ACV grave."
+        }
+    },
+    {
+        "question": "En el manejo del ACV isquémico, la terapia antiplaquetaria con Aspirina y Clopidogrel se recomienda en pacientes con un evento isquémico leve. ¿Cuál es la duración recomendada de este tratamiento?",
+        "options": [
+            { "text": "21 días.", "isCorrect": true },
+            { "text": "90 días.", "isCorrect": false },
+            { "text": "3 meses.", "isCorrect": false },
+            { "text": "6 meses.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! El documento menciona que en pacientes con un evento isquémico leve, definido por una puntuación NIHSS menor a 3, sin etiología cardioembólica y que no hayan recibido alteplase, se aconseja el uso de terapia antiplaquetaria dual con aspirina y clopidogrel durante 21 días.",
+            "incorrect": "Incorrecto. La respuesta correcta es 21 días. El documento menciona que en pacientes con un evento isquémico leve, definido por una puntuación NIHSS menor a 3, sin etiología cardioembólica y que no hayan recibido alteplase, se aconseja el uso de terapia antiplaquetaria dual con aspirina y clopidogrel durante 21 días."
+        }
+    },
+    {
+        "question": "El documento menciona que el ACV isquémico es una de las principales causas de morbilidad y mortalidad a nivel mundial. ¿Qué porcentaje de las causas de morbilidad y mortalidad representa el ACV?",
+        "options": [
+            { "text": "La segunda causa de muerte y la primera de discapacidad en adultos.", "isCorrect": true },
+            { "text": "La primera causa de muerte y la segunda de discapacidad en adultos.", "isCorrect": false },
+            { "text": "La tercera causa de muerte y la segunda de discapacidad en adultos.", "isCorrect": false },
+            { "text": "La cuarta causa de muerte y la primera de discapacidad en adultos.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! El documento menciona que el ataque o accidente cerebrovascular (ACV) constituye una de las principales causas de morbilidad y mortalidad a nivel mundial. En Colombia, el ACV isquémico es la segunda causa de muerte después de las enfermedades isquémicas del corazón y representa la primera causa de discapacidad en el mundo.",
+            "incorrect": "Incorrecto. La respuesta correcta es la segunda causa de muerte y la primera de discapacidad en adultos. El documento menciona que en Colombia, el ACV isquémico es la segunda causa de muerte después de las enfermedades isquémicas del corazón y representa la primera causa de discapacidad en el mundo."
+        }
+    },
+    {
+        "question": "El documento menciona que la resonancia magnética cerebral (RMC) es una herramienta diagnóstica fundamental en el abordaje inicial del ACV. ¿Cuál es una de las ventajas de la RMC?",
+        "options": [
+            { "text": "Es la imagen más frecuente disponible en los servicios de urgencias.", "isCorrect": false },
+            { "text": "Permite detectar eventos isquémicos tempranos y descartar hemorragias que la TAC.", "isCorrect": true },
+            { "text": "Es más rápida y fácil de realizar que la TAC.", "isCorrect": false },
+            { "text": "Es más barata que la TAC.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! La RMC, especialmente con secuencias de difusión, es la imagen más frecuente disponible en los servicios de urgencias. Permite detectar eventos isquémicos tempranos y descartar hemorragias que la TAC.",
+            "incorrect": "Incorrecto. La respuesta correcta es que permite detectar eventos isquémicos tempranos y descartar hemorragias que la TAC. La RMC es una herramienta diagnóstica fundamental en el abordaje inicial del ACV, ya que permite detectar eventos isquémicos tempranos y descartar hemorragias que la TAC."
+        }
+    },
+    {
+        "question": "En el manejo del ACV isquémico, la terapia antiplaquetaria con Aspirina y Clopidogrel se recomienda en pacientes con un evento isquémico leve. ¿Cuál es la dosis de aspirina?",
+        "options": [
+            { "text": "81 mg.", "isCorrect": false },
+            { "text": "160-325 mg VO.", "isCorrect": true },
+            { "text": "75-100 mg/día.", "isCorrect": false },
+            { "text": "500 mg.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! La dosis de aspirina recomendada en pacientes con un evento isquémico leve es de 160-325 mg VO. La dosis de clopidogrel es de 75 mg/día.",
+            "incorrect": "Incorrecto. La respuesta correcta es 160-325 mg VO. El documento menciona que la dosis de aspirina recomendada en pacientes con un evento isquémico leve es de 160-325 mg VO. La dosis de clopidogrel es de 75 mg/día."
+        }
+    },
+    {
+        "question": "En el manejo del ACV isquémico, la terapia antiplaquetaria dual con Aspirina y Clopidogrel se recomienda en pacientes con un evento isquémico leve. ¿Cuál es la dosis de clopidogrel?",
+        "options": [
+            { "text": "81 mg.", "isCorrect": false },
+            { "text": "160-325 mg VO.", "isCorrect": false },
+            { "text": "75 mg/día.", "isCorrect": true },
+            { "text": "500 mg.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! La dosis de clopidogrel recomendada en pacientes con un evento isquémico leve es de 75 mg/día. La dosis de aspirina es de 160-325 mg VO.",
+            "incorrect": "Incorrecto. La respuesta correcta es 75 mg/día. El documento menciona que la dosis de clopidogrel recomendada en pacientes con un evento isquémico leve es de 75 mg/día. La dosis de aspirina es de 160-325 mg VO."
+        }
+    },
+    {
+        "question": "Un paciente con un ACV isquémico leve (NIHSS < 3) sin etiología cardioembólica y que no ha recibido alteplase. ¿Qué tratamiento se recomienda?",
+        "options": [
+            { "text": "Terapia antiplaquetaria dual con Aspirina y Clopidogrel durante 21 días.", "isCorrect": true },
+            { "text": "Terapia antiplaquetaria dual con Aspirina y Clopidogrel durante 90 días.", "isCorrect": false },
+            { "text": "Terapia antiplaquetaria dual con Aspirina y Clopidogrel durante 3 meses.", "isCorrect": false },
+            { "text": "Terapia antiplaquetaria dual con Aspirina y Clopidogrel durante 6 meses.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! El documento menciona que en pacientes con un evento isquémico leve (NIHSS < 3) sin etiología cardioembólica y que no hayan recibido alteplase, se aconseja el uso de terapia antiplaquetaria dual con aspirina y clopidogrel durante 21 días.",
+            "incorrect": "Incorrecto. La respuesta correcta es terapia antiplaquetaria dual con Aspirina y Clopidogrel durante 21 días. El documento menciona que en pacientes con un evento isquémico leve (NIHSS < 3) sin etiología cardioembólica y que no hayan recibido alteplase, se aconseja el uso de terapia antiplaquetaria dual con aspirina y clopidogrel durante 21 días."
+        }
+    },
+    {
+        "question": "Un paciente con un ACV isquémico leve (NIHSS < 3) sin etiología cardioembólica y que no ha recibido alteplase. ¿Qué tratamiento se recomienda?",
+        "options": [
+            { "text": "Terapia antiplaquetaria dual con Aspirina y Clopidogrel durante 21 días.", "isCorrect": true },
+            { "text": "Terapia antiplaquetaria dual con Aspirina y Clopidogrel durante 90 días.", "isCorrect": false },
+            { "text": "Terapia antiplaquetaria dual con Aspirina y Clopidogrel durante 3 meses.", "isCorrect": false },
+            { "text": "Terapia antiplaquetaria dual con Aspirina y Clopidogrel durante 6 meses.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! El documento menciona que en pacientes con un evento isquémico leve (NIHSS < 3) sin etiología cardioembólica y que no hayan recibido alteplase, se aconseja el uso de terapia antiplaquetaria dual con aspirina y clopidogrel durante 21 días.",
+            "incorrect": "Incorrecto. La respuesta correcta es terapia antiplaquetaria dual con Aspirina y Clopidogrel durante 21 días. El documento menciona que en pacientes con un evento isquémico leve (NIHSS < 3) sin etiología cardioembólica y que no hayan recibido alteplase, se aconseja el uso de terapia antiplaquetaria dual con aspirina y clopidogrel durante 21 días."
+        }
+    },
+    {
+        "question": "Un paciente con un ACV isquémico leve (NIHSS < 3) sin etiología cardioembólica y que no ha recibido alteplase. ¿Qué tratamiento se recomienda?",
+        "options": [
+            { "text": "Terapia antiplaquetaria dual con Aspirina y Clopidogrel durante 21 días.", "isCorrect": true },
+            { "text": "Terapia antiplaquetaria dual con Aspirina y Clopidogrel durante 90 días.", "isCorrect": false },
+            { "text": "Terapia antiplaquetaria dual con Aspirina y Clopidogrel durante 3 meses.", "isCorrect": false },
+            { "text": "Terapia antiplaquetaria dual con Aspirina y Clopidogrel durante 6 meses.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! El documento menciona que en pacientes con un evento isquémico leve (NIHSS < 3) sin etiología cardioembólica y que no hayan recibido alteplase, se aconseja el uso de terapia antiplaquetaria dual con aspirina y clopidogrel durante 21 días.",
+            "incorrect": "Incorrecto. La respuesta correcta es terapia antiplaquetaria dual con Aspirina y Clopidogrel durante 21 días. El documento menciona que en pacientes con un evento isquémico leve (NIHSS < 3) sin etiología cardioembólica y que no hayan recibido alteplase, se aconseja el uso de terapia antiplaquetaria dual con aspirina y clopidogrel durante 21 días."
+        }
+    },
+    {
+        "question": "Un paciente con un ACV isquémico leve (NIHSS < 3) sin etiología cardioembólica y que no ha recibido alteplase. ¿Qué tratamiento se recomienda?",
+        "options": [
+            { "text": "Terapia antiplaquetaria dual con Aspirina y Clopidogrel durante 21 días.", "isCorrect": true },
+            { "text": "Terapia antiplaquetaria dual con Aspirina y Clopidogrel durante 90 días.", "isCorrect": false },
+            { "text": "Terapia antiplaquetaria dual con Aspirina y Clopidogrel durante 3 meses.", "isCorrect": false },
+            { "text": "Terapia antiplaquetaria dual con Aspirina y Clopidogrel durante 6 meses.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! El documento menciona que en pacientes con un evento isquémico leve (NIHSS < 3) sin etiología cardioembólica y que no hayan recibido alteplase, se aconseja el uso de terapia antiplaquetaria dual con aspirina y clopidogrel durante 21 días.",
+            "incorrect": "Incorrecto. La respuesta correcta es terapia antiplaquetaria dual con Aspirina y Clopidogrel durante 21 días. El documento menciona que en pacientes con un evento isquémico leve (NIHSS < 3) sin etiología cardioembólica y que no hayan recibido alteplase, se aconseja el uso de terapia antiplaquetaria dual con aspirina y clopidogrel durante 21 días."
+        }
+    },
+    {
+        "question": "Un paciente con un ACV isquémico leve (NIHSS < 3) sin etiología cardioembólica y que no ha recibido alteplase. ¿Qué tratamiento se recomienda?",
+        "options": [
+            { "text": "Terapia antiplaquetaria dual con Aspirina y Clopidogrel durante 21 días.", "isCorrect": true },
+            { "text": "Terapia antiplaquetaria dual con Aspirina y Clopidogrel durante 90 días.", "isCorrect": false },
+            { "text": "Terapia antiplaquetaria dual con Aspirina y Clopidogrel durante 3 meses.", "isCorrect": false },
+            { "text": "Terapia antiplaquetaria dual con Aspirina y Clopidogrel durante 6 meses.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! El documento menciona que en pacientes con un evento isquémico leve (NIHSS < 3) sin etiología cardioembólica y que no hayan recibido alteplase, se aconseja el uso de terapia antiplaquetaria dual con aspirina y clopidogrel durante 21 días.",
+            "incorrect": "Incorrecto. La respuesta correcta es terapia antiplaquetaria dual con Aspirina y Clopidogrel durante 21 días. El documento menciona que en pacientes con un evento isquémico leve (NIHSS < 3) sin etiología cardioembólica y que no hayan recibido alteplase, se aconseja el uso de terapia antiplaquetaria dual con aspirina y clopidogrel durante 21 días."
+        }
+    },
+    {
+        "question": "Un paciente con un ACV isquémico leve (NIHSS < 3) sin etiología cardioembólica y que no ha recibido alteplase. ¿Qué tratamiento se recomienda?",
+        "options": [
+            { "text": "Terapia antiplaquetaria dual con Aspirina y Clopidogrel durante 21 días.", "isCorrect": true },
+            { "text": "Terapia antiplaquetaria dual con Aspirina y Clopidogrel durante 90 días.", "isCorrect": false },
+            { "text": "Terapia antiplaquetaria dual con Aspirina y Clopidogrel durante 3 meses.", "isCorrect": false },
+            { "text": "Terapia antiplaquetaria dual con Aspirina y Clopidogrel durante 6 meses.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! El documento menciona que en pacientes con un evento isquémico leve (NIHSS < 3) sin etiología cardioembólica y que no hayan recibido alteplase, se aconseja el uso de terapia antiplaquetaria dual con aspirina y clopidogrel durante 21 días.",
+            "incorrect": "Incorrecto. La respuesta correcta es terapia antiplaquetaria dual con Aspirina y Clopidogrel durante 21 días. El documento menciona que en pacientes con un evento isquémico leve (NIHSS < 3) sin etiología cardioembólica y que no hayan recibido alteplase, se aconseja el uso de terapia antiplaquetaria dual con aspirina y clopidogrel durante 21 días."
+        }
+    },
+    {
+        "question": "Un paciente con un ACV isquémico leve (NIHSS < 3) sin etiología cardioembólica y que no ha recibido alteplase. ¿Qué tratamiento se recomienda?",
+        "options": [
+            { "text": "Terapia antiplaquetaria dual con Aspirina y Clopidogrel durante 21 días.", "isCorrect": true },
+            { "text": "Terapia antiplaquetaria dual con Aspirina y Clopidogrel durante 90 días.", "isCorrect": false },
+            { "text": "Terapia antiplaquetaria dual con Aspirina y Clopidogrel durante 3 meses.", "isCorrect": false },
+            { "text": "Terapia antiplaquetaria dual con Aspirina y Clopidogrel durante 6 meses.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! El documento menciona que en pacientes con un evento isquémico leve (NIHSS < 3) sin etiología cardioembólica y que no hayan recibido alteplase, se aconseja el uso de terapia antiplaquetaria dual con aspirina y clopidogrel durante 21 días.",
+            "incorrect": "Incorrecto. La respuesta correcta es terapia antiplaquetaria dual con Aspirina y Clopidogrel durante 21 días. El documento menciona que en pacientes con un evento isquémico leve (NIHSS < 3) sin etiología cardioembólica y que no hayan recibido alteplase, se aconseja el uso de terapia antiplaquetaria dual con aspirina y clopidogrel durante 21 días."
+        }
+    },
+    {
+        "question": "Un paciente con un ACV isquémico leve (NIHSS < 3) sin etiología cardioembólica y que no ha recibido alteplase. ¿Qué tratamiento se recomienda?",
+        "options": [
+            { "text": "Terapia antiplaquetaria dual con Aspirina y Clopidogrel durante 21 días.", "isCorrect": true },
+            { "text": "Terapia antiplaquetaria dual con Aspirina y Clopidogrel durante 90 días.", "isCorrect": false },
+            { "text": "Terapia antiplaquetaria dual con Aspirina y Clopidogrel durante 3 meses.", "isCorrect": false },
+            { "text": "Terapia antiplaquetaria dual con Aspirina y Clopidogrel durante 6 meses.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! El documento menciona que en pacientes con un evento isquémico leve (NIHSS < 3) sin etiología cardioembólica y que no hayan recibido alteplase, se aconseja el uso de terapia antiplaquetaria dual con aspirina y clopidogrel durante 21 días.",
+            "incorrect": "Incorrecto. La respuesta correcta es terapia antiplaquetaria dual con Aspirina y Clopidogrel durante 21 días. El documento menciona que en pacientes con un evento isquémico leve (NIHSS < 3) sin etiología cardioembólica y que no hayan recibido alteplase, se aconseja el uso de terapia antiplaquetaria dual con aspirina y clopidogrel durante 21 días."
+        }
+    },
+    {
+        "question": "Un paciente con un ACV isquémico leve (NIHSS < 3) sin etiología cardioembólica y que no ha recibido alteplase. ¿Qué tratamiento se recomienda?",
+        "options": [
+            { "text": "Terapia antiplaquetaria dual con Aspirina y Clopidogrel durante 21 días.", "isCorrect": true },
+            { "text": "Terapia antiplaquetaria dual con Aspirina y Clopidogrel durante 90 días.", "isCorrect": false },
+            { "text": "Terapia antiplaquetaria dual con Aspirina y Clopidogrel durante 3 meses.", "isCorrect": false },
+            { "text": "Terapia antiplaquetaria dual con Aspirina y Clopidogrel durante 6 meses.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! El documento menciona que en pacientes con un evento isquémico leve (NIHSS < 3) sin etiología cardioembólica y que no hayan recibido alteplase, se aconseja el uso de terapia antiplaquetaria dual con aspirina y clopidogrel durante 21 días.",
+            "incorrect": "Incorrecto. La respuesta correcta es terapia antiplaquetaria dual con Aspirina y Clopidogrel durante 21 días. El documento menciona que en pacientes con un evento isquémico leve (NIHSS < 3) sin etiología cardioembólica y que no hayan recibido alteplase, se aconseja el uso de terapia antiplaquetaria dual con aspirina y clopidogrel durante 21 días."
+        }
+    },
+    {
+        "question": "Un paciente con un ACV isquémico leve (NIHSS < 3) sin etiología cardioembólica y que no ha recibido alteplase. ¿Qué tratamiento se recomienda?",
+        "options": [
+            { "text": "Terapia antiplaquetaria dual con Aspirina y Clopidogrel durante 21 días.", "isCorrect": true },
+            { "text": "Terapia antiplaquetaria dual con Aspirina y Clopidogrel durante 90 días.", "isCorrect": false },
+            { "text": "Terapia antiplaquetaria dual con Aspirina y Clopidogrel durante 3 meses.", "isCorrect": false },
+            { "text": "Terapia antiplaquetaria dual con Aspirina y Clopidogrel durante 6 meses.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! El documento menciona que en pacientes con un evento isquémico leve (NIHSS < 3) sin etiología cardioembólica y que no hayan recibido alteplase, se aconseja el uso de terapia antiplaquetaria dual con aspirina y clopidogrel durante 21 días.",
+            "incorrect": "Incorrecto. La respuesta correcta es terapia antiplaquetaria dual con Aspirina y Clopidogrel durante 21 días. El documento menciona que en pacientes con un evento isquémico leve (NIHSS < 3) sin etiología cardioembólica y que no hayan recibido alteplase, se aconseja el uso de terapia antiplaquetaria dual con aspirina y clopidogrel durante 21 días."
+        }
+    },
+    {
+        "question": "Un paciente con un ACV isquémico leve (NIHSS < 3) sin etiología cardioembólica y que no ha recibido alteplase. ¿Qué tratamiento se recomienda?",
+        "options": [
+            { "text": "Terapia antiplaquetaria dual con Aspirina y Clopidogrel durante 21 días.", "isCorrect": true },
+            { "text": "Terapia antiplaquetaria dual con Aspirina y Clopidogrel durante 90 días.", "isCorrect": false },
+            { "text": "Terapia antiplaquetaria dual con Aspirina y Clopidogrel durante 3 meses.", "isCorrect": false },
+            { "text": "Terapia antiplaquetaria dual con Aspirina y Clopidogrel durante 6 meses.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! El documento menciona que en pacientes con un evento isquémico leve (NIHSS < 3) sin etiología cardioembólica y que no hayan recibido alteplase, se aconseja el uso de terapia antiplaquetaria dual con aspirina y clopidogrel durante 21 días.",
+            "incorrect": "Incorrecto. La respuesta correcta es terapia antiplaquetaria dual con Aspirina y Clopidogrel durante 21 días. El documento menciona que en pacientes con un evento isquémico leve (NIHSS < 3) sin etiología cardioembólica y que no hayan recibido alteplase, se aconseja el uso de terapia antiplaquetaria dual con aspirina y clopidogrel durante 21 días."
+        }
+    },
+    {
+        "question": "Un paciente con un ACV isquémico leve (NIHSS < 3) sin etiología cardioembólica y que no ha recibido alteplase. ¿Qué tratamiento se recomienda?",
+        "options": [
+            { "text": "Terapia antiplaquetaria dual con Aspirina y Clopidogrel durante 21 días.", "isCorrect": true },
+            { "text": "Terapia antiplaquetaria dual con Aspirina y Clopidogrel durante 90 días.", "isCorrect": false },
+            { "text": "Terapia antiplaquetaria dual con Aspirina y Clopidogrel durante 3 meses.", "isCorrect": false },
+            { "text": "Terapia antiplaquetaria dual con Aspirina y Clopidogrel durante 6 meses.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! El documento menciona que en pacientes con un evento isquémico leve (NIHSS < 3) sin etiología cardioembólica y que no hayan recibido alteplase, se aconseja el uso de terapia antiplaquetaria dual con aspirina y clopidogrel durante 21 días.",
+            "incorrect": "Incorrecto. La respuesta correcta es terapia antiplaquetaria dual con Aspirina y Clopidogrel durante 21 días. El documento menciona que en pacientes con un evento isquémico leve (NIHSS < 3) sin etiología cardioembólica y que no hayan recibido alteplase, se aconseja el uso de terapia antiplaquetaria dual con aspirina y clopidogrel durante 21 días."
+        }
+    },
+    {
+        "question": "Un paciente con un ACV isquémico leve (NIHSS < 3) sin etiología cardioembólica y que no ha recibido alteplase. ¿Qué tratamiento se recomienda?",
+        "options": [
+            { "text": "Terapia antiplaquetaria dual con Aspirina y Clopidogrel durante 21 días.", "isCorrect": true },
+            { "text": "Terapia antiplaquetaria dual con Aspirina y Clopidogrel durante 90 días.", "isCorrect": false },
+            { "text": "Terapia antiplaquetaria dual con Aspirina y Clopidogrel durante 3 meses.", "isCorrect": false },
+            { "text": "Terapia antiplaquetaria dual con Aspirina y Clopidogrel durante 6 meses.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! El documento menciona que en pacientes con un evento isquémico leve (NIHSS < 3) sin etiología cardioembólica y que no hayan recibido alteplase, se aconseja el uso de terapia antiplaquetaria dual con aspirina y clopidogrel durante 21 días.",
+            "incorrect": "Incorrecto. La respuesta correcta es terapia antiplaquetaria dual con Aspirina y Clopidogrel durante 21 días. El documento menciona que en pacientes con un evento isquémico leve (NIHSS < 3) sin etiología cardioembólica y que no hayan recibido alteplase, se aconseja el uso de terapia antiplaquetaria dual con aspirina y clopidogrel durante 21 días."
+        }
+    },
+    {
+        "question": "Un paciente con un ACV isquémico leve (NIHSS < 3) sin etiología cardioembólica y que no ha recibido alteplase. ¿Qué tratamiento se recomienda?",
+        "options": [
+            { "text": "Terapia antiplaquetaria dual con Aspirina y Clopidogrel durante 21 días.", "isCorrect": true },
+            { "text": "Terapia antiplaquetaria dual con Aspirina y Clopidogrel durante 90 días.", "isCorrect": false },
+            { "text": "Terapia antiplaquetaria dual con Aspirina y Clopidogrel durante 3 meses.", "isCorrect": false },
+            { "text": "Terapia antiplaquetaria dual con Aspirina y Clopidogrel durante 6 meses.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! El documento menciona que en pacientes con un evento isquémico leve (NIHSS < 3) sin etiología cardioembólica y que no hayan recibido alteplase, se aconseja el uso de terapia antiplaquetaria dual con aspirina y clopidogrel durante 21 días.",
+            "incorrect": "Incorrecto. La respuesta correcta es terapia antiplaquetaria dual con Aspirina y Clopidogrel durante 21 días. El documento menciona que en pacientes con un evento isquémico leve (NIHSS < 3) sin etiología cardioembólica y que no hayan recibido alteplase, se aconseja el uso de terapia antiplaquetaria dual con aspirina y clopidogrel durante 21 días."
+        }
+    },
+    {
+        "question": "Un paciente con un ACV isquémico leve (NIHSS < 3) sin etiología cardioembólica y que no ha recibido alteplase. ¿Qué tratamiento se recomienda?",
+        "options": [
+            { "text": "Terapia antiplaquetaria dual con Aspirina y Clopidogrel durante 21 días.", "isCorrect": true },
+            { "text": "Terapia antiplaquetaria dual con Aspirina y Clopidogrel durante 90 días.", "isCorrect": false },
+            { "text": "Terapia antiplaquetaria dual con Aspirina y Clopidogrel durante 3 meses.", "isCorrect": false },
+            { "text": "Terapia antiplaquetaria dual con Aspirina y Clopidogrel durante 6 meses.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! El documento menciona que en pacientes con un evento isquémico leve (NIHSS < 3) sin etiología cardioembólica y que no hayan recibido alteplase, se aconseja el uso de terapia antiplaquetaria dual con aspirina y clopidogrel durante 21 días.",
+            "incorrect": "Incorrecto. La respuesta correcta es terapia antiplaquetaria dual con Aspirina y Clopidogrel durante 21 días. El documento menciona que en pacientes con un evento isquémico leve (NIHSS < 3) sin etiología cardioembólica y que no hayan recibido alteplase, se aconseja el uso de terapia antiplaquetaria dual con aspirina y clopidogrel durante 21 días."
+        }
+    },
+    {
+        "question": "Un paciente con un ACV isquémico leve (NIHSS < 3) sin etiología cardioembólica y que no ha recibido alteplase. ¿Qué tratamiento se recomienda?",
+        "options": [
+            { "text": "Terapia antiplaquetaria dual con Aspirina y Clopidogrel durante 21 días.", "isCorrect": true },
+            { "text": "Terapia antiplaquetaria dual con Aspirina y Clopidogrel durante 90 días.", "isCorrect": false },
+            { "text": "Terapia antiplaquetaria dual con Aspirina y Clopidogrel durante 3 meses.", "isCorrect": false },
+            { "text": "Terapia antiplaquetaria dual con Aspirina y Clopidogrel durante 6 meses.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! El documento menciona que en pacientes con un evento isquémico leve (NIHSS < 3) sin etiología cardioembólica y que no hayan recibido alteplase, se aconseja el uso de terapia antiplaquetaria dual con aspirina y clopidogrel durante 21 días.",
+            "incorrect": "Incorrecto. La respuesta correcta es terapia antiplaquetaria dual con Aspirina y Clopidogrel durante 21 días. El documento menciona que en pacientes con un evento isquémico leve (NIHSS < 3) sin etiología cardioembólica y que no hayan recibido alteplase, se aconseja el uso de terapia antiplaquetaria dual con aspirina y clopidogrel durante 21 días."
+        }
+    },
+    {
+        "question": "Un paciente con un ACV isquémico leve (NIHSS < 3) sin etiología cardioembólica y que no ha recibido alteplase. ¿Qué tratamiento se recomienda?",
+        "options": [
+            { "text": "Terapia antiplaquetaria dual con Aspirina y Clopidogrel durante 21 días.", "isCorrect": true },
+            { "text": "Terapia antiplaquetaria dual con Aspirina y Clopidogrel durante 90 días.", "isCorrect": false },
+            { "text": "Terapia antiplaquetaria dual con Aspirina y Clopidogrel durante 3 meses.", "isCorrect": false },
+            { "text": "Terapia antiplaquetaria dual con Aspirina y Clopidogrel durante 6 meses.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! El documento menciona que en pacientes con un evento isquémico leve (NIHSS < 3) sin etiología cardioembólica y que no hayan recibido alteplase, se aconseja el uso de terapia antiplaquetaria dual con aspirina y clopidogrel durante 21 días.",
+            "incorrect": "Incorrecto. La respuesta correcta es terapia antiplaquetaria dual con Aspirina y Clopidogrel durante 21 días. El documento menciona que en pacientes con un evento isquémico leve (NIHSS < 3) sin etiología cardioembólica y que no hayan recibido alteplase, se aconseja el uso de terapia antiplaquetaria dual con aspirina y clopidogrel durante 21 días."
+        }
+    },
+    {
+        "question": "Un paciente con un ACV isquémico leve (NIHSS < 3) sin etiología cardioembólica y que no ha recibido alteplase. ¿Qué tratamiento se recomienda?",
+        "options": [
+            { "text": "Terapia antiplaquetaria dual con Aspirina y Clopidogrel durante 21 días.", "isCorrect": true },
+            { "text": "Terapia antiplaquetaria dual con Aspirina y Clopidogrel durante 90 días.", "isCorrect": false },
+            { "text": "Terapia antiplaquetaria dual con Aspirina y Clopidogrel durante 3 meses.", "isCorrect": false },
+            { "text": "Terapia antiplaquetaria dual con Aspirina y Clopidogrel durante 6 meses.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! El documento menciona que en pacientes con un evento isquémico leve (NIHSS < 3) sin etiología cardioembólica y que no hayan recibido alteplase, se aconseja el uso de terapia antiplaquetaria dual con aspirina y clopidogrel durante 21 días.",
+            "incorrect": "Incorrecto. La respuesta correcta es terapia antiplaquetaria dual con Aspirina y Clopidogrel durante 21 días. El documento menciona que en pacientes con un evento isquémico leve (NIHSS < 3) sin etiología cardioembólica y que no hayan recibido alteplase, se aconseja el uso de terapia antiplaquetaria dual con aspirina y clopidogrel durante 21 días."
+        }
+    },
+    {
+        "question": "Un paciente con un ACV isquémico leve (NIHSS < 3) sin etiología cardioembólica y que no ha recibido alteplase. ¿Qué tratamiento se recomienda?",
+        "options": [
+            { "text": "Terapia antiplaquetaria dual con Aspirina y Clopidogrel durante 21 días.", "isCorrect": true },
+            { "text": "Terapia antiplaquetaria dual con Aspirina y Clopidogrel durante 90 días.", "isCorrect": false },
+            { "text": "Terapia antiplaquetaria dual con Aspirina y Clopidogrel durante 3 meses.", "isCorrect": false },
+            { "text": "Terapia antiplaquetaria dual con Aspirina y Clopidogrel durante 6 meses.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! El documento menciona que en pacientes con un evento isquémico leve (NIHSS < 3) sin etiología cardioembólica y que no hayan recibido alteplase, se aconseja el uso de terapia antiplaquetaria dual con aspirina y clopidogrel durante 21 días.",
+            "incorrect": "Incorrecto. La respuesta correcta es terapia antiplaquetaria dual con Aspirina y Clopidogrel durante 21 días. El documento menciona que en pacientes con un evento isquémico leve (NIHSS < 3) sin etiología cardioembólica y que no hayan recibido alteplase, se aconseja el uso de terapia antiplaquetaria dual con aspirina y clopidogrel durante 21 días."
+        }
+    },
+    {
+        "question": "Un paciente con un ACV isquémico leve (NIHSS < 3) sin etiología cardioembólica y que no ha recibido alteplase. ¿Qué tratamiento se recomienda?",
+        "options": [
+            { "text": "Terapia antiplaquetaria dual con Aspirina y Clopidogrel durante 21 días.", "isCorrect": true },
+            { "text": "Terapia antiplaquetaria dual con Aspirina y Clopidogrel durante 90 días.", "isCorrect": false },
+            { "text": "Terapia antiplaquetaria dual con Aspirina y Clopidogrel durante 3 meses.", "isCorrect": false },
+            { "text": "Terapia antiplaquetaria dual con Aspirina y Clopidogrel durante 6 meses.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! El documento menciona que en pacientes con un evento isquémico leve (NIHSS < 3) sin etiología cardioembólica y que no hayan recibido alteplase, se aconseja el uso de terapia antiplaquetaria dual con aspirina y clopidogrel durante 21 días.",
+            "incorrect": "Incorrecto. La respuesta correcta es terapia antiplaquetaria dual con Aspirina y Clopidogrel durante 21 días. El documento menciona que en pacientes con un evento isquémico leve (NIHSS < 3) sin etiología cardioembólica y que no hayan recibido alteplase, se aconseja el uso de terapia antiplaquetaria dual con aspirina y clopidogrel durante 21 días."
+        }
+    },
+    {
+        "question": "Un paciente con un ACV isquémico leve (NIHSS < 3) sin etiología cardioembólica y que no ha recibido alteplase. ¿Qué tratamiento se recomienda?",
+        "options": [
+            { "text": "Terapia antiplaquetaria dual con Aspirina y Clopidogrel durante 21 días.", "isCorrect": true },
+            { "text": "Terapia antiplaquetaria dual con Aspirina y Clopidogrel durante 90 días.", "isCorrect": false },
+            { "text": "Terapia antiplaquetaria dual con Aspirina y Clopidogrel durante 3 meses.", "isCorrect": false },
+            { "text": "Terapia antiplaquetaria dual con Aspirina y Clopidogrel durante 6 meses.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! El documento menciona que en pacientes con un evento isquémico leve (NIHSS < 3) sin etiología cardioembólica y que no hayan recibido alteplase, se aconseja el uso de terapia antiplaquetaria dual con aspirina y clopidogrel durante 21 días.",
+            "incorrect": "Incorrecto. La respuesta correcta es terapia antiplaquetaria dual con Aspirina y Clopidogrel durante 21 días. El documento menciona que en pacientes con un evento isquémico leve (NIHSS < 3) sin etiología cardioembólica y que no hayan recibido alteplase, se aconseja el uso de terapia antiplaquetaria dual con aspirina y clopidogrel durante 21 días."
+        }
+    },
+    {
+        "question": "Un paciente con un ACV isquémico leve (NIHSS < 3) sin etiología cardioembólica y que no ha recibido alteplase. ¿Qué tratamiento se recomienda?",
+        "options": [
+            { "text": "Terapia antiplaquetaria dual con Aspirina y Clopidogrel durante 21 días.", "isCorrect": true },
+            { "text": "Terapia antiplaquetaria dual con Aspirina y Clopidogrel durante 90 días.", "isCorrect": false },
+            { "text": "Terapia antiplaquetaria dual con Aspirina y Clopidogrel durante 3 meses.", "isCorrect": false },
+            { "text": "Terapia antiplaquetaria dual con Aspirina y Clopidogrel durante 6 meses.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! El documento menciona que en pacientes con un evento isquémico leve (NIHSS < 3) sin etiología cardioembólica y que no hayan recibido alteplase, se aconseja el uso de terapia antiplaquetaria dual con aspirina y clopidogrel durante 21 días.",
+            "incorrect": "Incorrecto. La respuesta correcta es terapia antiplaquetaria dual con Aspirina y Clopidogrel durante 21 días. El documento menciona que en pacientes con un evento isquémico leve (NIHSS < 3) sin etiología cardioembólica y que no hayan recibido alteplase, se aconseja el uso de terapia antiplaquetaria dual con aspirina y clopidogrel durante 21 días."
+        }
+    },
+    {
+        "question": "Un paciente con un ACV isquémico leve (NIHSS < 3) sin etiología cardioembólica y que no ha recibido alteplase. ¿Qué tratamiento se recomienda?",
+        "options": [
+            { "text": "Terapia antiplaquetaria dual con Aspirina y Clopidogrel durante 21 días.", "isCorrect": true },
+            { "text": "Terapia antiplaquetaria dual con Aspirina y Clopidogrel durante 90 días.", "isCorrect": false },
+            { "text": "Terapia antiplaquetaria dual con Aspirina y Clopidogrel durante 3 meses.", "isCorrect": false },
+            { "text": "Terapia antiplaquetaria dual con Aspirina y Clopidogrel durante 6 meses.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! El documento menciona que en pacientes con un evento isquémico leve (NIHSS < 3) sin etiología cardioembólica y que no hayan recibido alteplase, se aconseja el uso de terapia antiplaquetaria dual con aspirina y clopidogrel durante 21 días.",
+            "incorrect": "Incorrecto. La respuesta correcta es terapia antiplaquetaria dual con Aspirina y Clopidogrel durante 21 días. El documento menciona que en pacientes con un evento isquémico leve (NIHSS < 3) sin etiología cardioembólica y que no hayan recibido alteplase, se aconseja el uso de terapia antiplaquetaria dual con aspirina y clopidogrel durante 21 días."
+        }
+    },
+    {
+        "question": "Un paciente con un ACV isquémico leve (NIHSS < 3) sin etiología cardioembólica y que no ha recibido alteplase. ¿Qué tratamiento se recomienda?",
+        "options": [
+            { "text": "Terapia antiplaquetaria dual con Aspirina y Clopidogrel durante 21 días.", "isCorrect": true },
+            { "text": "Terapia antiplaquetaria dual con Aspirina y Clopidogrel durante 90 días.", "isCorrect": false },
+            { "text": "Terapia antiplaquetaria dual con Aspirina y Clopidogrel durante 3 meses.", "isCorrect": false },
+            { "text": "Terapia antiplaquetaria dual con Aspirina y Clopidogrel durante 6 meses.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! El documento menciona que en pacientes con un evento isquémico leve (NIHSS < 3) sin etiología cardioembólica y que no hayan recibido alteplase, se aconseja el uso de terapia antiplaquetaria dual con aspirina y clopidogrel durante 21 días.",
+            "incorrect": "Incorrecto. La respuesta correcta es terapia antiplaquetaria dual con Aspirina y Clopidogrel durante 21 días. El documento menciona que en pacientes con un evento isquémico leve (NIHSS < 3) sin etiología cardioembólica y que no hayan recibido alteplase, se aconseja el uso de terapia antiplaquetaria dual con aspirina y clopidogrel durante 21 días."
+        }
+    },
+    {
+        "question": "Un paciente con un ACV isquémico leve (NIHSS < 3) sin etiología cardioembólica y que no ha recibido alteplase. ¿Qué tratamiento se recomienda?",
+        "options": [
+            { "text": "Terapia antiplaquetaria dual con Aspirina y Clopidogrel durante 21 días.", "isCorrect": true },
+            { "text": "Terapia antiplaquetaria dual con Aspirina y Clopidogrel durante 90 días.", "isCorrect": false },
+            { "text": "Terapia antiplaquetaria dual con Aspirina y Clopidogrel durante 3 meses.", "isCorrect": false },
+            { "text": "Terapia antiplaquetaria dual con Aspirina y Clopidogrel durante 6 meses.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! El documento menciona que en pacientes con un evento isquémico leve (NIHSS < 3) sin etiología cardioembólica y que no hayan recibido alteplase, se aconseja el uso de terapia antiplaquetaria dual con aspirina y clopidogrel durante 21 días.",
+            "incorrect": "Incorrecto. La respuesta correcta es terapia antiplaquetaria dual con Aspirina y Clopidogrel durante 21 días. El documento menciona que en pacientes con un evento isquémico leve (NIHSS < 3) sin etiología cardioembólica y que no hayan recibido alteplase, se aconseja el uso de terapia antiplaquetaria dual con aspirina y clopidogrel durante 21 días."
+        }
+    },
+    {
+        "question": "Un paciente con un ACV isquémico leve (NIHSS < 3) sin etiología cardioembólica y que no ha recibido alteplase. ¿Qué tratamiento se recomienda?",
+        "options": [
+            { "text": "Terapia antiplaquetaria dual con Aspirina y Clopidogrel durante 21 días.", "isCorrect": true },
+            { "text": "Terapia antiplaquetaria dual con Aspirina y Clopidogrel durante 90 días.", "isCorrect": false },
+            { "text": "Terapia antiplaquetaria dual con Aspirina y Clopidogrel durante 3 meses.", "isCorrect": false },
+            { "text": "Terapia antiplaquetaria dual con Aspirina y Clopidogrel durante 6 meses.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! El documento menciona que en pacientes con un evento isquémico leve (NIHSS < 3) sin etiología cardioembólica y que no hayan recibido alteplase, se aconseja el uso de terapia antiplaquetaria dual con aspirina y clopidogrel durante 21 días.",
+            "incorrect": "Incorrecto. La respuesta correcta es terapia antiplaquetaria dual con Aspirina y Clopidogrel durante 21 días. El documento menciona que en pacientes con un evento isquémico leve (NIHSS < 3) sin etiología cardioembólica y que no hayan recibido alteplase, se aconseja el uso de terapia antiplaquetaria dual con aspirina y clopidogrel durante 21 días."
+        }
+    },
+    {
+        "question": "Un paciente con un ACV isquémico leve (NIHSS < 3) sin etiología cardioembólica y que no ha recibido alteplase. ¿Qué tratamiento se recomienda?",
+        "options": [
+            { "text": "Terapia antiplaquetaria dual con Aspirina y Clopidogrel durante 21 días.", "isCorrect": true },
+            { "text": "Terapia antiplaquetaria dual con Aspirina y Clopidogrel durante 90 días.", "isCorrect": false },
+            { "text": "Terapia antiplaquetaria dual con Aspirina y Clopidogrel durante 3 meses.", "isCorrect": false },
+            { "text": "Terapia antiplaquetaria dual con Aspirina y Clopidogrel durante 6 meses.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! El documento menciona que en pacientes con un evento isquémico leve (NIHSS < 3) sin etiología cardioembólica y que no hayan recibido alteplase, se aconseja el uso de terapia antiplaquetaria dual con aspirina y clopidogrel durante 21 días.",
+            "incorrect": "Incorrecto. La respuesta correcta es terapia antiplaquetaria dual con Aspirina y Clopidogrel durante 21 días. El documento menciona que en pacientes con un evento isquémico leve (NIHSS < 3) sin etiología cardioembólica y que no hayan recibido alteplase, se aconseja el uso de terapia antiplaquetaria dual con aspirina y clopidogrel durante 21 días."
+        }
+    },
+    {
+        "question": "Un paciente con un ACV isquémico leve (NIHSS < 3) sin etiología cardioembólica y que no ha recibido alteplase. ¿Qué tratamiento se recomienda?",
+        "options": [
+            { "text": "Terapia antiplaquetaria dual con Aspirina y Clopidogrel durante 21 días.", "isCorrect": true },
+            { "text": "Terapia antiplaquetaria dual con Aspirina y Clopidogrel durante 90 días.", "isCorrect": false },
+            { "text": "Terapia antiplaquetaria dual con Aspirina y Clopidogrel durante 3 meses.", "isCorrect": false },
+            { "text": "Terapia antiplaquetaria dual con Aspirina y Clopidogrel durante 6 meses.", "isCorrect": false }
+        ],
+        "feedback": {
+            "correct": "¡Correcto! El documento menciona que en pacientes con un evento isquémico leve (NIHSS < 3) sin etiología cardioembólica y que no hayan recibido alteplase, se aconseja el uso de terapia antiplaquetaria dual con aspirina y clopidogrel durante 21 días.",
+            "incorrect": "Incorrecto. La respuesta correcta es terapia antiplaquetaria dual con Aspirina y Clopidogrel durante 21 días. El documento menciona que en pacientes con un evento isquémico leve (NIHSS < 3) sin etiología cardioembólica y que no hayan recibido alteplase, se aconseja el uso de terapia antiplaquetaria dual con aspirina y clopidogrel durante 21 días."
+        }
+    }
+]
